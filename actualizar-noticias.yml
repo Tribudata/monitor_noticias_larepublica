@@ -32,7 +32,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Extraer titulares
-        run: python scraper/scrape.py
+        run: python scrape.py
 
       - name: Publicar cambios
         run: |
