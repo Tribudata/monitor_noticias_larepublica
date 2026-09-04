@@ -1,9 +1,15 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-04T12:51:08-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-04T14:43:35-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Carf advirtió que la deuda neta llegaría a 67,3% del PIB el próximo año",
+        "url": "https://www.larepublica.co/economia/el-carf-advirtio-que-la-deuda-neta-llegaria-a-67-3-del-pib-el-proximo-ano-4474750",
+        "fecha_portada": "",
+        "capturado": "2026-09-04T14:43:35-05:00"
+      },
       {
         "titulo": "Conozca cuáles son los empresarios más influyentes en América Latina durante 2026",
         "url": "https://www.larepublica.co/alta-gerencia/conozca-cuales-son-los-empresarios-mas-influyentes-en-america-latina-durante-2026-4474365",
@@ -49,7 +55,7 @@
     ],
     "Bolsas": [
       {
-        "titulo": "El precio dólar cotiza en $3.126,90, una caída de $14,46 respecto a la TRM de $3.141,36",
+        "titulo": "El precio dólar cerró en $3.126,17, una caída de $15,19 respecto a la TRM de $3.141,36",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-3-de-septiembre-4474359",
         "fecha_portada": "",
         "capturado": "2026-09-04T12:51:08-05:00"
