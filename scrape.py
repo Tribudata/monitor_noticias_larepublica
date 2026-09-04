@@ -23,7 +23,7 @@ ETIQUETAS = ["Hacienda", "Bolsas"]
 MAX_POR_ETIQUETA = 60          # cuántos titulares conserva el histórico
 DIAS_RETENCION = 30            # descarta lo más viejo que esto
 
-SALIDA = Path(__file__).resolve().parent / "data" / "noticias.json"
+SALIDA = Path(__file__).resolve().parent.parent / "data" / "noticias.json"
 BOGOTA = timezone(timedelta(hours=-5))
 
 CABECERAS = {
