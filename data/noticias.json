@@ -1,11 +1,17 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-04T14:43:35-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-04T16:53:12-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
       {
-        "titulo": "El Carf advirtió que la deuda neta llegaría a 67,3% del PIB el próximo año",
+        "titulo": "Araújo y Gaona asumieron como embajadores de Colombia en EE.UU. y ante la ONU",
+        "url": "https://www.larepublica.co/economia/araujo-y-gaona-asumieron-como-embajadores-de-colombia-en-ee-uu-y-ante-la-onu-4474895",
+        "fecha_portada": "04/09/2026",
+        "capturado": "2026-09-04T16:53:12-05:00"
+      },
+      {
+        "titulo": "El Carf advirtió que la deuda neta del GNC llegaría hasta 67,3% del PIB el próximo año",
         "url": "https://www.larepublica.co/economia/el-carf-advirtio-que-la-deuda-neta-llegaria-a-67-3-del-pib-el-proximo-ano-4474750",
         "fecha_portada": "",
         "capturado": "2026-09-04T14:43:35-05:00"
@@ -54,6 +60,12 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Grupo Sura pondrá a consideración programa de readquisición de acciones el próximo Jueves",
+        "url": "https://www.larepublica.co/finanzas/grupo-sura-considerara-autorizacion-de-programa-de-readquisicion-4474618",
+        "fecha_portada": "04/09/2026",
+        "capturado": "2026-09-04T16:53:12-05:00"
+      },
       {
         "titulo": "El precio dólar cerró en $3.126,17, una caída de $15,19 respecto a la TRM de $3.141,36",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-3-de-septiembre-4474359",
