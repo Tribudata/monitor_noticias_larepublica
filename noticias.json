@@ -1,0 +1,41 @@
+{
+  "fuente": "https://www.larepublica.co/",
+  "actualizado": "2026-09-04T11:58:36-05:00",
+  "nuevos_en_esta_corrida": 5,
+  "etiquetas": {
+    "Hacienda": [
+      {
+        "titulo": "Conozca cuáles son los empresarios más influyentes",
+        "url": "https://www.larepublica.co/alta-gerencia/conozca-4474365",
+        "fecha_portada": "",
+        "capturado": "2026-09-04T11:58:36-05:00"
+      },
+      {
+        "titulo": "Analistas anticipan inflación de 6,10%",
+        "url": "https://www.larepublica.co/economia/inflacion-4474142",
+        "fecha_portada": "04/09/2026",
+        "capturado": "2026-09-04T11:58:36-05:00"
+      }
+    ],
+    "Bolsas": [
+      {
+        "titulo": "El precio dólar cotiza en $3.138,08",
+        "url": "https://www.larepublica.co/finanzas/precio-dolar-4474359",
+        "fecha_portada": "",
+        "capturado": "2026-09-04T11:58:36-05:00"
+      },
+      {
+        "titulo": "El oro se mantiene estable",
+        "url": "https://www.larepublica.co/finanzas/oro-4474325",
+        "fecha_portada": "",
+        "capturado": "2026-09-04T11:58:36-05:00"
+      },
+      {
+        "titulo": "Acciones y bonos caen ante apuestas de alza de la Fed",
+        "url": "https://www.larepublica.co/globoeconomia/bolsas-4474522",
+        "fecha_portada": "04/09/2026",
+        "capturado": "2026-09-04T11:58:36-05:00"
+      }
+    ]
+  }
+}
