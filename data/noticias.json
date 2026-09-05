@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-05T13:26:05-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-05T15:30:53-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El mandatario Abelardo de la Espriella comunicó la asignación de recursos para reconstruir Buga",
+        "url": "https://www.larepublica.co/economia/el-presidente-abelardo-de-la-espriella-anuncio-inversiones-para-la-reconstruccion-de-buga-4475442",
+        "fecha_portada": "05/09/2026",
+        "titulo_fuente": "El presidente Abelardo de la Espriella anunció inversiones para la reconstrucción de Buga",
+        "capturado": "2026-09-05T15:30:53-05:00"
+      },
+      {
+        "titulo": "El Ministerio de Defensa repudió la agresión contra el Cantón Militar El Trapiche en Ocaña",
+        "url": "https://www.asuntoslegales.com.co/actualidad/el-ministerio-de-defensa-rechazo-el-ataque-contra-canton-militar-el-trapiche-en-ocana-4475423",
+        "fecha_portada": "",
+        "titulo_fuente": "El Ministerio de Defensa rechazó el ataque contra Cantón Militar El Trapiche en Ocaña",
+        "capturado": "2026-09-05T15:30:53-05:00"
+      },
       {
         "titulo": "Las remesas solo dinamizan el PIB en los departamentos que tienen mayor inclusión financiera",
         "url": "https://www.larepublica.co/economia/remesas-solo-impulsan-el-pib-en-aquellos-departamentos-con-mas-inclusion-financiera-4474963",
