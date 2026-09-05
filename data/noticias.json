@@ -1,9 +1,38 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-04T20:41:23-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-04T20:50:16-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [],
-    "Bolsas": []
+    "Bolsas": [
+      {
+        "titulo": "La cotización del dólar finalizó en $3.126,17, un descenso de $15,19 frente a la TRM de $3.141,36",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-3-de-septiembre-4474359",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio dólar cerró en $3.126,17, una caída de $15,19 respecto a la TRM de $3.141,36",
+        "capturado": "2026-09-04T20:50:16-05:00"
+      },
+      {
+        "titulo": "Acciones y bonos bajan ante previsiones de incremento de la Fed por el sólido empleo en EE. UU.",
+        "url": "https://www.larepublica.co/globoeconomia/acciones-y-bonos-caen-por-aumento-de-apuestas-a-alza-de-la-fed-tras-solido-empleo-en-ee-uu-4474522",
+        "fecha_portada": "",
+        "titulo_fuente": "Acciones y bonos caen ante apuestas de alza de la Fed por sólido empleo en EE. UU.",
+        "capturado": "2026-09-04T20:50:16-05:00"
+      },
+      {
+        "titulo": "El valor del oro sigue estable aguardando las cifras de empleo en Estados Unidos",
+        "url": "https://www.larepublica.co/finanzas/el-oro-se-mantiene-estable-a-la-espera-de-los-datos-sobre-el-empleo-en-estados-unidos-4474325",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro se mantiene estable a la espera de los datos sobre el empleo en Estados Unidos",
+        "capturado": "2026-09-04T20:50:16-05:00"
+      },
+      {
+        "titulo": "Grupo Sura presentará para evaluación el plan de recompra de acciones el próximo jueves",
+        "url": "https://www.larepublica.co/finanzas/grupo-sura-considerara-autorizacion-de-programa-de-readquisicion-4474618",
+        "fecha_portada": "",
+        "titulo_fuente": "Grupo Sura pondrá a consideración programa de readquisición de acciones el próximo Jueves",
+        "capturado": "2026-09-04T20:50:16-05:00"
+      }
+    ]
   }
 }
