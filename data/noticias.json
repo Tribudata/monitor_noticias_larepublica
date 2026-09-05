@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-04T21:00:36-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-05T00:53:39-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Las remesas solo dinamizan el PIB en los departamentos que tienen mayor inclusión financiera",
+        "url": "https://www.larepublica.co/economia/remesas-solo-impulsan-el-pib-en-aquellos-departamentos-con-mas-inclusion-financiera-4474963",
+        "fecha_portada": "05/09/2026",
+        "titulo_fuente": "Remesas solo impulsan el PIB en aquellos departamentos con más inclusión financiera",
+        "capturado": "2026-09-05T00:53:39-05:00"
+      },
+      {
+        "titulo": "El terremoto expondría a 1,2 millones de personas adicionales al riesgo de inseguridad alimentaria",
+        "url": "https://www.larepublica.co/globoeconomia/entrevista-con-lena-savelli-directora-regional-del-programa-mundial-de-alimentos-pma-para-america-latina-y-el-caribe-4474938",
+        "fecha_portada": "",
+        "titulo_fuente": "El sismo llevaría a 1,2 millones de personas más al riesgo de inseguridad alimentaria",
+        "capturado": "2026-09-05T00:53:39-05:00"
+      },
       {
         "titulo": "Analistas del mercado proyectan que la inflación anual de agosto superará el 6,10%",
         "url": "https://www.larepublica.co/economia/analistas-del-mercado-financiero-anticipan-que-la-inflacion-anual-de-agosto-cerro-en-6-10-4474142",
@@ -55,6 +69,20 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El mercado de capitales debe ir más allá de los gobiernos y requiere una política de Estado",
+        "url": "https://www.larepublica.co/finanzas/shenny-gonzalez-presidente-de-asobolsa-hablo-de-los-retos-que-tienen-el-mercado-de-capitales-en-colombia-4474017",
+        "fecha_portada": "",
+        "titulo_fuente": "“El mercado de capitales tiene que trascender los gobiernos, necesita una política de Estado”",
+        "capturado": "2026-09-05T00:53:39-05:00"
+      },
+      {
+        "titulo": "El efectivo en dólares de las entidades disminuyó 72% y presionó la divisa al alza",
+        "url": "https://www.larepublica.co/finanzas/la-caja-en-dolares-de-las-entidades-cayo-72-y-presiono-la-divisa-al-alza-4474932",
+        "fecha_portada": "",
+        "titulo_fuente": "La caja en dólares de las entidades cayó 72% y presionó la divisa con tendencia al alza",
+        "capturado": "2026-09-05T00:53:39-05:00"
+      },
       {
         "titulo": "La cotización del dólar finalizó en $3.126,17, un descenso de $15,19 frente a la TRM de $3.141,36",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-3-de-septiembre-4474359",
