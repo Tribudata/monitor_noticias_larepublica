@@ -9,6 +9,7 @@ así que los titulares que salen de portada se conservan aquí.
 """
 
 import json
+import os
 import re
 import sys
 from datetime import datetime, timezone, timedelta
@@ -22,6 +23,28 @@ ORIGEN = "https://www.larepublica.co/"
 ETIQUETAS = ["Hacienda", "Bolsas"]
 MAX_POR_ETIQUETA = 60          # cuántos titulares conserva el histórico
 DIAS_RETENCION = 30            # descarta lo más viejo que esto
+
+# --- Reescritura de titulares -------------------------------------------
+# No se publica el titular literal de La República: se guarda como
+# referencia y se muestra una redacción propia enlazada al original.
+API_MODELO = "gemini-2.5-flash"
+API_URL = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{API_MODELO}:generateContent")
+API_CLAVE = os.environ.get("GEMINI_API_KEY", "")
+LOTE = 15   # titulares por llamada
+
+INSTRUCCION = """Reformula cada titular de prensa económica colombiana con
+palabras distintas, conservando exactamente el mismo significado.
+
+Reglas estrictas:
+- No agregues ningún dato, cifra, nombre o matiz que no esté en el original.
+- No omitas cifras ni nombres que sí estén.
+- Nada de adjetivos valorativos, interpretaciones ni opiniones.
+- Máximo 110 caracteres. Español de Colombia. Sin comillas ni punto final.
+- Si un titular no se puede reformular sin cambiar el sentido, devuélvelo igual.
+
+Responde ÚNICAMENTE con un arreglo JSON de cadenas, en el mismo orden y con
+la misma cantidad de elementos que recibiste. Sin explicaciones ni markdown."""
 
 SALIDA = Path(__file__).resolve().parent.parent / "data" / "noticias.json"
 BOGOTA = timezone(timedelta(hours=-5))
@@ -94,6 +117,62 @@ def extraer(html: str) -> dict:
     return resultado
 
 
+def adaptar(titulares: list) -> list:
+    """Devuelve una redacción propia de cada titular, o [] si no se pudo.
+
+    Se llama solo con los titulares nuevos de la corrida, así que son unos
+    pocos por hora. Si falla, el llamador conserva los que ya tenía y vuelve
+    a intentar en la siguiente ejecución.
+    """
+    if not titulares:
+        return []
+    if not API_CLAVE:
+        print("  falta GEMINI_API_KEY: no se adaptan titulares", file=sys.stderr)
+        return []
+
+    salida = []
+    for i in range(0, len(titulares), LOTE):
+        trozo = titulares[i:i + LOTE]
+        cuerpo = {
+            "system_instruction": {"parts": [{"text": INSTRUCCION}]},
+            "contents": [{
+                "role": "user",
+                "parts": [{"text": json.dumps(trozo, ensure_ascii=False)}],
+            }],
+            "generationConfig": {
+                "temperature": 0.4,
+                "responseMimeType": "application/json",
+            },
+        }
+        try:
+            r = requests.post(
+                API_URL,
+                headers={
+                    "x-goog-api-key": API_CLAVE,
+                    "content-type": "application/json",
+                },
+                json=cuerpo,
+                timeout=90,
+            )
+            r.raise_for_status()
+            partes = r.json()["candidates"][0]["content"]["parts"]
+            texto = "".join(x.get("text", "") for x in partes)
+            texto = re.sub(r"^```(?:json)?|```$", "", texto.strip()).strip()
+            adaptados = json.loads(texto)
+        except (requests.RequestException, json.JSONDecodeError,
+                KeyError, IndexError) as e:
+            print(f"  no se pudieron adaptar los titulares ({e})", file=sys.stderr)
+            return []
+
+        if not isinstance(adaptados, list) or len(adaptados) != len(trozo):
+            print("  respuesta inesperada al adaptar titulares", file=sys.stderr)
+            return []
+
+        salida.extend(limpiar(str(a)) for a in adaptados)
+
+    return salida
+
+
 def cargar_previo() -> dict:
     if not SALIDA.exists():
         return {}
@@ -121,12 +200,22 @@ def fusionar(previo: dict, nuevo: dict, ahora: str) -> dict:
                 pass
             por_url[item["url"]] = item
 
-        for item in nuevo.get(etiqueta, []):
-            if item["url"] in por_url:
-                por_url[item["url"]]["titulo"] = item["titulo"]  # a veces lo editan
-            else:
-                por_url[item["url"]] = {**item, "capturado": ahora}
-                nuevos_totales += 1
+        # Solo entran los titulares que aún no están en el histórico.
+        pendientes = [i for i in nuevo.get(etiqueta, []) if i["url"] not in por_url]
+        adaptados = adaptar([i["titulo"] for i in pendientes])
+
+        if pendientes and not adaptados:
+            print(f"  {etiqueta}: {len(pendientes)} titulares quedan para la "
+                  f"próxima corrida (sin adaptación)", file=sys.stderr)
+
+        for item, propio in zip(pendientes, adaptados):
+            por_url[item["url"]] = {
+                **item,
+                "titulo": propio,               # redacción propia, es la que se publica
+                "titulo_fuente": item["titulo"],  # original, solo como referencia
+                "capturado": ahora,
+            }
+            nuevos_totales += 1
 
         ordenados = sorted(
             por_url.values(),
