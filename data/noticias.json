@@ -1,9 +1,59 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-04T20:55:23-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-04T20:59:42-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
-    "Hacienda": [],
+    "Hacienda": [
+      {
+        "titulo": "Analistas del mercado proyectan que la inflación anual de agosto superará el 6,10%",
+        "url": "https://www.larepublica.co/economia/analistas-del-mercado-financiero-anticipan-que-la-inflacion-anual-de-agosto-cerro-en-6-10-4474142",
+        "fecha_portada": "",
+        "titulo_fuente": "Analistas del mercado anticipan que la inflación anual para agosto va a cerrar sobre 6,10%",
+        "capturado": "2026-09-04T20:59:42-05:00"
+      },
+      {
+        "titulo": "El Carf alertó que el endeudamiento neto del GNC alcanzaría el 67,3% del PIB el año entrante",
+        "url": "https://www.larepublica.co/economia/el-carf-advirtio-que-la-deuda-neta-llegaria-a-67-3-del-pib-el-proximo-ano-4474750",
+        "fecha_portada": "04/09/2026",
+        "titulo_fuente": "El Carf advirtió que la deuda neta del GNC llegaría hasta 67,3% del PIB el próximo año",
+        "capturado": "2026-09-04T20:59:42-05:00"
+      },
+      {
+        "titulo": "MinInterior informó que actualmente van 46 conflagraciones extinguidas y dos activas en Tolima",
+        "url": "https://www.larepublica.co/economia/mininterior-reporto-que-hay-46-incendios-liquidados-y-dos-activos-en-tolima-4474352",
+        "fecha_portada": "",
+        "titulo_fuente": "MinInterior reportó que a la fecha hay 46 incendios liquidados y dos activos en Tolima",
+        "capturado": "2026-09-04T20:59:42-05:00"
+      },
+      {
+        "titulo": "Araújo y Gaona tomaron posesión como embajadores colombianos en EE.UU. y ante la ONU",
+        "url": "https://www.larepublica.co/economia/araujo-y-gaona-asumieron-como-embajadores-de-colombia-en-ee-uu-y-ante-la-onu-4474895",
+        "fecha_portada": "04/09/2026",
+        "titulo_fuente": "Araújo y Gaona asumieron como embajadores de Colombia en EE.UU. y ante la ONU",
+        "capturado": "2026-09-04T20:59:42-05:00"
+      },
+      {
+        "titulo": "El Fondo Colombia en Paz destinará US$135 millones para la fase de Colombia Sostenible",
+        "url": "https://www.larepublica.co/economia/fondo-colombia-en-paz-movilizara-us-135-millones-para-nueva-etapa-de-colombia-sostenible-4474175",
+        "fecha_portada": "04/09/2026",
+        "titulo_fuente": "Fondo Colombia en Paz movilizará US$135 millones para etapa de Colombia Sostenible",
+        "capturado": "2026-09-04T20:59:42-05:00"
+      },
+      {
+        "titulo": "El presidente del Senado afirmó que impedirá la inasistencia de ministros a las discusiones del PGN",
+        "url": "https://www.larepublica.co/economia/presidente-del-senado-dijo-que-no-permitira-ausencia-de-ministros-en-debates-del-pgn-4474641",
+        "fecha_portada": "",
+        "titulo_fuente": "Presidente del Senado dijo que no permitirá ausencia de ministros en debates del PGN",
+        "capturado": "2026-09-04T20:59:42-05:00"
+      },
+      {
+        "titulo": "Las comisiones suspenden la segunda jornada de discusión del PGN ante la inasistencia de ministros",
+        "url": "https://www.larepublica.co/economia/comisiones-suspenden-segundo-dia-de-debate-del-pgn-por-inasistencia-de-ministros-4472975",
+        "fecha_portada": "02/09/2026",
+        "titulo_fuente": "Comisiones suspenden segundo día de debate del PGN por inasistencia de ministros",
+        "capturado": "2026-09-04T20:59:42-05:00"
+      }
+    ],
     "Bolsas": [
       {
         "titulo": "La cotización del dólar finalizó en $3.126,17, un descenso de $15,19 frente a la TRM de $3.141,36",
