@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
@@ -27,11 +28,12 @@ DIAS_RETENCION = 30            # descarta lo más viejo que esto
 # --- Reescritura de titulares -------------------------------------------
 # No se publica el titular literal de La República: se guarda como
 # referencia y se muestra una redacción propia enlazada al original.
-API_MODELO = "gemini-3.5-flash"
+API_MODELO = "gemini-2.5-flash"
 API_URL = (f"https://generativelanguage.googleapis.com/v1beta/models/"
            f"{API_MODELO}:generateContent")
 API_CLAVE = os.environ.get("GEMINI_API_KEY", "")
-LOTE = 15   # titulares por llamada
+LOTE = 15        # titulares por llamada
+REINTENTOS = 4   # ante 429/503, que son transitorios
 
 INSTRUCCION = """Reformula cada titular de prensa económica colombiana con
 palabras distintas, conservando exactamente el mismo significado.
@@ -144,24 +146,51 @@ def adaptar(titulares: list) -> list:
                 "responseMimeType": "application/json",
             },
         }
-        try:
-            r = requests.post(
-                API_URL,
-                headers={
-                    "x-goog-api-key": API_CLAVE,
-                    "content-type": "application/json",
-                },
-                json=cuerpo,
-                timeout=90,
-            )
-            r.raise_for_status()
-            partes = r.json()["candidates"][0]["content"]["parts"]
-            texto = "".join(x.get("text", "") for x in partes)
-            texto = re.sub(r"^```(?:json)?|```$", "", texto.strip()).strip()
-            adaptados = json.loads(texto)
-        except (requests.RequestException, json.JSONDecodeError,
-                KeyError, IndexError) as e:
-            print(f"  no se pudieron adaptar los titulares ({e})", file=sys.stderr)
+        adaptados = None
+        for intento in range(1, REINTENTOS + 1):
+            try:
+                r = requests.post(
+                    API_URL,
+                    headers={
+                        "x-goog-api-key": API_CLAVE,
+                        "content-type": "application/json",
+                    },
+                    json=cuerpo,
+                    timeout=90,
+                )
+                # 429 (cuota) y 5xx (saturación) son transitorios: se reintenta.
+                if r.status_code == 429 or r.status_code >= 500:
+                    raise requests.HTTPError(f"HTTP {r.status_code}", response=r)
+                r.raise_for_status()
+
+                partes = r.json()["candidates"][0]["content"]["parts"]
+                texto = "".join(x.get("text", "") for x in partes)
+                texto = re.sub(r"^```(?:json)?|```$", "", texto.strip()).strip()
+                adaptados = json.loads(texto)
+                break
+
+            except requests.HTTPError as e:
+                codigo = e.response.status_code if e.response is not None else 0
+                if codigo not in (429,) and codigo < 500:
+                    print(f"  no se pudieron adaptar los titulares ({e})",
+                          file=sys.stderr)
+                    return []
+                if intento == REINTENTOS:
+                    print(f"  no se pudieron adaptar los titulares tras "
+                          f"{REINTENTOS} intentos ({e})", file=sys.stderr)
+                    return []
+                espera = 2 ** intento          # 2, 4, 8 segundos
+                print(f"  {e}; reintento {intento}/{REINTENTOS - 1} "
+                      f"en {espera}s", file=sys.stderr)
+                time.sleep(espera)
+
+            except (requests.RequestException, json.JSONDecodeError,
+                    KeyError, IndexError) as e:
+                print(f"  no se pudieron adaptar los titulares ({e})",
+                      file=sys.stderr)
+                return []
+
+        if adaptados is None:
             return []
 
         if not isinstance(adaptados, list) or len(adaptados) != len(trozo):
