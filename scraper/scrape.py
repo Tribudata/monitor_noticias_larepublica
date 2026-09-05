@@ -28,7 +28,7 @@ DIAS_RETENCION = 30            # descarta lo más viejo que esto
 # --- Reescritura de titulares -------------------------------------------
 # No se publica el titular literal de La República: se guarda como
 # referencia y se muestra una redacción propia enlazada al original.
-API_MODELO = "gemini-2.5-flash"
+API_MODELO = "gemini-3.5-flash"
 API_URL = (f"https://generativelanguage.googleapis.com/v1beta/models/"
            f"{API_MODELO}:generateContent")
 API_CLAVE = os.environ.get("GEMINI_API_KEY", "")
