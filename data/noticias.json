@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-06T14:38:42-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-06T16:46:57-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La cifra de muertos por el sismo sigue en 331 y la de lesionados en 4.505",
+        "url": "https://www.larepublica.co/especiales/catastrofe-nacional/cifra-de-fallecidos-por-el-terremoto-asciende-a-331-y-de-heridos-a-4-505-4475702",
+        "fecha_portada": "06/09/2026",
+        "titulo_fuente": "Número de fallecidos por el terremoto se mantiene en 331 y de heridos en 4.505",
+        "capturado": "2026-09-06T16:46:57-05:00"
+      },
       {
         "titulo": "BlackRock y JPMorgan prefieren mercados emergentes ante el hundimiento de los bonos",
         "url": "https://www.larepublica.co/globoeconomia/blackrock-y-jpmorgan-apuestan-por-los-mercados-emergentes-entre-ellos-colombia-4475600",
