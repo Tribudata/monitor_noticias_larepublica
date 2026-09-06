@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-06T10:51:20-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-06T12:48:25-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "BlackRock y JPMorgan prefieren mercados emergentes ante el hundimiento de los bonos",
+        "url": "https://www.larepublica.co/globoeconomia/blackrock-y-jpmorgan-apuestan-por-los-mercados-emergentes-entre-ellos-colombia-4475600",
+        "fecha_portada": "06/09/2026",
+        "titulo_fuente": "BlackRock y JPMorgan apuestan por los mercados emergentes por desplome de bonos",
+        "capturado": "2026-09-06T12:48:25-05:00"
+      },
+      {
+        "titulo": "El FMI asegura que diversificar entre acciones y bonos no resguarda contra las oscilaciones",
+        "url": "https://www.larepublica.co/globoeconomia/el-fmi-afirma-que-diversificar-entre-acciones-y-bonos-no-protege-frente-a-las-fluctuaciones-4475623",
+        "fecha_portada": "",
+        "titulo_fuente": "El FMI afirma que diversificar entre acciones y bonos no protege frente a fluctuaciones",
+        "capturado": "2026-09-06T12:48:25-05:00"
+      },
       {
         "titulo": "Mandatario comunica acciones para agilizar la reconstrucción de Cuarto de Legua, barrio de Cali",
         "url": "https://www.larepublica.co/economia/presidente-anuncia-medidas-para-acelerar-reconstruccion-de-cuarto-de-legua-barrio-de-cali-4475549",
@@ -97,6 +111,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Las ballenas de bitcoin se transforman y ahora amenazan con alterar todo el mercado",
+        "url": "https://www.larepublica.co/globoeconomia/las-ballenas-del-bitcoin-cambian-de-piel-y-ahora-amenazan-con-mover-todo-el-mercado-4475238",
+        "fecha_portada": "",
+        "titulo_fuente": "Las ‘ballenas’ del bitcoin cambian de piel y ahora amenazan con mover todo el mercado",
+        "capturado": "2026-09-06T12:48:25-05:00"
+      },
       {
         "titulo": "El mercado de capitales debe ir más allá de los gobiernos y requiere una política de Estado",
         "url": "https://www.larepublica.co/finanzas/shenny-gonzalez-presidente-de-asobolsa-hablo-de-los-retos-que-tienen-el-mercado-de-capitales-en-colombia-4474017",
