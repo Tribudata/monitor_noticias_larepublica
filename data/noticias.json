@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-07T07:47:51-05:00",
+  "actualizado": "2026-09-07T12:58:01-05:00",
   "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Déficit fiscal terminó la primera mitad del año en 3,3% del PIB, lo que representa $66 billones",
+        "url": "https://www.larepublica.co/economia/deficit-fiscal-cerro-el-primer-semestre-en-3-3-del-pib-equivale-a-66-billones-4475928",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "Déficit fiscal cerró el primer semestre en 3,3% del PIB, equivale a $66 billones",
+        "capturado": "2026-09-07T12:58:01-05:00"
+      },
+      {
+        "titulo": "Miguel Gómez arribó al encuentro con los presidentes de las Comisiones Económicas",
+        "url": "https://www.larepublica.co/economia/ministro-miguel-gomez-se-reune-con-los-presidentes-de-las-comisiones-economicas-4476085",
+        "fecha_portada": "",
+        "titulo_fuente": "Miguel Gómez llegó a la reunión con los presidentes de las Comisiones Económicas",
+        "capturado": "2026-09-07T12:58:01-05:00"
+      },
       {
         "titulo": "Conozca los plazos que tendrá Bogotá para debatir y aprobar la reforma tributaria",
         "url": "https://www.larepublica.co/economia/estos-son-los-tiempos-que-tendra-bogota-para-discutir-y-aprobar-la-reforma-tributaria-4475866",
@@ -167,6 +181,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar registra una baja de más de $8 en modalidad Next Day por festivo en Estados Unidos",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-7-de-septiembre-4475947",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar se cotiza más de $8 a la baja en modalidad Next Day por festivo en Estados Unidos",
+        "capturado": "2026-09-07T12:58:01-05:00"
+      },
       {
         "titulo": "El oro registra una leve caída mientras el mercado sigue pendiente del petróleo y el dólar",
         "url": "https://www.larepublica.co/finanzas/el-oro-baja-ligeramente-mientras-el-mercado-sigue-atento-al-petroleo-y-el-dolar-4475861",
