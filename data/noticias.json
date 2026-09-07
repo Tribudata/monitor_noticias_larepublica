@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-07T16:00:26-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-07T18:36:14-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La inflación subió a 6,24% en agosto empujada por los rubros de alojamiento y servicios",
+        "url": "https://www.larepublica.co/economia/inflacion-se-acelero-a-6-24-en-agosto-impulsada-por-alojamiento-y-servicios-4476593",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "Inflación se aceleró a 6,24% en agosto impulsada por alojamiento y servicios",
+        "capturado": "2026-09-07T18:36:14-05:00"
+      },
+      {
+        "titulo": "Desbalance comercial con China ya roza los US$20.000 millones, el más elevado de Sudamérica",
+        "url": "https://www.larepublica.co/economia/deficit-comercial-con-china-ya-ronda-los-us-20-000-millones-el-mayor-de-suramerica-4476493",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "Déficit comercial con China ya ronda los US$20.000 millones, el mayor de Suramérica",
+        "capturado": "2026-09-07T18:36:14-05:00"
+      },
       {
         "titulo": "El Emisor adquirió de manera definitiva TES B en el mercado por $1,5 billones",
         "url": "https://www.larepublica.co/economia/emisor-efectuo-compras-definitivas-de-tes-b-en-el-mercado-por-1-5-billones-4476286",
