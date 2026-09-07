@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-07T12:58:01-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-07T16:00:26-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Emisor adquirió de manera definitiva TES B en el mercado por $1,5 billones",
+        "url": "https://www.larepublica.co/economia/emisor-efectuo-compras-definitivas-de-tes-b-en-el-mercado-por-1-5-billones-4476286",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "Emisor efectuó compras definitivas de TES B en el mercado por $1,5 billones",
+        "capturado": "2026-09-07T16:00:26-05:00"
+      },
       {
         "titulo": "Déficit fiscal terminó la primera mitad del año en 3,3% del PIB, lo que representa $66 billones",
         "url": "https://www.larepublica.co/economia/deficit-fiscal-cerro-el-primer-semestre-en-3-3-del-pib-equivale-a-66-billones-4475928",
