@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-06T20:08:07-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-07T01:13:01-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El valor del pollo asado se incrementó 5,93% en el año reciente y llegó a una media de $43.470",
+        "url": "https://www.larepublica.co/economia/precio-del-pollo-asado-subio-5-93-en-el-ultimo-ano-y-alcanzo-promedio-de-43-470-4475020",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "El precio del pollo asado subió 5,93% durante el último año y alcanzó promedio de $43.470",
+        "capturado": "2026-09-07T01:13:01-05:00"
+      },
+      {
+        "titulo": "Los datos del mes inicial de la administración del presidente Abelardo De la Espriella",
+        "url": "https://www.larepublica.co/economia/las-cifras-detras-del-primer-mes-del-gobierno-del-presidente-abelardo-de-la-espriella-4475149",
+        "fecha_portada": "",
+        "titulo_fuente": "Las cifras detrás del primer mes del gobierno del presidente Abelardo De la Espriella",
+        "capturado": "2026-09-07T01:13:01-05:00"
+      },
+      {
+        "titulo": "Los colombianos requerirían percibir US$18.300 anuales para lograr el precio de la felicidad",
+        "url": "https://www.larepublica.co/globoeconomia/cuanto-dinero-se-necesita-realmente-para-ser-feliz-un-estudio-revela-el-precio-de-la-felicidad-en-50-paises-4475078",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "Colombianos necesitarían ganar US$18.300 al año para poder llegar al “precio de la felicidad”",
+        "capturado": "2026-09-07T01:13:01-05:00"
+      },
+      {
+        "titulo": "La tesorería de la Nación disminuyó de $23,7 billones a un mínimo de $6,8 billones durante agosto",
+        "url": "https://www.larepublica.co/economia/la-caja-de-la-nacion-cayo-de-23-7-billones-a-un-minimo-de-6-8-billones-en-agosto-4475127",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "La caja de la Nación cayó de $23,7 billones a un mínimo de $6,8 billones durante agosto",
+        "capturado": "2026-09-07T01:13:01-05:00"
+      },
+      {
+        "titulo": "El presidente De la Espriella y Marco Rubio tendrán un encuentro mañana en Barranquilla",
+        "url": "https://www.larepublica.co/economia/manana-se-reuniran-el-presidente-abelardo-de-la-espriella-y-marco-rubio-en-barranquilla-4474897",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "Mañana se reunirán el presidente De la Espriella y Marco Rubio en Barranquilla",
+        "capturado": "2026-09-07T01:13:01-05:00"
+      },
       {
         "titulo": "La cifra de muertos por el sismo sigue en 331 y la de lesionados en 4.505",
         "url": "https://www.larepublica.co/especiales/catastrofe-nacional/cifra-de-fallecidos-por-el-terremoto-asciende-a-331-y-de-heridos-a-4-505-4475702",
