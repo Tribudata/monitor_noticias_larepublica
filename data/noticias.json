@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-07T01:13:01-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-07T07:47:51-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Conozca los plazos que tendrá Bogotá para debatir y aprobar la reforma tributaria",
+        "url": "https://www.larepublica.co/economia/estos-son-los-tiempos-que-tendra-bogota-para-discutir-y-aprobar-la-reforma-tributaria-4475866",
+        "fecha_portada": "",
+        "titulo_fuente": "Estos son los tiempos que tendrá Bogotá para discutir y aprobar la reforma tributaria",
+        "capturado": "2026-09-07T07:47:51-05:00"
+      },
+      {
+        "titulo": "Se oficializó el nombramiento de Alejandro Ordóñez como embajador ante la OEA",
+        "url": "https://www.larepublica.co/economia/alejandro-ordonez-fue-designado-oficialmente-como-embajador-ante-la-oea-4475898",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "Alejandro Ordóñez fue designado oficialmente como embajador ante la OEA",
+        "capturado": "2026-09-07T07:47:51-05:00"
+      },
       {
         "titulo": "El valor del pollo asado se incrementó 5,93% en el año reciente y llegó a una media de $43.470",
         "url": "https://www.larepublica.co/economia/precio-del-pollo-asado-subio-5-93-en-el-ultimo-ano-y-alcanzo-promedio-de-43-470-4475020",
@@ -153,6 +167,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El oro registra una leve caída mientras el mercado sigue pendiente del petróleo y el dólar",
+        "url": "https://www.larepublica.co/finanzas/el-oro-baja-ligeramente-mientras-el-mercado-sigue-atento-al-petroleo-y-el-dolar-4475861",
+        "fecha_portada": "07/09/2026",
+        "titulo_fuente": "El oro baja ligeramente mientras el mercado sigue atento al petróleo y el dólar",
+        "capturado": "2026-09-07T07:47:51-05:00"
+      },
       {
         "titulo": "Las ballenas de bitcoin se transforman y ahora amenazan con alterar todo el mercado",
         "url": "https://www.larepublica.co/globoeconomia/las-ballenas-del-bitcoin-cambian-de-piel-y-ahora-amenazan-con-mover-todo-el-mercado-4475238",
