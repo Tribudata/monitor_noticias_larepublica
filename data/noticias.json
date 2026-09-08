@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-08T10:25:21-05:00",
+  "actualizado": "2026-09-08T13:50:26-05:00",
   "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Gobierno Nacional retiró la suspensión general al porte de armas de fuego en el país",
+        "url": "https://www.agronegocios.co/finca/gobierno-nacional-levanto-la-suspension-general-del-porte-de-armas-de-fuego-en-el-pais-4477017",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno Nacional levantó la suspensión general del porte de armas de fuego en el país",
+        "capturado": "2026-09-08T13:50:26-05:00"
+      },
+      {
+        "titulo": "Deuda bruta llegó a $1.160 billones al término de julio, lo que equivale al 60,1% del PIB",
+        "url": "https://www.larepublica.co/economia/deuda-bruta-llego-a-1-160-billones-en-julio-equivale-a-60-1-del-pib-4476919",
+        "fecha_portada": "",
+        "titulo_fuente": "Deuda bruta alcanzó niveles de $1.160 billones a cierre de julio, equivale a 60,1% del PIB",
+        "capturado": "2026-09-08T13:50:26-05:00"
+      },
       {
         "titulo": "Canciller afirmó que cita con Rubio ayudará a recomponer la alianza con EE.UU.",
         "url": "https://www.larepublica.co/economia/canciller-bula-dijo-que-reunion-con-rubio-servira-para-reconstruir-la-alianza-con-ee-uu-4476781",
