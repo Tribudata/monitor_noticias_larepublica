@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-07T20:33:06-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-08T01:35:11-05:00",
+  "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Hospedaje y comida elevaron el costo de vida en el octavo mes de este año",
+        "url": "https://www.larepublica.co/economia/alojamiento-y-alimentos-presionaron-el-costo-de-vida-en-el-octavo-mes-del-ano-4476655",
+        "fecha_portada": "",
+        "titulo_fuente": "Alojamiento y alimentos presionaron el costo de vida en el octavo mes de este curso",
+        "capturado": "2026-09-08T01:35:11-05:00"
+      },
+      {
+        "titulo": "Déficit de la primera mitad del año alcanzó $66 billones y 3,3% del Producto Interno Bruto",
+        "url": "https://www.larepublica.co/economia/deficit-del-primer-semestre-del-ano-llego-hasta-66-billones-y-3-3-del-pib-4476467",
+        "fecha_portada": "",
+        "titulo_fuente": "Déficit del primer semestre del año llegó hasta $66 billones y 3,3% del Producto Interno Bruto",
+        "capturado": "2026-09-08T01:35:11-05:00"
+      },
+      {
+        "titulo": "Donald Trump muestra un mapa de Estados Unidos con Canadá, México y el Caribe incorporados",
+        "url": "https://www.larepublica.co/globoeconomia/donald-trump-presenta-mapa-de-estados-unidos-con-canada-mexico-y-caribe-agregados-4476430",
+        "fecha_portada": "08/09/2026",
+        "titulo_fuente": "Donald Trump presenta mapa de Estados Unidos con Canadá, México y Caribe agregados",
+        "capturado": "2026-09-08T01:35:11-05:00"
+      },
+      {
+        "titulo": "En cuatro años aumentó 374% la cantidad de colombianos declarados en bancarrota",
+        "url": "https://www.larepublica.co/finanzas/en-cuatro-anos-hubo-un-alza-de-374-de-los-colombianos-que-se-declararon-en-quiebra-4476509",
+        "fecha_portada": "08/09/2026",
+        "titulo_fuente": "En cuatro años hubo un alza de 374% entre los colombianos que se han declarado en quiebra",
+        "capturado": "2026-09-08T01:35:11-05:00"
+      },
       {
         "titulo": "La inflación subió a 6,24% en agosto empujada por los rubros de alojamiento y servicios",
         "url": "https://www.larepublica.co/economia/inflacion-se-acelero-a-6-24-en-agosto-impulsada-por-alojamiento-y-servicios-4476593",
@@ -202,6 +230,20 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "BlackRock detecta potencial en inteligencia artificial y transición energética dentro de la BVC",
+        "url": "https://www.larepublica.co/finanzas/blackrock-ve-oportunidades-en-ia-y-transicion-energetica-en-la-bvc-4476543",
+        "fecha_portada": "",
+        "titulo_fuente": "BlackRock ve oportunidades en inteligencia artificial y en transición energética en la BVC",
+        "capturado": "2026-09-08T01:35:11-05:00"
+      },
+      {
+        "titulo": "La cotización del dólar ya superó un año ubicándose distante de la barrera de los $4.000",
+        "url": "https://www.larepublica.co/finanzas/el-precio-del-dolar-ya-completo-mas-de-un-ano-de-cotizacion-lejos-de-la-linea-de-los-4-000-4476491",
+        "fecha_portada": "08/09/2026",
+        "titulo_fuente": "El precio del dólar ya completó más de un año de cotización lejos de la línea de los $4.000",
+        "capturado": "2026-09-08T01:35:11-05:00"
+      },
       {
         "titulo": "El dólar registra una baja de más de $8 en modalidad Next Day por festivo en Estados Unidos",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-7-de-septiembre-4475947",
