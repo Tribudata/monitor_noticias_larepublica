@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-08T06:47:39-05:00",
+  "actualizado": "2026-09-08T10:25:21-05:00",
   "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
@@ -244,6 +244,20 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar continúa a la baja y se negocia $7,37 por debajo de la TRM",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-8-de-septiembre-de-2026-4476816",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar mantiene su tendencia bajista y se cotiza $7,37 por debajo de la TRM",
+        "capturado": "2026-09-08T10:25:21-05:00"
+      },
+      {
+        "titulo": "El oro desciende por la subida del crudo e inversionistas esperan datos de inflación de EE.UU.",
+        "url": "https://www.larepublica.co/finanzas/el-oro-cae-lastrado-por-alza-del-crudo-inversores-esperan-datos-inflacion-ee-uu-4476788",
+        "fecha_portada": "08/09/2026",
+        "titulo_fuente": "El oro cae lastrado por alza del crudo, los inversores esperan datos de inflación de EE.UU.",
+        "capturado": "2026-09-08T10:25:21-05:00"
+      },
       {
         "titulo": "BlackRock detecta potencial en inteligencia artificial y transición energética dentro de la BVC",
         "url": "https://www.larepublica.co/finanzas/blackrock-ve-oportunidades-en-ia-y-transicion-energetica-en-la-bvc-4476543",
