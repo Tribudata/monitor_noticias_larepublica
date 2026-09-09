@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-09T16:46:26-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-09T18:34:20-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "En la Casa de Nariño, De la Espriella presidió su primer consejo de ministros",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-lidero-su-primer-consejo-de-ministros-en-la-casa-de-narino-4478357",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "De la Espriella lideró su primer consejo de ministros en la Casa de Nariño",
+        "capturado": "2026-09-09T18:34:20-05:00"
+      },
+      {
+        "titulo": "La reforma tributaria de Bogotá pasó a segundo debate y se examinará en Plenaria",
+        "url": "https://www.larepublica.co/economia/reforma-tributaria-de-bogota-avanzo-a-segundo-debate-se-discutira-en-plenaria-4478266",
+        "fecha_portada": "",
+        "titulo_fuente": "Reforma tributaria de Bogotá avanzó a segundo debate, se discutirá en Plenaria",
+        "capturado": "2026-09-09T18:34:20-05:00"
+      },
       {
         "titulo": "De esta forma se desarrolló la cena privada de Abelardo de la Espriella y Marco Rubio junto a sus familias",
         "url": "https://www.larepublica.co/economia/asi-fue-la-cena-privada-entre-de-la-espriella-y-marco-rubio-junto-a-sus-familias-4477957",
@@ -342,6 +356,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "La hoja de ruta de Nuam para unificar las plazas de Perú, Chile y Colombia en 2027",
+        "url": "https://www.larepublica.co/finanzas/asi-esta-el-cronograma-de-nuam-para-integrar-los-mercados-peru-chile-y-colombia-2027-4478222",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "El cronograma de Nuam para integrar los mercados Perú, Chile y Colombia en 2027",
+        "capturado": "2026-09-09T18:34:20-05:00"
+      },
       {
         "titulo": "El dólar continúa en descenso y se cotiza $18,47 por debajo de la TRM del día",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-9-de-septiembre-de-2026-4477737",
