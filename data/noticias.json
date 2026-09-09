@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-08T18:31:22-05:00",
+  "actualizado": "2026-09-08T20:40:47-05:00",
   "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
@@ -272,6 +272,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Sura Investments sobrepasó los US$500 millones en bonos sostenibles el año pasado",
+        "url": "https://www.larepublica.co/finanzas/sura-investments-supero-us-500-millones-en-bonos-sostenibles-durante-el-ano-pasado-4477553",
+        "fecha_portada": "",
+        "titulo_fuente": "Sura Investments superó US$500 millones en bonos sostenibles durante el año pasado",
+        "capturado": "2026-09-08T20:40:47-05:00"
+      },
       {
         "titulo": "El dólar continúa a la baja y se negocia $7,37 por debajo de la TRM",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-8-de-septiembre-de-2026-4476816",
