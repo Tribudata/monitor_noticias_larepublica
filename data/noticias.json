@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-09T01:47:56-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-09T06:59:58-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "A US$247.908 millones llegó la deuda externa en junio, lo que equivale al 48,6% del PIB",
+        "url": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-247-908-millones-en-junio-equivalente-a-48-6-del-pib-4477691",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "Deuda externa alcanzó US$247.908 millones en junio, equivalente a 48,6% del PIB",
+        "capturado": "2026-09-09T06:59:58-05:00"
+      },
       {
         "titulo": "Buscamos una etapa de esplendor en el vínculo entre Colombia y Estados Unidos",
         "url": "https://www.larepublica.co/economia/queremos-una-epoca-dorada-de-relacion-entre-colombia-y-estados-unidos-4477473",
