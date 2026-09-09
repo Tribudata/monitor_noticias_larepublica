@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-08T20:40:47-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-09T01:47:56-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Buscamos una etapa de esplendor en el vínculo entre Colombia y Estados Unidos",
+        "url": "https://www.larepublica.co/economia/queremos-una-epoca-dorada-de-relacion-entre-colombia-y-estados-unidos-4477473",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "“Queremos una época dorada de relación entre Colombia y Estados Unidos”",
+        "capturado": "2026-09-09T01:47:56-05:00"
+      },
+      {
+        "titulo": "Gobierno Nacional retiró la suspensión general para el porte de armas de fuego en el territorio",
+        "url": "https://www.asuntoslegales.com.co/actualidad/gobierno-nacional-levanto-la-suspension-general-del-porte-de-armas-de-fuego-en-el-pais-4477081",
+        "fecha_portada": "08/09/2026",
+        "titulo_fuente": "Gobierno Nacional levantó la suspensión general del porte de armas de fuego en el país",
+        "capturado": "2026-09-09T01:47:56-05:00"
+      },
       {
         "titulo": "Concejal solicitó archivar la reforma tributaria de Galán por supuestas irregularidades de trámite",
         "url": "https://www.larepublica.co/economia/concejal-pidio-archivar-reforma-tributaria-de-galan-por-presuntos-vicios-de-tramite-4477430",
