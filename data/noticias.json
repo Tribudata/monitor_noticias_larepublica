@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-09T06:59:58-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-09T11:00:08-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El indicador de incertidumbre de la política económica descendió a 194 en agosto",
+        "url": "https://www.larepublica.co/economia/fedesarrollo-anuncio-que-indice-de-incertidumbre-economica-bajo-a-194-en-agosto-4477940",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "Índice de Incertidumbre de la Política Económica bajó a 194 en agosto",
+        "capturado": "2026-09-09T11:00:08-05:00"
+      },
+      {
+        "titulo": "El vínculo de seguridad entre EE.UU. y Colombia no será como antes, sino que mejorará",
+        "url": "https://www.larepublica.co/economia/entrevista-con-marco-rubio-secretario-de-estado-de-ee-uu-sobre-las-relaciones-con-colombia-4477735",
+        "fecha_portada": "",
+        "titulo_fuente": "\"Relación de seguridad entre EE.UU. y Colombia no va a ser igual que antes, será mejor\"",
+        "capturado": "2026-09-09T11:00:08-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá alerta que el PGN plantea el panorama más negativo con un déficit fiscal de 9,4%",
+        "url": "https://www.larepublica.co/economia/banco-de-bogota-advierte-que-pgn-sugiere-el-peor-escenario-con-deficit-fiscal-en-9-4-4477729",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "Banco de Bogotá advierte que PGN sugiere el peor escenario con déficit fiscal en 9,4%",
+        "capturado": "2026-09-09T11:00:08-05:00"
+      },
       {
         "titulo": "A US$247.908 millones llegó la deuda externa en junio, lo que equivale al 48,6% del PIB",
         "url": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-247-908-millones-en-junio-equivalente-a-48-6-del-pib-4477691",
@@ -293,6 +314,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar continúa en descenso y se cotiza $18,47 por debajo de la TRM del día",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-9-de-septiembre-de-2026-4477737",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar mantiene su tendencia bajista y se cotiza $18,47 a la baja frente a la TRM del día",
+        "capturado": "2026-09-09T11:00:08-05:00"
+      },
       {
         "titulo": "Sura Investments sobrepasó los US$500 millones en bonos sostenibles el año pasado",
         "url": "https://www.larepublica.co/finanzas/sura-investments-supero-us-500-millones-en-bonos-sostenibles-durante-el-ano-pasado-4477553",
