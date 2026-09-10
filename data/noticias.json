@@ -1,9 +1,58 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-09T20:35:30-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-10T01:41:43-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Niño empujaría el costo de vida hasta el 7,3% al cierre de este año",
+        "url": "https://www.larepublica.co/economia/fenomeno-de-el-nino-presionaria-la-inflacion-hasta-7-3-a-finales-de-este-ano-4478364",
+        "fecha_portada": "",
+        "titulo_fuente": "Fenómeno de El Niño presionaría la inflación hasta 7,3% a finales de este año",
+        "capturado": "2026-09-10T01:41:43-05:00"
+      },
+      {
+        "titulo": "Aspectos clave para no recibir sanciones al presentar la declaración de renta",
+        "url": "https://www.larepublica.co/finanzas/esto-es-lo-que-debe-tener-en-cuenta-para-evitar-multas-al-momento-de-declarar-renta-ante-la-dian-4478255",
+        "fecha_portada": "10/09/2026",
+        "titulo_fuente": "Esto es lo que debe tener en cuenta para evitar multas al momento de declarar renta",
+        "capturado": "2026-09-10T01:41:43-05:00"
+      },
+      {
+        "titulo": "El Gobierno Nacional decretó una redistribución de tareas del Ministerio de la Igualdad",
+        "url": "https://www.larepublica.co/economia/el-gobierno-nacional-ordena-una-reasignacion-de-funciones-del-ministerio-de-la-igualdad-4478466",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "El Gobierno Nacional ordenó una reasignación de funciones del Ministerio de la Igualdad",
+        "capturado": "2026-09-10T01:41:43-05:00"
+      },
+      {
+        "titulo": "MinHacienda y MinMinas presentarán un proyecto para obtener $1,2 billones por El Niño",
+        "url": "https://www.larepublica.co/economia/minhacienda-y-minminas-radicaran-proyecto-de-ley-para-recaudar-1-2-billones-por-el-nino-4478216",
+        "fecha_portada": "",
+        "titulo_fuente": "MinHacienda y MinMinas radicarán proyecto para recaudar $1,2 billones por El Niño",
+        "capturado": "2026-09-10T01:41:43-05:00"
+      },
+      {
+        "titulo": "MinHacienda suscribió un decreto que permite la emisión de Títulos de Tesorería",
+        "url": "https://www.larepublica.co/economia/emision-de-titulos-de-tesoreria-del-ministerio-de-hacienda-4478481",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "MinHacienda firmó un decreto que autoriza la emisión de Títulos de Tesorería",
+        "capturado": "2026-09-10T01:41:43-05:00"
+      },
+      {
+        "titulo": "El alcalde Carlos Fernando Galán festejó que se aprobara la reforma tributaria de Bogotá",
+        "url": "https://www.larepublica.co/economia/el-alcalde-carlos-fernando-galan-celebro-la-aprobacion-de-la-reforma-tributaria-de-bogota-4478442",
+        "fecha_portada": "",
+        "titulo_fuente": "El alcalde Carlos Fernando Galán celebró la aprobación de la reforma tributaria de Bogotá",
+        "capturado": "2026-09-10T01:41:43-05:00"
+      },
+      {
+        "titulo": "Marco Rubio dialogó con Noticias RCN y expuso los puntos clave del nuevo vínculo con Colombia",
+        "url": "https://www.larepublica.co/globoeconomia/marco-rubio-hablo-con-noticias-rcn-y-revelo-las-claves-de-la-nueva-relacion-con-colombia-4477739",
+        "fecha_portada": "09/09/2026",
+        "titulo_fuente": "Marco Rubio habló con Noticias RCN y reveló las claves de la nueva relación con Colombia",
+        "capturado": "2026-09-10T01:41:43-05:00"
+      },
       {
         "titulo": "En la Casa de Nariño, De la Espriella presidió su primer consejo de ministros",
         "url": "https://www.larepublica.co/economia/de-la-espriella-lidero-su-primer-consejo-de-ministros-en-la-casa-de-narino-4478357",
@@ -356,6 +405,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "La BVC requiere un mayor número de inversionistas, emisores y un portafolio de productos más extenso",
+        "url": "https://www.larepublica.co/finanzas/andres-restrepo-gerente-general-de-la-bolsa-de-valores-de-colombia-hablo-sobre-la-necesidad-de-un-mercado-mas-robusto-4478335",
+        "fecha_portada": "",
+        "titulo_fuente": "\"La BVC necesita más inversionistas, emisores y oferta de productos más amplia\"",
+        "capturado": "2026-09-10T01:41:43-05:00"
+      },
       {
         "titulo": "La hoja de ruta de Nuam para unificar las plazas de Perú, Chile y Colombia en 2027",
         "url": "https://www.larepublica.co/finanzas/asi-esta-el-cronograma-de-nuam-para-integrar-los-mercados-peru-chile-y-colombia-2027-4478222",
