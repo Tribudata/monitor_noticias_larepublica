@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-10T10:16:10-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-10T13:34:28-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Asocapitales calcula que la reconstrucción de las ciudades podría costar hasta $21 billones",
+        "url": "https://www.larepublica.co/economia/asocapitales-estima-que-reconstruccion-en-ciudades-podria-costar-hasta-21-billones-4478722",
+        "fecha_portada": "",
+        "titulo_fuente": "Asocapitales estima que reconstrucción en ciudades podría costar hasta $21 billones",
+        "capturado": "2026-09-10T13:34:28-05:00"
+      },
       {
         "titulo": "Al cumplirse un mes del sismo, el Gobierno emite 11 decretos para gestionar la crisis",
         "url": "https://www.larepublica.co/economia/a-un-mes-del-terremoto-gobierno-expide-cascada-de-11-decretos-para-atender-la-crisis-4478593",
@@ -416,16 +423,16 @@
         "fecha_portada": "04/09/2026",
         "titulo_fuente": "Fondo Colombia en Paz movilizará US$135 millones para etapa de Colombia Sostenible",
         "capturado": "2026-09-04T20:59:42-05:00"
-      },
-      {
-        "titulo": "El presidente del Senado afirmó que impedirá la inasistencia de ministros a las discusiones del PGN",
-        "url": "https://www.larepublica.co/economia/presidente-del-senado-dijo-que-no-permitira-ausencia-de-ministros-en-debates-del-pgn-4474641",
-        "fecha_portada": "",
-        "titulo_fuente": "Presidente del Senado dijo que no permitirá ausencia de ministros en debates del PGN",
-        "capturado": "2026-09-04T20:59:42-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El Gobierno prepara un nuevo ETF de TES a corto plazo para aumentar las alternativas de inversión",
+        "url": "https://www.larepublica.co/finanzas/gobierno-alista-nuevo-etf-de-tes-de-corto-plazo-para-ampliar-opciones-de-inversion-4478749",
+        "fecha_portada": "10/09/2026",
+        "titulo_fuente": "Gobierno alista nuevo ETF de TES de corto plazo para ampliar opciones de inversión",
+        "capturado": "2026-09-10T13:34:28-05:00"
+      },
       {
         "titulo": "El dólar cambia su tendencia a la baja y se negocia $15 sobre la TRM",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-10-de-septiembre-de-2026-4478576",
