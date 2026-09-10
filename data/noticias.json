@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-10T16:14:57-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-10T18:15:41-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Gobierno propone proyecto de decreto para eliminar tope a inversiones de AFP en el extranjero",
+        "url": "https://www.larepublica.co/finanzas/gobierno-propone-eliminar-limite-de-30-a-inversiones-de-afp-en-el-exterior-4479004",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno presenta proyecto de decreto para derogar límite a inversiones de AFP en el exterior",
+        "capturado": "2026-09-10T18:15:41-05:00"
+      },
       {
         "titulo": "Asocapitales calcula que la reconstrucción de las ciudades podría costar hasta $21 billones",
         "url": "https://www.larepublica.co/economia/asocapitales-estima-que-reconstruccion-en-ciudades-podria-costar-hasta-21-billones-4478722",
@@ -416,16 +423,23 @@
         "fecha_portada": "04/09/2026",
         "titulo_fuente": "Araújo y Gaona asumieron como embajadores de Colombia en EE.UU. y ante la ONU",
         "capturado": "2026-09-04T20:59:42-05:00"
-      },
-      {
-        "titulo": "El Fondo Colombia en Paz destinará US$135 millones para la fase de Colombia Sostenible",
-        "url": "https://www.larepublica.co/economia/fondo-colombia-en-paz-movilizara-us-135-millones-para-nueva-etapa-de-colombia-sostenible-4474175",
-        "fecha_portada": "04/09/2026",
-        "titulo_fuente": "Fondo Colombia en Paz movilizará US$135 millones para etapa de Colombia Sostenible",
-        "capturado": "2026-09-04T20:59:42-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "GeoPark analiza una doble cotización en Colombia con el fin de incrementar su llegada a inversionistas",
+        "url": "https://www.larepublica.co/finanzas/geopark-evalua-un-dual-listing-en-colombia-para-ampliar-su-acceso-a-inversionistas-4479032",
+        "fecha_portada": "10/09/2026",
+        "titulo_fuente": "GeoPark evalúa un dual listing en Colombia para ampliar su acceso a inversionistas",
+        "capturado": "2026-09-10T18:15:41-05:00"
+      },
+      {
+        "titulo": "BTG Pactual introdujo Tevaicol, su primer ETF de las 13 acciones colombianas con mayor liquidez",
+        "url": "https://www.larepublica.co/finanzas/btg-pactual-lanzo-tevaicol-su-primer-etf-de-las-13-acciones-colombianas-mas-liquidas-4479027",
+        "fecha_portada": "",
+        "titulo_fuente": "BTG Pactual lanzó Tevaicol, su primer ETF de las 13 acciones colombianas más líquidas",
+        "capturado": "2026-09-10T18:15:41-05:00"
+      },
       {
         "titulo": "El Gobierno prepara un nuevo ETF de TES a corto plazo para aumentar las alternativas de inversión",
         "url": "https://www.larepublica.co/finanzas/gobierno-alista-nuevo-etf-de-tes-de-corto-plazo-para-ampliar-opciones-de-inversion-4478749",
