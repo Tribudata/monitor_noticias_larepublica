@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-10T01:41:43-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-10T06:53:42-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -405,6 +405,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El oro continúa cerca de US$4.400 a la expectativa de las tasas de interés de la Reserva Federal",
+        "url": "https://www.larepublica.co/finanzas/el-oro-se-mantiene-cerca-de-us-4-400-a-la-espera-de-las-tasas-de-interes-de-la-reserva-federal-4478546",
+        "fecha_portada": "10/09/2026",
+        "titulo_fuente": "El oro se mantiene cerca de US$4.400 a la espera de las tasas de interés de la Reserva Federal",
+        "capturado": "2026-09-10T06:53:42-05:00"
+      },
       {
         "titulo": "La BVC requiere un mayor número de inversionistas, emisores y un portafolio de productos más extenso",
         "url": "https://www.larepublica.co/finanzas/andres-restrepo-gerente-general-de-la-bolsa-de-valores-de-colombia-hablo-sobre-la-necesidad-de-un-mercado-mas-robusto-4478335",
