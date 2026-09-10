@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-10T06:53:42-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-10T10:16:10-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Al cumplirse un mes del sismo, el Gobierno emite 11 decretos para gestionar la crisis",
+        "url": "https://www.larepublica.co/economia/a-un-mes-del-terremoto-gobierno-expide-cascada-de-11-decretos-para-atender-la-crisis-4478593",
+        "fecha_portada": "10/09/2026",
+        "titulo_fuente": "A un mes del terremoto, gobierno expide cascada de 11 decretos para atender la crisis",
+        "capturado": "2026-09-10T10:16:10-05:00"
+      },
+      {
+        "titulo": "De la Espriella anunció acciones para financiar y gestionar la reconstrucción después del sismo",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncio-medidas-para-financiar-y-atender-la-reconstruccion-tras-el-sismo-4478615",
+        "fecha_portada": "",
+        "titulo_fuente": "De la Espriella anunció medidas para financiar y atender la reconstrucción tras el sismo",
+        "capturado": "2026-09-10T10:16:10-05:00"
+      },
+      {
+        "titulo": "Restrepo recorrió Armas, el corregimiento de Aguadas más afectado por el sismo",
+        "url": "https://www.larepublica.co/economia/restrepo-visito-armas-el-corregimiento-de-aguadas-mas-golpeado-por-el-terremoto-4478665",
+        "fecha_portada": "10/09/2026",
+        "titulo_fuente": "Restrepo visitó Armas, el corregimiento de Aguadas más golpeado por el terremoto",
+        "capturado": "2026-09-10T10:16:10-05:00"
+      },
+      {
+        "titulo": "MinHacienda dio vía libre a Bogotá para adquirir un crédito con KfW por US$81,4 millones",
+        "url": "https://www.larepublica.co/economia/minhacienda-autorizo-a-bogota-contratar-emprestito-con-el-kfw-por-us-81-4-millones-4478645",
+        "fecha_portada": "",
+        "titulo_fuente": "MinHacienda autorizó a Bogotá contratar empréstito con KfW por US$81,4 millones",
+        "capturado": "2026-09-10T10:16:10-05:00"
+      },
       {
         "titulo": "El Niño empujaría el costo de vida hasta el 7,3% al cierre de este año",
         "url": "https://www.larepublica.co/economia/fenomeno-de-el-nino-presionaria-la-inflacion-hasta-7-3-a-finales-de-este-ano-4478364",
@@ -395,16 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Presidente del Senado dijo que no permitirá ausencia de ministros en debates del PGN",
         "capturado": "2026-09-04T20:59:42-05:00"
-      },
-      {
-        "titulo": "Las comisiones suspenden la segunda jornada de discusión del PGN ante la inasistencia de ministros",
-        "url": "https://www.larepublica.co/economia/comisiones-suspenden-segundo-dia-de-debate-del-pgn-por-inasistencia-de-ministros-4472975",
-        "fecha_portada": "02/09/2026",
-        "titulo_fuente": "Comisiones suspenden segundo día de debate del PGN por inasistencia de ministros",
-        "capturado": "2026-09-04T20:59:42-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar cambia su tendencia a la baja y se negocia $15 sobre la TRM",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-10-de-septiembre-de-2026-4478576",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar revierte tendencia bajista y se cotiza $15 por encima de la TRM",
+        "capturado": "2026-09-10T10:16:10-05:00"
+      },
       {
         "titulo": "El oro continúa cerca de US$4.400 a la expectativa de las tasas de interés de la Reserva Federal",
         "url": "https://www.larepublica.co/finanzas/el-oro-se-mantiene-cerca-de-us-4-400-a-la-espera-de-las-tasas-de-interes-de-la-reserva-federal-4478546",
