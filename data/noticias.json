@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-11T01:08:57-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-11T06:34:04-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
       {
@@ -426,6 +426,20 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El valor del oro se eleva a US$4.360 la onza previo a la divulgación del IPC en EE.UU",
+        "url": "https://www.larepublica.co/finanzas/el-oro-sube-antes-de-la-publicacion-del-ipc-estadounidense-cotizando-a-us-4360-la-onza-4479380",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro sube antes de la publicación del IPC en EE.UU. hasta US$4.360 la onza",
+        "capturado": "2026-09-11T06:34:04-05:00"
+      },
+      {
+        "titulo": "¿Cómo se distribuye entre las comisionistas el monto negociado en renta variable?",
+        "url": "https://www.larepublica.co/finanzas/quien-es-quien-en-el-monto-negociado-en-renta-variable-entre-las-comisionistas-de-bolsa-4479168",
+        "fecha_portada": "",
+        "titulo_fuente": "¿Quién es quién en el monto negociado en renta variable entre las comisionistas?",
+        "capturado": "2026-09-11T06:34:04-05:00"
+      },
       {
         "titulo": "Grupo Sura avaló un plan de recompra de acciones por un monto de $500.000 millones",
         "url": "https://www.larepublica.co/finanzas/programa-de-readquisicion-de-acciones-del-grupo-sura-4479240",
