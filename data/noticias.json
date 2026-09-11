@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-11T10:17:49-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-11T13:40:02-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De la Espriella informó la asignación de $7.000 millones para viviendas en Quindío",
+        "url": "https://www.larepublica.co/especiales/catastrofe-nacional/de-la-espriella-anuncio-inversion-superior-a-7-000-millones-para-recuperar-369-viviendas-en-quindio-4479700",
+        "fecha_portada": "",
+        "titulo_fuente": "De la Espriella anunció inversión de $7.000 millones para viviendas en Quindío",
+        "capturado": "2026-09-11T13:40:02-05:00"
+      },
       {
         "titulo": "Carf solicita un ajuste creíble y requiere superávit de 2% del PIB para volver a la regla fiscal",
         "url": "https://www.larepublica.co/economia/carf-pide-plan-fiscal-convincente-se-requiere-superavit-de-2-del-pib-en-2028-para-retornar-a-la-regla-fiscal-4479418",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El Ministerio de Defensa rechazó el ataque contra Cantón Militar El Trapiche en Ocaña",
         "capturado": "2026-09-05T15:30:53-05:00"
-      },
-      {
-        "titulo": "Las remesas solo dinamizan el PIB en los departamentos que tienen mayor inclusión financiera",
-        "url": "https://www.larepublica.co/economia/remesas-solo-impulsan-el-pib-en-aquellos-departamentos-con-mas-inclusion-financiera-4474963",
-        "fecha_portada": "05/09/2026",
-        "titulo_fuente": "Remesas solo impulsan el PIB en aquellos departamentos con más inclusión financiera",
-        "capturado": "2026-09-05T00:53:39-05:00"
       }
     ],
     "Bolsas": [
