@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-10T18:15:41-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-10T20:13:41-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -426,6 +426,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Grupo Sura avaló un plan de recompra de acciones por un monto de $500.000 millones",
+        "url": "https://www.larepublica.co/finanzas/programa-de-readquisicion-de-acciones-del-grupo-sura-4479240",
+        "fecha_portada": "10/09/2026",
+        "titulo_fuente": "El Grupo Sura aprobó un programa de readquisición de acciones por $500.000 millones",
+        "capturado": "2026-09-10T20:13:41-05:00"
+      },
       {
         "titulo": "GeoPark analiza una doble cotización en Colombia con el fin de incrementar su llegada a inversionistas",
         "url": "https://www.larepublica.co/finanzas/geopark-evalua-un-dual-listing-en-colombia-para-ampliar-su-acceso-a-inversionistas-4479032",
