@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-11T20:16:32-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-12T00:56:44-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Carf duda de regresar a la regla fiscal en 2028 y solicita un ajuste más creíble",
+        "url": "https://www.larepublica.co/economia/carf-duda-sobre-retorno-a-la-regla-fiscal-en-2028-y-pide-hacer-un-ajuste-convincente-4480024",
+        "fecha_portada": "",
+        "titulo_fuente": "Carf duda sobre retorno a la regla fiscal en 2028 y pide hacer un ajuste más “convincente”",
+        "capturado": "2026-09-12T00:56:44-05:00"
+      },
       {
         "titulo": "De la Espriella informó la asignación de $7.000 millones para viviendas en Quindío",
         "url": "https://www.larepublica.co/especiales/catastrofe-nacional/de-la-espriella-anuncio-inversion-superior-a-7-000-millones-para-recuperar-369-viviendas-en-quindio-4479700",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/el-presidente-abelardo-de-la-espriella-anuncio-inversiones-para-la-reconstruccion-de-buga-4475442",
         "fecha_portada": "05/09/2026",
         "titulo_fuente": "El presidente Abelardo de la Espriella anunció inversiones para la reconstrucción de Buga",
-        "capturado": "2026-09-05T15:30:53-05:00"
-      },
-      {
-        "titulo": "El Ministerio de Defensa repudió la agresión contra el Cantón Militar El Trapiche en Ocaña",
-        "url": "https://www.asuntoslegales.com.co/actualidad/el-ministerio-de-defensa-rechazo-el-ataque-contra-canton-militar-el-trapiche-en-ocana-4475423",
-        "fecha_portada": "",
-        "titulo_fuente": "El Ministerio de Defensa rechazó el ataque contra Cantón Militar El Trapiche en Ocaña",
         "capturado": "2026-09-05T15:30:53-05:00"
       }
     ],
