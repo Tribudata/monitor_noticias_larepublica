@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-12T11:23:10-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-12T13:30:53-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Gobierno alista mesa de alto rango para destrabar las obras en el aeropuerto Rafael Núñez",
+        "url": "https://www.larepublica.co/economia/gobierno-prepara-mesa-para-obras-del-aeropuerto-rafael-nunez-4480444",
+        "fecha_portada": "12/09/2026",
+        "titulo_fuente": "Gobierno prepara mesa de alto nivel para destrabar obras del aeropuerto Rafael Núñez",
+        "capturado": "2026-09-12T13:30:53-05:00"
+      },
+      {
+        "titulo": "El Brics ratifica un pronunciamiento común y exhorta a la extrema mesura",
+        "url": "https://www.larepublica.co/globoeconomia/el-brics-aprueba-una-declaracion-conjunta-e-insta-a-la-maxima-moderacion-en-oriente-medio-4480414",
+        "fecha_portada": "",
+        "titulo_fuente": "El Brics aprueba una declaración conjunta e insta a la \"máxima moderación\"",
+        "capturado": "2026-09-12T13:30:53-05:00"
+      },
       {
         "titulo": "Carf duda de regresar a la regla fiscal en 2028 y solicita un ajuste más creíble",
         "url": "https://www.larepublica.co/economia/carf-duda-sobre-retorno-a-la-regla-fiscal-en-2028-y-pide-hacer-un-ajuste-convincente-4480024",
@@ -409,20 +423,6 @@
         "fecha_portada": "05/09/2026",
         "titulo_fuente": "Presidente anuncia medidas para acelerar reconstrucción de Cuarto de Legua, barrio de Cali",
         "capturado": "2026-09-05T19:01:18-05:00"
-      },
-      {
-        "titulo": "La Gobernación de Cundinamarca reportó que se presentan seis incendios forestales en el departamento",
-        "url": "https://www.larepublica.co/economia/gobernacion-de-cundinamarca-informo-que-hay-seis-incendios-forestales-en-el-departamento-4475513",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobernación de Cundinamarca informó que hay seis incendios forestales en el departamento",
-        "capturado": "2026-09-05T17:23:13-05:00"
-      },
-      {
-        "titulo": "El mandatario Abelardo de la Espriella comunicó la asignación de recursos para reconstruir Buga",
-        "url": "https://www.larepublica.co/economia/el-presidente-abelardo-de-la-espriella-anuncio-inversiones-para-la-reconstruccion-de-buga-4475442",
-        "fecha_portada": "05/09/2026",
-        "titulo_fuente": "El presidente Abelardo de la Espriella anunció inversiones para la reconstrucción de Buga",
-        "capturado": "2026-09-05T15:30:53-05:00"
       }
     ],
     "Bolsas": [
