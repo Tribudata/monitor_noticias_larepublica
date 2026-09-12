@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-12T04:48:55-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-12T08:11:20-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -426,6 +426,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Hoy en día el promedio de inversión de una persona en la bolsa de valores es de $1 millón",
+        "url": "https://www.larepublica.co/finanzas/una-persona-invierte-en-promedio-1-millon-en-la-bolsa-de-valores-actualmente-4480391",
+        "fecha_portada": "",
+        "titulo_fuente": "Una persona invierte en promedio $1 millón en la bolsa de valores actualmente",
+        "capturado": "2026-09-12T08:11:20-05:00"
+      },
       {
         "titulo": "La comisionista Progresión concluye ocho años de inversión en el Envigado Fútbol Club",
         "url": "https://www.larepublica.co/empresas/comisionista-progresion-cierra-ocho-anos-de-inversion-en-el-envigado-futbol-club-4479635",
