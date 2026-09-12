@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-12T08:11:20-05:00",
+  "actualizado": "2026-09-12T11:23:10-05:00",
   "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
@@ -426,6 +426,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "GEB se prepara para inscribirse ante la U.S. SEC y cotizar en la bolsa de valores de EE.UU",
+        "url": "https://www.larepublica.co/finanzas/geb-se-alista-para-registrarse-en-la-u-s-sec-y-listarse-en-la-bolsa-de-valores-de-ee-uu-4480407",
+        "fecha_portada": "",
+        "titulo_fuente": "GEB se alista para registrarse en la U.S. SEC y listarse en la bolsa de valores de EE.UU.",
+        "capturado": "2026-09-12T11:23:10-05:00"
+      },
       {
         "titulo": "Hoy en día el promedio de inversión de una persona en la bolsa de valores es de $1 millón",
         "url": "https://www.larepublica.co/finanzas/una-persona-invierte-en-promedio-1-millon-en-la-bolsa-de-valores-actualmente-4480391",
