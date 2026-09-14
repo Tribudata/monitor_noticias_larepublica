@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-14T01:29:25-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-14T08:09:44-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Las comisiones económicas votarán contra el tiempo el valor del presupuesto para 2027",
+        "url": "https://www.larepublica.co/economia/las-comisiones-economicas-votaran-a-contrarreloj-el-monto-del-presupuesto-de-2027-4480964",
+        "fecha_portada": "",
+        "titulo_fuente": "Las comisiones económicas votarán a contrarreloj el monto del presupuesto de 2027",
+        "capturado": "2026-09-14T08:09:44-05:00"
+      },
+      {
+        "titulo": "Recibimos un escenario fiscal muy delicado y deplorable que demanda acciones inmediatas",
+        "url": "https://www.larepublica.co/economia/el-presidente-abelardo-de-la-espriella-aseguro-que-recibio-unas-finanzas-publicas-en-estado-lamentable-4480963",
+        "fecha_portada": "",
+        "titulo_fuente": "\"Heredamos una situación fiscal muy crítica y lamentable que exige medidas urgentes\"",
+        "capturado": "2026-09-14T08:09:44-05:00"
+      },
       {
         "titulo": "Bernard Arnault sale del listado de multimillonarios y Gilinski se ubica en la posición 54",
         "url": "https://www.larepublica.co/globoeconomia/arnault-deja-el-top-de-multimillonarios-mientras-gilinski-alcanza-el-puesto-54-4480372",
@@ -409,23 +423,23 @@
         "fecha_portada": "07/09/2026",
         "titulo_fuente": "El precio del pollo asado subió 5,93% durante el último año y alcanzó promedio de $43.470",
         "capturado": "2026-09-07T01:13:01-05:00"
-      },
-      {
-        "titulo": "Los datos del mes inicial de la administración del presidente Abelardo De la Espriella",
-        "url": "https://www.larepublica.co/economia/las-cifras-detras-del-primer-mes-del-gobierno-del-presidente-abelardo-de-la-espriella-4475149",
-        "fecha_portada": "",
-        "titulo_fuente": "Las cifras detrás del primer mes del gobierno del presidente Abelardo De la Espriella",
-        "capturado": "2026-09-07T01:13:01-05:00"
-      },
-      {
-        "titulo": "Los colombianos requerirían percibir US$18.300 anuales para lograr el precio de la felicidad",
-        "url": "https://www.larepublica.co/globoeconomia/cuanto-dinero-se-necesita-realmente-para-ser-feliz-un-estudio-revela-el-precio-de-la-felicidad-en-50-paises-4475078",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "Colombianos necesitarían ganar US$18.300 al año para poder llegar al “precio de la felicidad”",
-        "capturado": "2026-09-07T01:13:01-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar inició la sesión al alza luego de conocerse el recorte del Presupuesto",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-14-de-septiembre-4481061",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del dólar abrió la jornada al alza en medio del anuncio del recorte de Presupuesto",
+        "capturado": "2026-09-14T08:09:44-05:00"
+      },
+      {
+        "titulo": "El oro bajó por crecientes apuestas de incrementos en las tasas de la Fed antes de su reunión",
+        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-crecientes-apuestas-al-alza-en-las-tasas-de-la-fed-antes-de-su-reunion-4480981",
+        "fecha_portada": "14/09/2026",
+        "titulo_fuente": "El oro cayó por crecientes apuestas al alza en las tasas de la Fed antes de su reunión",
+        "capturado": "2026-09-14T08:09:44-05:00"
+      },
       {
         "titulo": "En alrededor de 12 meses, Nuam ya funcionará como un mercado integrado",
         "url": "https://www.larepublica.co/finanzas/entrevista-a-juan-pablo-cordoba-ceo-de-nuam-sobre-la-integracion-de-los-mercados-4480853",
