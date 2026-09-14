@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-13T20:15:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-14T01:29:25-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Bernard Arnault sale del listado de multimillonarios y Gilinski se ubica en la posición 54",
+        "url": "https://www.larepublica.co/globoeconomia/arnault-deja-el-top-de-multimillonarios-mientras-gilinski-alcanza-el-puesto-54-4480372",
+        "fecha_portada": "",
+        "titulo_fuente": "Bernard Arnault deja el top de multimillonarios mientras Gilinski alcanza el puesto 54",
+        "capturado": "2026-09-14T01:29:25-05:00"
+      },
+      {
+        "titulo": "BNP Paribas estima un incremento económico de 2,5% y que la inflación terminaría en 6%",
+        "url": "https://www.larepublica.co/economia/bnp-paribas-proyecta-crecimiento-economico-de-2-5-e-inflacion-cerraria-en-6-4480178",
+        "fecha_portada": "14/09/2026",
+        "titulo_fuente": "BNP Paribas proyecta crecimiento económico de 2,5% e inflación cerraría en 6%",
+        "capturado": "2026-09-14T01:29:25-05:00"
+      },
+      {
+        "titulo": "El crecimiento se encuentra ligado a las redes de inteligencia artificial y a la tecnología",
+        "url": "https://www.larepublica.co/globoeconomia/el-crecimiento-global-esta-vinculado-a-las-cadenas-de-inteligencia-artificial-y-tecnologia-4480471",
+        "fecha_portada": "",
+        "titulo_fuente": "El crecimiento está vinculado a las cadenas de inteligencia artificial junto a la tecnología",
+        "capturado": "2026-09-14T01:29:25-05:00"
+      },
+      {
+        "titulo": "Se publicará el dato del ISE para julio; el mes previo, este indicador subió más de 3,5%",
+        "url": "https://www.larepublica.co/economia/se-conocera-el-resultado-del-ise-para-julio-el-mes-anterior-el-indicador-crecio-3-51-4480086",
+        "fecha_portada": "",
+        "titulo_fuente": "Se conocerá el resultado del ISE para julio; el mes anterior, el indicador creció más de 3,5%",
+        "capturado": "2026-09-14T01:29:25-05:00"
+      },
       {
         "titulo": "Superfinanciera ratificó la sanción a Coltefinanciera e impuso multa de $295,5 millones",
         "url": "https://www.larepublica.co/finanzas/superfinanciera-confirma-sancion-a-coltefinanciera-y-fija-multa-en-295-5-millones-4480533",
@@ -395,37 +423,16 @@
         "fecha_portada": "07/09/2026",
         "titulo_fuente": "Colombianos necesitarían ganar US$18.300 al año para poder llegar al “precio de la felicidad”",
         "capturado": "2026-09-07T01:13:01-05:00"
-      },
-      {
-        "titulo": "La tesorería de la Nación disminuyó de $23,7 billones a un mínimo de $6,8 billones durante agosto",
-        "url": "https://www.larepublica.co/economia/la-caja-de-la-nacion-cayo-de-23-7-billones-a-un-minimo-de-6-8-billones-en-agosto-4475127",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "La caja de la Nación cayó de $23,7 billones a un mínimo de $6,8 billones durante agosto",
-        "capturado": "2026-09-07T01:13:01-05:00"
-      },
-      {
-        "titulo": "El presidente De la Espriella y Marco Rubio tendrán un encuentro mañana en Barranquilla",
-        "url": "https://www.larepublica.co/economia/manana-se-reuniran-el-presidente-abelardo-de-la-espriella-y-marco-rubio-en-barranquilla-4474897",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "Mañana se reunirán el presidente De la Espriella y Marco Rubio en Barranquilla",
-        "capturado": "2026-09-07T01:13:01-05:00"
-      },
-      {
-        "titulo": "La cifra de muertos por el sismo sigue en 331 y la de lesionados en 4.505",
-        "url": "https://www.larepublica.co/especiales/catastrofe-nacional/cifra-de-fallecidos-por-el-terremoto-asciende-a-331-y-de-heridos-a-4-505-4475702",
-        "fecha_portada": "06/09/2026",
-        "titulo_fuente": "Número de fallecidos por el terremoto se mantiene en 331 y de heridos en 4.505",
-        "capturado": "2026-09-06T16:46:57-05:00"
-      },
-      {
-        "titulo": "BlackRock y JPMorgan prefieren mercados emergentes ante el hundimiento de los bonos",
-        "url": "https://www.larepublica.co/globoeconomia/blackrock-y-jpmorgan-apuestan-por-los-mercados-emergentes-entre-ellos-colombia-4475600",
-        "fecha_portada": "06/09/2026",
-        "titulo_fuente": "BlackRock y JPMorgan apuestan por los mercados emergentes por desplome de bonos",
-        "capturado": "2026-09-06T12:48:25-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "En alrededor de 12 meses, Nuam ya funcionará como un mercado integrado",
+        "url": "https://www.larepublica.co/finanzas/entrevista-a-juan-pablo-cordoba-ceo-de-nuam-sobre-la-integracion-de-los-mercados-4480853",
+        "fecha_portada": "14/09/2026",
+        "titulo_fuente": "“Aproximadamente en 12 meses, Nuam ya estará operando como un mercado integrado”",
+        "capturado": "2026-09-14T01:29:25-05:00"
+      },
       {
         "titulo": "GEB se prepara para inscribirse ante la U.S. SEC y cotizar en la bolsa de valores de EE.UU",
         "url": "https://www.larepublica.co/finanzas/geb-se-alista-para-registrarse-en-la-u-s-sec-y-listarse-en-la-bolsa-de-valores-de-ee-uu-4480407",
