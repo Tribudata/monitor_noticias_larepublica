@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-14T13:44:14-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-14T17:09:21-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La emisión de títulos TES en el mercado local creció $132 billones en el último año",
+        "url": "https://www.larepublica.co/economia/colocacion-de-tes-en-el-mercado-interno-aumento-132-billones-desde-septiembre-de-2025-4481166",
+        "fecha_portada": "",
+        "titulo_fuente": "Colocación de títulos TES en el mercado interno aumentó $132 billones en el último año",
+        "capturado": "2026-09-14T17:09:21-05:00"
+      },
+      {
+        "titulo": "Mañana comenzará la segunda y final discusión para aprobar la tributaria de Bogotá",
+        "url": "https://www.larepublica.co/economia/manana-iniciara-el-segundo-y-ultimo-debate-para-aprobar-la-tributaria-de-bogota-4481291",
+        "fecha_portada": "",
+        "titulo_fuente": "Mañana iniciará el segundo y último debate para aprobar la tributaria de Bogotá",
+        "capturado": "2026-09-14T17:09:21-05:00"
+      },
       {
         "titulo": "Las comisiones económicas votarán contra el tiempo el valor del presupuesto para 2027",
         "url": "https://www.larepublica.co/economia/las-comisiones-economicas-votaran-a-contrarreloj-el-monto-del-presupuesto-de-2027-4480964",
@@ -409,23 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "Estos son los tiempos que tendrá Bogotá para discutir y aprobar la reforma tributaria",
         "capturado": "2026-09-07T07:47:51-05:00"
-      },
-      {
-        "titulo": "Se oficializó el nombramiento de Alejandro Ordóñez como embajador ante la OEA",
-        "url": "https://www.larepublica.co/economia/alejandro-ordonez-fue-designado-oficialmente-como-embajador-ante-la-oea-4475898",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "Alejandro Ordóñez fue designado oficialmente como embajador ante la OEA",
-        "capturado": "2026-09-07T07:47:51-05:00"
-      },
-      {
-        "titulo": "El valor del pollo asado se incrementó 5,93% en el año reciente y llegó a una media de $43.470",
-        "url": "https://www.larepublica.co/economia/precio-del-pollo-asado-subio-5-93-en-el-ultimo-ano-y-alcanzo-promedio-de-43-470-4475020",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "El precio del pollo asado subió 5,93% durante el último año y alcanzó promedio de $43.470",
-        "capturado": "2026-09-07T01:13:01-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Títulos globales descienden por advertencias sobre la inteligencia artificial y el incremento del crudo",
+        "url": "https://www.larepublica.co/globoeconomia/las-acciones-globales-caen-por-alertas-sobre-la-inteligencia-artificial-y-alza-del-petroleo-4481170",
+        "fecha_portada": "14/09/2026",
+        "titulo_fuente": "Las acciones globales caen por alertas sobre la inteligencia artificial y alza del petróleo",
+        "capturado": "2026-09-14T17:09:21-05:00"
+      },
+      {
+        "titulo": "Mineros ingresará a cuatro índices y busca incrementar la demanda de sus títulos",
+        "url": "https://www.larepublica.co/finanzas/mineros-entrara-a-cuatro-indices-y-apunta-a-mayor-demanda-por-sus-acciones-4481125",
+        "fecha_portada": "",
+        "titulo_fuente": "Mineros entrará a cuatro índices y apunta a aumentar la demanda por sus acciones",
+        "capturado": "2026-09-14T17:09:21-05:00"
+      },
       {
         "titulo": "El dólar inició la sesión al alza luego de conocerse el recorte del Presupuesto",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-14-de-septiembre-4481061",
