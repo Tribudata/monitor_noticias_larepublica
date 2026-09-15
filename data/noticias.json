@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-15T14:06:06-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-15T17:21:05-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Fitch considera que decretos de emergencia no afectarán notas locales y regionales",
+        "url": "https://www.larepublica.co/economia/fitch-no-cree-que-decretos-de-emergencia-afecten-notas-locales-y-regionales-4482318",
+        "fecha_portada": "15/09/2026",
+        "titulo_fuente": "Fitch no cree que decretos de emergencia afecten notas locales y regionales",
+        "capturado": "2026-09-15T17:21:05-05:00"
+      },
       {
         "titulo": "Debemos acudir al mercado para obtener $88 billones mediante financiamiento externo",
         "url": "https://www.larepublica.co/economia/entrevista-con-miguel-gomez-ministro-de-hacienda-sobre-la-presentacion-del-presupuesto-de-2027-4480956",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/inflacion-se-acelero-a-6-24-en-agosto-impulsada-por-alojamiento-y-servicios-4476593",
         "fecha_portada": "07/09/2026",
         "titulo_fuente": "Inflación se aceleró a 6,24% en agosto impulsada por alojamiento y servicios",
-        "capturado": "2026-09-07T18:36:14-05:00"
-      },
-      {
-        "titulo": "Desbalance comercial con China ya roza los US$20.000 millones, el más elevado de Sudamérica",
-        "url": "https://www.larepublica.co/economia/deficit-comercial-con-china-ya-ronda-los-us-20-000-millones-el-mayor-de-suramerica-4476493",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "Déficit comercial con China ya ronda los US$20.000 millones, el mayor de Suramérica",
         "capturado": "2026-09-07T18:36:14-05:00"
       }
     ],
