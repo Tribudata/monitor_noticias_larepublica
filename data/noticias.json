@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-14T19:42:30-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-15T00:30:33-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Debemos acudir al mercado para obtener $88 billones mediante financiamiento externo",
+        "url": "https://www.larepublica.co/economia/entrevista-con-miguel-gomez-ministro-de-hacienda-sobre-la-presentacion-del-presupuesto-de-2027-4480956",
+        "fecha_portada": "",
+        "titulo_fuente": "“Tenemos que salir al mercado para conseguir $88 billones a través de crédito externo”",
+        "capturado": "2026-09-15T00:30:33-05:00"
+      },
+      {
+        "titulo": "Escocia, Gales e Irlanda del Norte retan al Reino Unido y reactivan la discusión sobre su autonomía",
+        "url": "https://www.larepublica.co/globoeconomia/escocia-gales-e-irlanda-del-norte-desafian-al-reino-unido-y-reavivan-debate-sobre-autonomia-4481476",
+        "fecha_portada": "",
+        "titulo_fuente": "Escocia, Gales e Irlanda del Norte desafían al Reino Unido; reavivan debate de autonomía",
+        "capturado": "2026-09-15T00:30:33-05:00"
+      },
+      {
+        "titulo": "El Gobierno Nacional aprobó la cifra del presupuesto para 2027 por un valor de $634,9 billones",
+        "url": "https://www.larepublica.co/economia/gobierno-le-dio-luz-verde-al-monto-del-presupuesto-de-2027-por-634-9-billones-4481676",
+        "fecha_portada": "15/09/2026",
+        "titulo_fuente": "Gobierno Nacional le dio luz verde al monto del presupuesto de 2027 por $634,9 billones",
+        "capturado": "2026-09-15T00:30:33-05:00"
+      },
       {
         "titulo": "Tras la marcha de Valencia, la permanencia promedio de un director del Dane es de 33 meses",
         "url": "https://www.larepublica.co/economia/tras-la-salida-de-valencia-un-director-del-dane-dura-33-meses-en-promedio-4481647",
@@ -402,27 +423,6 @@
         "fecha_portada": "07/09/2026",
         "titulo_fuente": "Déficit comercial con China ya ronda los US$20.000 millones, el mayor de Suramérica",
         "capturado": "2026-09-07T18:36:14-05:00"
-      },
-      {
-        "titulo": "El Emisor adquirió de manera definitiva TES B en el mercado por $1,5 billones",
-        "url": "https://www.larepublica.co/economia/emisor-efectuo-compras-definitivas-de-tes-b-en-el-mercado-por-1-5-billones-4476286",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "Emisor efectuó compras definitivas de TES B en el mercado por $1,5 billones",
-        "capturado": "2026-09-07T16:00:26-05:00"
-      },
-      {
-        "titulo": "Déficit fiscal terminó la primera mitad del año en 3,3% del PIB, lo que representa $66 billones",
-        "url": "https://www.larepublica.co/economia/deficit-fiscal-cerro-el-primer-semestre-en-3-3-del-pib-equivale-a-66-billones-4475928",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "Déficit fiscal cerró el primer semestre en 3,3% del PIB, equivale a $66 billones",
-        "capturado": "2026-09-07T12:58:01-05:00"
-      },
-      {
-        "titulo": "Miguel Gómez arribó al encuentro con los presidentes de las Comisiones Económicas",
-        "url": "https://www.larepublica.co/economia/ministro-miguel-gomez-se-reune-con-los-presidentes-de-las-comisiones-economicas-4476085",
-        "fecha_portada": "",
-        "titulo_fuente": "Miguel Gómez llegó a la reunión con los presidentes de las Comisiones Económicas",
-        "capturado": "2026-09-07T12:58:01-05:00"
       }
     ],
     "Bolsas": [
