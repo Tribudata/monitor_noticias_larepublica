@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-15T05:31:30-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-15T10:18:15-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
       {
@@ -426,6 +426,27 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar registra pérdidas en medio de la expectativa por las tasas de la FED",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-15-de-septiembre-de-2026-4481924",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar se cotiza a la baja en medio de expectativas por tasas de la FED",
+        "capturado": "2026-09-15T10:18:15-05:00"
+      },
+      {
+        "titulo": "Los títulos bursátiles caen al tiempo que el petróleo incrementa la presión sobre los bonos",
+        "url": "https://www.larepublica.co/globoeconomia/acciones-retroceden-mientras-el-petroleo-impulsa-la-presion-sobre-los-bonos-4482108",
+        "fecha_portada": "15/09/2026",
+        "titulo_fuente": "Las acciones retroceden mientras el petróleo impulsa la presión sobre los bonos",
+        "capturado": "2026-09-15T10:18:15-05:00"
+      },
+      {
+        "titulo": "El oro desciende de los US$4.300 al tiempo que el petróleo continúa al alza por cifras del Tesoro",
+        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-debajo-de-us-4-300-mientras-el-petroleo-esta-al-alza-4481838",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro cae por debajo de US$4.300 mientras el petróleo se mantiene al alza por datos del Tesoro",
+        "capturado": "2026-09-15T10:18:15-05:00"
+      },
       {
         "titulo": "La inquietud por el alza de tasas de la Reserva Federal incrementó $37 al dólar en un solo día",
         "url": "https://www.larepublica.co/finanzas/temor-a-subida-de-tasas-de-la-fed-sumo-37-al-dolar-en-un-dia-4481666",
