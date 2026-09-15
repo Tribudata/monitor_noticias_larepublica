@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-14T17:09:21-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-14T19:42:30-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Tras la marcha de Valencia, la permanencia promedio de un director del Dane es de 33 meses",
+        "url": "https://www.larepublica.co/economia/tras-la-salida-de-valencia-un-director-del-dane-dura-33-meses-en-promedio-4481647",
+        "fecha_portada": "14/09/2026",
+        "titulo_fuente": "Con la salida de Valencia, un director del Dane dura 33 meses en promedio",
+        "capturado": "2026-09-14T19:42:30-05:00"
+      },
       {
         "titulo": "La emisión de títulos TES en el mercado local creció $132 billones en el último año",
         "url": "https://www.larepublica.co/economia/colocacion-de-tes-en-el-mercado-interno-aumento-132-billones-desde-septiembre-de-2025-4481166",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Miguel Gómez llegó a la reunión con los presidentes de las Comisiones Económicas",
         "capturado": "2026-09-07T12:58:01-05:00"
-      },
-      {
-        "titulo": "Conozca los plazos que tendrá Bogotá para debatir y aprobar la reforma tributaria",
-        "url": "https://www.larepublica.co/economia/estos-son-los-tiempos-que-tendra-bogota-para-discutir-y-aprobar-la-reforma-tributaria-4475866",
-        "fecha_portada": "",
-        "titulo_fuente": "Estos son los tiempos que tendrá Bogotá para discutir y aprobar la reforma tributaria",
-        "capturado": "2026-09-07T07:47:51-05:00"
       }
     ],
     "Bolsas": [
