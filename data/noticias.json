@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-16T13:56:41-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-16T16:48:09-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El sector eléctrico impulsó un incremento del 1,5% en la producción industrial entre enero y julio",
+        "url": "https://www.larepublica.co/economia/produccion-industrial-crecio-1-5-de-enero-a-julio-jalonada-por-sector-electrico-4483045",
+        "fecha_portada": "",
+        "titulo_fuente": "Producción Industrial creció 1,5% de enero a julio, jalonada por sector eléctrico",
+        "capturado": "2026-09-16T16:48:09-05:00"
+      },
+      {
+        "titulo": "La Andi indicó que el avance de la industria manufacturera es moderado",
+        "url": "https://www.larepublica.co/economia/andi-advirtio-que-el-crecimiento-de-la-industria-manufacturera-es-moderado-4483196",
+        "fecha_portada": "16/09/2026",
+        "titulo_fuente": "Andi advirtió que el crecimiento de la industria manufacturera es \"moderado\"",
+        "capturado": "2026-09-16T16:48:09-05:00"
+      },
+      {
+        "titulo": "De la Espriella y la presidente de Costa Rica dialogarán sobre seguridad en Barranquilla",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-y-la-presidente-de-costa-rica-hablaran-seguridad-en-barranquilla-4483174",
+        "fecha_portada": "",
+        "titulo_fuente": "De la Espriella y la presidente de Costa Rica hablarán de seguridad en Barranquilla",
+        "capturado": "2026-09-16T16:48:09-05:00"
+      },
       {
         "titulo": "ICP afirma que el saldo negativo de 2027 disminuirá con una corrección impositiva del 1,4% del PIB",
         "url": "https://www.larepublica.co/economia/icp-dice-que-el-deficit-de-2027-mejorara-si-se-logra-un-ajuste-tributario-de-1-4-del-pib-4482843",
@@ -402,27 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Deuda bruta alcanzó niveles de $1.160 billones a cierre de julio, equivale a 60,1% del PIB",
         "capturado": "2026-09-08T13:50:26-05:00"
-      },
-      {
-        "titulo": "Canciller afirmó que cita con Rubio ayudará a recomponer la alianza con EE.UU.",
-        "url": "https://www.larepublica.co/economia/canciller-bula-dijo-que-reunion-con-rubio-servira-para-reconstruir-la-alianza-con-ee-uu-4476781",
-        "fecha_portada": "08/09/2026",
-        "titulo_fuente": "Canciller dijo que reunión con Rubio servirá para reconstruir la alianza con EE.UU.",
-        "capturado": "2026-09-08T06:47:39-05:00"
-      },
-      {
-        "titulo": "Marco Rubio arriba a Barranquilla para debatir sobre una relación bilateral de US$31.000 millones",
-        "url": "https://www.larepublica.co/economia/marco-rubio-llega-a-barranquilla-a-discutir-una-relacion-binacional-de-us-31-000-millones-4476786",
-        "fecha_portada": "",
-        "titulo_fuente": "Marco Rubio llega a Barranquilla a discutir una relación binacional de US$31.000 millones",
-        "capturado": "2026-09-08T06:47:39-05:00"
-      },
-      {
-        "titulo": "Hospedaje y comida elevaron el costo de vida en el octavo mes de este año",
-        "url": "https://www.larepublica.co/economia/alojamiento-y-alimentos-presionaron-el-costo-de-vida-en-el-octavo-mes-del-ano-4476655",
-        "fecha_portada": "",
-        "titulo_fuente": "Alojamiento y alimentos presionaron el costo de vida en el octavo mes de este curso",
-        "capturado": "2026-09-08T01:35:11-05:00"
       }
     ],
     "Bolsas": [
