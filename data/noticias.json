@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-16T05:05:44-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-16T10:03:01-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "ICP afirma que el saldo negativo de 2027 disminuirá con una corrección impositiva del 1,4% del PIB",
+        "url": "https://www.larepublica.co/economia/icp-dice-que-el-deficit-de-2027-mejorara-si-se-logra-un-ajuste-tributario-de-1-4-del-pib-4482843",
+        "fecha_portada": "16/09/2026",
+        "titulo_fuente": "ICP dice que el déficit de 2027 mejorará si se logra un ajuste tributario de 1,4% del PIB",
+        "capturado": "2026-09-16T10:03:01-05:00"
+      },
+      {
+        "titulo": "La Ungrd comenzó el desembolso de la ayuda financiera habitacional en Buenaventura y Roldanillo",
+        "url": "https://www.larepublica.co/economia/ungrd-inicio-pago-de-apoyo-economico-de-vivienda-en-buenaventura-y-roldanillo-4482736",
+        "fecha_portada": "16/09/2026",
+        "titulo_fuente": "Ungrd inició pago de apoyo económico de vivienda en Buenaventura y Roldanillo",
+        "capturado": "2026-09-16T10:03:01-05:00"
+      },
+      {
+        "titulo": "Araújo estableció sus asuntos prioritarios como embajadora de Colombia en Estados Unidos",
+        "url": "https://www.larepublica.co/economia/araujo-definio-sus-prioridades-como-embajadora-de-colombia-en-estados-unidos-4482758",
+        "fecha_portada": "16/09/2026",
+        "titulo_fuente": "Araújo definió sus prioridades como embajadora de Colombia en Estados Unidos",
+        "capturado": "2026-09-16T10:03:01-05:00"
+      },
       {
         "titulo": "Colombia pierde terreno en innovación y se distancia del grupo líder de América Latina",
         "url": "https://www.larepublica.co/globoeconomia/colombia-retrocede-en-innovacion-y-se-aleja-del-grupo-lider-de-america-latina-4482399",
@@ -402,30 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "Alojamiento y alimentos presionaron el costo de vida en el octavo mes de este curso",
         "capturado": "2026-09-08T01:35:11-05:00"
-      },
-      {
-        "titulo": "Déficit de la primera mitad del año alcanzó $66 billones y 3,3% del Producto Interno Bruto",
-        "url": "https://www.larepublica.co/economia/deficit-del-primer-semestre-del-ano-llego-hasta-66-billones-y-3-3-del-pib-4476467",
-        "fecha_portada": "",
-        "titulo_fuente": "Déficit del primer semestre del año llegó hasta $66 billones y 3,3% del Producto Interno Bruto",
-        "capturado": "2026-09-08T01:35:11-05:00"
-      },
-      {
-        "titulo": "Donald Trump muestra un mapa de Estados Unidos con Canadá, México y el Caribe incorporados",
-        "url": "https://www.larepublica.co/globoeconomia/donald-trump-presenta-mapa-de-estados-unidos-con-canada-mexico-y-caribe-agregados-4476430",
-        "fecha_portada": "08/09/2026",
-        "titulo_fuente": "Donald Trump presenta mapa de Estados Unidos con Canadá, México y Caribe agregados",
-        "capturado": "2026-09-08T01:35:11-05:00"
-      },
-      {
-        "titulo": "En cuatro años aumentó 374% la cantidad de colombianos declarados en bancarrota",
-        "url": "https://www.larepublica.co/finanzas/en-cuatro-anos-hubo-un-alza-de-374-de-los-colombianos-que-se-declararon-en-quiebra-4476509",
-        "fecha_portada": "08/09/2026",
-        "titulo_fuente": "En cuatro años hubo un alza de 374% entre los colombianos que se han declarado en quiebra",
-        "capturado": "2026-09-08T01:35:11-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Cotización del dólar aumenta a la expectativa por la determinación de tasas de la Reserva Federal",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-16-de-septiembre-4482793",
+        "fecha_portada": "",
+        "titulo_fuente": "Precio del dólar se cotiza al alza a la espera de la decisión de tasas de la Reserva Federal",
+        "capturado": "2026-09-16T10:03:01-05:00"
+      },
+      {
+        "titulo": "El oro aumenta ante la baja del dólar y el crudo, previo a la decisión de tasas de la Reserva Federal",
+        "url": "https://www.larepublica.co/finanzas/el-oro-sube-por-caida-de-dolar-y-crudo-antes-de-decision-de-la-reserva-federal-sobre-tasas-4482730",
+        "fecha_portada": "16/09/2026",
+        "titulo_fuente": "El oro sube por caída de dólar y crudo, antes de decisión de la Reserva Federal sobre tasas",
+        "capturado": "2026-09-16T10:03:01-05:00"
+      },
       {
         "titulo": "Lvmh, que en su momento fue la mayor firma bursátil de Europa, quedó fuera de las 10 de más valor",
         "url": "https://www.larepublica.co/ocio/lvmh-que-alguna-vez-fue-la-mayor-empresa-bursatil-de-europa-salio-del-top-10-por-valor-4482490",
