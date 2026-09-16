@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-16T16:48:09-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-16T18:55:11-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -426,6 +426,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Wall Street y los bonos del Tesoro registran alzas previo a la determinación de la Reserva Federal",
+        "url": "https://www.larepublica.co/globoeconomia/wall-street-y-treasuries-avanzan-antes-de-la-decision-de-la-reserva-federal-4482914",
+        "fecha_portada": "",
+        "titulo_fuente": "Wall Street y los bonos del Tesoro suben antes de la decisión de la Reserva Federal",
+        "capturado": "2026-09-16T18:55:11-05:00"
+      },
       {
         "titulo": "Cotización del dólar aumenta a la expectativa por la determinación de tasas de la Reserva Federal",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-16-de-septiembre-4482793",
