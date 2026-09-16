@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-15T17:21:05-05:00",
+  "actualizado": "2026-09-15T19:32:31-05:00",
   "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
@@ -426,6 +426,13 @@
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Lvmh, que en su momento fue la mayor firma bursátil de Europa, quedó fuera de las 10 de más valor",
+        "url": "https://www.larepublica.co/ocio/lvmh-que-alguna-vez-fue-la-mayor-empresa-bursatil-de-europa-salio-del-top-10-por-valor-4482490",
+        "fecha_portada": "15/09/2026",
+        "titulo_fuente": "Lvmh, que alguna vez fue la mayor empresa bursátil de Europa, salió del Top 10 por valor",
+        "capturado": "2026-09-15T19:32:31-05:00"
+      },
       {
         "titulo": "El dólar registra pérdidas en medio de la expectativa por las tasas de la FED",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-15-de-septiembre-de-2026-4481924",
