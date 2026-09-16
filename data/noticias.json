@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-15T19:32:31-05:00",
+  "actualizado": "2026-09-16T00:23:02-05:00",
   "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Colombia pierde terreno en innovación y se distancia del grupo líder de América Latina",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-retrocede-en-innovacion-y-se-aleja-del-grupo-lider-de-america-latina-4482399",
+        "fecha_portada": "16/09/2026",
+        "titulo_fuente": "Colombia retrocede en innovación y se aleja del grupo líder dentro de América Latina",
+        "capturado": "2026-09-16T00:23:02-05:00"
+      },
       {
         "titulo": "Fitch considera que decretos de emergencia no afectarán notas locales y regionales",
         "url": "https://www.larepublica.co/economia/fitch-no-cree-que-decretos-de-emergencia-afecten-notas-locales-y-regionales-4482318",
@@ -416,13 +423,6 @@
         "fecha_portada": "08/09/2026",
         "titulo_fuente": "En cuatro años hubo un alza de 374% entre los colombianos que se han declarado en quiebra",
         "capturado": "2026-09-08T01:35:11-05:00"
-      },
-      {
-        "titulo": "La inflación subió a 6,24% en agosto empujada por los rubros de alojamiento y servicios",
-        "url": "https://www.larepublica.co/economia/inflacion-se-acelero-a-6-24-en-agosto-impulsada-por-alojamiento-y-servicios-4476593",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "Inflación se aceleró a 6,24% en agosto impulsada por alojamiento y servicios",
-        "capturado": "2026-09-07T18:36:14-05:00"
       }
     ],
     "Bolsas": [
