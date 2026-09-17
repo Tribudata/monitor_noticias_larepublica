@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-17T12:09:23-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-17T15:24:33-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Banco de la República incrementó su proyección de inflación y ahora la prevé próxima al 7%",
+        "url": "https://www.larepublica.co/economia/banco-de-la-republica-elevo-su-pronostico-de-inflacion-ahora-la-ve-cerca-de-7-4484005",
+        "fecha_portada": "17/09/2026",
+        "titulo_fuente": "Banco de la República elevó su pronóstico de inflación, ahora la ve cerca de 7%",
+        "capturado": "2026-09-17T15:24:33-05:00"
+      },
+      {
+        "titulo": "MinHacienda expuso en Nueva York la propuesta del Presupuesto General para 2027",
+        "url": "https://www.larepublica.co/economia/minhacienda-presento-en-nueva-york-el-proyecto-de-presupuesto-general-4484598",
+        "fecha_portada": "",
+        "titulo_fuente": "MinHacienda presentó en Nueva York el proyecto de Presupuesto General para 2027",
+        "capturado": "2026-09-17T15:24:33-05:00"
+      },
       {
         "titulo": "Corficolombiana prevé un aumento del ISE de 0,3% para julio, el menor registro del año",
         "url": "https://www.larepublica.co/economia/corficolombiana-estima-que-crecimiento-del-ise-sea-de-0-3-en-julio-el-mas-bajo-del-ano-4483696",
@@ -409,20 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "\"Relación de seguridad entre EE.UU. y Colombia no va a ser igual que antes, será mejor\"",
         "capturado": "2026-09-09T11:00:08-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá alerta que el PGN plantea el panorama más negativo con un déficit fiscal de 9,4%",
-        "url": "https://www.larepublica.co/economia/banco-de-bogota-advierte-que-pgn-sugiere-el-peor-escenario-con-deficit-fiscal-en-9-4-4477729",
-        "fecha_portada": "09/09/2026",
-        "titulo_fuente": "Banco de Bogotá advierte que PGN sugiere el peor escenario con déficit fiscal en 9,4%",
-        "capturado": "2026-09-09T11:00:08-05:00"
-      },
-      {
-        "titulo": "A US$247.908 millones llegó la deuda externa en junio, lo que equivale al 48,6% del PIB",
-        "url": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-247-908-millones-en-junio-equivalente-a-48-6-del-pib-4477691",
-        "fecha_portada": "09/09/2026",
-        "titulo_fuente": "Deuda externa alcanzó US$247.908 millones en junio, equivalente a 48,6% del PIB",
-        "capturado": "2026-09-09T06:59:58-05:00"
       }
     ],
     "Bolsas": [
