@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-17T15:24:33-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-17T17:55:17-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Gobierno destinará $7.500 millones para obras de agua potable en La Guajira",
+        "url": "https://www.larepublica.co/economia/gobierno-invertira-en-proyectos-de-agua-potable-de-7-500-millones-en-la-guajira-4484622",
+        "fecha_portada": "17/09/2026",
+        "titulo_fuente": "Gobierno invertirá en proyectos de agua potable de $7.500 millones en La Guajira",
+        "capturado": "2026-09-17T17:55:17-05:00"
+      },
       {
         "titulo": "Banco de la República incrementó su proyección de inflación y ahora la prevé próxima al 7%",
         "url": "https://www.larepublica.co/economia/banco-de-la-republica-elevo-su-pronostico-de-inflacion-ahora-la-ve-cerca-de-7-4484005",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/fedesarrollo-anuncio-que-indice-de-incertidumbre-economica-bajo-a-194-en-agosto-4477940",
         "fecha_portada": "09/09/2026",
         "titulo_fuente": "Índice de Incertidumbre de la Política Económica bajó a 194 en agosto",
-        "capturado": "2026-09-09T11:00:08-05:00"
-      },
-      {
-        "titulo": "El vínculo de seguridad entre EE.UU. y Colombia no será como antes, sino que mejorará",
-        "url": "https://www.larepublica.co/economia/entrevista-con-marco-rubio-secretario-de-estado-de-ee-uu-sobre-las-relaciones-con-colombia-4477735",
-        "fecha_portada": "",
-        "titulo_fuente": "\"Relación de seguridad entre EE.UU. y Colombia no va a ser igual que antes, será mejor\"",
         "capturado": "2026-09-09T11:00:08-05:00"
       }
     ],
