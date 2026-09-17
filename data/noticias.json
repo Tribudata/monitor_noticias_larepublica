@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-16T20:54:52-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-17T01:48:48-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Reserva Federal de EE.UU. comienza a subir sus tasas de interés por presiones en el costo de vida",
+        "url": "https://www.larepublica.co/globoeconomia/reserva-federal-de-ee-uu-inicia-ciclo-de-alzas-de-tasas-ante-presion-sobre-costo-de-vida-4483424",
+        "fecha_portada": "",
+        "titulo_fuente": "Reserva Federal de EE.UU. inicia ciclo de alzas de tasas ante presión sobre costo de vida",
+        "capturado": "2026-09-17T01:48:48-05:00"
+      },
+      {
+        "titulo": "Los TES se acercan al 13% luego de aprobarse el monto del presupuesto récord para 2027",
+        "url": "https://www.larepublica.co/economia/tes-rozan-13-tras-luz-verde-al-monto-del-presupuesto-record-para-2027-4483396",
+        "fecha_portada": "17/09/2026",
+        "titulo_fuente": "Los TES rozan 13% tras la aprobación al monto del presupuesto récord para 2027",
+        "capturado": "2026-09-17T01:48:48-05:00"
+      },
       {
         "titulo": "Administración De La Espriella nombraría a Lucas Eduardo Ariza para liderar Indumil",
         "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-designaria-a-lucas-eduardo-ariza-al-frente-de-indumil-4483467",
@@ -409,23 +423,23 @@
         "fecha_portada": "08/09/2026",
         "titulo_fuente": "Concejal pidió archivar reforma tributaria de Galán por presuntos vicios de trámite",
         "capturado": "2026-09-08T18:31:22-05:00"
-      },
-      {
-        "titulo": "La Asociación Nacional de Empresarios seleccionó su mesa directiva para el lapso 2026-2027",
-        "url": "https://www.larepublica.co/empresas/mesa-directiva-de-la-andi-periodo-2026-2027-4477254",
-        "fecha_portada": "",
-        "titulo_fuente": "La Asociación Nacional de Empresarios eligió a su mesa directiva para el periodo 2026-2027",
-        "capturado": "2026-09-08T16:29:16-05:00"
-      },
-      {
-        "titulo": "Gobierno Nacional retiró la suspensión general al porte de armas de fuego en el país",
-        "url": "https://www.agronegocios.co/finca/gobierno-nacional-levanto-la-suspension-general-del-porte-de-armas-de-fuego-en-el-pais-4477017",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno Nacional levantó la suspensión general del porte de armas de fuego en el país",
-        "capturado": "2026-09-08T13:50:26-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Dale! proyecta que el 30% de sus usuarios utilicen la cuenta en dólares y euros en tres años",
+        "url": "https://www.larepublica.co/finanzas/dale-busca-que-30-de-sus-clientes-usen-la-cuenta-de-dolares-y-euros-en-tres-anos-4482808",
+        "fecha_portada": "17/09/2026",
+        "titulo_fuente": "Dale! busca que 30% de sus clientes usen la cuenta de dólares y euros en tres años",
+        "capturado": "2026-09-17T01:48:48-05:00"
+      },
+      {
+        "titulo": "Nuam comunicó el inicio de funciones de la plataforma seon en el mercado de valores peruano",
+        "url": "https://www.larepublica.co/finanzas/nuam-anuncio-la-entrada-en-operacion-de-la-plataforma-seon-en-el-mercado-bursatil-peruano-4483419",
+        "fecha_portada": "",
+        "titulo_fuente": "Nuam anunció la entrada en operación de la plataforma seon en el mercado bursátil peruano",
+        "capturado": "2026-09-17T01:48:48-05:00"
+      },
       {
         "titulo": "Wall Street y los bonos del Tesoro registran alzas previo a la determinación de la Reserva Federal",
         "url": "https://www.larepublica.co/globoeconomia/wall-street-y-treasuries-avanzan-antes-de-la-decision-de-la-reserva-federal-4482914",
