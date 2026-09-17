@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-17T01:48:48-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-17T07:15:01-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Canciller reiteró que colaborar con Israel será determinante para contener amenazas a la seguridad",
+        "url": "https://www.larepublica.co/economia/canciller-recalco-que-cooperar-con-israel-sera-clave-para-frenar-las-amenazas-a-seguridad-4483614",
+        "fecha_portada": "17/09/2026",
+        "titulo_fuente": "Canciller recalcó que cooperar con Israel será clave para frenar amenazas a seguridad",
+        "capturado": "2026-09-17T07:15:01-05:00"
+      },
       {
         "titulo": "Reserva Federal de EE.UU. comienza a subir sus tasas de interés por presiones en el costo de vida",
         "url": "https://www.larepublica.co/globoeconomia/reserva-federal-de-ee-uu-inicia-ciclo-de-alzas-de-tasas-ante-presion-sobre-costo-de-vida-4483424",
@@ -416,13 +423,6 @@
         "fecha_portada": "08/09/2026",
         "titulo_fuente": "Gobierno Nacional levantó la suspensión general del porte de armas de fuego en el país",
         "capturado": "2026-09-09T01:47:56-05:00"
-      },
-      {
-        "titulo": "Concejal solicitó archivar la reforma tributaria de Galán por supuestas irregularidades de trámite",
-        "url": "https://www.larepublica.co/economia/concejal-pidio-archivar-reforma-tributaria-de-galan-por-presuntos-vicios-de-tramite-4477430",
-        "fecha_portada": "08/09/2026",
-        "titulo_fuente": "Concejal pidió archivar reforma tributaria de Galán por presuntos vicios de trámite",
-        "capturado": "2026-09-08T18:31:22-05:00"
       }
     ],
     "Bolsas": [
