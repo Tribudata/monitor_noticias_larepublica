@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-18T14:46:15-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-18T16:58:12-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Mac Master transitó por Pereira y conoció los sectores y compañías damnificados por el sismo",
+        "url": "https://www.larepublica.co/economia/mac-master-recorrio-pereira-y-visito-las-zonas-y-empresas-afectadas-por-el-terremoto-4485459",
+        "fecha_portada": "",
+        "titulo_fuente": "Mac Master recorrió Pereira y visitó las zonas y empresas afectadas por el terremoto",
+        "capturado": "2026-09-18T16:58:12-05:00"
+      },
+      {
+        "titulo": "De la Espriella se ausentará de la Asamblea General de la ONU y Restrepo asistirá en su lugar",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-no-ira-a-la-asamblea-general-de-la-onu-y-restrepo-ira-en-su-reemplazo-4485614",
+        "fecha_portada": "18/09/2026",
+        "titulo_fuente": "De la Espriella no estará en la Asamblea General de la ONU y Restrepo irá en su reemplazo",
+        "capturado": "2026-09-18T16:58:12-05:00"
+      },
+      {
+        "titulo": "AmCham apoyó beneficios fiscales para captar capitales después del sismo",
+        "url": "https://www.larepublica.co/economia/amcham-respaldo-incentivos-tributarios-para-atraer-inversion-tras-el-terremoto-4485500",
+        "fecha_portada": "",
+        "titulo_fuente": "AmCham respaldó incentivos tributarios para atraer inversión tras el terremoto",
+        "capturado": "2026-09-18T16:58:12-05:00"
+      },
       {
         "titulo": "El ISE aumentó 1,11% en julio pese al descenso de las actividades primarias y secundarias",
         "url": "https://www.larepublica.co/economia/ise-crecio-1-11-en-julio-pese-a-caida-de-actividades-primarias-y-secundarias-4484941",
@@ -401,27 +422,6 @@
         "url": "https://www.larepublica.co/economia/el-gobierno-nacional-ordena-una-reasignacion-de-funciones-del-ministerio-de-la-igualdad-4478466",
         "fecha_portada": "09/09/2026",
         "titulo_fuente": "El Gobierno Nacional ordenó una reasignación de funciones del Ministerio de la Igualdad",
-        "capturado": "2026-09-10T01:41:43-05:00"
-      },
-      {
-        "titulo": "MinHacienda y MinMinas presentarán un proyecto para obtener $1,2 billones por El Niño",
-        "url": "https://www.larepublica.co/economia/minhacienda-y-minminas-radicaran-proyecto-de-ley-para-recaudar-1-2-billones-por-el-nino-4478216",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda y MinMinas radicarán proyecto para recaudar $1,2 billones por El Niño",
-        "capturado": "2026-09-10T01:41:43-05:00"
-      },
-      {
-        "titulo": "MinHacienda suscribió un decreto que permite la emisión de Títulos de Tesorería",
-        "url": "https://www.larepublica.co/economia/emision-de-titulos-de-tesoreria-del-ministerio-de-hacienda-4478481",
-        "fecha_portada": "09/09/2026",
-        "titulo_fuente": "MinHacienda firmó un decreto que autoriza la emisión de Títulos de Tesorería",
-        "capturado": "2026-09-10T01:41:43-05:00"
-      },
-      {
-        "titulo": "El alcalde Carlos Fernando Galán festejó que se aprobara la reforma tributaria de Bogotá",
-        "url": "https://www.larepublica.co/economia/el-alcalde-carlos-fernando-galan-celebro-la-aprobacion-de-la-reforma-tributaria-de-bogota-4478442",
-        "fecha_portada": "",
-        "titulo_fuente": "El alcalde Carlos Fernando Galán celebró la aprobación de la reforma tributaria de Bogotá",
         "capturado": "2026-09-10T01:41:43-05:00"
       }
     ],
