@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-18T16:58:12-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-18T18:49:03-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Prosperidad Social contará con un esquema legal extraordinario para transferencias",
+        "url": "https://www.larepublica.co/economia/prosperidad-social-tendra-marco-normativo-excepcional-para-transferencias-4485814",
+        "fecha_portada": "18/09/2026",
+        "titulo_fuente": "Prosperidad Social tendrá marco normativo excepcional para transferencias",
+        "capturado": "2026-09-18T18:49:03-05:00"
+      },
       {
         "titulo": "Mac Master transitó por Pereira y conoció los sectores y compañías damnificados por el sismo",
         "url": "https://www.larepublica.co/economia/mac-master-recorrio-pereira-y-visito-las-zonas-y-empresas-afectadas-por-el-terremoto-4485459",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/finanzas/esto-es-lo-que-debe-tener-en-cuenta-para-evitar-multas-al-momento-de-declarar-renta-ante-la-dian-4478255",
         "fecha_portada": "10/09/2026",
         "titulo_fuente": "Esto es lo que debe tener en cuenta para evitar multas al momento de declarar renta",
-        "capturado": "2026-09-10T01:41:43-05:00"
-      },
-      {
-        "titulo": "El Gobierno Nacional decretó una redistribución de tareas del Ministerio de la Igualdad",
-        "url": "https://www.larepublica.co/economia/el-gobierno-nacional-ordena-una-reasignacion-de-funciones-del-ministerio-de-la-igualdad-4478466",
-        "fecha_portada": "09/09/2026",
-        "titulo_fuente": "El Gobierno Nacional ordenó una reasignación de funciones del Ministerio de la Igualdad",
         "capturado": "2026-09-10T01:41:43-05:00"
       }
     ],
