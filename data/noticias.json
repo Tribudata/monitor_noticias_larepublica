@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-18T04:54:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-18T08:55:36-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Gobierno propone incentivos tributarios para atraer capitales a las zonas damnificadas por el sismo",
+        "url": "https://www.larepublica.co/economia/gobierno-ofrece-beneficios-tributarios-para-atraer-inversion-a-zonas-afectadas-por-el-terremoto-4485099",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno ofrece beneficios tributarios para atraer inversión a zonas afectadas por el sismo",
+        "capturado": "2026-09-18T08:55:36-05:00"
+      },
       {
         "titulo": "Alerta por los giros de la mesada de diciembre de los pensionados en Colpensiones",
         "url": "https://www.larepublica.co/economia/alerta-por-los-pagos-de-la-pension-decembrina-de-jubilados-en-colpensiones-4484723",
@@ -416,16 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Reforma tributaria de Bogotá avanzó a segundo debate, se discutirá en Plenaria",
         "capturado": "2026-09-09T18:34:20-05:00"
-      },
-      {
-        "titulo": "De esta forma se desarrolló la cena privada de Abelardo de la Espriella y Marco Rubio junto a sus familias",
-        "url": "https://www.larepublica.co/economia/asi-fue-la-cena-privada-entre-de-la-espriella-y-marco-rubio-junto-a-sus-familias-4477957",
-        "fecha_portada": "",
-        "titulo_fuente": "Así fue la cena privada entre Abelardo de la Espriella y Marco Rubio junto a sus familias",
-        "capturado": "2026-09-09T14:06:20-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar se negocia durante el día en $3.181, registrando una subida de $29 en comparación con la TRM",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-18-de-septiembre-4485077",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cotiza en la jornada en un precio de $3.181, un alza de $29 frente a la TRM",
+        "capturado": "2026-09-18T08:55:36-05:00"
+      },
+      {
+        "titulo": "El peso encabeza la revaluación en las economías emergentes durante 2026, al valorizarse un 19,3%",
+        "url": "https://www.larepublica.co/finanzas/el-peso-colombiano-lidera-la-revaluacion-entre-las-emergentes-en-2026-al-apreciarse-19-3-4485118",
+        "fecha_portada": "",
+        "titulo_fuente": "El peso lidera la revaluación entre los mercados emergentes en 2026, al apreciarse 19,3%",
+        "capturado": "2026-09-18T08:55:36-05:00"
+      },
+      {
+        "titulo": "El oro incrementa sus ganancias por la baja del petróleo y podría finalizar la semana al alza",
+        "url": "https://www.larepublica.co/finanzas/el-oro-amplia-sus-ganancias-por-la-caida-del-petroleo-y-podria-cerrar-la-semana-al-alza-4485071",
+        "fecha_portada": "18/09/2026",
+        "titulo_fuente": "El oro amplía sus ganancias por la caída del petróleo y podría cerrar la semana al alza",
+        "capturado": "2026-09-18T08:55:36-05:00"
+      },
       {
         "titulo": "Tras revelarse las tasas de la Reserva Federal, el dólar sube $15,11 y se cotiza en $3.143,57",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-17-de-septiembre-4483621",
