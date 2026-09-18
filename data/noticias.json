@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-18T08:55:36-05:00",
+  "actualizado": "2026-09-18T12:19:53-05:00",
   "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El ISE aumentó 1,11% en julio pese al descenso de las actividades primarias y secundarias",
+        "url": "https://www.larepublica.co/economia/ise-crecio-1-11-en-julio-pese-a-caida-de-actividades-primarias-y-secundarias-4484941",
+        "fecha_portada": "18/09/2026",
+        "titulo_fuente": "El ISE creció 1,11% en julio a pesar de la caída de actividades primarias y secundarias",
+        "capturado": "2026-09-18T12:19:53-05:00"
+      },
+      {
+        "titulo": "Ministerio de Hacienda avaló recursos extra por $624.656 millones para enfrentar la emergencia",
+        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-aprobo-adicion-de-624-656-millones-para-atender-emergencia-4485373",
+        "fecha_portada": "",
+        "titulo_fuente": "Ministerio de Hacienda aprobó adición de $624.656 millones para atender emergencia",
+        "capturado": "2026-09-18T12:19:53-05:00"
+      },
+      {
+        "titulo": "Obligaciones con la Dian tendrán reducción de intereses y sanciones para afectados por el sismo",
+        "url": "https://www.larepublica.co/economia/deudas-con-la-dian-tendran-alivios-de-intereses-y-sanciones-para-damnificados-por-terremoto-4485265",
+        "fecha_portada": "18/09/2026",
+        "titulo_fuente": "Deudas con la Dian tendrán alivios de intereses y sanciones para damnificados por sismo",
+        "capturado": "2026-09-18T12:19:53-05:00"
+      },
       {
         "titulo": "Gobierno propone incentivos tributarios para atraer capitales a las zonas damnificadas por el sismo",
         "url": "https://www.larepublica.co/economia/gobierno-ofrece-beneficios-tributarios-para-atraer-inversion-a-zonas-afectadas-por-el-terremoto-4485099",
@@ -402,30 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "El alcalde Carlos Fernando Galán celebró la aprobación de la reforma tributaria de Bogotá",
         "capturado": "2026-09-10T01:41:43-05:00"
-      },
-      {
-        "titulo": "Marco Rubio dialogó con Noticias RCN y expuso los puntos clave del nuevo vínculo con Colombia",
-        "url": "https://www.larepublica.co/globoeconomia/marco-rubio-hablo-con-noticias-rcn-y-revelo-las-claves-de-la-nueva-relacion-con-colombia-4477739",
-        "fecha_portada": "09/09/2026",
-        "titulo_fuente": "Marco Rubio habló con Noticias RCN y reveló las claves de la nueva relación con Colombia",
-        "capturado": "2026-09-10T01:41:43-05:00"
-      },
-      {
-        "titulo": "En la Casa de Nariño, De la Espriella presidió su primer consejo de ministros",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-lidero-su-primer-consejo-de-ministros-en-la-casa-de-narino-4478357",
-        "fecha_portada": "09/09/2026",
-        "titulo_fuente": "De la Espriella lideró su primer consejo de ministros en la Casa de Nariño",
-        "capturado": "2026-09-09T18:34:20-05:00"
-      },
-      {
-        "titulo": "La reforma tributaria de Bogotá pasó a segundo debate y se examinará en Plenaria",
-        "url": "https://www.larepublica.co/economia/reforma-tributaria-de-bogota-avanzo-a-segundo-debate-se-discutira-en-plenaria-4478266",
-        "fecha_portada": "",
-        "titulo_fuente": "Reforma tributaria de Bogotá avanzó a segundo debate, se discutirá en Plenaria",
-        "capturado": "2026-09-09T18:34:20-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Wall Street desciende a medida que el retorno del bono del Tesoro se aproxima otra vez al 5%",
+        "url": "https://www.larepublica.co/globoeconomia/wall-street-cae-mientras-el-rendimiento-del-bono-del-tesoro-vuelve-a-acercarse-al-5-4485282",
+        "fecha_portada": "18/09/2026",
+        "titulo_fuente": "Wall Street cae mientras el rendimiento del bono del Tesoro vuelve a acercarse a 5%",
+        "capturado": "2026-09-18T12:19:53-05:00"
+      },
       {
         "titulo": "El dólar se negocia durante el día en $3.181, registrando una subida de $29 en comparación con la TRM",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-18-de-septiembre-4485077",
