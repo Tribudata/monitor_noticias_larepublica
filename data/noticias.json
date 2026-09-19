@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-19T16:48:56-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-19T18:40:44-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De cada US$100 que ingresan por inversión extranjera, US$83 se destinan a petróleo y minería",
+        "url": "https://www.larepublica.co/economia/petroleo-y-mineria-atraen-us-83-de-cada-us-100-que-llegan-por-inversion-extranjera-4486326",
+        "fecha_portada": "",
+        "titulo_fuente": "Petróleo y minería atraen US$83 de cada US$100 que llegan por inversión extranjera",
+        "capturado": "2026-09-19T18:40:44-05:00"
+      },
       {
         "titulo": "Ungrd y Naciones Unidas sostuvieron un encuentro para colaborar en la recuperación",
         "url": "https://www.larepublica.co/especiales/catastrofe-nacional/ungrd-y-naciones-unidas-se-reunieron-en-cali-para-trabajar-en-recuperacion-tras-el-sismo-4486244",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El “Dividendo Trump” costaría US$1,35 millones, un golpe para las finanzas de EE.UU.",
         "capturado": "2026-09-11T01:08:57-05:00"
-      },
-      {
-        "titulo": "Gobierno propone proyecto de decreto para eliminar tope a inversiones de AFP en el extranjero",
-        "url": "https://www.larepublica.co/finanzas/gobierno-propone-eliminar-limite-de-30-a-inversiones-de-afp-en-el-exterior-4479004",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno presenta proyecto de decreto para derogar límite a inversiones de AFP en el exterior",
-        "capturado": "2026-09-10T18:15:41-05:00"
       }
     ],
     "Bolsas": [
