@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-19T12:30:20-05:00",
+  "actualizado": "2026-09-19T14:37:58-05:00",
   "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Ungrd y Naciones Unidas sostuvieron un encuentro para colaborar en la recuperación",
+        "url": "https://www.larepublica.co/especiales/catastrofe-nacional/ungrd-y-naciones-unidas-se-reunieron-en-cali-para-trabajar-en-recuperacion-tras-el-sismo-4486244",
+        "fecha_portada": "19/09/2026",
+        "titulo_fuente": "Ungrd y Naciones Unidas se reunieron para trabajar en la recuperación",
+        "capturado": "2026-09-19T14:37:58-05:00"
+      },
       {
         "titulo": "Temblor de magnitud 4,6 se presentó en Chocó y fue percibido en varias ciudades",
         "url": "https://www.larepublica.co/economia/sismo-de-magnitud-4-6-se-registro-en-choco-y-se-sintio-en-varias-ciudades-4486193",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Gobierno presenta proyecto de decreto para derogar límite a inversiones de AFP en el exterior",
         "capturado": "2026-09-10T18:15:41-05:00"
-      },
-      {
-        "titulo": "Asocapitales calcula que la reconstrucción de las ciudades podría costar hasta $21 billones",
-        "url": "https://www.larepublica.co/economia/asocapitales-estima-que-reconstruccion-en-ciudades-podria-costar-hasta-21-billones-4478722",
-        "fecha_portada": "",
-        "titulo_fuente": "Asocapitales estima que reconstrucción en ciudades podría costar hasta $21 billones",
-        "capturado": "2026-09-10T13:34:28-05:00"
       }
     ],
     "Bolsas": [
