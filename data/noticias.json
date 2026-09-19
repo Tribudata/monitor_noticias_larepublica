@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-18T20:45:35-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-19T01:43:50-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Expedición de 15 nuevos decretos para agilizar la reconstrucción tras el sismo nacional",
+        "url": "https://www.larepublica.co/economia/ola-de-15-decretos-para-acelerar-la-reconstruccion-luego-del-terremoto-4485725",
+        "fecha_portada": "19/09/2026",
+        "titulo_fuente": "Nueva ola de 15 decretos para acelerar reconstrucción luego del terremoto nacional",
+        "capturado": "2026-09-19T01:43:50-05:00"
+      },
+      {
+        "titulo": "La transición generacional de los Buffett en un grupo empresarial de más de US$1 billón",
+        "url": "https://www.larepublica.co/globoeconomia/el-relevo-generacional-de-los-buffett-en-un-conglomerado-que-vale-mas-de-us-1-billon-4485623",
+        "fecha_portada": "",
+        "titulo_fuente": "El relevo generacional de los Buffett en un conglomerado que vale más de US$1 billón",
+        "capturado": "2026-09-19T01:43:50-05:00"
+      },
+      {
+        "titulo": "Alrededor de 290.000 ciudadanos laboran como vendedores ambulantes en el territorio nacional",
+        "url": "https://www.larepublica.co/economia/cerca-de-290-000-personas-trabajan-como-vendedores-ambulantes-en-el-pais-4485736",
+        "fecha_portada": "",
+        "titulo_fuente": "Cerca de 290.000 personas trabajan como vendedores ambulantes en el país",
+        "capturado": "2026-09-19T01:43:50-05:00"
+      },
+      {
+        "titulo": "El ISE de julio se incrementó 1,1% en ese mes, pero el sector agropecuario y las minas no se recuperan",
+        "url": "https://www.larepublica.co/economia/el-ise-de-julio-subio-1-1-pero-el-agro-y-minas-siguen-sin-levantar-cabeza-4485708",
+        "fecha_portada": "",
+        "titulo_fuente": "El ISE de julio subió 1,1% durante julio, pero el agro y minas siguen sin levantar cabeza",
+        "capturado": "2026-09-19T01:43:50-05:00"
+      },
+      {
+        "titulo": "El riesgo país de Colombia disminuyó 86 puntos, de acuerdo con el Indicador de Bonos de Mercados Emergentes",
+        "url": "https://www.larepublica.co/globoeconomia/el-riesgo-pais-de-colombia-cayo-86-puntos-segun-el-indicador-de-bonos-de-mercados-emergentes-4485632",
+        "fecha_portada": "19/09/2026",
+        "titulo_fuente": "Riesgo país de Colombia cayó 86 puntos, según Indicador de Bonos de Mercados Emergentes",
+        "capturado": "2026-09-19T01:43:50-05:00"
+      },
       {
         "titulo": "Prosperidad Social contará con un esquema legal extraordinario para transferencias",
         "url": "https://www.larepublica.co/economia/prosperidad-social-tendra-marco-normativo-excepcional-para-transferencias-4485814",
@@ -388,41 +423,6 @@
         "fecha_portada": "10/09/2026",
         "titulo_fuente": "A un mes del terremoto, gobierno expide cascada de 11 decretos para atender la crisis",
         "capturado": "2026-09-10T10:16:10-05:00"
-      },
-      {
-        "titulo": "De la Espriella anunció acciones para financiar y gestionar la reconstrucción después del sismo",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncio-medidas-para-financiar-y-atender-la-reconstruccion-tras-el-sismo-4478615",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella anunció medidas para financiar y atender la reconstrucción tras el sismo",
-        "capturado": "2026-09-10T10:16:10-05:00"
-      },
-      {
-        "titulo": "Restrepo recorrió Armas, el corregimiento de Aguadas más afectado por el sismo",
-        "url": "https://www.larepublica.co/economia/restrepo-visito-armas-el-corregimiento-de-aguadas-mas-golpeado-por-el-terremoto-4478665",
-        "fecha_portada": "10/09/2026",
-        "titulo_fuente": "Restrepo visitó Armas, el corregimiento de Aguadas más golpeado por el terremoto",
-        "capturado": "2026-09-10T10:16:10-05:00"
-      },
-      {
-        "titulo": "MinHacienda dio vía libre a Bogotá para adquirir un crédito con KfW por US$81,4 millones",
-        "url": "https://www.larepublica.co/economia/minhacienda-autorizo-a-bogota-contratar-emprestito-con-el-kfw-por-us-81-4-millones-4478645",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda autorizó a Bogotá contratar empréstito con KfW por US$81,4 millones",
-        "capturado": "2026-09-10T10:16:10-05:00"
-      },
-      {
-        "titulo": "El Niño empujaría el costo de vida hasta el 7,3% al cierre de este año",
-        "url": "https://www.larepublica.co/economia/fenomeno-de-el-nino-presionaria-la-inflacion-hasta-7-3-a-finales-de-este-ano-4478364",
-        "fecha_portada": "",
-        "titulo_fuente": "Fenómeno de El Niño presionaría la inflación hasta 7,3% a finales de este año",
-        "capturado": "2026-09-10T01:41:43-05:00"
-      },
-      {
-        "titulo": "Aspectos clave para no recibir sanciones al presentar la declaración de renta",
-        "url": "https://www.larepublica.co/finanzas/esto-es-lo-que-debe-tener-en-cuenta-para-evitar-multas-al-momento-de-declarar-renta-ante-la-dian-4478255",
-        "fecha_portada": "10/09/2026",
-        "titulo_fuente": "Esto es lo que debe tener en cuenta para evitar multas al momento de declarar renta",
-        "capturado": "2026-09-10T01:41:43-05:00"
       }
     ],
     "Bolsas": [
