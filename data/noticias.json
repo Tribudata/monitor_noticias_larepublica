@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-19T09:51:48-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-19T12:30:20-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Temblor de magnitud 4,6 se presentó en Chocó y fue percibido en varias ciudades",
+        "url": "https://www.larepublica.co/economia/sismo-de-magnitud-4-6-se-registro-en-choco-y-se-sintio-en-varias-ciudades-4486193",
+        "fecha_portada": "",
+        "titulo_fuente": "Sismo de magnitud 4,6 se registró en Chocó y se sintió en varias ciudades",
+        "capturado": "2026-09-19T12:30:20-05:00"
+      },
       {
         "titulo": "Expedición de 15 nuevos decretos para agilizar la reconstrucción tras el sismo nacional",
         "url": "https://www.larepublica.co/economia/ola-de-15-decretos-para-acelerar-la-reconstruccion-luego-del-terremoto-4485725",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Asocapitales estima que reconstrucción en ciudades podría costar hasta $21 billones",
         "capturado": "2026-09-10T13:34:28-05:00"
-      },
-      {
-        "titulo": "Al cumplirse un mes del sismo, el Gobierno emite 11 decretos para gestionar la crisis",
-        "url": "https://www.larepublica.co/economia/a-un-mes-del-terremoto-gobierno-expide-cascada-de-11-decretos-para-atender-la-crisis-4478593",
-        "fecha_portada": "10/09/2026",
-        "titulo_fuente": "A un mes del terremoto, gobierno expide cascada de 11 decretos para atender la crisis",
-        "capturado": "2026-09-10T10:16:10-05:00"
       }
     ],
     "Bolsas": [
