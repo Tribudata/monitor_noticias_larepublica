@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-20T16:39:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-20T18:37:42-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Ministro de Hacienda proyecta recortar a cerca de la mitad la deuda externa para 2027",
+        "url": "https://www.larepublica.co/economia/ministro-de-hacienda-preve-reducir-a-casi-la-mitad-el-endeudamiento-externo-de-2027-4486623",
+        "fecha_portada": "20/09/2026",
+        "titulo_fuente": "Ministro de Hacienda prevé reducir a casi la mitad el endeudamiento externo de 2027",
+        "capturado": "2026-09-20T18:37:42-05:00"
+      },
       {
         "titulo": "De cada US$100 que ingresan por inversión extranjera, US$83 se destinan a petróleo y minería",
         "url": "https://www.larepublica.co/economia/petroleo-y-mineria-atraen-us-83-de-cada-us-100-que-llegan-por-inversion-extranjera-4486326",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/inside-con-marcela-melendez-directora-de-fedesarrollo-4478944",
         "fecha_portada": "",
         "titulo_fuente": "“Tenemos que discutir las exenciones del IVA dentro del plan de ajuste fiscal nacional”",
-        "capturado": "2026-09-11T01:08:57-05:00"
-      },
-      {
-        "titulo": "El Dividendo Trump costaría US$1,35 millones, un impacto para las finanzas de EE.UU.",
-        "url": "https://www.larepublica.co/globoeconomia/el-dividendo-trump-costaria-us-1-35-millones-un-golpe-para-las-finanzas-publicas-4478997",
-        "fecha_portada": "",
-        "titulo_fuente": "El “Dividendo Trump” costaría US$1,35 millones, un golpe para las finanzas de EE.UU.",
         "capturado": "2026-09-11T01:08:57-05:00"
       }
     ],
