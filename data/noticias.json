@@ -1,9 +1,51 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-20T20:48:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-21T02:17:27-05:00",
+  "nuevos_en_esta_corrida": 9,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El clientelismo en el Estado cuesta desde $1,2 billones al año a la economía colombiana",
+        "url": "https://www.larepublica.co/economia/la-palanca-en-el-estado-cuesta-desde-1-2-billones-al-ano-a-la-economia-colombiana-4485951",
+        "fecha_portada": "",
+        "titulo_fuente": "La “palanca” en el Estado cuesta desde $1,2 billones al año dentro de la economía colombiana",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
+      {
+        "titulo": "El Banco de la República ha adquirido cerca de US$700 millones desde principios del mes anterior",
+        "url": "https://www.larepublica.co/economia/banco-central-ha-comprado-casi-us-700-millones-desde-inicios-de-agosto-4485884",
+        "fecha_portada": "",
+        "titulo_fuente": "El Banco de la República ha comprado casi US$700 millones desde inicios del mes pasado",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
+      {
+        "titulo": "La inflación y las tasas figuran entre los mayores desafíos de las empresas para este semestre",
+        "url": "https://www.larepublica.co/empresas/retos-del-sector-empresarial-segundo-semestre-de-2026-4485890",
+        "fecha_portada": "",
+        "titulo_fuente": "Inflación y tasas son algunos de los principales retos de las empresas para este semestre",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
+      {
+        "titulo": "El Dane presentará el informe consolidado de nacimientos y fallecimientos entre enero y julio",
+        "url": "https://www.larepublica.co/economia/dane-revelera-el-balance-consolidado-de-nacimientos-y-defunciones-entre-enero-y-julio-4485920",
+        "fecha_portada": "21/09/2026",
+        "titulo_fuente": "Dane revelerá el balance consolidado de nacimientos y defunciones entre enero y julio",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
+      {
+        "titulo": "Colombia ocupa la posición 63 entre 85 naciones en el listado de percepción de Best Countries",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-puesto-63-entre-85-paises-en-percepcion-global-4485656",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia, en el puesto 63 entre 85 países en ranking de percepción de Best Countries",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
+      {
+        "titulo": "El racionamiento por El Niño tendría un costo de $30,7 billones, cerca del 1,6% del PIB",
+        "url": "https://www.larepublica.co/economia/racionamiento-por-el-nino-costaria-30-7-billones-alrededor-de-1-6-del-pib-4486250",
+        "fecha_portada": "",
+        "titulo_fuente": "Racionamiento por El Niño costaría $30,7 billones, alrededor de 1,6% del PIB",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
       {
         "titulo": "Ministro de Hacienda proyecta recortar a cerca de la mitad la deuda externa para 2027",
         "url": "https://www.larepublica.co/economia/ministro-de-hacienda-preve-reducir-a-casi-la-mitad-el-endeudamiento-externo-de-2027-4486623",
@@ -381,51 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "El Brics aprueba una declaración conjunta e insta a la \"máxima moderación\"",
         "capturado": "2026-09-12T13:30:53-05:00"
-      },
-      {
-        "titulo": "Carf duda de regresar a la regla fiscal en 2028 y solicita un ajuste más creíble",
-        "url": "https://www.larepublica.co/economia/carf-duda-sobre-retorno-a-la-regla-fiscal-en-2028-y-pide-hacer-un-ajuste-convincente-4480024",
-        "fecha_portada": "",
-        "titulo_fuente": "Carf duda sobre retorno a la regla fiscal en 2028 y pide hacer un ajuste más “convincente”",
-        "capturado": "2026-09-12T00:56:44-05:00"
-      },
-      {
-        "titulo": "De la Espriella informó la asignación de $7.000 millones para viviendas en Quindío",
-        "url": "https://www.larepublica.co/especiales/catastrofe-nacional/de-la-espriella-anuncio-inversion-superior-a-7-000-millones-para-recuperar-369-viviendas-en-quindio-4479700",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella anunció inversión de $7.000 millones para viviendas en Quindío",
-        "capturado": "2026-09-11T13:40:02-05:00"
-      },
-      {
-        "titulo": "Carf solicita un ajuste creíble y requiere superávit de 2% del PIB para volver a la regla fiscal",
-        "url": "https://www.larepublica.co/economia/carf-pide-plan-fiscal-convincente-se-requiere-superavit-de-2-del-pib-en-2028-para-retornar-a-la-regla-fiscal-4479418",
-        "fecha_portada": "",
-        "titulo_fuente": "Carf pide ajuste \"convincente\", se necesita superávit de 2% del PIB para retornar a la regla fiscal",
-        "capturado": "2026-09-11T10:17:49-05:00"
-      },
-      {
-        "titulo": "Ungrd empezó a pagar más de $3.324 millones a familias afectadas por el temblor en Chocó",
-        "url": "https://www.larepublica.co/especiales/catastrofe-nacional/ungrd-inicio-pago-de-mas-de-3-324-millones-para-familias-damnificadas-por-sismo-en-choco-4479500",
-        "fecha_portada": "11/09/2026",
-        "titulo_fuente": "Ungrd inició pago de más de $3.324 millones para familias damnificadas por sismo en Chocó",
-        "capturado": "2026-09-11T10:17:49-05:00"
-      },
-      {
-        "titulo": "Conozca los 10 sectores de inversión en el esquema de obras por impuestos",
-        "url": "https://www.larepublica.co/economia/estos-son-los-10-frentes-de-inversion-del-mecanismo-de-obras-por-impuestos-4479169",
-        "fecha_portada": "11/09/2026",
-        "titulo_fuente": "Estos son los 10 frentes de inversión del mecanismo de obras por impuestos",
-        "capturado": "2026-09-11T01:08:57-05:00"
-      },
-      {
-        "titulo": "Es necesario debatir las exenciones de IVA en el programa de ajuste fiscal de la nación",
-        "url": "https://www.larepublica.co/economia/inside-con-marcela-melendez-directora-de-fedesarrollo-4478944",
-        "fecha_portada": "",
-        "titulo_fuente": "“Tenemos que discutir las exenciones del IVA dentro del plan de ajuste fiscal nacional”",
-        "capturado": "2026-09-11T01:08:57-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Nueva Zelanda enfoca sus inversiones en la Bolsa de España en Ferrovial, Aena y Redeia",
+        "url": "https://www.larepublica.co/globoeconomia/ferrovial-aena-y-redeia-concentran-la-apuesta-de-nueva-zelanda-en-la-bolsa-espanola-4485818",
+        "fecha_portada": "21/09/2026",
+        "titulo_fuente": "Ferrovial, Aena y Redeia concentran la apuesta de Nueva Zelanda en la Bolsa española",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
+      {
+        "titulo": "¿Qué cantidad de acciones de Apple se adquieren con el valor del nuevo iPhone 18?",
+        "url": "https://www.larepublica.co/finanzas/cuantas-acciones-de-apple-se-pueden-compran-con-un-iphone-18-4486095",
+        "fecha_portada": "",
+        "titulo_fuente": "¿Cuántas acciones de Apple se pueden compran con lo que le cuesta el nuevo iPhone 18?",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
+      {
+        "titulo": "Ferrovial lidera las acciones preferidas del Ibex por el fondo con mayor rentabilidad del planeta",
+        "url": "https://www.larepublica.co/globoeconomia/los-valores-favoritos-del-ibex-del-fondo-mas-rentable-del-mundo-ferrovial-a-la-cabeza-4485681",
+        "fecha_portada": "",
+        "titulo_fuente": "Los valores favoritos del Ibex del fondo más rentable del mundo, Ferrovial a la cabeza",
+        "capturado": "2026-09-21T02:17:27-05:00"
+      },
       {
         "titulo": "Wall Street desciende a medida que el retorno del bono del Tesoro se aproxima otra vez al 5%",
         "url": "https://www.larepublica.co/globoeconomia/wall-street-cae-mientras-el-rendimiento-del-bono-del-tesoro-vuelve-a-acercarse-al-5-4485282",
