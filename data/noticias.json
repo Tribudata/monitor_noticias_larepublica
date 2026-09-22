@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-22T06:52:34-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-22T10:47:17-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,20 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El dólar regresa al rango de $3.200; inició al alza en $3.204, superando por $12,27 a la TRM",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-22-de-septiembre-4487642",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar vuelve al terreno de $3.200; abrió al alza en $3.204, $12,27 más frente a la TRM",
+        "capturado": "2026-09-22T10:47:17-05:00"
+      },
+      {
+        "titulo": "Los títulos de Estados Unidos conservan ganancias de IA, a la vez que el Brent disminuye a US$98",
+        "url": "https://www.larepublica.co/globoeconomia/acciones-de-estados-unidos-mantienen-ganancias-de-ia-mientras-que-el-brent-cae-a-us-98-4487809",
+        "fecha_portada": "22/09/2026",
+        "titulo_fuente": "Acciones de Estados Unidos mantienen ganancias de IA, mientras que el Brent cae a US$98",
+        "capturado": "2026-09-22T10:47:17-05:00"
+      },
+      {
         "titulo": "El oro modera sus pérdidas mientras los operadores siguen de cerca el petróleo",
         "url": "https://www.larepublica.co/finanzas/el-oro-reduce-sus-perdidas-mientras-los-operadores-se-mantienen-atentos-al-petroleo-4487587",
         "fecha_portada": "",
@@ -831,20 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "“El mercado de capitales tiene que trascender los gobiernos, necesita una política de Estado”",
         "capturado": "2026-09-05T00:53:39-05:00"
-      },
-      {
-        "titulo": "El efectivo en dólares de las entidades disminuyó 72% y presionó la divisa al alza",
-        "url": "https://www.larepublica.co/finanzas/la-caja-en-dolares-de-las-entidades-cayo-72-y-presiono-la-divisa-al-alza-4474932",
-        "fecha_portada": "",
-        "titulo_fuente": "La caja en dólares de las entidades cayó 72% y presionó la divisa con tendencia al alza",
-        "capturado": "2026-09-05T00:53:39-05:00"
-      },
-      {
-        "titulo": "La cotización del dólar finalizó en $3.126,17, un descenso de $15,19 frente a la TRM de $3.141,36",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-3-de-septiembre-4474359",
-        "fecha_portada": "",
-        "titulo_fuente": "El precio dólar cerró en $3.126,17, una caída de $15,19 respecto a la TRM de $3.141,36",
-        "capturado": "2026-09-04T20:50:16-05:00"
       }
     ]
   }
