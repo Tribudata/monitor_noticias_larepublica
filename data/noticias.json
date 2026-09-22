@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-22T01:23:06-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-22T06:52:34-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "José Manuel Restrepo intentó captar inversionistas internacionales en Nueva York ante el Ceapi",
+        "url": "https://www.larepublica.co/globoeconomia/jose-manuel-restrepo-busco-inversionistas-globales-en-nueva-york-ante-el-ceapi-4487430",
+        "fecha_portada": "22/09/2026",
+        "titulo_fuente": "José Manuel Restrepo buscó inversionistas globales en Nueva York ante el Ceapi",
+        "capturado": "2026-09-22T06:52:34-05:00"
+      },
+      {
+        "titulo": "El Gobierno Nacional no respaldó ninguna de las más de 600 propuestas para el presupuesto",
+        "url": "https://www.larepublica.co/economia/gobierno-nacional-no-avalo-ninguna-de-las-mas-de-600-proposiciones-al-presupuesto-4487614",
+        "fecha_portada": "22/09/2026",
+        "titulo_fuente": "Gobierno Nacional no avaló ninguna de las más de 600 proposiciones al presupuesto",
+        "capturado": "2026-09-22T06:52:34-05:00"
+      },
+      {
+        "titulo": "De La Espriella comunica adquisición de cartera a las EPS para resolver retrasos en el servicio",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncia-compra-de-cartera-para-solucionar-demoras-en-atencion-medica-4487491",
+        "fecha_portada": "",
+        "titulo_fuente": "De La Espriella anuncia compra de cartera a las EPS para solucionar demoras en atención",
+        "capturado": "2026-09-22T06:52:34-05:00"
+      },
+      {
+        "titulo": "Banco Mundial y FMI apoyan las modificaciones al esquema de endeudamiento de naciones pobres",
+        "url": "https://www.larepublica.co/globoeconomia/banco-mundial-y-fmi-respaldan-los-cambios-en-el-marco-de-deuda-para-los-paises-pobres-4487093",
+        "fecha_portada": "21/09/2026",
+        "titulo_fuente": "Banco Mundial y FMI respaldan los cambios en el marco de deuda para los países pobres",
+        "capturado": "2026-09-22T06:52:34-05:00"
+      },
       {
         "titulo": "Contraloría advirtió sobre un déficit de $4,2 billones para financiar las jubilaciones",
         "url": "https://www.larepublica.co/economia/contraloria-alerto-sobre-un-faltante-de-4-2-billones-para-financiar-las-pensiones-4486872",
@@ -395,37 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Mañana iniciará el segundo y último debate para aprobar la tributaria de Bogotá",
         "capturado": "2026-09-14T17:09:21-05:00"
-      },
-      {
-        "titulo": "Las comisiones económicas votarán contra el tiempo el valor del presupuesto para 2027",
-        "url": "https://www.larepublica.co/economia/las-comisiones-economicas-votaran-a-contrarreloj-el-monto-del-presupuesto-de-2027-4480964",
-        "fecha_portada": "",
-        "titulo_fuente": "Las comisiones económicas votarán a contrarreloj el monto del presupuesto de 2027",
-        "capturado": "2026-09-14T08:09:44-05:00"
-      },
-      {
-        "titulo": "Recibimos un escenario fiscal muy delicado y deplorable que demanda acciones inmediatas",
-        "url": "https://www.larepublica.co/economia/el-presidente-abelardo-de-la-espriella-aseguro-que-recibio-unas-finanzas-publicas-en-estado-lamentable-4480963",
-        "fecha_portada": "",
-        "titulo_fuente": "\"Heredamos una situación fiscal muy crítica y lamentable que exige medidas urgentes\"",
-        "capturado": "2026-09-14T08:09:44-05:00"
-      },
-      {
-        "titulo": "Bernard Arnault sale del listado de multimillonarios y Gilinski se ubica en la posición 54",
-        "url": "https://www.larepublica.co/globoeconomia/arnault-deja-el-top-de-multimillonarios-mientras-gilinski-alcanza-el-puesto-54-4480372",
-        "fecha_portada": "",
-        "titulo_fuente": "Bernard Arnault deja el top de multimillonarios mientras Gilinski alcanza el puesto 54",
-        "capturado": "2026-09-14T01:29:25-05:00"
-      },
-      {
-        "titulo": "BNP Paribas estima un incremento económico de 2,5% y que la inflación terminaría en 6%",
-        "url": "https://www.larepublica.co/economia/bnp-paribas-proyecta-crecimiento-economico-de-2-5-e-inflacion-cerraria-en-6-4480178",
-        "fecha_portada": "14/09/2026",
-        "titulo_fuente": "BNP Paribas proyecta crecimiento económico de 2,5% e inflación cerraría en 6%",
-        "capturado": "2026-09-14T01:29:25-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El oro modera sus pérdidas mientras los operadores siguen de cerca el petróleo",
+        "url": "https://www.larepublica.co/finanzas/el-oro-reduce-sus-perdidas-mientras-los-operadores-se-mantienen-atentos-al-petroleo-4487587",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro reduce sus pérdidas mientras los operadores se mantienen atentos al petróleo",
+        "capturado": "2026-09-22T06:52:34-05:00"
+      },
       {
         "titulo": "La divisa estadounidense finalizó en $3.192,56, a menos de $1 de diferencia de la TRM de la jornada",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-21-de-septiembre-4486850",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-3-de-septiembre-4474359",
         "fecha_portada": "",
         "titulo_fuente": "El precio dólar cerró en $3.126,17, una caída de $15,19 respecto a la TRM de $3.141,36",
-        "capturado": "2026-09-04T20:50:16-05:00"
-      },
-      {
-        "titulo": "Acciones y bonos bajan ante previsiones de incremento de la Fed por el sólido empleo en EE. UU.",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-y-bonos-caen-por-aumento-de-apuestas-a-alza-de-la-fed-tras-solido-empleo-en-ee-uu-4474522",
-        "fecha_portada": "",
-        "titulo_fuente": "Acciones y bonos caen ante apuestas de alza de la Fed por sólido empleo en EE. UU.",
         "capturado": "2026-09-04T20:50:16-05:00"
       }
     ]
