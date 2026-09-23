@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-22T17:19:44-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-22T19:44:37-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Los bonos de Colombia a 10 años registran la séptima tasa más elevada entre los países emergentes",
+        "url": "https://www.larepublica.co/economia/bonos-de-colombia-a-10-anos-tienen-la-septima-tasa-mas-alta-entre-economias-emergentes-4487857",
+        "fecha_portada": "",
+        "titulo_fuente": "Bonos de Colombia a 10 años tienen la séptima tasa más alta entre economías emergentes",
+        "capturado": "2026-09-22T19:44:37-05:00"
+      },
+      {
+        "titulo": "Guía básica de la Asamblea General de la ONU, lo necesario para entender la gran reunión diplomática",
+        "url": "https://www.larepublica.co/globoeconomia/abc-de-la-asamblea-general-de-la-onu-lo-que-debe-saber-sobre-la-gran-cita-diplomatica-4487641",
+        "fecha_portada": "",
+        "titulo_fuente": "ABC de la Asamblea General de la ONU, lo que debe saber sobre la gran cita diplomática",
+        "capturado": "2026-09-22T19:44:37-05:00"
+      },
+      {
+        "titulo": "Cómo se desarrolló la reunión entre De la Espriella y la mandataria de Costa Rica, Laura Fernández",
+        "url": "https://www.larepublica.co/economia/asi-fue-el-encuentro-entre-de-la-espriella-y-la-presidenta-de-costa-rica-laura-fernandez-4487997",
+        "fecha_portada": "",
+        "titulo_fuente": "Así fue el encuentro entre De la Espriella y la presidenta de Costa Rica, Laura Fernández",
+        "capturado": "2026-09-22T19:44:37-05:00"
+      },
+      {
+        "titulo": "El desbalance fiscal a julio alcanzó casi el 4% del PIB y sigue presionando las cuentas públicas",
+        "url": "https://www.larepublica.co/economia/deficit-fiscal-a-julio-llego-a-3-9-del-pib-y-mantiene-presion-sobre-las-cuentas-publicas-4487993",
+        "fecha_portada": "",
+        "titulo_fuente": "Déficit fiscal a julio llegó a casi 4% del PIB y mantiene presión sobre las cuentas públicas",
+        "capturado": "2026-09-22T19:44:37-05:00"
+      },
       {
         "titulo": "José Manuel Restrepo intentó captar inversionistas internacionales en Nueva York ante el Ceapi",
         "url": "https://www.larepublica.co/globoeconomia/jose-manuel-restrepo-busco-inversionistas-globales-en-nueva-york-ante-el-ceapi-4487430",
@@ -395,34 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Escocia, Gales e Irlanda del Norte desafían al Reino Unido; reavivan debate de autonomía",
         "capturado": "2026-09-15T00:30:33-05:00"
-      },
-      {
-        "titulo": "El Gobierno Nacional aprobó la cifra del presupuesto para 2027 por un valor de $634,9 billones",
-        "url": "https://www.larepublica.co/economia/gobierno-le-dio-luz-verde-al-monto-del-presupuesto-de-2027-por-634-9-billones-4481676",
-        "fecha_portada": "15/09/2026",
-        "titulo_fuente": "Gobierno Nacional le dio luz verde al monto del presupuesto de 2027 por $634,9 billones",
-        "capturado": "2026-09-15T00:30:33-05:00"
-      },
-      {
-        "titulo": "Tras la marcha de Valencia, la permanencia promedio de un director del Dane es de 33 meses",
-        "url": "https://www.larepublica.co/economia/tras-la-salida-de-valencia-un-director-del-dane-dura-33-meses-en-promedio-4481647",
-        "fecha_portada": "14/09/2026",
-        "titulo_fuente": "Con la salida de Valencia, un director del Dane dura 33 meses en promedio",
-        "capturado": "2026-09-14T19:42:30-05:00"
-      },
-      {
-        "titulo": "La emisión de títulos TES en el mercado local creció $132 billones en el último año",
-        "url": "https://www.larepublica.co/economia/colocacion-de-tes-en-el-mercado-interno-aumento-132-billones-desde-septiembre-de-2025-4481166",
-        "fecha_portada": "",
-        "titulo_fuente": "Colocación de títulos TES en el mercado interno aumentó $132 billones en el último año",
-        "capturado": "2026-09-14T17:09:21-05:00"
-      },
-      {
-        "titulo": "Mañana comenzará la segunda y final discusión para aprobar la tributaria de Bogotá",
-        "url": "https://www.larepublica.co/economia/manana-iniciara-el-segundo-y-ultimo-debate-para-aprobar-la-tributaria-de-bogota-4481291",
-        "fecha_portada": "",
-        "titulo_fuente": "Mañana iniciará el segundo y último debate para aprobar la tributaria de Bogotá",
-        "capturado": "2026-09-14T17:09:21-05:00"
       }
     ],
     "Bolsas": [
