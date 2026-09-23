@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-22T19:44:37-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-23T00:18:10-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Gobierno busca decretar por segunda vez la emergencia económica debido a El Niño",
+        "url": "https://www.larepublica.co/economia/gobierno-va-por-su-segunda-declaratoria-de-emergencia-economica-a-causa-de-el-nino-4488236",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno va por su segunda declaratoria de emergencia económica a causa de El Niño",
+        "capturado": "2026-09-23T00:18:10-05:00"
+      },
+      {
+        "titulo": "La Dian explicó que los deudores en todo el país podrán cancelar únicamente el 15% de sus sanciones",
+        "url": "https://www.larepublica.co/economia/la-dian-aclaro-que-morosos-de-todo-el-pais-podran-pagar-solo-15-de-sus-sanciones-4487694",
+        "fecha_portada": "",
+        "titulo_fuente": "La Dian aclaró que los morosos en todo el país podrán pagar tan solo 15% de sus sanciones",
+        "capturado": "2026-09-23T00:18:10-05:00"
+      },
+      {
+        "titulo": "El presidente Donald Trump presentó ante la ONU una inversión militar de US$1,5 billones",
+        "url": "https://www.larepublica.co/globoeconomia/el-presidente-donald-trump-anuncio-una-inversion-militar-de-us-1-5-billones-ante-la-onu-4488183",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "El presidente Donald Trump anunció una inversión militar de US$1,5 billones ante la ONU",
+        "capturado": "2026-09-23T00:18:10-05:00"
+      },
+      {
+        "titulo": "De acuerdo con Ipsos, la delincuencia y la violencia representan la mayor inquietud en América Latina",
+        "url": "https://www.larepublica.co/globoeconomia/el-crimen-y-la-violencia-son-la-principal-preocupacion-en-america-latina-4488110",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "El crimen y la violencia son la principal preocupación en América Latina, según Ipsos",
+        "capturado": "2026-09-23T00:18:10-05:00"
+      },
+      {
+        "titulo": "Fenalco Bogotá se opone a la tributaria de Galán y el alcalde la respalda",
+        "url": "https://www.larepublica.co/economia/fenalco-bogota-se-pronuncia-en-contra-de-la-tributaria-de-galan-el-alcalde-la-defiende-4488394",
+        "fecha_portada": "22/09/2026",
+        "titulo_fuente": "Fenalco Bogotá se pronuncia en contra de la tributaria de Galán, el alcalde la defiende",
+        "capturado": "2026-09-23T00:18:10-05:00"
+      },
       {
         "titulo": "Los bonos de Colombia a 10 años registran la séptima tasa más elevada entre los países emergentes",
         "url": "https://www.larepublica.co/economia/bonos-de-colombia-a-10-anos-tienen-la-septima-tasa-mas-alta-entre-economias-emergentes-4487857",
@@ -388,44 +423,23 @@
         "fecha_portada": "16/09/2026",
         "titulo_fuente": "Ungrd inició pago de apoyo económico de vivienda en Buenaventura y Roldanillo",
         "capturado": "2026-09-16T10:03:01-05:00"
-      },
-      {
-        "titulo": "Araújo estableció sus asuntos prioritarios como embajadora de Colombia en Estados Unidos",
-        "url": "https://www.larepublica.co/economia/araujo-definio-sus-prioridades-como-embajadora-de-colombia-en-estados-unidos-4482758",
-        "fecha_portada": "16/09/2026",
-        "titulo_fuente": "Araújo definió sus prioridades como embajadora de Colombia en Estados Unidos",
-        "capturado": "2026-09-16T10:03:01-05:00"
-      },
-      {
-        "titulo": "Colombia pierde terreno en innovación y se distancia del grupo líder de América Latina",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-retrocede-en-innovacion-y-se-aleja-del-grupo-lider-de-america-latina-4482399",
-        "fecha_portada": "16/09/2026",
-        "titulo_fuente": "Colombia retrocede en innovación y se aleja del grupo líder dentro de América Latina",
-        "capturado": "2026-09-16T00:23:02-05:00"
-      },
-      {
-        "titulo": "Fitch considera que decretos de emergencia no afectarán notas locales y regionales",
-        "url": "https://www.larepublica.co/economia/fitch-no-cree-que-decretos-de-emergencia-afecten-notas-locales-y-regionales-4482318",
-        "fecha_portada": "15/09/2026",
-        "titulo_fuente": "Fitch no cree que decretos de emergencia afecten notas locales y regionales",
-        "capturado": "2026-09-15T17:21:05-05:00"
-      },
-      {
-        "titulo": "Debemos acudir al mercado para obtener $88 billones mediante financiamiento externo",
-        "url": "https://www.larepublica.co/economia/entrevista-con-miguel-gomez-ministro-de-hacienda-sobre-la-presentacion-del-presupuesto-de-2027-4480956",
-        "fecha_portada": "",
-        "titulo_fuente": "“Tenemos que salir al mercado para conseguir $88 billones a través de crédito externo”",
-        "capturado": "2026-09-15T00:30:33-05:00"
-      },
-      {
-        "titulo": "Escocia, Gales e Irlanda del Norte retan al Reino Unido y reactivan la discusión sobre su autonomía",
-        "url": "https://www.larepublica.co/globoeconomia/escocia-gales-e-irlanda-del-norte-desafian-al-reino-unido-y-reavivan-debate-sobre-autonomia-4481476",
-        "fecha_portada": "",
-        "titulo_fuente": "Escocia, Gales e Irlanda del Norte desafían al Reino Unido; reavivan debate de autonomía",
-        "capturado": "2026-09-15T00:30:33-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Al finalizar el año lanzaremos un fondo con la meta de captar $2 billones",
+        "url": "https://www.larepublica.co/finanzas/inside-lr-con-galantino-gallo-ceo-de-credicorp-capital-sobre-los-planes-de-la-compania-4487689",
+        "fecha_portada": "",
+        "titulo_fuente": "“Para fin de año lanzaremos un fondo y tenemos la expectativa de captar $2 billones”",
+        "capturado": "2026-09-23T00:18:10-05:00"
+      },
+      {
+        "titulo": "BVC aumentó a 75,28% su participación en la Cámara de Riesgo Central de Contraparte",
+        "url": "https://www.larepublica.co/finanzas/bvc-elevo-a-75-28-su-participacion-en-la-camara-de-riesgo-central-de-contraparte-4487849",
+        "fecha_portada": "",
+        "titulo_fuente": "BVC elevó a 75,28% su participación en la Cámara de Riesgo Central de Contraparte",
+        "capturado": "2026-09-23T00:18:10-05:00"
+      },
       {
         "titulo": "El dólar regresa al rango de $3.200; inició al alza en $3.204, superando por $12,27 a la TRM",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-22-de-septiembre-4487642",
@@ -831,20 +845,6 @@
         "fecha_portada": "07/09/2026",
         "titulo_fuente": "El oro baja ligeramente mientras el mercado sigue atento al petróleo y el dólar",
         "capturado": "2026-09-07T07:47:51-05:00"
-      },
-      {
-        "titulo": "Las ballenas de bitcoin se transforman y ahora amenazan con alterar todo el mercado",
-        "url": "https://www.larepublica.co/globoeconomia/las-ballenas-del-bitcoin-cambian-de-piel-y-ahora-amenazan-con-mover-todo-el-mercado-4475238",
-        "fecha_portada": "",
-        "titulo_fuente": "Las ‘ballenas’ del bitcoin cambian de piel y ahora amenazan con mover todo el mercado",
-        "capturado": "2026-09-06T12:48:25-05:00"
-      },
-      {
-        "titulo": "El mercado de capitales debe ir más allá de los gobiernos y requiere una política de Estado",
-        "url": "https://www.larepublica.co/finanzas/shenny-gonzalez-presidente-de-asobolsa-hablo-de-los-retos-que-tienen-el-mercado-de-capitales-en-colombia-4474017",
-        "fecha_portada": "",
-        "titulo_fuente": "“El mercado de capitales tiene que trascender los gobiernos, necesita una política de Estado”",
-        "capturado": "2026-09-05T00:53:39-05:00"
       }
     ]
   }
