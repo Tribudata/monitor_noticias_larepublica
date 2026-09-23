@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-23T05:08:05-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-23T10:06:07-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Salud es el sector que obtiene más fondos en la ponencia para el primer debate del presupuesto",
+        "url": "https://www.larepublica.co/economia/salud-es-el-sector-que-mas-gana-recursos-en-la-ponencia-para-primer-debate-de-presupuesto-4488426",
+        "fecha_portada": "",
+        "titulo_fuente": "Salud es el sector que más gana recursos en la ponencia para primer debate de presupuesto",
+        "capturado": "2026-09-23T10:06:07-05:00"
+      },
+      {
+        "titulo": "Carf advirtió por el costo de la deuda pues tasas de los TES en pesos subieron 40 pbs en agosto",
+        "url": "https://www.larepublica.co/economia/carf-alerto-por-costo-de-la-deuda-tasas-de-los-tes-aumentaron-40-pbs-en-agosto-4488501",
+        "fecha_portada": "",
+        "titulo_fuente": "Carf alertó por costo de la deuda, tasas de los TES en pesos aumentaron 40 pbs en agosto",
+        "capturado": "2026-09-23T10:06:07-05:00"
+      },
+      {
+        "titulo": "Sondeo de analistas de Anif prevé tasas sin cambios en la siguiente Junta del Emisor",
+        "url": "https://www.larepublica.co/economia/encuesta-de-analistas-de-anif-anticipa-tasas-quietas-en-proxima-junta-del-emisor-4488645",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "Encuesta de analistas de Anif anticipa tasas \"quietas\" en próxima Junta del Emisor",
+        "capturado": "2026-09-23T10:06:07-05:00"
+      },
       {
         "titulo": "El Gobierno busca decretar por segunda vez la emergencia económica debido a El Niño",
         "url": "https://www.larepublica.co/economia/gobierno-va-por-su-segunda-declaratoria-de-emergencia-economica-a-causa-de-el-nino-4488236",
@@ -402,30 +423,16 @@
         "fecha_portada": "16/09/2026",
         "titulo_fuente": "Andi advirtió que el crecimiento de la industria manufacturera es \"moderado\"",
         "capturado": "2026-09-16T16:48:09-05:00"
-      },
-      {
-        "titulo": "De la Espriella y la presidente de Costa Rica dialogarán sobre seguridad en Barranquilla",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-y-la-presidente-de-costa-rica-hablaran-seguridad-en-barranquilla-4483174",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella y la presidente de Costa Rica hablarán de seguridad en Barranquilla",
-        "capturado": "2026-09-16T16:48:09-05:00"
-      },
-      {
-        "titulo": "ICP afirma que el saldo negativo de 2027 disminuirá con una corrección impositiva del 1,4% del PIB",
-        "url": "https://www.larepublica.co/economia/icp-dice-que-el-deficit-de-2027-mejorara-si-se-logra-un-ajuste-tributario-de-1-4-del-pib-4482843",
-        "fecha_portada": "16/09/2026",
-        "titulo_fuente": "ICP dice que el déficit de 2027 mejorará si se logra un ajuste tributario de 1,4% del PIB",
-        "capturado": "2026-09-16T10:03:01-05:00"
-      },
-      {
-        "titulo": "La Ungrd comenzó el desembolso de la ayuda financiera habitacional en Buenaventura y Roldanillo",
-        "url": "https://www.larepublica.co/economia/ungrd-inicio-pago-de-apoyo-economico-de-vivienda-en-buenaventura-y-roldanillo-4482736",
-        "fecha_portada": "16/09/2026",
-        "titulo_fuente": "Ungrd inició pago de apoyo económico de vivienda en Buenaventura y Roldanillo",
-        "capturado": "2026-09-16T10:03:01-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar se sitúa en $3.247,29, un valor que no se observaba desde el 21 de julio",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-septiembre-4488489",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar se cotiza en $3.247,29, precio que no se registraba desde el 21 de julio",
+        "capturado": "2026-09-23T10:06:07-05:00"
+      },
       {
         "titulo": "Al finalizar el año lanzaremos un fondo con la meta de captar $2 billones",
         "url": "https://www.larepublica.co/finanzas/inside-lr-con-galantino-gallo-ceo-de-credicorp-capital-sobre-los-planes-de-la-compania-4487689",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El dólar se cotiza más de $8 a la baja en modalidad Next Day por festivo en Estados Unidos",
         "capturado": "2026-09-07T12:58:01-05:00"
-      },
-      {
-        "titulo": "El oro registra una leve caída mientras el mercado sigue pendiente del petróleo y el dólar",
-        "url": "https://www.larepublica.co/finanzas/el-oro-baja-ligeramente-mientras-el-mercado-sigue-atento-al-petroleo-y-el-dolar-4475861",
-        "fecha_portada": "07/09/2026",
-        "titulo_fuente": "El oro baja ligeramente mientras el mercado sigue atento al petróleo y el dólar",
-        "capturado": "2026-09-07T07:47:51-05:00"
       }
     ]
   }
