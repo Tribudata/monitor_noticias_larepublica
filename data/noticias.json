@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-23T14:07:05-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-23T17:22:46-05:00",
+  "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "MinHacienda alertó que la pensional generará un costo fiscal extra de $5 billones",
+        "url": "https://www.larepublica.co/finanzas/minhacienda-advirtio-que-la-pensional-tiene-un-impacto-fiscal-adicional-de-5-billones-4488682",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "MinHacienda advirtió que la pensional tiene un impacto fiscal adicional de $5 billones",
+        "capturado": "2026-09-23T17:22:46-05:00"
+      },
+      {
+        "titulo": "Galán aseguró reducción de 60% en comparendos de tránsito por la tributaria de Bogotá",
+        "url": "https://www.larepublica.co/economia/galan-confirmo-descuento-de-60-en-multas-de-transito-con-la-tributaria-de-bogota-4488841",
+        "fecha_portada": "",
+        "titulo_fuente": "Galán confirmó descuento de 60% en multas de tránsito con la tributaria de Bogotá",
+        "capturado": "2026-09-23T17:22:46-05:00"
+      },
+      {
+        "titulo": "Entidades han radicado solicitudes de examen ante la Corte sobre la pensional",
+        "url": "https://www.larepublica.co/finanzas/tras-la-reforma-pensional-tres-entidades-distintas-han-presentado-peticiones-a-la-corte-4488709",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "Entidades han presentado peticiones de revisión a la Corte sobre la pensional",
+        "capturado": "2026-09-23T17:22:46-05:00"
+      },
+      {
+        "titulo": "Anif alerta que El Niño podría añadir hasta un punto porcentual a la inflación",
+        "url": "https://www.larepublica.co/economia/anif-advierte-que-el-nino-podria-sumar-hasta-un-punto-porcentual-a-la-inflacion-4488707",
+        "fecha_portada": "",
+        "titulo_fuente": "Anif advierte que El Niño podría sumar hasta un punto porcentual a la inflación",
+        "capturado": "2026-09-23T17:22:46-05:00"
+      },
+      {
+        "titulo": "Pacto Histórico radicó ponencia diferente para el Presupuesto de 2027",
+        "url": "https://www.larepublica.co/economia/bancada-del-pacto-historico-presento-ponencia-alternativa-al-presupuesto-por-598-6-billones-4488675",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "Pacto Histórico presentó ponencia alternativa al Presupuesto para 2027",
+        "capturado": "2026-09-23T17:22:46-05:00"
+      },
       {
         "titulo": "Salud es el sector que obtiene más fondos en la ponencia para el primer debate del presupuesto",
         "url": "https://www.larepublica.co/economia/salud-es-el-sector-que-mas-gana-recursos-en-la-ponencia-para-primer-debate-de-presupuesto-4488426",
@@ -388,44 +423,16 @@
         "fecha_portada": "17/09/2026",
         "titulo_fuente": "Canciller recalcó que cooperar con Israel será clave para frenar amenazas a seguridad",
         "capturado": "2026-09-17T07:15:01-05:00"
-      },
-      {
-        "titulo": "Reserva Federal de EE.UU. comienza a subir sus tasas de interés por presiones en el costo de vida",
-        "url": "https://www.larepublica.co/globoeconomia/reserva-federal-de-ee-uu-inicia-ciclo-de-alzas-de-tasas-ante-presion-sobre-costo-de-vida-4483424",
-        "fecha_portada": "",
-        "titulo_fuente": "Reserva Federal de EE.UU. inicia ciclo de alzas de tasas ante presión sobre costo de vida",
-        "capturado": "2026-09-17T01:48:48-05:00"
-      },
-      {
-        "titulo": "Los TES se acercan al 13% luego de aprobarse el monto del presupuesto récord para 2027",
-        "url": "https://www.larepublica.co/economia/tes-rozan-13-tras-luz-verde-al-monto-del-presupuesto-record-para-2027-4483396",
-        "fecha_portada": "17/09/2026",
-        "titulo_fuente": "Los TES rozan 13% tras la aprobación al monto del presupuesto récord para 2027",
-        "capturado": "2026-09-17T01:48:48-05:00"
-      },
-      {
-        "titulo": "Administración De La Espriella nombraría a Lucas Eduardo Ariza para liderar Indumil",
-        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-designaria-a-lucas-eduardo-ariza-al-frente-de-indumil-4483467",
-        "fecha_portada": "16/09/2026",
-        "titulo_fuente": "Gobierno De La Espriella designaría a Lucas Eduardo Ariza al frente de Indumil",
-        "capturado": "2026-09-16T20:54:52-05:00"
-      },
-      {
-        "titulo": "El sector eléctrico impulsó un incremento del 1,5% en la producción industrial entre enero y julio",
-        "url": "https://www.larepublica.co/economia/produccion-industrial-crecio-1-5-de-enero-a-julio-jalonada-por-sector-electrico-4483045",
-        "fecha_portada": "",
-        "titulo_fuente": "Producción Industrial creció 1,5% de enero a julio, jalonada por sector eléctrico",
-        "capturado": "2026-09-16T16:48:09-05:00"
-      },
-      {
-        "titulo": "La Andi indicó que el avance de la industria manufacturera es moderado",
-        "url": "https://www.larepublica.co/economia/andi-advirtio-que-el-crecimiento-de-la-industria-manufacturera-es-moderado-4483196",
-        "fecha_portada": "16/09/2026",
-        "titulo_fuente": "Andi advirtió que el crecimiento de la industria manufacturera es \"moderado\"",
-        "capturado": "2026-09-16T16:48:09-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El oro retrocedió mientras los operadores evalúan los pronunciamientos de la Reserva Federal",
+        "url": "https://www.larepublica.co/finanzas/el-oro-cayo-mientras-los-operadores-sopesan-las-declaraciones-de-la-reserva-federal-4488665",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "El oro cayó mientras los operadores sopesan las declaraciones de la Reserva Federal",
+        "capturado": "2026-09-23T17:22:46-05:00"
+      },
       {
         "titulo": "El dólar se sitúa en $3.247,29, un valor que no se observaba desde el 21 de julio",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-septiembre-4488489",
@@ -838,13 +845,6 @@
         "fecha_portada": "08/09/2026",
         "titulo_fuente": "El precio del dólar ya completó más de un año de cotización lejos de la línea de los $4.000",
         "capturado": "2026-09-08T01:35:11-05:00"
-      },
-      {
-        "titulo": "El dólar registra una baja de más de $8 en modalidad Next Day por festivo en Estados Unidos",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-7-de-septiembre-4475947",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar se cotiza más de $8 a la baja en modalidad Next Day por festivo en Estados Unidos",
-        "capturado": "2026-09-07T12:58:01-05:00"
       }
     ]
   }
