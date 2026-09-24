@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-23T19:36:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-24T00:33:02-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Las áreas con las mayores reducciones en el Presupuesto General de la Nación de 2027",
+        "url": "https://www.larepublica.co/economia/los-sectores-donde-mas-se-ha-recortado-el-presupuesto-general-de-2027-4489006",
+        "fecha_portada": "24/09/2026",
+        "titulo_fuente": "Los sectores donde más se ha recortado el Presupuesto General de la Nación para 2027",
+        "capturado": "2026-09-24T00:33:02-05:00"
+      },
+      {
+        "titulo": "Carf advirtió por incremento en tasas de TES y disminución en la caja en pesos de toda la Nación",
+        "url": "https://www.larepublica.co/economia/carf-alerto-por-alza-en-tasas-de-tes-y-una-reduccion-en-la-caja-en-pesos-de-la-nacion-4488926",
+        "fecha_portada": "",
+        "titulo_fuente": "Carf alertó por alza en tasas de TES y una reducción en la caja en pesos de toda la Nación",
+        "capturado": "2026-09-24T00:33:02-05:00"
+      },
+      {
+        "titulo": "El presupuesto de 2027 superó el primer debate y continúa su curso en las plenarias",
+        "url": "https://www.larepublica.co/economia/el-presupuesto-de-2027-fue-aprobado-en-primer-debate-y-sigue-tramite-en-plenarias-4489115",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "El presupuesto de 2027 fue aprobado en primer debate y sigue trámite en las plenarias",
+        "capturado": "2026-09-24T00:33:02-05:00"
+      },
       {
         "titulo": "MinHacienda alertó que la pensional generará un costo fiscal extra de $5 billones",
         "url": "https://www.larepublica.co/finanzas/minhacienda-advirtio-que-la-pensional-tiene-un-impacto-fiscal-adicional-de-5-billones-4488682",
@@ -402,27 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "MinHacienda presentó en Nueva York el proyecto de Presupuesto General para 2027",
         "capturado": "2026-09-17T15:24:33-05:00"
-      },
-      {
-        "titulo": "Corficolombiana prevé un aumento del ISE de 0,3% para julio, el menor registro del año",
-        "url": "https://www.larepublica.co/economia/corficolombiana-estima-que-crecimiento-del-ise-sea-de-0-3-en-julio-el-mas-bajo-del-ano-4483696",
-        "fecha_portada": "17/09/2026",
-        "titulo_fuente": "Corficolombiana estima que crecimiento del ISE sea de 0,3% en julio, el más bajo del año",
-        "capturado": "2026-09-17T12:09:23-05:00"
-      },
-      {
-        "titulo": "Dian advirtió sobre $1,28 billones de retención en la fuente que no se han cancelado",
-        "url": "https://www.larepublica.co/economia/dian-alerto-sobre-1-28-billones-de-retencion-en-la-fuente-que-no-han-sido-pagados-4483758",
-        "fecha_portada": "",
-        "titulo_fuente": "Dian alertó sobre $1,28 billones de retención en la fuente que no han sido pagados",
-        "capturado": "2026-09-17T12:09:23-05:00"
-      },
-      {
-        "titulo": "Canciller reiteró que colaborar con Israel será determinante para contener amenazas a la seguridad",
-        "url": "https://www.larepublica.co/economia/canciller-recalco-que-cooperar-con-israel-sera-clave-para-frenar-las-amenazas-a-seguridad-4483614",
-        "fecha_portada": "17/09/2026",
-        "titulo_fuente": "Canciller recalcó que cooperar con Israel será clave para frenar amenazas a seguridad",
-        "capturado": "2026-09-17T07:15:01-05:00"
       }
     ],
     "Bolsas": [
