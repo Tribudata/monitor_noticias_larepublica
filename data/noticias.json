@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-24T00:33:02-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-24T05:33:49-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La Ocde prevé una expansión del 2,9% en la economía global para este año",
+        "url": "https://www.larepublica.co/globoeconomia/la-ocde-proyecta-un-crecimiento-de-la-economia-mundial-de-2-9-para-el-cierre-de-ano-4488410",
+        "fecha_portada": "23/09/2026",
+        "titulo_fuente": "La Ocde proyecta un crecimiento de la economía mundial de 2,9% para este año",
+        "capturado": "2026-09-24T05:33:49-05:00"
+      },
       {
         "titulo": "Las áreas con las mayores reducciones en el Presupuesto General de la Nación de 2027",
         "url": "https://www.larepublica.co/economia/los-sectores-donde-mas-se-ha-recortado-el-presupuesto-general-de-2027-4489006",
@@ -416,16 +423,30 @@
         "fecha_portada": "17/09/2026",
         "titulo_fuente": "Banco de la República elevó su pronóstico de inflación, ahora la ve cerca de 7%",
         "capturado": "2026-09-17T15:24:33-05:00"
-      },
-      {
-        "titulo": "MinHacienda expuso en Nueva York la propuesta del Presupuesto General para 2027",
-        "url": "https://www.larepublica.co/economia/minhacienda-presento-en-nueva-york-el-proyecto-de-presupuesto-general-4484598",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda presentó en Nueva York el proyecto de Presupuesto General para 2027",
-        "capturado": "2026-09-17T15:24:33-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Dólar alcanzó su mayor valor en dos meses y se aproxima a la barrera de los $3.300",
+        "url": "https://www.larepublica.co/finanzas/dolar-toco-maximo-de-hace-dos-meses-y-se-acerca-a-la-linea-de-los-3-300-4488937",
+        "fecha_portada": "24/09/2026",
+        "titulo_fuente": "Dólar tocó máximo no registrado hace dos meses y se acerca a la línea de los $3.300",
+        "capturado": "2026-09-24T05:33:49-05:00"
+      },
+      {
+        "titulo": "Petróleo cierra con incremento cercano al 4% tras pronunciamientos de Irán sobre seguir combatiendo",
+        "url": "https://www.larepublica.co/globoeconomia/crudo-cierra-con-alza-cercana-a-4-tras-declaraciones-de-iran-sobre-seguir-combatiendo-4489018",
+        "fecha_portada": "24/09/2026",
+        "titulo_fuente": "Crudo cierra con alza cercana a 4% tras declaraciones de Irán sobre seguir combatiendo",
+        "capturado": "2026-09-24T05:33:49-05:00"
+      },
+      {
+        "titulo": "Digital, físico y stablecoin, diferentes clases de dólares que se deben cotejar antes de su compra",
+        "url": "https://www.larepublica.co/finanzas-personales/conozca-los-distintos-tipos-de-dolares-existentes-que-puede-comprar-y-cual-es-mejor-en-su-caso-4478146",
+        "fecha_portada": "24/09/2026",
+        "titulo_fuente": "Digital, físico y stablecoin, distintos tipos de dólares a comparar previo a comprar",
+        "capturado": "2026-09-24T05:33:49-05:00"
+      },
       {
         "titulo": "El oro retrocedió mientras los operadores evalúan los pronunciamientos de la Reserva Federal",
         "url": "https://www.larepublica.co/finanzas/el-oro-cayo-mientras-los-operadores-sopesan-las-declaraciones-de-la-reserva-federal-4488665",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El dólar mantiene su tendencia bajista y se cotiza $7,37 por debajo de la TRM",
         "capturado": "2026-09-08T10:25:21-05:00"
-      },
-      {
-        "titulo": "El oro desciende por la subida del crudo e inversionistas esperan datos de inflación de EE.UU.",
-        "url": "https://www.larepublica.co/finanzas/el-oro-cae-lastrado-por-alza-del-crudo-inversores-esperan-datos-inflacion-ee-uu-4476788",
-        "fecha_portada": "08/09/2026",
-        "titulo_fuente": "El oro cae lastrado por alza del crudo, los inversores esperan datos de inflación de EE.UU.",
-        "capturado": "2026-09-08T10:25:21-05:00"
-      },
-      {
-        "titulo": "BlackRock detecta potencial en inteligencia artificial y transición energética dentro de la BVC",
-        "url": "https://www.larepublica.co/finanzas/blackrock-ve-oportunidades-en-ia-y-transicion-energetica-en-la-bvc-4476543",
-        "fecha_portada": "",
-        "titulo_fuente": "BlackRock ve oportunidades en inteligencia artificial y en transición energética en la BVC",
-        "capturado": "2026-09-08T01:35:11-05:00"
-      },
-      {
-        "titulo": "La cotización del dólar ya superó un año ubicándose distante de la barrera de los $4.000",
-        "url": "https://www.larepublica.co/finanzas/el-precio-del-dolar-ya-completo-mas-de-un-ano-de-cotizacion-lejos-de-la-linea-de-los-4-000-4476491",
-        "fecha_portada": "08/09/2026",
-        "titulo_fuente": "El precio del dólar ya completó más de un año de cotización lejos de la línea de los $4.000",
-        "capturado": "2026-09-08T01:35:11-05:00"
       }
     ]
   }
