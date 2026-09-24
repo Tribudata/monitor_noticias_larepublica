@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-24T10:31:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-24T14:31:37-05:00",
+  "nuevos_en_esta_corrida": 10,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Mi gobierno se centra en lograr que Colombia retome el crecimiento",
+        "url": "https://www.larepublica.co/economia/discurso-de-restrepo-durante-la-asamblea-general-de-la-onu-4489543",
+        "fecha_portada": "",
+        "titulo_fuente": "\"Mi administración está concentrada en lograr que Colombia vuelva al crecimiento\"",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
+      {
+        "titulo": "El Dane registró 253.175 nacimientos y 172.426 muertes entre enero y julio",
+        "url": "https://www.larepublica.co/economia/nacimientos-y-defunciones-no-fetales-con-corte-a-julio-de-2026-4489497",
+        "fecha_portada": "",
+        "titulo_fuente": "Dane reportó 253.175 nacimientos y 172.426 defunciones entre enero y julio",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
+      {
+        "titulo": "La Comisión Séptima escuchará de nuevo al presidente de Colpensiones el miércoles",
+        "url": "https://www.larepublica.co/finanzas/congresistas-denuncian-que-el-presidente-de-colpensiones-no-tiene-conocimiento-del-sector-4489421",
+        "fecha_portada": "",
+        "titulo_fuente": "La Comisión Séptima volverá a escuchar al presidente de Colpensiones el miércoles",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
       {
         "titulo": "La Ocde prevé una expansión del 2,9% en la economía global para este año",
         "url": "https://www.larepublica.co/globoeconomia/la-ocde-proyecta-un-crecimiento-de-la-economia-mundial-de-2-9-para-el-cierre-de-ano-4488410",
@@ -402,30 +423,58 @@
         "fecha_portada": "",
         "titulo_fuente": "La cuarta parte de los graduados de MBA termina trabajando en consultoría",
         "capturado": "2026-09-18T00:20:00-05:00"
-      },
-      {
-        "titulo": "El riesgo país se elevó tras la presentación del presupuesto general para el año entrante",
-        "url": "https://www.larepublica.co/economia/riesgo-pais-repunto-tras-la-presentacion-del-presupuesto-general-para-2027-4484771",
-        "fecha_portada": "18/09/2026",
-        "titulo_fuente": "Riesgo país repuntó tras la presentación del presupuesto general para el próximo año",
-        "capturado": "2026-09-18T00:20:00-05:00"
-      },
-      {
-        "titulo": "Gobierno destinará $7.500 millones para obras de agua potable en La Guajira",
-        "url": "https://www.larepublica.co/economia/gobierno-invertira-en-proyectos-de-agua-potable-de-7-500-millones-en-la-guajira-4484622",
-        "fecha_portada": "17/09/2026",
-        "titulo_fuente": "Gobierno invertirá en proyectos de agua potable de $7.500 millones en La Guajira",
-        "capturado": "2026-09-17T17:55:17-05:00"
-      },
-      {
-        "titulo": "Banco de la República incrementó su proyección de inflación y ahora la prevé próxima al 7%",
-        "url": "https://www.larepublica.co/economia/banco-de-la-republica-elevo-su-pronostico-de-inflacion-ahora-la-ve-cerca-de-7-4484005",
-        "fecha_portada": "17/09/2026",
-        "titulo_fuente": "Banco de la República elevó su pronóstico de inflación, ahora la ve cerca de 7%",
-        "capturado": "2026-09-17T15:24:33-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó la sesión en $3.327, registrando una diferencia de $63,44 frente a la TRM de la jornada",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-24-de-septiembre-4489258",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró la jornada en $3.327, una diferencia de $63,44 frente a la TRM del día",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
+      {
+        "titulo": "Las acciones descienden y el incremento del crudo estimula la venta masiva de bonos en los mercados",
+        "url": "https://www.larepublica.co/globoeconomia/acciones-caen-y-alza-del-petroleo-impulsa-una-venta-masiva-de-bonos-en-los-mercados-4489436",
+        "fecha_portada": "",
+        "titulo_fuente": "Acciones caen y alza del petróleo impulsa venta masiva de bonos en mercados",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
+      {
+        "titulo": "El valor del oro disminuyó 0,7% a la vez que los operadores monitorean el incremento del petróleo",
+        "url": "https://www.larepublica.co/finanzas/el-oro-cae-mientras-los-operadores-siguen-de-cerca-el-repunte-del-petroleo-4489211",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro cayó 0,7% mientras los operadores siguen de cerca el repunte del petróleo",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
+      {
+        "titulo": "Sura Investments dio a conocer las equivocaciones más usuales al evaluar inversiones bajo incertidumbre",
+        "url": "https://www.larepublica.co/finanzas/sura-investments-revelo-los-errores-mas-comunes-a-la-hora-de-realizar-inversiones-4489427",
+        "fecha_portada": "",
+        "titulo_fuente": "Sura Investments reveló errores comunes al analizar inversiones en incertidumbre",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
+      {
+        "titulo": "Mayor cantidad de opciones y la llegada de inversionistas recientes trazan la ruta del mercado de capitales",
+        "url": "https://www.larepublica.co/finanzas/mas-alternativas-y-nuevos-inversionistas-marcan-el-rumbo-del-mercado-de-capitales-4489465",
+        "fecha_portada": "",
+        "titulo_fuente": "Más alternativas y nuevos inversionistas marcan el rumbo del mercado de capitales",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
+      {
+        "titulo": "Nuam y Vantek concretaron un acuerdo para simplificar la adecuación tecnológica en el sector financiero",
+        "url": "https://www.larepublica.co/finanzas/nuam-y-vantek-firmaron-una-alianza-para-facilitar-la-adaptacion-tecnologica-financiera-4489347",
+        "fecha_portada": "",
+        "titulo_fuente": "Nuam y Vantek firmaron una alianza para facilitar la adaptación tecnológica financiera",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
+      {
+        "titulo": "La aplicación de Credicorp, Tyba, logró registrar US$2.000 millones en activos bajo su administración",
+        "url": "https://www.larepublica.co/finanzas/tyba-app-de-credicorp-alcanzo-us-2-000-millones-en-activos-administradostyba-4489299",
+        "fecha_portada": "",
+        "titulo_fuente": "Tyba, app de Credicorp, alcanzó US$2.000 millones en activos administrados",
+        "capturado": "2026-09-24T14:31:37-05:00"
+      },
       {
         "titulo": "Dólar alcanzó su mayor valor en dos meses y se aproxima a la barrera de los $3.300",
         "url": "https://www.larepublica.co/finanzas/dolar-toco-maximo-de-hace-dos-meses-y-se-acerca-a-la-linea-de-los-3-300-4488937",
@@ -796,55 +845,6 @@
         "fecha_portada": "10/09/2026",
         "titulo_fuente": "Gobierno alista nuevo ETF de TES de corto plazo para ampliar opciones de inversión",
         "capturado": "2026-09-10T13:34:28-05:00"
-      },
-      {
-        "titulo": "El dólar cambia su tendencia a la baja y se negocia $15 sobre la TRM",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-10-de-septiembre-de-2026-4478576",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar revierte tendencia bajista y se cotiza $15 por encima de la TRM",
-        "capturado": "2026-09-10T10:16:10-05:00"
-      },
-      {
-        "titulo": "El oro continúa cerca de US$4.400 a la expectativa de las tasas de interés de la Reserva Federal",
-        "url": "https://www.larepublica.co/finanzas/el-oro-se-mantiene-cerca-de-us-4-400-a-la-espera-de-las-tasas-de-interes-de-la-reserva-federal-4478546",
-        "fecha_portada": "10/09/2026",
-        "titulo_fuente": "El oro se mantiene cerca de US$4.400 a la espera de las tasas de interés de la Reserva Federal",
-        "capturado": "2026-09-10T06:53:42-05:00"
-      },
-      {
-        "titulo": "La BVC requiere un mayor número de inversionistas, emisores y un portafolio de productos más extenso",
-        "url": "https://www.larepublica.co/finanzas/andres-restrepo-gerente-general-de-la-bolsa-de-valores-de-colombia-hablo-sobre-la-necesidad-de-un-mercado-mas-robusto-4478335",
-        "fecha_portada": "",
-        "titulo_fuente": "\"La BVC necesita más inversionistas, emisores y oferta de productos más amplia\"",
-        "capturado": "2026-09-10T01:41:43-05:00"
-      },
-      {
-        "titulo": "La hoja de ruta de Nuam para unificar las plazas de Perú, Chile y Colombia en 2027",
-        "url": "https://www.larepublica.co/finanzas/asi-esta-el-cronograma-de-nuam-para-integrar-los-mercados-peru-chile-y-colombia-2027-4478222",
-        "fecha_portada": "09/09/2026",
-        "titulo_fuente": "El cronograma de Nuam para integrar los mercados Perú, Chile y Colombia en 2027",
-        "capturado": "2026-09-09T18:34:20-05:00"
-      },
-      {
-        "titulo": "El dólar continúa en descenso y se cotiza $18,47 por debajo de la TRM del día",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-9-de-septiembre-de-2026-4477737",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar mantiene su tendencia bajista y se cotiza $18,47 a la baja frente a la TRM del día",
-        "capturado": "2026-09-09T11:00:08-05:00"
-      },
-      {
-        "titulo": "Sura Investments sobrepasó los US$500 millones en bonos sostenibles el año pasado",
-        "url": "https://www.larepublica.co/finanzas/sura-investments-supero-us-500-millones-en-bonos-sostenibles-durante-el-ano-pasado-4477553",
-        "fecha_portada": "",
-        "titulo_fuente": "Sura Investments superó US$500 millones en bonos sostenibles durante el año pasado",
-        "capturado": "2026-09-08T20:40:47-05:00"
-      },
-      {
-        "titulo": "El dólar continúa a la baja y se negocia $7,37 por debajo de la TRM",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-8-de-septiembre-de-2026-4476816",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar mantiene su tendencia bajista y se cotiza $7,37 por debajo de la TRM",
-        "capturado": "2026-09-08T10:25:21-05:00"
       }
     ]
   }
