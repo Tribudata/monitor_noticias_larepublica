@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-24T19:56:47-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-25T00:37:48-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "A julio, 115 municipios de 1.103 reportaron un máximo de 10 nacimientos",
+        "url": "https://www.larepublica.co/economia/de-1-103-hubo-115-municipios-que-registraron-10-o-menos-nacimientos-entre-enero-y-julio-4489872",
+        "fecha_portada": "25/09/2026",
+        "titulo_fuente": "De 1.103, hubo 115 municipios que registraron 10 o menos nacimientos a julio",
+        "capturado": "2026-09-25T00:37:48-05:00"
+      },
+      {
+        "titulo": "Cuatro altos funcionarios han salido en menos de dos meses de la administración De la Espriella",
+        "url": "https://www.larepublica.co/economia/en-menos-de-dos-meses-del-gobierno-de-la-espriella-se-han-ido-cuatro-altos-funcionarios-4489941",
+        "fecha_portada": "",
+        "titulo_fuente": "En menos de dos meses del gobierno De la Espriella, se han ido cuatro altos funcionarios",
+        "capturado": "2026-09-25T00:37:48-05:00"
+      },
+      {
+        "titulo": "Colombia se ubicó en la posición 34 en el cierre de la brecha de género, según el Foro Económico",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-ocupo-el-puesto-34-en-el-cierre-de-brecha-de-genero-segun-el-foro-economico-4489877",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia ocupó el puesto 34 en el cierre de brecha de género, según el Foro Económico",
+        "capturado": "2026-09-25T00:37:48-05:00"
+      },
+      {
+        "titulo": "El Dane informó que las muertes no fetales se incrementaron 4,8% a julio",
+        "url": "https://www.larepublica.co/economia/dane-reporto-que-las-defunciones-no-fetales-aumentaron-4-8-entre-enero-y-julio-4489890",
+        "fecha_portada": "25/09/2026",
+        "titulo_fuente": "Dane reportó que las defunciones no fetales aumentaron 4,8% a julio",
+        "capturado": "2026-09-25T00:37:48-05:00"
+      },
       {
         "titulo": "Con el retiro de Montoya, el presidente de Colpensiones permanece en promedio 21 meses",
         "url": "https://www.larepublica.co/finanzas/de-la-espriella-le-solicito-la-renuncia-del-presidente-de-colpensiones-carlos-rene-montoya-4489802",
@@ -395,37 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Ministerio de Hacienda aprobó adición de $624.656 millones para atender emergencia",
         "capturado": "2026-09-18T12:19:53-05:00"
-      },
-      {
-        "titulo": "Obligaciones con la Dian tendrán reducción de intereses y sanciones para afectados por el sismo",
-        "url": "https://www.larepublica.co/economia/deudas-con-la-dian-tendran-alivios-de-intereses-y-sanciones-para-damnificados-por-terremoto-4485265",
-        "fecha_portada": "18/09/2026",
-        "titulo_fuente": "Deudas con la Dian tendrán alivios de intereses y sanciones para damnificados por sismo",
-        "capturado": "2026-09-18T12:19:53-05:00"
-      },
-      {
-        "titulo": "Gobierno propone incentivos tributarios para atraer capitales a las zonas damnificadas por el sismo",
-        "url": "https://www.larepublica.co/economia/gobierno-ofrece-beneficios-tributarios-para-atraer-inversion-a-zonas-afectadas-por-el-terremoto-4485099",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno ofrece beneficios tributarios para atraer inversión a zonas afectadas por el sismo",
-        "capturado": "2026-09-18T08:55:36-05:00"
-      },
-      {
-        "titulo": "Alerta por los giros de la mesada de diciembre de los pensionados en Colpensiones",
-        "url": "https://www.larepublica.co/economia/alerta-por-los-pagos-de-la-pension-decembrina-de-jubilados-en-colpensiones-4484723",
-        "fecha_portada": "18/09/2026",
-        "titulo_fuente": "Alerta por los pagos de la pensión decembrina de los jubilados dentro de Colpensiones",
-        "capturado": "2026-09-18T00:20:00-05:00"
-      },
-      {
-        "titulo": "Cali está entre las 10 urbes con menor seguridad a nivel mundial, de acuerdo con el Índice de Numbeo",
-        "url": "https://www.larepublica.co/globoeconomia/cali-entre-las-10-ciudades-menos-seguras-del-mundo-segun-el-indice-de-numbeo-4484658",
-        "fecha_portada": "",
-        "titulo_fuente": "Cali, entre las 10 ciudades menos seguras del mundo, según el Índice de Numbeo",
-        "capturado": "2026-09-18T00:20:00-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Sura Investments aclaró las razones por las que poseer múltiples activos no equivale a diversificar",
+        "url": "https://www.larepublica.co/finanzas/sura-investments-explico-por-que-tener-varios-activos-invertidos-no-significa-diversificacion-4488876",
+        "fecha_portada": "",
+        "titulo_fuente": "Sura Investments explicó por qué tener varios activos no significa diversificación",
+        "capturado": "2026-09-25T00:37:48-05:00"
+      },
+      {
+        "titulo": "La cotización del dólar retorna a los rangos de julio y apunta hacia la barrera de los $3.400",
+        "url": "https://www.larepublica.co/finanzas/el-precio-del-dolar-vuelve-a-niveles-de-julio-y-pone-la-mira-en-la-linea-de-los-3-400-4489971",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del dólar vuelve a niveles de julio y pone la mira en la línea de los $3.400",
+        "capturado": "2026-09-25T00:37:48-05:00"
+      },
+      {
+        "titulo": "GEB progresa en su estrategia para cotizar en la Bolsa de Nueva York y sumar nuevos inversionistas",
+        "url": "https://www.larepublica.co/finanzas/geb-avanza-en-su-plan-para-llegar-a-la-bolsa-de-nueva-york-mediante-adrs-4489732",
+        "fecha_portada": "24/09/2026",
+        "titulo_fuente": "GEB avanza en su plan para llegar a la Bolsa de Nueva York y ampliar sus inversionistas",
+        "capturado": "2026-09-25T00:37:48-05:00"
+      },
       {
         "titulo": "El dólar finalizó la sesión en $3.327, registrando una diferencia de $63,44 frente a la TRM de la jornada",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-24-de-septiembre-4489258",
@@ -824,27 +845,6 @@
         "fecha_portada": "10/09/2026",
         "titulo_fuente": "El Grupo Sura aprobó un programa de readquisición de acciones por $500.000 millones",
         "capturado": "2026-09-10T20:13:41-05:00"
-      },
-      {
-        "titulo": "GeoPark analiza una doble cotización en Colombia con el fin de incrementar su llegada a inversionistas",
-        "url": "https://www.larepublica.co/finanzas/geopark-evalua-un-dual-listing-en-colombia-para-ampliar-su-acceso-a-inversionistas-4479032",
-        "fecha_portada": "10/09/2026",
-        "titulo_fuente": "GeoPark evalúa un dual listing en Colombia para ampliar su acceso a inversionistas",
-        "capturado": "2026-09-10T18:15:41-05:00"
-      },
-      {
-        "titulo": "BTG Pactual introdujo Tevaicol, su primer ETF de las 13 acciones colombianas con mayor liquidez",
-        "url": "https://www.larepublica.co/finanzas/btg-pactual-lanzo-tevaicol-su-primer-etf-de-las-13-acciones-colombianas-mas-liquidas-4479027",
-        "fecha_portada": "",
-        "titulo_fuente": "BTG Pactual lanzó Tevaicol, su primer ETF de las 13 acciones colombianas más líquidas",
-        "capturado": "2026-09-10T18:15:41-05:00"
-      },
-      {
-        "titulo": "El Gobierno prepara un nuevo ETF de TES a corto plazo para aumentar las alternativas de inversión",
-        "url": "https://www.larepublica.co/finanzas/gobierno-alista-nuevo-etf-de-tes-de-corto-plazo-para-ampliar-opciones-de-inversion-4478749",
-        "fecha_portada": "10/09/2026",
-        "titulo_fuente": "Gobierno alista nuevo ETF de TES de corto plazo para ampliar opciones de inversión",
-        "capturado": "2026-09-10T13:34:28-05:00"
       }
     ]
   }
