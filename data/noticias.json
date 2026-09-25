@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-24T17:44:48-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-24T19:56:47-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Con el retiro de Montoya, el presidente de Colpensiones permanece en promedio 21 meses",
+        "url": "https://www.larepublica.co/finanzas/de-la-espriella-le-solicito-la-renuncia-del-presidente-de-colpensiones-carlos-rene-montoya-4489802",
+        "fecha_portada": "",
+        "titulo_fuente": "Con salida de Montoya, presidente de Colpensiones dura 21 meses en promedio",
+        "capturado": "2026-09-24T19:56:47-05:00"
+      },
       {
         "titulo": "Mi gobierno se centra en lograr que Colombia retome el crecimiento",
         "url": "https://www.larepublica.co/economia/discurso-de-restrepo-durante-la-asamblea-general-de-la-onu-4489543",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/globoeconomia/cali-entre-las-10-ciudades-menos-seguras-del-mundo-segun-el-indice-de-numbeo-4484658",
         "fecha_portada": "",
         "titulo_fuente": "Cali, entre las 10 ciudades menos seguras del mundo, según el Índice de Numbeo",
-        "capturado": "2026-09-18T00:20:00-05:00"
-      },
-      {
-        "titulo": "Un cuarto de los egresados de MBA termina laborando en consultoría",
-        "url": "https://www.larepublica.co/alta-gerencia/la-cuarta-parte-de-los-graduados-de-mba-termina-trabajando-en-consultoria-4484953",
-        "fecha_portada": "",
-        "titulo_fuente": "La cuarta parte de los graduados de MBA termina trabajando en consultoría",
         "capturado": "2026-09-18T00:20:00-05:00"
       }
     ],
