@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-25T14:35:44-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-25T17:51:09-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Restrepo comunicó la realización de la primera Semana Milagro en Nueva York el 16 de noviembre",
+        "url": "https://www.larepublica.co/economia/restrepo-anuncio-la-primera-semana-milagro-llegara-a-nueva-york-el-16-de-noviembre-4490480",
+        "fecha_portada": "25/09/2026",
+        "titulo_fuente": "Restrepo anunció la primera \"Semana Milagro\" en Nueva York el 16 de noviembre",
+        "capturado": "2026-09-25T17:51:09-05:00"
+      },
+      {
+        "titulo": "Concejo de Bogotá avaló modificación de tarifas del ICA y sobretasa al alumbrado de la tributaria",
+        "url": "https://www.larepublica.co/economia/concejo-de-bogota-avanza-en-la-aprobacion-del-articulado-de-la-tributaria-4490103",
+        "fecha_portada": "",
+        "titulo_fuente": "Concejo de Bogotá aprobó ajuste a tarifas del ICA y sobretasa a alumbrado de tributaria",
+        "capturado": "2026-09-25T17:51:09-05:00"
+      },
+      {
+        "titulo": "Junta de 4-72, encabezada por la MinTIC, apartó a Fuad Abdala Salaiman de la presidencia",
+        "url": "https://www.larepublica.co/economia/junta-directiva-de-4-72-liderada-por-la-mintic-retiro-a-fuad-salaiman-de-la-presidencia-4490436",
+        "fecha_portada": "25/09/2026",
+        "titulo_fuente": "Junta de 4-72, liderada por la MinTIC, retiró a Fuad Abdala Salaiman de la presidencia",
+        "capturado": "2026-09-25T17:51:09-05:00"
+      },
+      {
+        "titulo": "Ana Elena Monsalvo sería la próxima presidenta de Colpensiones",
+        "url": "https://www.larepublica.co/finanzas/ana-elena-monsalvo-podria-ser-la-nueva-presidenta-de-colpensiones-4490279",
+        "fecha_portada": "",
+        "titulo_fuente": "Ana Elena Monsalvo podría ser la nueva presidente de Colpensiones",
+        "capturado": "2026-09-25T17:51:09-05:00"
+      },
       {
         "titulo": "A julio, 115 municipios de 1.103 reportaron un máximo de 10 nacimientos",
         "url": "https://www.larepublica.co/economia/de-1-103-hubo-115-municipios-que-registraron-10-o-menos-nacimientos-entre-enero-y-julio-4489872",
@@ -395,34 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Mac Master recorrió Pereira y visitó las zonas y empresas afectadas por el terremoto",
         "capturado": "2026-09-18T16:58:12-05:00"
-      },
-      {
-        "titulo": "De la Espriella se ausentará de la Asamblea General de la ONU y Restrepo asistirá en su lugar",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-no-ira-a-la-asamblea-general-de-la-onu-y-restrepo-ira-en-su-reemplazo-4485614",
-        "fecha_portada": "18/09/2026",
-        "titulo_fuente": "De la Espriella no estará en la Asamblea General de la ONU y Restrepo irá en su reemplazo",
-        "capturado": "2026-09-18T16:58:12-05:00"
-      },
-      {
-        "titulo": "AmCham apoyó beneficios fiscales para captar capitales después del sismo",
-        "url": "https://www.larepublica.co/economia/amcham-respaldo-incentivos-tributarios-para-atraer-inversion-tras-el-terremoto-4485500",
-        "fecha_portada": "",
-        "titulo_fuente": "AmCham respaldó incentivos tributarios para atraer inversión tras el terremoto",
-        "capturado": "2026-09-18T16:58:12-05:00"
-      },
-      {
-        "titulo": "El ISE aumentó 1,11% en julio pese al descenso de las actividades primarias y secundarias",
-        "url": "https://www.larepublica.co/economia/ise-crecio-1-11-en-julio-pese-a-caida-de-actividades-primarias-y-secundarias-4484941",
-        "fecha_portada": "18/09/2026",
-        "titulo_fuente": "El ISE creció 1,11% en julio a pesar de la caída de actividades primarias y secundarias",
-        "capturado": "2026-09-18T12:19:53-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda avaló recursos extra por $624.656 millones para enfrentar la emergencia",
-        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-aprobo-adicion-de-624-656-millones-para-atender-emergencia-4485373",
-        "fecha_portada": "",
-        "titulo_fuente": "Ministerio de Hacienda aprobó adición de $624.656 millones para atender emergencia",
-        "capturado": "2026-09-18T12:19:53-05:00"
       }
     ],
     "Bolsas": [
