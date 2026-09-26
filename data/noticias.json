@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-25T19:58:49-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-26T00:48:45-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "A partir de noviembre la capital aplicará un cobro adicional al predial para costear la nueva iluminación",
+        "url": "https://www.larepublica.co/economia/desde-noviembre-la-capital-tendra-sobretasa-al-predial-para-financiar-nuevo-alumbrado-4490776",
+        "fecha_portada": "26/09/2026",
+        "titulo_fuente": "Desde noviembre, la capital tendrá sobretasa al predial para financiar nuevo alumbrado",
+        "capturado": "2026-09-26T00:48:45-05:00"
+      },
+      {
+        "titulo": "En Quibdó queda todo por realizar y se presenta una diversidad de opciones para realizar inversiones",
+        "url": "https://www.larepublica.co/economia/entrevista-con-el-alcalde-de-quibdo-rafael-bolanos-sobre-el-terremoto-4490850",
+        "fecha_portada": "26/09/2026",
+        "titulo_fuente": "“En Quibdó hay todo por hacer y se abre un abanico de oportunidades para invertir”",
+        "capturado": "2026-09-26T00:48:45-05:00"
+      },
+      {
+        "titulo": "Únicamente mediante la diplomacia y la negociación será posible recuperar la estabilidad",
+        "url": "https://www.larepublica.co/globoeconomia/el-ministro-de-asuntos-exteriores-union-europea-y-cooperacion-jose-manuel-albares-hablo-sobre-los-conflictos-del-mundo-4490899",
+        "fecha_portada": "26/09/2026",
+        "titulo_fuente": "\"Solo a través de la diplomacia y la negociación podremos volver a encontrar estabilidad\"",
+        "capturado": "2026-09-26T00:48:45-05:00"
+      },
       {
         "titulo": "Restrepo comunicó la realización de la primera Semana Milagro en Nueva York el 16 de noviembre",
         "url": "https://www.larepublica.co/economia/restrepo-anuncio-la-primera-semana-milagro-llegara-a-nueva-york-el-16-de-noviembre-4490480",
@@ -402,27 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El ISE de julio subió 1,1% durante julio, pero el agro y minas siguen sin levantar cabeza",
         "capturado": "2026-09-19T01:43:50-05:00"
-      },
-      {
-        "titulo": "El riesgo país de Colombia disminuyó 86 puntos, de acuerdo con el Indicador de Bonos de Mercados Emergentes",
-        "url": "https://www.larepublica.co/globoeconomia/el-riesgo-pais-de-colombia-cayo-86-puntos-segun-el-indicador-de-bonos-de-mercados-emergentes-4485632",
-        "fecha_portada": "19/09/2026",
-        "titulo_fuente": "Riesgo país de Colombia cayó 86 puntos, según Indicador de Bonos de Mercados Emergentes",
-        "capturado": "2026-09-19T01:43:50-05:00"
-      },
-      {
-        "titulo": "Prosperidad Social contará con un esquema legal extraordinario para transferencias",
-        "url": "https://www.larepublica.co/economia/prosperidad-social-tendra-marco-normativo-excepcional-para-transferencias-4485814",
-        "fecha_portada": "18/09/2026",
-        "titulo_fuente": "Prosperidad Social tendrá marco normativo excepcional para transferencias",
-        "capturado": "2026-09-18T18:49:03-05:00"
-      },
-      {
-        "titulo": "Mac Master transitó por Pereira y conoció los sectores y compañías damnificados por el sismo",
-        "url": "https://www.larepublica.co/economia/mac-master-recorrio-pereira-y-visito-las-zonas-y-empresas-afectadas-por-el-terremoto-4485459",
-        "fecha_portada": "",
-        "titulo_fuente": "Mac Master recorrió Pereira y visitó las zonas y empresas afectadas por el terremoto",
-        "capturado": "2026-09-18T16:58:12-05:00"
       }
     ],
     "Bolsas": [
