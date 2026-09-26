@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-26T13:06:13-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-26T16:18:51-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Mac Master y el FMI evalúan la situación fiscal y el rol de las empresas privadas en Colombia",
+        "url": "https://www.larepublica.co/empresas/mac-master-y-el-fmi-analizan-finanzas-publicas-y-el-papel-del-sector-privado-en-colombia-4491203",
+        "fecha_portada": "",
+        "titulo_fuente": "Mac Master y el FMI analizan finanzas públicas y el papel del sector privado en Colombia",
+        "capturado": "2026-09-26T16:18:51-05:00"
+      },
       {
         "titulo": "A partir de noviembre la capital aplicará un cobro adicional al predial para costear la nueva iluminación",
         "url": "https://www.larepublica.co/economia/desde-noviembre-la-capital-tendra-sobretasa-al-predial-para-financiar-nuevo-alumbrado-4490776",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/cerca-de-290-000-personas-trabajan-como-vendedores-ambulantes-en-el-pais-4485736",
         "fecha_portada": "",
         "titulo_fuente": "Cerca de 290.000 personas trabajan como vendedores ambulantes en el país",
-        "capturado": "2026-09-19T01:43:50-05:00"
-      },
-      {
-        "titulo": "El ISE de julio se incrementó 1,1% en ese mes, pero el sector agropecuario y las minas no se recuperan",
-        "url": "https://www.larepublica.co/economia/el-ise-de-julio-subio-1-1-pero-el-agro-y-minas-siguen-sin-levantar-cabeza-4485708",
-        "fecha_portada": "",
-        "titulo_fuente": "El ISE de julio subió 1,1% durante julio, pero el agro y minas siguen sin levantar cabeza",
         "capturado": "2026-09-19T01:43:50-05:00"
       }
     ],
