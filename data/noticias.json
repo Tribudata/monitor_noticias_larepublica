@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-25T17:51:09-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-25T19:58:49-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,20 @@
     ],
     "Bolsas": [
       {
+        "titulo": "Con un cierre de $3.306,36, el dólar quedó $23,25 por debajo de la TRM de la jornada de $3.329,61",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-25-de-septiembre-4490171",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar cerró en $3.306,36, una diferencia de $23,25 por debajo de la TRM del día $3.329,61",
+        "capturado": "2026-09-25T19:58:49-05:00"
+      },
+      {
+        "titulo": "El oro va hacia un retroceso semanal por la mayor expectativa de un incremento de tasas de la Fed",
+        "url": "https://www.larepublica.co/finanzas/oro-se-dirige-a-caida-semanal-mientras-sube-expectativa-de-alza-de-tasas-de-la-fed-4490243",
+        "fecha_portada": "25/09/2026",
+        "titulo_fuente": "Oro se dirige a caída semanal mientras sube expectativa de alza de tasas de la Fed",
+        "capturado": "2026-09-25T19:58:49-05:00"
+      },
+      {
         "titulo": "Sura Investments aclaró las razones por las que poseer múltiples activos no equivale a diversificar",
         "url": "https://www.larepublica.co/finanzas/sura-investments-explico-por-que-tener-varios-activos-invertidos-no-significa-diversificacion-4488876",
         "fecha_portada": "",
@@ -831,20 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El oro sube antes de la publicación del IPC en EE.UU. hasta US$4.360 la onza",
         "capturado": "2026-09-11T06:34:04-05:00"
-      },
-      {
-        "titulo": "¿Cómo se distribuye entre las comisionistas el monto negociado en renta variable?",
-        "url": "https://www.larepublica.co/finanzas/quien-es-quien-en-el-monto-negociado-en-renta-variable-entre-las-comisionistas-de-bolsa-4479168",
-        "fecha_portada": "",
-        "titulo_fuente": "¿Quién es quién en el monto negociado en renta variable entre las comisionistas?",
-        "capturado": "2026-09-11T06:34:04-05:00"
-      },
-      {
-        "titulo": "Grupo Sura avaló un plan de recompra de acciones por un monto de $500.000 millones",
-        "url": "https://www.larepublica.co/finanzas/programa-de-readquisicion-de-acciones-del-grupo-sura-4479240",
-        "fecha_portada": "10/09/2026",
-        "titulo_fuente": "El Grupo Sura aprobó un programa de readquisición de acciones por $500.000 millones",
-        "capturado": "2026-09-10T20:13:41-05:00"
       }
     ]
   }
