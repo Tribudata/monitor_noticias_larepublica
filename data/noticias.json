@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-27T08:20:50-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-27T12:50:27-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Servicio Geológico Colombiano informa sobre temblor de magnitud 4,2 en Roncesvalles, Tolima",
+        "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporta-sismo-de-magnitud-4-2-en-roncesvalles-tolima-4491289",
+        "fecha_portada": "27/09/2026",
+        "titulo_fuente": "Servicio Geológico Colombiano reporta sismo de magnitud 4,2 en Roncesvalles, Tolima",
+        "capturado": "2026-09-27T12:50:27-05:00"
+      },
       {
         "titulo": "Mac Master y el FMI evalúan la situación fiscal y el rol de las empresas privadas en Colombia",
         "url": "https://www.larepublica.co/empresas/mac-master-y-el-fmi-analizan-finanzas-publicas-y-el-papel-del-sector-privado-en-colombia-4491203",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/globoeconomia/el-relevo-generacional-de-los-buffett-en-un-conglomerado-que-vale-mas-de-us-1-billon-4485623",
         "fecha_portada": "",
         "titulo_fuente": "El relevo generacional de los Buffett en un conglomerado que vale más de US$1 billón",
-        "capturado": "2026-09-19T01:43:50-05:00"
-      },
-      {
-        "titulo": "Alrededor de 290.000 ciudadanos laboran como vendedores ambulantes en el territorio nacional",
-        "url": "https://www.larepublica.co/economia/cerca-de-290-000-personas-trabajan-como-vendedores-ambulantes-en-el-pais-4485736",
-        "fecha_portada": "",
-        "titulo_fuente": "Cerca de 290.000 personas trabajan como vendedores ambulantes en el país",
         "capturado": "2026-09-19T01:43:50-05:00"
       }
     ],
