@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-27T18:14:50-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-27T20:46:57-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De la Espriella instruyó a MinHacienda a entablar diálogos con el FMI por la crisis fiscal",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-ordeno-a-minhacienda-iniciar-conversaciones-con-el-fmi-por-crisis-fiscal-4491492",
+        "fecha_portada": "27/09/2026",
+        "titulo_fuente": "De la Espriella ordenó a MinHacienda iniciar conversaciones con el FMI por crisis fiscal",
+        "capturado": "2026-09-27T20:46:57-05:00"
+      },
       {
         "titulo": "Servicio Geológico Colombiano informa sobre temblor de magnitud 4,2 en Roncesvalles, Tolima",
         "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporta-sismo-de-magnitud-4-2-en-roncesvalles-tolima-4491289",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/ola-de-15-decretos-para-acelerar-la-reconstruccion-luego-del-terremoto-4485725",
         "fecha_portada": "19/09/2026",
         "titulo_fuente": "Nueva ola de 15 decretos para acelerar reconstrucción luego del terremoto nacional",
-        "capturado": "2026-09-19T01:43:50-05:00"
-      },
-      {
-        "titulo": "La transición generacional de los Buffett en un grupo empresarial de más de US$1 billón",
-        "url": "https://www.larepublica.co/globoeconomia/el-relevo-generacional-de-los-buffett-en-un-conglomerado-que-vale-mas-de-us-1-billon-4485623",
-        "fecha_portada": "",
-        "titulo_fuente": "El relevo generacional de los Buffett en un conglomerado que vale más de US$1 billón",
         "capturado": "2026-09-19T01:43:50-05:00"
       }
     ],
