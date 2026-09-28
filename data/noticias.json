@@ -1,9 +1,51 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-28T11:07:04-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-28T17:09:52-05:00",
+  "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Desorden en la Dian con el reembolso del IVA para adquisición de carros híbridos y eléctricos",
+        "url": "https://www.larepublica.co/economia/caos-en-la-dian-por-devolucion-del-iva-por-compra-de-vehiculos-electricos-e-hibridos-4490978",
+        "fecha_portada": "",
+        "titulo_fuente": "Caos en la Dian por devolución del IVA por la compra de vehículos eléctricos e híbridos",
+        "capturado": "2026-09-28T17:09:52-05:00"
+      },
+      {
+        "titulo": "La Inversión Extranjera Directa sobrepasa en 1,5 veces el envío de remesas durante este año",
+        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-ha-superado-en-1-5-veces-las-remesas-en-lo-corrido-del-ano-4491701",
+        "fecha_portada": "28/09/2026",
+        "titulo_fuente": "Inversión Extranjera Directa supera en 1,5 veces las remesas en lo corrido del año",
+        "capturado": "2026-09-28T17:09:52-05:00"
+      },
+      {
+        "titulo": "El mercado anticipa constancia en las tasas de interés del Banco de la República",
+        "url": "https://www.larepublica.co/economia/mercado-preve-estabilidad-en-las-tasas-de-interes-del-banco-de-la-republica-4490842",
+        "fecha_portada": "",
+        "titulo_fuente": "El mercado prevé estabilidad dentro de las tasas de interés del Banco de la República",
+        "capturado": "2026-09-28T17:09:52-05:00"
+      },
+      {
+        "titulo": "Gobierno comunicó la Milagro Week en noviembre para captar inversión internacional",
+        "url": "https://www.larepublica.co/economia/gobierno-anuncio-la-milagro-week-en-noviembre-para-atraer-inversion-internacional-4491593",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno anunció la 'Milagro Week' en noviembre para atraer inversión internacional",
+        "capturado": "2026-09-28T17:09:52-05:00"
+      },
+      {
+        "titulo": "Fitch avisa de presiones en firmas colombianas por reducción de flujo de caja y altas tasas",
+        "url": "https://www.larepublica.co/economia/fitch-advierte-presion-sobre-empresas-colombianas-por-menor-flujo-de-caja-y-altas-tasas-4492170",
+        "fecha_portada": "28/09/2026",
+        "titulo_fuente": "Fitch advierte presión sobre empresas colombianas por menor flujo de caja y altas tasas",
+        "capturado": "2026-09-28T17:09:52-05:00"
+      },
+      {
+        "titulo": "Concejo de Bogotá avaló reforma tributaria, ahora pasará a sanción de la Alcaldía",
+        "url": "https://www.larepublica.co/economia/concejo-de-bogota-dio-luz-verde-a-reforma-tributaria-pasara-a-sancion-de-la-alcaldia-4492084",
+        "fecha_portada": "",
+        "titulo_fuente": "Concejo de Bogotá dio luz verde a reforma tributaria, pasará a sanción de la Alcaldía",
+        "capturado": "2026-09-28T17:09:52-05:00"
+      },
       {
         "titulo": "De la Espriella instruyó a MinHacienda a entablar diálogos con el FMI por la crisis fiscal",
         "url": "https://www.larepublica.co/economia/de-la-espriella-ordeno-a-minhacienda-iniciar-conversaciones-con-el-fmi-por-crisis-fiscal-4491492",
@@ -381,48 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Colombia, en el puesto 63 entre 85 países en ranking de percepción de Best Countries",
         "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "El racionamiento por El Niño tendría un costo de $30,7 billones, cerca del 1,6% del PIB",
-        "url": "https://www.larepublica.co/economia/racionamiento-por-el-nino-costaria-30-7-billones-alrededor-de-1-6-del-pib-4486250",
-        "fecha_portada": "",
-        "titulo_fuente": "Racionamiento por El Niño costaría $30,7 billones, alrededor de 1,6% del PIB",
-        "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "Ministro de Hacienda proyecta recortar a cerca de la mitad la deuda externa para 2027",
-        "url": "https://www.larepublica.co/economia/ministro-de-hacienda-preve-reducir-a-casi-la-mitad-el-endeudamiento-externo-de-2027-4486623",
-        "fecha_portada": "20/09/2026",
-        "titulo_fuente": "Ministro de Hacienda prevé reducir a casi la mitad el endeudamiento externo de 2027",
-        "capturado": "2026-09-20T18:37:42-05:00"
-      },
-      {
-        "titulo": "De cada US$100 que ingresan por inversión extranjera, US$83 se destinan a petróleo y minería",
-        "url": "https://www.larepublica.co/economia/petroleo-y-mineria-atraen-us-83-de-cada-us-100-que-llegan-por-inversion-extranjera-4486326",
-        "fecha_portada": "",
-        "titulo_fuente": "Petróleo y minería atraen US$83 de cada US$100 que llegan por inversión extranjera",
-        "capturado": "2026-09-19T18:40:44-05:00"
-      },
-      {
-        "titulo": "Ungrd y Naciones Unidas sostuvieron un encuentro para colaborar en la recuperación",
-        "url": "https://www.larepublica.co/especiales/catastrofe-nacional/ungrd-y-naciones-unidas-se-reunieron-en-cali-para-trabajar-en-recuperacion-tras-el-sismo-4486244",
-        "fecha_portada": "19/09/2026",
-        "titulo_fuente": "Ungrd y Naciones Unidas se reunieron para trabajar en la recuperación",
-        "capturado": "2026-09-19T14:37:58-05:00"
-      },
-      {
-        "titulo": "Temblor de magnitud 4,6 se presentó en Chocó y fue percibido en varias ciudades",
-        "url": "https://www.larepublica.co/economia/sismo-de-magnitud-4-6-se-registro-en-choco-y-se-sintio-en-varias-ciudades-4486193",
-        "fecha_portada": "",
-        "titulo_fuente": "Sismo de magnitud 4,6 se registró en Chocó y se sintió en varias ciudades",
-        "capturado": "2026-09-19T12:30:20-05:00"
-      },
-      {
-        "titulo": "Expedición de 15 nuevos decretos para agilizar la reconstrucción tras el sismo nacional",
-        "url": "https://www.larepublica.co/economia/ola-de-15-decretos-para-acelerar-la-reconstruccion-luego-del-terremoto-4485725",
-        "fecha_portada": "19/09/2026",
-        "titulo_fuente": "Nueva ola de 15 decretos para acelerar reconstrucción luego del terremoto nacional",
-        "capturado": "2026-09-19T01:43:50-05:00"
       }
     ],
     "Bolsas": [
