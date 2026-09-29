@@ -1,9 +1,58 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-29T03:44:29-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-29T10:09:41-05:00",
+  "nuevos_en_esta_corrida": 10,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Guía del proyecto fiscal de Bogotá: modificaciones en el ICA y recargo al impuesto predial",
+        "url": "https://www.larepublica.co/economia/sobretasa-al-predial-y-cambios-en-el-ica-el-abc-de-la-reforma-tributaria-para-bogota-4492558",
+        "fecha_portada": "",
+        "titulo_fuente": "Sobretasa al predial y cambios en el ICA: el ABC de la reforma tributaria para Bogotá",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
+      {
+        "titulo": "Clarke resalta el compromiso del Ejecutivo con el rigor fiscal y la captación de capitales",
+        "url": "https://www.larepublica.co/economia/clarke-destaca-apuesta-de-gobierno-por-disciplina-fiscal-y-atraccion-de-inversion-4492673",
+        "fecha_portada": "",
+        "titulo_fuente": "Clarke destaca apuesta de Gobierno por disciplina fiscal y atracción de inversión",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
+      {
+        "titulo": "El Gobierno Nacional recurre al FMI por cuarta oportunidad desde el inicio del siglo",
+        "url": "https://www.larepublica.co/economia/gobierno-toca-las-puertas-del-fmi-por-cuarta-vez-desde-comienzos-de-siglo-4492321",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno Nacional toca las puertas del FMI por cuarta vez desde comienzos de siglo",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
+      {
+        "titulo": "El recaudo de remesas acumula 27 meses seguidos superando los US$1.000 millones",
+        "url": "https://www.larepublica.co/economia/ingresos-por-remesas-llevan-27-meses-consecutivos-por-encima-de-los-us-1-000-millones-4492339",
+        "fecha_portada": "29/09/2026",
+        "titulo_fuente": "Ingresos por remesas llevan 27 meses consecutivos por encima de los US$1.000 millones",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
+      {
+        "titulo": "Colombia reprobó en calidad para pensionarse y ocupó el penúltimo lugar entre 44 naciones",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-se-rajo-en-condiciones-para-la-jubilacion-y-quedo-penultima-entre-44-paises-4492169",
+        "fecha_portada": "29/09/2026",
+        "titulo_fuente": "Colombia se rajó en condiciones para la jubilación y quedó penúltima entre 44 países",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
+      {
+        "titulo": "Colombia sostiene colocaciones activas de bonos globales por US$39.564 millones",
+        "url": "https://www.larepublica.co/economia/colombia-mantiene-emisiones-vigentes-por-us-39-564-millones-en-bonos-globales-4492521",
+        "fecha_portada": "29/09/2026",
+        "titulo_fuente": "Colombia mantiene emisiones vigentes por US$39.564 millones en bonos globales",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
+      {
+        "titulo": "Bogotá lidera en presión impositiva y sus mayores recaudos provienen del predial y el ICA",
+        "url": "https://www.larepublica.co/economia/bogota-es-la-ciudad-con-mayor-carga-tributaria-ica-y-predial-son-la-principal-fuente-de-ingresos-4492629",
+        "fecha_portada": "",
+        "titulo_fuente": "Bogotá es la ciudad con mayor carga tributaria, ICA y predial son los principales ingresos",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
       {
         "titulo": "El perjuicio de estos cuatro años no se soluciona en los 50 días que acumulamos de gestión",
         "url": "https://www.larepublica.co/economia/ministro-de-hacienda-senala-al-gobierno-petro-por-el-deficit-fiscal-4492409",
@@ -374,58 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Coordinadores y ponentes del Presupuesto 2027 se reunirán hoy en Casas de Santa Bárbara",
         "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "Restrepo asistió a una reunión empresarial con Ceapi durante su viaje a Nueva York",
-        "url": "https://www.larepublica.co/economia/restrepo-participo-en-encuentro-empresarial-con-ceapi-en-visita-a-nueva-york-4486723",
-        "fecha_portada": "21/09/2026",
-        "titulo_fuente": "Restrepo participó en un encuentro empresarial con Ceapi en su visita a Nueva York",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "Restrepo dio un reporte de Misión Crecer, la iniciativa que expone en Nueva York",
-        "url": "https://www.larepublica.co/economia/restrepo-entrego-balance-de-mision-crecer-la-estrategia-que-esta-presentando-en-nueva-york-4487141",
-        "fecha_portada": "21/09/2026",
-        "titulo_fuente": "Restrepo entregó balance de \"Misión Crecer\", la estrategia que está presentando en Nueva York",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "Cajas de compensación destinarán $550.000 millones para los damnificados por el sismo",
-        "url": "https://www.larepublica.co/economia/cajas-de-compensacion-podran-mover-hasta-550-000-millones-para-afectados-por-el-sismo-4486972",
-        "fecha_portada": "",
-        "titulo_fuente": "Cajas de compensación moverán $550.000 millones para afectados por el sismo",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "De esta manera avanza la jornada inicial de José Manuel Restrepo en Nueva York",
-        "url": "https://www.larepublica.co/economia/asi-sera-la-agenda-de-jose-manuel-restrepo-en-su-primer-dia-en-nueva-york-4486706",
-        "fecha_portada": "",
-        "titulo_fuente": "Así se desarrolla la agenda de José Manuel Restrepo en su primer día en Nueva York",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "El clientelismo en el Estado cuesta desde $1,2 billones al año a la economía colombiana",
-        "url": "https://www.larepublica.co/economia/la-palanca-en-el-estado-cuesta-desde-1-2-billones-al-ano-a-la-economia-colombiana-4485951",
-        "fecha_portada": "",
-        "titulo_fuente": "La “palanca” en el Estado cuesta desde $1,2 billones al año dentro de la economía colombiana",
-        "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "El Banco de la República ha adquirido cerca de US$700 millones desde principios del mes anterior",
-        "url": "https://www.larepublica.co/economia/banco-central-ha-comprado-casi-us-700-millones-desde-inicios-de-agosto-4485884",
-        "fecha_portada": "",
-        "titulo_fuente": "El Banco de la República ha comprado casi US$700 millones desde inicios del mes pasado",
-        "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "La inflación y las tasas figuran entre los mayores desafíos de las empresas para este semestre",
-        "url": "https://www.larepublica.co/empresas/retos-del-sector-empresarial-segundo-semestre-de-2026-4485890",
-        "fecha_portada": "",
-        "titulo_fuente": "Inflación y tasas son algunos de los principales retos de las empresas para este semestre",
-        "capturado": "2026-09-21T02:17:27-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "La divisa estadounidense sube solo $0,76 respecto a la TRM luego de diálogos entre EE.UU. e Irán",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-29-de-septiembre-4492512",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cotiza apenas $0,76 al alza frente a la TRM tras conversaciones entre EE.UU. e Irán",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
+      {
+        "titulo": "El oro registró un alza conforme se estabilizaron los bonos del Tesoro de Estados Unidos",
+        "url": "https://www.larepublica.co/finanzas/el-oro-subio-a-medida-que-se-estabilizaron-los-bonos-del-tesoro-de-ee-uu-4492490",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro subió a medida que se estabilizaron los bonos del Tesoro de Estados Unidos",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
+      {
+        "titulo": "Citi citó a una reunión extraordinaria para el Fondo Bursátil Ishares Msci Colcap",
+        "url": "https://www.larepublica.co/finanzas/citi-convoco-asamblea-extraordinaria-para-el-fondo-bursatil-ishares-msci-colcap-4492123",
+        "fecha_portada": "",
+        "titulo_fuente": "Citi convocó asamblea extraordinaria para el Fondo Bursátil Ishares Msci Colcap",
+        "capturado": "2026-09-29T10:09:41-05:00"
+      },
       {
         "titulo": "Con un cierre de $3.306,36, el dólar quedó $23,25 por debajo de la TRM de la jornada de $3.329,61",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-25-de-septiembre-4490171",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Comisionista Progresión cierra ocho años de inversión en el Envigado Fútbol Club",
         "capturado": "2026-09-11T16:22:21-05:00"
-      },
-      {
-        "titulo": "El Banco de Bogotá presentó la iniciativa Comunidad Pyme Mujer para empresarias",
-        "url": "https://www.larepublica.co/finanzas/el-banco-de-bogota-lanza-iniciativa-comunidad-pyme-mujer-para-pequenas-empresarias-4479684",
-        "fecha_portada": "",
-        "titulo_fuente": "Banco de Bogotá lanzó la iniciativa Comunidad Pyme Mujer para empresarias",
-        "capturado": "2026-09-11T16:22:21-05:00"
-      },
-      {
-        "titulo": "El dólar desciende luego de conocerse la inflación de Estados Unidos",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-11-de-septiembre-4479406",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cotiza a la baja tras conocerse la inflación de Estados Unidos",
-        "capturado": "2026-09-11T10:17:49-05:00"
-      },
-      {
-        "titulo": "El valor del oro se eleva a US$4.360 la onza previo a la divulgación del IPC en EE.UU",
-        "url": "https://www.larepublica.co/finanzas/el-oro-sube-antes-de-la-publicacion-del-ipc-estadounidense-cotizando-a-us-4360-la-onza-4479380",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro sube antes de la publicación del IPC en EE.UU. hasta US$4.360 la onza",
-        "capturado": "2026-09-11T06:34:04-05:00"
       }
     ]
   }
