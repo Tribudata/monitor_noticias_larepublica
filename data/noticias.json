@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-29T10:09:41-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-09-29T15:03:13-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Crédito Público ejecutará este jueves la primera de tres permutas programadas para 2026",
+        "url": "https://www.larepublica.co/economia/credito-publico-realizara-este-jueves-el-primero-de-tres-canjes-de-tes-previstos-para-2026-4492948",
+        "fecha_portada": "29/09/2026",
+        "titulo_fuente": "Crédito Público realizará este jueves el primero de tres canjes previstos para 2026",
+        "capturado": "2026-09-29T15:03:13-05:00"
+      },
+      {
+        "titulo": "Dian incautó toneladas de mercancías de contrabando valoradas en $38.520 millones",
+        "url": "https://www.larepublica.co/economia/dian-aprehendio-toneladas-de-mercancia-de-contrabando-avaluadas-en-38-520-millones-4492870",
+        "fecha_portada": "",
+        "titulo_fuente": "Dian aprehendió toneladas de mercancía de contrabando avaluadas en $38.520 millones",
+        "capturado": "2026-09-29T15:03:13-05:00"
+      },
       {
         "titulo": "Guía del proyecto fiscal de Bogotá: modificaciones en el ICA y recargo al impuesto predial",
         "url": "https://www.larepublica.co/economia/sobretasa-al-predial-y-cambios-en-el-ica-el-abc-de-la-reforma-tributaria-para-bogota-4492558",
@@ -409,23 +423,16 @@
         "fecha_portada": "21/09/2026",
         "titulo_fuente": "Banco Mundial y FMI respaldan los cambios en el marco de deuda para los países pobres",
         "capturado": "2026-09-22T06:52:34-05:00"
-      },
-      {
-        "titulo": "Contraloría advirtió sobre un déficit de $4,2 billones para financiar las jubilaciones",
-        "url": "https://www.larepublica.co/economia/contraloria-alerto-sobre-un-faltante-de-4-2-billones-para-financiar-las-pensiones-4486872",
-        "fecha_portada": "",
-        "titulo_fuente": "Contraloría alertó sobre un faltante de $4,2 billones para financiar las pensiones",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "Hoy se reunirán en Casas de Santa Bárbara los coordinadores y ponentes del Presupuesto 2027",
-        "url": "https://www.larepublica.co/economia/coordinadores-y-ponentes-del-presupuesto-2027-se-reuniran-hoy-en-casas-de-santa-barbara-4486961",
-        "fecha_portada": "",
-        "titulo_fuente": "Coordinadores y ponentes del Presupuesto 2027 se reunirán hoy en Casas de Santa Bárbara",
-        "capturado": "2026-09-21T14:36:08-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Tejo Turmequé pretende recolectar hasta $2.700 millones mediante a2censo para expandirse",
+        "url": "https://www.larepublica.co/finanzas/tejo-turmeque-busca-recaudar-hasta-2-700-millones-a-traves-de-a2censo-para-su-expansion-4492812",
+        "fecha_portada": "",
+        "titulo_fuente": "Tejo Turmequé busca recaudar hasta $2.700 millones a través de a2censo para su expansión",
+        "capturado": "2026-09-29T15:03:13-05:00"
+      },
       {
         "titulo": "La divisa estadounidense sube solo $0,76 respecto a la TRM luego de diálogos entre EE.UU. e Irán",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-29-de-septiembre-4492512",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Una persona invierte en promedio $1 millón en la bolsa de valores actualmente",
         "capturado": "2026-09-12T08:11:20-05:00"
-      },
-      {
-        "titulo": "La comisionista Progresión concluye ocho años de inversión en el Envigado Fútbol Club",
-        "url": "https://www.larepublica.co/empresas/comisionista-progresion-cierra-ocho-anos-de-inversion-en-el-envigado-futbol-club-4479635",
-        "fecha_portada": "",
-        "titulo_fuente": "Comisionista Progresión cierra ocho años de inversión en el Envigado Fútbol Club",
-        "capturado": "2026-09-11T16:22:21-05:00"
       }
     ]
   }
