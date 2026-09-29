@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-28T17:09:52-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-28T21:05:15-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El perjuicio de estos cuatro años no se soluciona en los 50 días que acumulamos de gestión",
+        "url": "https://www.larepublica.co/economia/ministro-de-hacienda-senala-al-gobierno-petro-por-el-deficit-fiscal-4492409",
+        "fecha_portada": "28/09/2026",
+        "titulo_fuente": "\"El daño de estos cuatro años no se resuelve en 50 días que llevamos de administración\"",
+        "capturado": "2026-09-28T21:05:15-05:00"
+      },
+      {
+        "titulo": "Administración De la Espriella solicita al FMI comenzar el análisis de la economía de Colombia",
+        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-pide-al-fmi-iniciar-evaluacion-de-la-economia-colombiana-4492280",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno De la Espriella pide al FMI iniciar evaluación de la economía colombiana",
+        "capturado": "2026-09-28T21:05:15-05:00"
+      },
       {
         "titulo": "Desorden en la Dian con el reembolso del IVA para adquisición de carros híbridos y eléctricos",
         "url": "https://www.larepublica.co/economia/caos-en-la-dian-por-devolucion-del-iva-por-compra-de-vehiculos-electricos-e-hibridos-4490978",
@@ -408,20 +422,6 @@
         "url": "https://www.larepublica.co/empresas/retos-del-sector-empresarial-segundo-semestre-de-2026-4485890",
         "fecha_portada": "",
         "titulo_fuente": "Inflación y tasas son algunos de los principales retos de las empresas para este semestre",
-        "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "El Dane presentará el informe consolidado de nacimientos y fallecimientos entre enero y julio",
-        "url": "https://www.larepublica.co/economia/dane-revelera-el-balance-consolidado-de-nacimientos-y-defunciones-entre-enero-y-julio-4485920",
-        "fecha_portada": "21/09/2026",
-        "titulo_fuente": "Dane revelerá el balance consolidado de nacimientos y defunciones entre enero y julio",
-        "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "Colombia ocupa la posición 63 entre 85 naciones en el listado de percepción de Best Countries",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-puesto-63-entre-85-paises-en-percepcion-global-4485656",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia, en el puesto 63 entre 85 países en ranking de percepción de Best Countries",
         "capturado": "2026-09-21T02:17:27-05:00"
       }
     ],
