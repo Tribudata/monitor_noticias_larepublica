@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-29T21:32:07-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-30T04:03:12-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El ICA disminuirá en nueve de cada diez industrias debido a la reforma tributaria de Bogotá",
+        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-explico-los-detalles-de-la-reforma-tributaria-aprobada-4492997",
+        "fecha_portada": "",
+        "titulo_fuente": "“ICA tendrá reducciones en nueve de cada 10 industrias con la tributaria de Bogotá”",
+        "capturado": "2026-09-30T04:03:12-05:00"
+      },
+      {
+        "titulo": "La administración de De la Espriella ya colocó casi $7 billones en títulos TES a corto plazo",
+        "url": "https://www.larepublica.co/economia/el-gobierno-de-de-la-espriella-ya-emitio-7-billones-en-titulos-tes-con-plazo-a-un-ano-4493108",
+        "fecha_portada": "30/09/2026",
+        "titulo_fuente": "El Gobierno de De la Espriella ya emitió cerca de $7 billones en títulos TES a corto plazo",
+        "capturado": "2026-09-30T04:03:12-05:00"
+      },
+      {
+        "titulo": "Canadá multiplicó por ocho su inversión en Colombia a partir del TLC, según la embajadora",
+        "url": "https://www.larepublica.co/globoeconomia/canada-invierte-ocho-veces-mas-tras-el-tratado-de-libre-comercio-4493001",
+        "fecha_portada": "",
+        "titulo_fuente": "Canadá eleva ocho veces su inversión en Colombia desde el TLC, según embajadora",
+        "capturado": "2026-09-30T04:03:12-05:00"
+      },
+      {
+        "titulo": "Santander destinó $42.094 millones para robustecer su Fuerza Pública con tecnología",
+        "url": "https://www.larepublica.co/economia/santander-invirtio-42-094-millones-para-fortalecer-su-fuerza-publica-con-tecnologia-4493134",
+        "fecha_portada": "",
+        "titulo_fuente": "Santander invirtió $42.094 millones para fortalecer su Fuerza Pública con tecnología",
+        "capturado": "2026-09-30T04:03:12-05:00"
+      },
       {
         "titulo": "Aprueban préstamo de hasta $1,3 billones a Bogotá para la primera línea del Metro",
         "url": "https://www.larepublica.co/economia/autorizan-credito-de-hasta-1-3-billones-a-bogota-para-financiar-primera-linea-del-metro-4493241",
@@ -395,37 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Así fue el encuentro entre De la Espriella y la presidenta de Costa Rica, Laura Fernández",
         "capturado": "2026-09-22T19:44:37-05:00"
-      },
-      {
-        "titulo": "El desbalance fiscal a julio alcanzó casi el 4% del PIB y sigue presionando las cuentas públicas",
-        "url": "https://www.larepublica.co/economia/deficit-fiscal-a-julio-llego-a-3-9-del-pib-y-mantiene-presion-sobre-las-cuentas-publicas-4487993",
-        "fecha_portada": "",
-        "titulo_fuente": "Déficit fiscal a julio llegó a casi 4% del PIB y mantiene presión sobre las cuentas públicas",
-        "capturado": "2026-09-22T19:44:37-05:00"
-      },
-      {
-        "titulo": "José Manuel Restrepo intentó captar inversionistas internacionales en Nueva York ante el Ceapi",
-        "url": "https://www.larepublica.co/globoeconomia/jose-manuel-restrepo-busco-inversionistas-globales-en-nueva-york-ante-el-ceapi-4487430",
-        "fecha_portada": "22/09/2026",
-        "titulo_fuente": "José Manuel Restrepo buscó inversionistas globales en Nueva York ante el Ceapi",
-        "capturado": "2026-09-22T06:52:34-05:00"
-      },
-      {
-        "titulo": "El Gobierno Nacional no respaldó ninguna de las más de 600 propuestas para el presupuesto",
-        "url": "https://www.larepublica.co/economia/gobierno-nacional-no-avalo-ninguna-de-las-mas-de-600-proposiciones-al-presupuesto-4487614",
-        "fecha_portada": "22/09/2026",
-        "titulo_fuente": "Gobierno Nacional no avaló ninguna de las más de 600 proposiciones al presupuesto",
-        "capturado": "2026-09-22T06:52:34-05:00"
-      },
-      {
-        "titulo": "De La Espriella comunica adquisición de cartera a las EPS para resolver retrasos en el servicio",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncia-compra-de-cartera-para-solucionar-demoras-en-atencion-medica-4487491",
-        "fecha_portada": "",
-        "titulo_fuente": "De La Espriella anuncia compra de cartera a las EPS para solucionar demoras en atención",
-        "capturado": "2026-09-22T06:52:34-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Los viajes a Estados Unidos costarán hasta 14,2% menos con el dólar en el nivel de $3.300",
+        "url": "https://www.larepublica.co/finanzas/viajar-a-estados-unidos-saldra-hasta-14-2-mas-barato-con-dolar-en-el-umbral-de-3-300-4493195",
+        "fecha_portada": "30/09/2026",
+        "titulo_fuente": "Viajar a Estados Unidos saldrá hasta 14,2% más barato con dólar en el umbral de $3.300",
+        "capturado": "2026-09-30T04:03:12-05:00"
+      },
       {
         "titulo": "Tejo Turmequé pretende recolectar hasta $2.700 millones mediante a2censo para expandirse",
         "url": "https://www.larepublica.co/finanzas/tejo-turmeque-busca-recaudar-hasta-2-700-millones-a-traves-de-a2censo-para-su-expansion-4492812",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "GEB se alista para registrarse en la U.S. SEC y listarse en la bolsa de valores de EE.UU.",
         "capturado": "2026-09-12T11:23:10-05:00"
-      },
-      {
-        "titulo": "Hoy en día el promedio de inversión de una persona en la bolsa de valores es de $1 millón",
-        "url": "https://www.larepublica.co/finanzas/una-persona-invierte-en-promedio-1-millon-en-la-bolsa-de-valores-actualmente-4480391",
-        "fecha_portada": "",
-        "titulo_fuente": "Una persona invierte en promedio $1 millón en la bolsa de valores actualmente",
-        "capturado": "2026-09-12T08:11:20-05:00"
       }
     ]
   }
