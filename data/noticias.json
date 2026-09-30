@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-30T04:03:12-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-30T10:59:09-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,27 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El dólar baja $32,95 con el mercado pendiente de las tasas del Banco de la República",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-30-de-septiembre-4493343",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar cotiza $32,95 a la baja mientras el mercado está atento a tasas del Banco de la República",
+        "capturado": "2026-09-30T10:59:09-05:00"
+      },
+      {
+        "titulo": "Wall Street asciende tras inflación moderada y caen apuestas de un incremento de la FED en octubre",
+        "url": "https://www.larepublica.co/globoeconomia/wall-street-sube-tras-inflacion-moderada-y-bajan-apuestas-a-alza-de-la-fed-en-octubre-4493528",
+        "fecha_portada": "",
+        "titulo_fuente": "Wall Street sube tras inflación moderada y bajan apuestas a alza de la FED en octubre",
+        "capturado": "2026-09-30T10:59:09-05:00"
+      },
+      {
+        "titulo": "El oro permanece estable mientras el mercado está a la espera de la inflación en EE.UU.",
+        "url": "https://www.larepublica.co/finanzas/el-oro-se-mantiene-estable-mientras-el-mercado-espera-el-indicador-de-inflacion-en-ee-uu-4493332",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro se mantiene estable mientras mercado espera la inflación en EE.UU.",
+        "capturado": "2026-09-30T10:59:09-05:00"
+      },
+      {
         "titulo": "Los viajes a Estados Unidos costarán hasta 14,2% menos con el dólar en el nivel de $3.300",
         "url": "https://www.larepublica.co/finanzas/viajar-a-estados-unidos-saldra-hasta-14-2-mas-barato-con-dolar-en-el-umbral-de-3-300-4493195",
         "fecha_portada": "30/09/2026",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El precio del dólar abrió la jornada al alza en medio del anuncio del recorte de Presupuesto",
         "capturado": "2026-09-14T08:09:44-05:00"
-      },
-      {
-        "titulo": "El oro bajó por crecientes apuestas de incrementos en las tasas de la Fed antes de su reunión",
-        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-crecientes-apuestas-al-alza-en-las-tasas-de-la-fed-antes-de-su-reunion-4480981",
-        "fecha_portada": "14/09/2026",
-        "titulo_fuente": "El oro cayó por crecientes apuestas al alza en las tasas de la Fed antes de su reunión",
-        "capturado": "2026-09-14T08:09:44-05:00"
-      },
-      {
-        "titulo": "En alrededor de 12 meses, Nuam ya funcionará como un mercado integrado",
-        "url": "https://www.larepublica.co/finanzas/entrevista-a-juan-pablo-cordoba-ceo-de-nuam-sobre-la-integracion-de-los-mercados-4480853",
-        "fecha_portada": "14/09/2026",
-        "titulo_fuente": "“Aproximadamente en 12 meses, Nuam ya estará operando como un mercado integrado”",
-        "capturado": "2026-09-14T01:29:25-05:00"
-      },
-      {
-        "titulo": "GEB se prepara para inscribirse ante la U.S. SEC y cotizar en la bolsa de valores de EE.UU",
-        "url": "https://www.larepublica.co/finanzas/geb-se-alista-para-registrarse-en-la-u-s-sec-y-listarse-en-la-bolsa-de-valores-de-ee-uu-4480407",
-        "fecha_portada": "",
-        "titulo_fuente": "GEB se alista para registrarse en la U.S. SEC y listarse en la bolsa de valores de EE.UU.",
-        "capturado": "2026-09-12T11:23:10-05:00"
       }
     ]
   }
