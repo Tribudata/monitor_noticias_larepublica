@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-30T10:59:09-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-30T15:31:10-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Banco de la República modifica su política monetaria en 25 puntos básicos situándola en 12,25%",
+        "url": "https://www.larepublica.co/economia/banco-central-ajusta-politica-monetaria-en-25-puntos-basicos-hasta-12-25-4493750",
+        "fecha_portada": "30/09/2026",
+        "titulo_fuente": "Banco de la República ajusta política monetaria en 25 puntos básicos hasta 12,25%",
+        "capturado": "2026-09-30T15:31:10-05:00"
+      },
+      {
+        "titulo": "Ministro Gómez ratificó que el Gobierno presentará la Ley de Rescate en un plazo de 10 o 12 días",
+        "url": "https://www.larepublica.co/economia/ministro-gomez-confirmo-que-gobierno-radicara-la-ley-de-rescate-en-10-o-12-dias-4493845",
+        "fecha_portada": "",
+        "titulo_fuente": "Ministro Gómez confirmó que Gobierno radicará la Ley de Rescate en 10 o 12 días",
+        "capturado": "2026-09-30T15:31:10-05:00"
+      },
+      {
+        "titulo": "PIB de Bogotá aumentó 2,8% durante el primer trimestre, impulsado por el comercio y los servicios",
+        "url": "https://www.larepublica.co/economia/pib-de-bogota-crecio-2-8-en-el-primer-trimestre-jalonado-por-comercio-y-servicios-4493634",
+        "fecha_portada": "30/09/2026",
+        "titulo_fuente": "PIB de Bogotá creció 2,8% en el primer trimestre, jalonado por comercio y servicios",
+        "capturado": "2026-09-30T15:31:10-05:00"
+      },
+      {
+        "titulo": "Congreso, Educación y Minas encabezaron la ejecución del presupuesto en agosto",
+        "url": "https://www.larepublica.co/economia/congreso-educacion-y-minas-lideraron-la-ejecucion-presupuestal-en-agosto-4493603",
+        "fecha_portada": "30/09/2026",
+        "titulo_fuente": "Congreso, Educación y Minas lideraron la ejecución presupuestal en agosto",
+        "capturado": "2026-09-30T15:31:10-05:00"
+      },
       {
         "titulo": "El ICA disminuirá en nueve de cada diez industrias debido a la reforma tributaria de Bogotá",
         "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-explico-los-detalles-de-la-reforma-tributaria-aprobada-4492997",
@@ -395,37 +423,16 @@
         "fecha_portada": "23/09/2026",
         "titulo_fuente": "El crimen y la violencia son la principal preocupación en América Latina, según Ipsos",
         "capturado": "2026-09-23T00:18:10-05:00"
-      },
-      {
-        "titulo": "Fenalco Bogotá se opone a la tributaria de Galán y el alcalde la respalda",
-        "url": "https://www.larepublica.co/economia/fenalco-bogota-se-pronuncia-en-contra-de-la-tributaria-de-galan-el-alcalde-la-defiende-4488394",
-        "fecha_portada": "22/09/2026",
-        "titulo_fuente": "Fenalco Bogotá se pronuncia en contra de la tributaria de Galán, el alcalde la defiende",
-        "capturado": "2026-09-23T00:18:10-05:00"
-      },
-      {
-        "titulo": "Los bonos de Colombia a 10 años registran la séptima tasa más elevada entre los países emergentes",
-        "url": "https://www.larepublica.co/economia/bonos-de-colombia-a-10-anos-tienen-la-septima-tasa-mas-alta-entre-economias-emergentes-4487857",
-        "fecha_portada": "",
-        "titulo_fuente": "Bonos de Colombia a 10 años tienen la séptima tasa más alta entre economías emergentes",
-        "capturado": "2026-09-22T19:44:37-05:00"
-      },
-      {
-        "titulo": "Guía básica de la Asamblea General de la ONU, lo necesario para entender la gran reunión diplomática",
-        "url": "https://www.larepublica.co/globoeconomia/abc-de-la-asamblea-general-de-la-onu-lo-que-debe-saber-sobre-la-gran-cita-diplomatica-4487641",
-        "fecha_portada": "",
-        "titulo_fuente": "ABC de la Asamblea General de la ONU, lo que debe saber sobre la gran cita diplomática",
-        "capturado": "2026-09-22T19:44:37-05:00"
-      },
-      {
-        "titulo": "Cómo se desarrolló la reunión entre De la Espriella y la mandataria de Costa Rica, Laura Fernández",
-        "url": "https://www.larepublica.co/economia/asi-fue-el-encuentro-entre-de-la-espriella-y-la-presidenta-de-costa-rica-laura-fernandez-4487997",
-        "fecha_portada": "",
-        "titulo_fuente": "Así fue el encuentro entre De la Espriella y la presidenta de Costa Rica, Laura Fernández",
-        "capturado": "2026-09-22T19:44:37-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Incertidumbre en el mercado por los títulos de Nu ante su potencial arribo a Reino Unido",
+        "url": "https://www.larepublica.co/finanzas/el-mercado-ve-incertidumbre-en-la-accion-de-nu-por-su-posible-entrada-a-reino-unido-4493654",
+        "fecha_portada": "30/09/2026",
+        "titulo_fuente": "El mercado ve incertidumbre en la acción de Nu por su posible entrada a Reino Unido",
+        "capturado": "2026-09-30T15:31:10-05:00"
+      },
       {
         "titulo": "El dólar baja $32,95 con el mercado pendiente de las tasas del Banco de la República",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-30-de-septiembre-4493343",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Mineros entrará a cuatro índices y apunta a aumentar la demanda por sus acciones",
         "capturado": "2026-09-14T17:09:21-05:00"
-      },
-      {
-        "titulo": "El dólar inició la sesión al alza luego de conocerse el recorte del Presupuesto",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-14-de-septiembre-4481061",
-        "fecha_portada": "",
-        "titulo_fuente": "El precio del dólar abrió la jornada al alza en medio del anuncio del recorte de Presupuesto",
-        "capturado": "2026-09-14T08:09:44-05:00"
       }
     ]
   }
