@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-29T18:48:01-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-29T21:32:07-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Aprueban préstamo de hasta $1,3 billones a Bogotá para la primera línea del Metro",
+        "url": "https://www.larepublica.co/economia/autorizan-credito-de-hasta-1-3-billones-a-bogota-para-financiar-primera-linea-del-metro-4493241",
+        "fecha_portada": "",
+        "titulo_fuente": "Autorizan crédito de hasta $1,3 billones a Bogotá para primera línea del Metro",
+        "capturado": "2026-09-29T21:32:07-05:00"
+      },
       {
         "titulo": "Crédito Público ejecutará este jueves la primera de tres permutas programadas para 2026",
         "url": "https://www.larepublica.co/economia/credito-publico-realizara-este-jueves-el-primero-de-tres-canjes-de-tes-previstos-para-2026-4492948",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/de-la-espriella-anuncia-compra-de-cartera-para-solucionar-demoras-en-atencion-medica-4487491",
         "fecha_portada": "",
         "titulo_fuente": "De La Espriella anuncia compra de cartera a las EPS para solucionar demoras en atención",
-        "capturado": "2026-09-22T06:52:34-05:00"
-      },
-      {
-        "titulo": "Banco Mundial y FMI apoyan las modificaciones al esquema de endeudamiento de naciones pobres",
-        "url": "https://www.larepublica.co/globoeconomia/banco-mundial-y-fmi-respaldan-los-cambios-en-el-marco-de-deuda-para-los-paises-pobres-4487093",
-        "fecha_portada": "21/09/2026",
-        "titulo_fuente": "Banco Mundial y FMI respaldan los cambios en el marco de deuda para los países pobres",
         "capturado": "2026-09-22T06:52:34-05:00"
       }
     ],
