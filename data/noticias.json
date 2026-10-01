@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-30T19:12:55-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-01T01:11:14-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El precio del dinero se elevó a los niveles de marzo de 2024 con un interés del 12,25%",
+        "url": "https://www.larepublica.co/economia/el-costo-del-dinero-subio-a-niveles-de-marzo-de-2024-con-tasa-de-12-25-4493863",
+        "fecha_portada": "01/10/2026",
+        "titulo_fuente": "El costo del dinero subió a niveles de marzo de 2024 con una tasa de interés de 12,25%",
+        "capturado": "2026-10-01T01:11:14-05:00"
+      },
+      {
+        "titulo": "En un lapso menor a 15 días se presentará la Ley de rescate económico en el Congreso de la República",
+        "url": "https://www.larepublica.co/economia/en-menos-de-15-dias-se-radicara-la-ley-de-rescate-en-el-congreso-de-la-republica-4494104",
+        "fecha_portada": "",
+        "titulo_fuente": "En menos de 15 días se radicará la Ley de rescate económico en el Congreso de la República",
+        "capturado": "2026-10-01T01:11:14-05:00"
+      },
+      {
+        "titulo": "Carf no considera viable el recorte de MinHacienda y estima un déficit de 7,8% del PIB",
+        "url": "https://www.larepublica.co/economia/carf-no-cree-factible-el-recorte-de-hacienda-y-proyecta-deficit-de-7-8-del-pib-4494124",
+        "fecha_portada": "",
+        "titulo_fuente": "Carf no cree \"factible\" el recorte del MinHacienda y proyecta déficit de 7,8% del PIB",
+        "capturado": "2026-10-01T01:11:14-05:00"
+      },
       {
         "titulo": "Colombia debe concentrarse con obsesión en la productividad ya que el motor de la natalidad se agotó",
         "url": "https://www.larepublica.co/economia/publicacion-informe-nacional-de-competitividad-4493929",
@@ -402,30 +423,16 @@
         "fecha_portada": "23/09/2026",
         "titulo_fuente": "Encuesta de analistas de Anif anticipa tasas \"quietas\" en próxima Junta del Emisor",
         "capturado": "2026-09-23T10:06:07-05:00"
-      },
-      {
-        "titulo": "El Gobierno busca decretar por segunda vez la emergencia económica debido a El Niño",
-        "url": "https://www.larepublica.co/economia/gobierno-va-por-su-segunda-declaratoria-de-emergencia-economica-a-causa-de-el-nino-4488236",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno va por su segunda declaratoria de emergencia económica a causa de El Niño",
-        "capturado": "2026-09-23T00:18:10-05:00"
-      },
-      {
-        "titulo": "La Dian explicó que los deudores en todo el país podrán cancelar únicamente el 15% de sus sanciones",
-        "url": "https://www.larepublica.co/economia/la-dian-aclaro-que-morosos-de-todo-el-pais-podran-pagar-solo-15-de-sus-sanciones-4487694",
-        "fecha_portada": "",
-        "titulo_fuente": "La Dian aclaró que los morosos en todo el país podrán pagar tan solo 15% de sus sanciones",
-        "capturado": "2026-09-23T00:18:10-05:00"
-      },
-      {
-        "titulo": "El presidente Donald Trump presentó ante la ONU una inversión militar de US$1,5 billones",
-        "url": "https://www.larepublica.co/globoeconomia/el-presidente-donald-trump-anuncio-una-inversion-militar-de-us-1-5-billones-ante-la-onu-4488183",
-        "fecha_portada": "23/09/2026",
-        "titulo_fuente": "El presidente Donald Trump anunció una inversión militar de US$1,5 billones ante la ONU",
-        "capturado": "2026-09-23T00:18:10-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Contamos con múltiples proyectos a futuro y deseamos habilitar cuentas para menores de edad",
+        "url": "https://www.larepublica.co/finanzas/entrevista-con-diego-torres-ceo-y-cofundador-de-trii-4493957",
+        "fecha_portada": "",
+        "titulo_fuente": "\"Tenemos muchos planes hacia el futuro, queremos abrir cuentas para menores de edad\"",
+        "capturado": "2026-10-01T01:11:14-05:00"
+      },
       {
         "titulo": "Incertidumbre en el mercado por los títulos de Nu ante su potencial arribo a Reino Unido",
         "url": "https://www.larepublica.co/finanzas/el-mercado-ve-incertidumbre-en-la-accion-de-nu-por-su-posible-entrada-a-reino-unido-4493654",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/las-acciones-globales-caen-por-alertas-sobre-la-inteligencia-artificial-y-alza-del-petroleo-4481170",
         "fecha_portada": "14/09/2026",
         "titulo_fuente": "Las acciones globales caen por alertas sobre la inteligencia artificial y alza del petróleo",
-        "capturado": "2026-09-14T17:09:21-05:00"
-      },
-      {
-        "titulo": "Mineros ingresará a cuatro índices y busca incrementar la demanda de sus títulos",
-        "url": "https://www.larepublica.co/finanzas/mineros-entrara-a-cuatro-indices-y-apunta-a-mayor-demanda-por-sus-acciones-4481125",
-        "fecha_portada": "",
-        "titulo_fuente": "Mineros entrará a cuatro índices y apunta a aumentar la demanda por sus acciones",
         "capturado": "2026-09-14T17:09:21-05:00"
       }
     ]
