@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-09-30T15:31:10-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-30T19:12:55-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Colombia debe concentrarse con obsesión en la productividad ya que el motor de la natalidad se agotó",
+        "url": "https://www.larepublica.co/economia/publicacion-informe-nacional-de-competitividad-4493929",
+        "fecha_portada": "",
+        "titulo_fuente": "\"Colombia debe obsesionarse con la productividad, el motor de la natalidad se fundió\"",
+        "capturado": "2026-09-30T19:12:55-05:00"
+      },
       {
         "titulo": "El Banco de la República modifica su política monetaria en 25 puntos básicos situándola en 12,25%",
         "url": "https://www.larepublica.co/economia/banco-central-ajusta-politica-monetaria-en-25-puntos-basicos-hasta-12-25-4493750",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/globoeconomia/el-presidente-donald-trump-anuncio-una-inversion-militar-de-us-1-5-billones-ante-la-onu-4488183",
         "fecha_portada": "23/09/2026",
         "titulo_fuente": "El presidente Donald Trump anunció una inversión militar de US$1,5 billones ante la ONU",
-        "capturado": "2026-09-23T00:18:10-05:00"
-      },
-      {
-        "titulo": "De acuerdo con Ipsos, la delincuencia y la violencia representan la mayor inquietud en América Latina",
-        "url": "https://www.larepublica.co/globoeconomia/el-crimen-y-la-violencia-son-la-principal-preocupacion-en-america-latina-4488110",
-        "fecha_portada": "23/09/2026",
-        "titulo_fuente": "El crimen y la violencia son la principal preocupación en América Latina, según Ipsos",
         "capturado": "2026-09-23T00:18:10-05:00"
       }
     ],
