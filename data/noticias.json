@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-01T01:11:14-05:00",
+  "actualizado": "2026-10-01T08:34:38-05:00",
   "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "José Manuel Restrepo promueve la agenda de inversiones entre Colombia y Venezuela",
+        "url": "https://www.larepublica.co/economia/jose-manuel-restrepo-impulsa-agenda-de-inversion-entre-colombia-y-venezuela-4494249",
+        "fecha_portada": "",
+        "titulo_fuente": "José Manuel Restrepo impulsa agenda de inversión entre Colombia y Venezuela",
+        "capturado": "2026-10-01T08:34:38-05:00"
+      },
       {
         "titulo": "El precio del dinero se elevó a los niveles de marzo de 2024 con un interés del 12,25%",
         "url": "https://www.larepublica.co/economia/el-costo-del-dinero-subio-a-niveles-de-marzo-de-2024-con-tasa-de-12-25-4493863",
@@ -416,16 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Carf alertó por costo de la deuda, tasas de los TES en pesos aumentaron 40 pbs en agosto",
         "capturado": "2026-09-23T10:06:07-05:00"
-      },
-      {
-        "titulo": "Sondeo de analistas de Anif prevé tasas sin cambios en la siguiente Junta del Emisor",
-        "url": "https://www.larepublica.co/economia/encuesta-de-analistas-de-anif-anticipa-tasas-quietas-en-proxima-junta-del-emisor-4488645",
-        "fecha_portada": "23/09/2026",
-        "titulo_fuente": "Encuesta de analistas de Anif anticipa tasas \"quietas\" en próxima Junta del Emisor",
-        "capturado": "2026-09-23T10:06:07-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar comenzó la jornada cayendo $14,84 después del incremento en las tasas de interés del Emisor",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-1-de-octubre-4494236",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar abrió $14,84 a la baja tras subida de las tasas de interés del Emisor",
+        "capturado": "2026-10-01T08:34:38-05:00"
+      },
+      {
+        "titulo": "Grupo Nutresa incorporó a Nugil y Jgdb con el total de sus activos, pasivos y patrimonio",
+        "url": "https://www.larepublica.co/empresas/absorcion-de-nugil-y-jgdb-en-el-grupo-nutresa-4494259",
+        "fecha_portada": "",
+        "titulo_fuente": "Grupo Nutresa absorbió a Nugil y Jgdb con la totalidad de sus activos, pasivos y patrimonio",
+        "capturado": "2026-10-01T08:34:38-05:00"
+      },
+      {
+        "titulo": "El oro se mantiene sin cambios mientras los operadores analizan los rendimientos de los bonos",
+        "url": "https://www.larepublica.co/finanzas/el-oro-se-mantiene-estable-mientras-los-operadores-sopesan-los-rendimientos-de-los-bonos-4494217",
+        "fecha_portada": "01/10/2026",
+        "titulo_fuente": "El oro está estable mientras los operadores sopesan rendimientos de los bonos",
+        "capturado": "2026-10-01T08:34:38-05:00"
+      },
       {
         "titulo": "Contamos con múltiples proyectos a futuro y deseamos habilitar cuentas para menores de edad",
         "url": "https://www.larepublica.co/finanzas/entrevista-con-diego-torres-ceo-y-cofundador-de-trii-4493957",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El oro cae por debajo de US$4.300 mientras el petróleo se mantiene al alza por datos del Tesoro",
         "capturado": "2026-09-15T10:18:15-05:00"
-      },
-      {
-        "titulo": "La inquietud por el alza de tasas de la Reserva Federal incrementó $37 al dólar en un solo día",
-        "url": "https://www.larepublica.co/finanzas/temor-a-subida-de-tasas-de-la-fed-sumo-37-al-dolar-en-un-dia-4481666",
-        "fecha_portada": "",
-        "titulo_fuente": "El temor por la subida de tasas de la Reserva Federal sumó $37 al dólar en una sola jornada",
-        "capturado": "2026-09-15T05:31:30-05:00"
-      },
-      {
-        "titulo": "El indicador Msci Colcap registra un alza superior al 25% en lo que va de este año",
-        "url": "https://www.larepublica.co/finanzas/el-indice-msci-colcap-acumula-una-apreciacion-superior-a-25-en-lo-corrido-de-este-ano-4481637",
-        "fecha_portada": "15/09/2026",
-        "titulo_fuente": "El índice Msci Colcap acumula una apreciación superior a 25% en lo corrido de este año",
-        "capturado": "2026-09-15T05:31:30-05:00"
-      },
-      {
-        "titulo": "Títulos globales descienden por advertencias sobre la inteligencia artificial y el incremento del crudo",
-        "url": "https://www.larepublica.co/globoeconomia/las-acciones-globales-caen-por-alertas-sobre-la-inteligencia-artificial-y-alza-del-petroleo-4481170",
-        "fecha_portada": "14/09/2026",
-        "titulo_fuente": "Las acciones globales caen por alertas sobre la inteligencia artificial y alza del petróleo",
-        "capturado": "2026-09-14T17:09:21-05:00"
       }
     ]
   }
