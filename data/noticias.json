@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-01T08:34:38-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-01T14:05:21-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "CAF viabilizó cinco proyectos estratégicos en Colombia por un total de US$1.250 millones",
+        "url": "https://www.larepublica.co/economia/caf-aprobo-cinco-proyectos-estrategicos-en-colombia-que-suman-us-1-250-millones-4494629",
+        "fecha_portada": "",
+        "titulo_fuente": "CAF aprobó cinco proyectos estratégicos en Colombia que suman US$1.250 millones",
+        "capturado": "2026-10-01T14:05:21-05:00"
+      },
+      {
+        "titulo": "Dian reporta disposiciones frente a peticiones de reembolso de IVA para híbridos y eléctricos",
+        "url": "https://www.larepublica.co/economia/dian-anuncio-medidas-ante-incremento-de-solicitudes-de-devolucion-del-iva-por-hibridos-y-electricos-4494432",
+        "fecha_portada": "",
+        "titulo_fuente": "Dian anuncia medidas ante solicitudes de devolución de IVA de híbridos y eléctricos",
+        "capturado": "2026-10-01T14:05:21-05:00"
+      },
       {
         "titulo": "José Manuel Restrepo promueve la agenda de inversiones entre Colombia y Venezuela",
         "url": "https://www.larepublica.co/economia/jose-manuel-restrepo-impulsa-agenda-de-inversion-entre-colombia-y-venezuela-4494249",
@@ -409,23 +423,16 @@
         "fecha_portada": "23/09/2026",
         "titulo_fuente": "Pacto Histórico presentó ponencia alternativa al Presupuesto para 2027",
         "capturado": "2026-09-23T17:22:46-05:00"
-      },
-      {
-        "titulo": "Salud es el sector que obtiene más fondos en la ponencia para el primer debate del presupuesto",
-        "url": "https://www.larepublica.co/economia/salud-es-el-sector-que-mas-gana-recursos-en-la-ponencia-para-primer-debate-de-presupuesto-4488426",
-        "fecha_portada": "",
-        "titulo_fuente": "Salud es el sector que más gana recursos en la ponencia para primer debate de presupuesto",
-        "capturado": "2026-09-23T10:06:07-05:00"
-      },
-      {
-        "titulo": "Carf advirtió por el costo de la deuda pues tasas de los TES en pesos subieron 40 pbs en agosto",
-        "url": "https://www.larepublica.co/economia/carf-alerto-por-costo-de-la-deuda-tasas-de-los-tes-aumentaron-40-pbs-en-agosto-4488501",
-        "fecha_portada": "",
-        "titulo_fuente": "Carf alertó por costo de la deuda, tasas de los TES en pesos aumentaron 40 pbs en agosto",
-        "capturado": "2026-09-23T10:06:07-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Acciones de EE. UU. ganan valor a pesar de la inestabilidad de bonos y el alza en rendimientos",
+        "url": "https://www.larepublica.co/globoeconomia/acciones-de-ee-uu-suben-pese-a-volatilidad-de-los-bonos-y-el-repunte-de-los-rendimientos-4494430",
+        "fecha_portada": "",
+        "titulo_fuente": "Acciones de EE.UU. suben pese a volatilidad de los bonos y el repunte de los rendimientos",
+        "capturado": "2026-10-01T14:05:21-05:00"
+      },
       {
         "titulo": "El dólar comenzó la jornada cayendo $14,84 después del incremento en las tasas de interés del Emisor",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-1-de-octubre-4494236",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/acciones-retroceden-mientras-el-petroleo-impulsa-la-presion-sobre-los-bonos-4482108",
         "fecha_portada": "15/09/2026",
         "titulo_fuente": "Las acciones retroceden mientras el petróleo impulsa la presión sobre los bonos",
-        "capturado": "2026-09-15T10:18:15-05:00"
-      },
-      {
-        "titulo": "El oro desciende de los US$4.300 al tiempo que el petróleo continúa al alza por cifras del Tesoro",
-        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-debajo-de-us-4-300-mientras-el-petroleo-esta-al-alza-4481838",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro cae por debajo de US$4.300 mientras el petróleo se mantiene al alza por datos del Tesoro",
         "capturado": "2026-09-15T10:18:15-05:00"
       }
     ]
