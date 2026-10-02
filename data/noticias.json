@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-01T21:20:03-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-02T03:41:03-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La estrategia sugerida por el Fondo Monetario Internacional con el fin de incrementar la recaudación",
+        "url": "https://www.larepublica.co/economia/la-receta-que-propone-el-fondo-monetario-internacional-para-aumentar-el-recaudo-4494824",
+        "fecha_portada": "02/10/2026",
+        "titulo_fuente": "La receta que propone el Fondo Monetario Internacional para aumentar el recaudo",
+        "capturado": "2026-10-02T03:41:03-05:00"
+      },
+      {
+        "titulo": "EE.UU. y China lideran la inversión extranjera de este siglo mientras la tecnología impone nuevas pautas",
+        "url": "https://www.larepublica.co/globoeconomia/ee-uu-y-china-dominan-la-inversion-del-siglo-pero-la-tecnologia-dicta-nuevas-reglas-en-2026-4495013",
+        "fecha_portada": "01/10/2026",
+        "titulo_fuente": "EE.UU. y China dominan la inversión extranjera del siglo, y la tecnología dicta nuevas reglas",
+        "capturado": "2026-10-02T03:41:03-05:00"
+      },
+      {
+        "titulo": "El Gobierno oficializó la designación de Jaime Vives en la presidencia de Coljuegos",
+        "url": "https://www.larepublica.co/economia/gobierno-formalizo-el-nombramiento-de-jaime-vives-pinedo-a-la-presidencia-de-coljuegos-4494776",
+        "fecha_portada": "01/10/2026",
+        "titulo_fuente": "Gobierno formalizó el nombramiento de Jaime Vives a la presidencia de Coljuegos",
+        "capturado": "2026-10-02T03:41:03-05:00"
+      },
       {
         "titulo": "El Ejecutivo proyecta una expansión del 6% para ingresar a las 25 economías más fuertes",
         "url": "https://www.larepublica.co/economia/gobierno-plantea-crecimiento-de-6-para-entrar-a-las-25-economias-mas-fuertes-4495033",
@@ -402,27 +423,6 @@
         "fecha_portada": "23/09/2026",
         "titulo_fuente": "El presupuesto de 2027 fue aprobado en primer debate y sigue trámite en las plenarias",
         "capturado": "2026-09-24T00:33:02-05:00"
-      },
-      {
-        "titulo": "MinHacienda alertó que la pensional generará un costo fiscal extra de $5 billones",
-        "url": "https://www.larepublica.co/finanzas/minhacienda-advirtio-que-la-pensional-tiene-un-impacto-fiscal-adicional-de-5-billones-4488682",
-        "fecha_portada": "23/09/2026",
-        "titulo_fuente": "MinHacienda advirtió que la pensional tiene un impacto fiscal adicional de $5 billones",
-        "capturado": "2026-09-23T17:22:46-05:00"
-      },
-      {
-        "titulo": "Galán aseguró reducción de 60% en comparendos de tránsito por la tributaria de Bogotá",
-        "url": "https://www.larepublica.co/economia/galan-confirmo-descuento-de-60-en-multas-de-transito-con-la-tributaria-de-bogota-4488841",
-        "fecha_portada": "",
-        "titulo_fuente": "Galán confirmó descuento de 60% en multas de tránsito con la tributaria de Bogotá",
-        "capturado": "2026-09-23T17:22:46-05:00"
-      },
-      {
-        "titulo": "Entidades han radicado solicitudes de examen ante la Corte sobre la pensional",
-        "url": "https://www.larepublica.co/finanzas/tras-la-reforma-pensional-tres-entidades-distintas-han-presentado-peticiones-a-la-corte-4488709",
-        "fecha_portada": "23/09/2026",
-        "titulo_fuente": "Entidades han presentado peticiones de revisión a la Corte sobre la pensional",
-        "capturado": "2026-09-23T17:22:46-05:00"
       }
     ],
     "Bolsas": [
