@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-02T03:41:03-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-02T10:07:05-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,20 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El dólar registra una baja de $27,07 respecto a la TRM del día de $3.307",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-2-de-octubre-de-2026-4495200",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar se cotiza $27,07 a la baja frente a la TRM del día que se ubicó en $3.307",
+        "capturado": "2026-10-02T10:07:05-05:00"
+      },
+      {
+        "titulo": "El oro se mantiene estable previo al reporte de empleo en EE.UU., encaminado a una pérdida semanal",
+        "url": "https://www.larepublica.co/finanzas/el-oro-se-cotiza-estable-antes-de-dato-laboral-en-ee-uu-en-camino-a-caida-semanal-4495136",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro se cotiza estable antes de dato laboral en EE.UU., en camino a caída semanal",
+        "capturado": "2026-10-02T10:07:05-05:00"
+      },
+      {
         "titulo": "Acciones de EE. UU. ganan valor a pesar de la inestabilidad de bonos y el alza en rendimientos",
         "url": "https://www.larepublica.co/globoeconomia/acciones-de-ee-uu-suben-pese-a-volatilidad-de-los-bonos-y-el-repunte-de-los-rendimientos-4494430",
         "fecha_portada": "",
@@ -831,20 +845,6 @@
         "fecha_portada": "15/09/2026",
         "titulo_fuente": "Lvmh, que alguna vez fue la mayor empresa bursátil de Europa, salió del Top 10 por valor",
         "capturado": "2026-09-15T19:32:31-05:00"
-      },
-      {
-        "titulo": "El dólar registra pérdidas en medio de la expectativa por las tasas de la FED",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-15-de-septiembre-de-2026-4481924",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar se cotiza a la baja en medio de expectativas por tasas de la FED",
-        "capturado": "2026-09-15T10:18:15-05:00"
-      },
-      {
-        "titulo": "Los títulos bursátiles caen al tiempo que el petróleo incrementa la presión sobre los bonos",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-retroceden-mientras-el-petroleo-impulsa-la-presion-sobre-los-bonos-4482108",
-        "fecha_portada": "15/09/2026",
-        "titulo_fuente": "Las acciones retroceden mientras el petróleo impulsa la presión sobre los bonos",
-        "capturado": "2026-09-15T10:18:15-05:00"
       }
     ]
   }
