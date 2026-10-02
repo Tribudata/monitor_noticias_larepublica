@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-02T10:07:05-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-02T14:59:24-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Para reperfilar la deuda de la Nación, Crédito Público intercambió TES por $11,15 billones",
+        "url": "https://www.larepublica.co/economia/credito-publico-canjeo-tes-por-11-15-billones-para-reperfilar-deuda-de-la-nacion-4495343",
+        "fecha_portada": "02/10/2026",
+        "titulo_fuente": "Crédito Público canjeó TES por $11,15 billones para reperfilar deuda de la Nación",
+        "capturado": "2026-10-02T14:59:24-05:00"
+      },
       {
         "titulo": "La estrategia sugerida por el Fondo Monetario Internacional con el fin de incrementar la recaudación",
         "url": "https://www.larepublica.co/economia/la-receta-que-propone-el-fondo-monetario-internacional-para-aumentar-el-recaudo-4494824",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/carf-alerto-por-alza-en-tasas-de-tes-y-una-reduccion-en-la-caja-en-pesos-de-la-nacion-4488926",
         "fecha_portada": "",
         "titulo_fuente": "Carf alertó por alza en tasas de TES y una reducción en la caja en pesos de toda la Nación",
-        "capturado": "2026-09-24T00:33:02-05:00"
-      },
-      {
-        "titulo": "El presupuesto de 2027 superó el primer debate y continúa su curso en las plenarias",
-        "url": "https://www.larepublica.co/economia/el-presupuesto-de-2027-fue-aprobado-en-primer-debate-y-sigue-tramite-en-plenarias-4489115",
-        "fecha_portada": "23/09/2026",
-        "titulo_fuente": "El presupuesto de 2027 fue aprobado en primer debate y sigue trámite en las plenarias",
         "capturado": "2026-09-24T00:33:02-05:00"
       }
     ],
