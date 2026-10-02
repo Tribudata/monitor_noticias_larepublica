@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-01T18:15:48-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-01T21:20:03-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Ejecutivo proyecta una expansión del 6% para ingresar a las 25 economías más fuertes",
+        "url": "https://www.larepublica.co/economia/gobierno-plantea-crecimiento-de-6-para-entrar-a-las-25-economias-mas-fuertes-4495033",
+        "fecha_portada": "01/10/2026",
+        "titulo_fuente": "Gobierno plantea crecimiento de 6% para entrar a las 25 economías más fuertes",
+        "capturado": "2026-10-01T21:20:03-05:00"
+      },
+      {
+        "titulo": "El Ministerio de Hacienda presentó el presupuesto del SGR por $27,5 billones para el bienio 2027-2028",
+        "url": "https://www.larepublica.co/economia/minhacienda-radico-presupuesto-del-sgr-por-27-5-billones-para-el-bienio-2027-2028-4494841",
+        "fecha_portada": "",
+        "titulo_fuente": "MinHacienda radicó presupuesto del SGR por $27,5 billones para el bienio 2027-2028",
+        "capturado": "2026-10-01T21:20:03-05:00"
+      },
       {
         "titulo": "CAF viabilizó cinco proyectos estratégicos en Colombia por un total de US$1.250 millones",
         "url": "https://www.larepublica.co/economia/caf-aprobo-cinco-proyectos-estrategicos-en-colombia-que-suman-us-1-250-millones-4494629",
@@ -408,20 +422,6 @@
         "url": "https://www.larepublica.co/finanzas/tras-la-reforma-pensional-tres-entidades-distintas-han-presentado-peticiones-a-la-corte-4488709",
         "fecha_portada": "23/09/2026",
         "titulo_fuente": "Entidades han presentado peticiones de revisión a la Corte sobre la pensional",
-        "capturado": "2026-09-23T17:22:46-05:00"
-      },
-      {
-        "titulo": "Anif alerta que El Niño podría añadir hasta un punto porcentual a la inflación",
-        "url": "https://www.larepublica.co/economia/anif-advierte-que-el-nino-podria-sumar-hasta-un-punto-porcentual-a-la-inflacion-4488707",
-        "fecha_portada": "",
-        "titulo_fuente": "Anif advierte que El Niño podría sumar hasta un punto porcentual a la inflación",
-        "capturado": "2026-09-23T17:22:46-05:00"
-      },
-      {
-        "titulo": "Pacto Histórico radicó ponencia diferente para el Presupuesto de 2027",
-        "url": "https://www.larepublica.co/economia/bancada-del-pacto-historico-presento-ponencia-alternativa-al-presupuesto-por-598-6-billones-4488675",
-        "fecha_portada": "23/09/2026",
-        "titulo_fuente": "Pacto Histórico presentó ponencia alternativa al Presupuesto para 2027",
         "capturado": "2026-09-23T17:22:46-05:00"
       }
     ],
