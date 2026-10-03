@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-03T12:39:24-05:00",
+  "actualizado": "2026-10-03T15:14:37-05:00",
   "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Tania Gilinski se posesionó como nueva embajadora de Colombia ante el Estado de Israel",
+        "url": "https://www.larepublica.co/economia/tania-gilinski-asume-como-nueva-embajadora-de-colombia-ante-el-estado-de-israel-4496172",
+        "fecha_portada": "03/10/2026",
+        "titulo_fuente": "Tania Gilinski asumió como nueva embajadora de Colombia ante el Estado de Israel",
+        "capturado": "2026-10-03T15:14:37-05:00"
+      },
       {
         "titulo": "El presidente De la Espriella solicitó la remoción de Germán Miranda, director de los Bomberos",
         "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-pidio-retirar-del-cargo-a-german-miranda-director-de-los-bomberos-4496176",
@@ -416,13 +423,6 @@
         "fecha_portada": "25/09/2026",
         "titulo_fuente": "Dane reportó que las defunciones no fetales aumentaron 4,8% a julio",
         "capturado": "2026-09-25T00:37:48-05:00"
-      },
-      {
-        "titulo": "Con el retiro de Montoya, el presidente de Colpensiones permanece en promedio 21 meses",
-        "url": "https://www.larepublica.co/finanzas/de-la-espriella-le-solicito-la-renuncia-del-presidente-de-colpensiones-carlos-rene-montoya-4489802",
-        "fecha_portada": "",
-        "titulo_fuente": "Con salida de Montoya, presidente de Colpensiones dura 21 meses en promedio",
-        "capturado": "2026-09-24T19:56:47-05:00"
       }
     ],
     "Bolsas": [
