@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-03T08:32:10-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-03T12:39:24-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El presidente De la Espriella solicitó la remoción de Germán Miranda, director de los Bomberos",
+        "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-pidio-retirar-del-cargo-a-german-miranda-director-de-los-bomberos-4496176",
+        "fecha_portada": "",
+        "titulo_fuente": "Presidente De la Espriella pidió retirar del cargo a Germán Miranda, director de los Bomberos",
+        "capturado": "2026-10-03T12:39:24-05:00"
+      },
       {
         "titulo": "Calculamos que la reconstrucción de Caldas luego del sismo costaría $4 billones",
         "url": "https://www.larepublica.co/economia/entrevista-con-juanita-espeleta-secretaria-de-desarrollo-de-caldas-sobre-el-terremoto-4495934",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Con salida de Montoya, presidente de Colpensiones dura 21 meses en promedio",
         "capturado": "2026-09-24T19:56:47-05:00"
-      },
-      {
-        "titulo": "Mi gobierno se centra en lograr que Colombia retome el crecimiento",
-        "url": "https://www.larepublica.co/economia/discurso-de-restrepo-durante-la-asamblea-general-de-la-onu-4489543",
-        "fecha_portada": "",
-        "titulo_fuente": "\"Mi administración está concentrada en lograr que Colombia vuelva al crecimiento\"",
-        "capturado": "2026-09-24T14:31:37-05:00"
       }
     ],
     "Bolsas": [
