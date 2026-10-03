@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-02T21:26:48-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-03T03:22:15-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Calculamos que la reconstrucción de Caldas luego del sismo costaría $4 billones",
+        "url": "https://www.larepublica.co/economia/entrevista-con-juanita-espeleta-secretaria-de-desarrollo-de-caldas-sobre-el-terremoto-4495934",
+        "fecha_portada": "",
+        "titulo_fuente": "“Estimamos que la reconstrucción de Caldas tras el terremoto costaría $4 billones”",
+        "capturado": "2026-10-03T03:22:15-05:00"
+      },
+      {
+        "titulo": "Lula da Silva y Flávio Bolsonaro asisten a las urnas con una competencia voto a voto",
+        "url": "https://www.larepublica.co/globoeconomia/lula-da-silva-y-flavio-bolsonaro-llegan-a-las-urnas-con-una-carrera-voto-a-voto-4495671",
+        "fecha_portada": "",
+        "titulo_fuente": "Lula da Silva y Flávio Bolsonaro llegan a las urnas con una carrera voto a voto",
+        "capturado": "2026-10-03T03:22:15-05:00"
+      },
+      {
+        "titulo": "Colombia bajó siete casillas en el índice de innovación 2026 de la Ompi",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-retrocedio-siete-puestos-en-el-ranking-de-innovacion-global-2026-de-la-ompi-4495719",
+        "fecha_portada": "03/10/2026",
+        "titulo_fuente": "Colombia retrocedió siete puestos en el ranking de innovación 2026 de la Ompi",
+        "capturado": "2026-10-03T03:22:15-05:00"
+      },
+      {
+        "titulo": "Gobierno informó sobre una Zona Especial en Sucre con proyecto de aluminio de hasta US$5.200 millones",
+        "url": "https://www.larepublica.co/economia/gobierno-anuncio-zona-especial-en-sucre-con-proyecto-de-aluminio-de-hasta-us-5-200-millones-4496090",
+        "fecha_portada": "02/10/2026",
+        "titulo_fuente": "Gobierno anunció Zona Especial en Sucre con proyecto de aluminio de hasta US$5.200 millones",
+        "capturado": "2026-10-03T03:22:15-05:00"
+      },
       {
         "titulo": "MinHacienda oficializó la posesión de Fernando Isaza Gutiérrez como presidente del FNG",
         "url": "https://www.larepublica.co/finanzas/el-ministro-de-hacienda-posesiono-a-fernando-isaza-gutierrez-de-pineres-como-presidente-del-fng-4495722",
@@ -395,34 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "\"Mi administración está concentrada en lograr que Colombia vuelva al crecimiento\"",
         "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "El Dane registró 253.175 nacimientos y 172.426 muertes entre enero y julio",
-        "url": "https://www.larepublica.co/economia/nacimientos-y-defunciones-no-fetales-con-corte-a-julio-de-2026-4489497",
-        "fecha_portada": "",
-        "titulo_fuente": "Dane reportó 253.175 nacimientos y 172.426 defunciones entre enero y julio",
-        "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "La Comisión Séptima escuchará de nuevo al presidente de Colpensiones el miércoles",
-        "url": "https://www.larepublica.co/finanzas/congresistas-denuncian-que-el-presidente-de-colpensiones-no-tiene-conocimiento-del-sector-4489421",
-        "fecha_portada": "",
-        "titulo_fuente": "La Comisión Séptima volverá a escuchar al presidente de Colpensiones el miércoles",
-        "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "La Ocde prevé una expansión del 2,9% en la economía global para este año",
-        "url": "https://www.larepublica.co/globoeconomia/la-ocde-proyecta-un-crecimiento-de-la-economia-mundial-de-2-9-para-el-cierre-de-ano-4488410",
-        "fecha_portada": "23/09/2026",
-        "titulo_fuente": "La Ocde proyecta un crecimiento de la economía mundial de 2,9% para este año",
-        "capturado": "2026-09-24T05:33:49-05:00"
-      },
-      {
-        "titulo": "Las áreas con las mayores reducciones en el Presupuesto General de la Nación de 2027",
-        "url": "https://www.larepublica.co/economia/los-sectores-donde-mas-se-ha-recortado-el-presupuesto-general-de-2027-4489006",
-        "fecha_portada": "24/09/2026",
-        "titulo_fuente": "Los sectores donde más se ha recortado el Presupuesto General de la Nación para 2027",
-        "capturado": "2026-09-24T00:33:02-05:00"
       }
     ],
     "Bolsas": [
