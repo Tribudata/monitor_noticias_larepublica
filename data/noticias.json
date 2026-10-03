@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-02T18:32:57-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-02T21:26:48-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "MinHacienda oficializó la posesión de Fernando Isaza Gutiérrez como presidente del FNG",
+        "url": "https://www.larepublica.co/finanzas/el-ministro-de-hacienda-posesiono-a-fernando-isaza-gutierrez-de-pineres-como-presidente-del-fng-4495722",
+        "fecha_portada": "02/10/2026",
+        "titulo_fuente": "MinHacienda posesionó a Fernando Isaza Gutiérrez como presidente del FNG",
+        "capturado": "2026-10-02T21:26:48-05:00"
+      },
       {
         "titulo": "Para reperfilar la deuda de la Nación, Crédito Público intercambió TES por $11,15 billones",
         "url": "https://www.larepublica.co/economia/credito-publico-canjeo-tes-por-11-15-billones-para-reperfilar-deuda-de-la-nacion-4495343",
@@ -416,16 +423,23 @@
         "fecha_portada": "24/09/2026",
         "titulo_fuente": "Los sectores donde más se ha recortado el Presupuesto General de la Nación para 2027",
         "capturado": "2026-09-24T00:33:02-05:00"
-      },
-      {
-        "titulo": "Carf advirtió por incremento en tasas de TES y disminución en la caja en pesos de toda la Nación",
-        "url": "https://www.larepublica.co/economia/carf-alerto-por-alza-en-tasas-de-tes-y-una-reduccion-en-la-caja-en-pesos-de-la-nacion-4488926",
-        "fecha_portada": "",
-        "titulo_fuente": "Carf alertó por alza en tasas de TES y una reducción en la caja en pesos de toda la Nación",
-        "capturado": "2026-09-24T00:33:02-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Wall Street asciende por flojo reporte de empleo en EE.UU. que aleja incrementos de tasas de la FED",
+        "url": "https://www.larepublica.co/globoeconomia/acciones-suben-tras-un-debil-informe-de-empleo-que-reduce-apuestas-de-alzas-de-la-fed-4495391",
+        "fecha_portada": "",
+        "titulo_fuente": "Wall Street sube tras débil dato de empleo de EE.UU. que aleja alzas de tasas de la FED",
+        "capturado": "2026-10-02T21:26:48-05:00"
+      },
+      {
+        "titulo": "BVC en asocio con Trii presentó nueva versión de la iniciativa Bolsa Millonaria",
+        "url": "https://www.larepublica.co/finanzas/bvc-en-alianza-con-trii-anuncio-nueva-edicion-de-la-iniciativa-de-aprendizaje-bolsa-millonaria-4495354",
+        "fecha_portada": "",
+        "titulo_fuente": "BVC en alianza con Trii anunció nueva edición de la iniciativa Bolsa Millonaria",
+        "capturado": "2026-10-02T21:26:48-05:00"
+      },
       {
         "titulo": "El dólar registra una baja de $27,07 respecto a la TRM del día de $3.307",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-2-de-octubre-de-2026-4495200",
@@ -831,20 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Precio del dólar se cotiza al alza a la espera de la decisión de tasas de la Reserva Federal",
         "capturado": "2026-09-16T10:03:01-05:00"
-      },
-      {
-        "titulo": "El oro aumenta ante la baja del dólar y el crudo, previo a la decisión de tasas de la Reserva Federal",
-        "url": "https://www.larepublica.co/finanzas/el-oro-sube-por-caida-de-dolar-y-crudo-antes-de-decision-de-la-reserva-federal-sobre-tasas-4482730",
-        "fecha_portada": "16/09/2026",
-        "titulo_fuente": "El oro sube por caída de dólar y crudo, antes de decisión de la Reserva Federal sobre tasas",
-        "capturado": "2026-09-16T10:03:01-05:00"
-      },
-      {
-        "titulo": "Lvmh, que en su momento fue la mayor firma bursátil de Europa, quedó fuera de las 10 de más valor",
-        "url": "https://www.larepublica.co/ocio/lvmh-que-alguna-vez-fue-la-mayor-empresa-bursatil-de-europa-salio-del-top-10-por-valor-4482490",
-        "fecha_portada": "15/09/2026",
-        "titulo_fuente": "Lvmh, que alguna vez fue la mayor empresa bursátil de Europa, salió del Top 10 por valor",
-        "capturado": "2026-09-15T19:32:31-05:00"
       }
     ]
   }
