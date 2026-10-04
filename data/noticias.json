@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-04T13:15:25-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-04T16:40:45-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,13 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El sistema operativo Jeeves reportó una ronda de capital por US$110 millones",
+        "url": "https://www.larepublica.co/finanzas/el-sistema-operativo-jeeves-anuncio-ronda-de-capital-porun-valor-de-us-110-millones-4495406",
+        "fecha_portada": "",
+        "titulo_fuente": "El sistema operativo Jeeves anunció ronda de capital por un valor de US$110 millones",
+        "capturado": "2026-10-04T16:40:45-05:00"
+      },
+      {
         "titulo": "Wall Street asciende por flojo reporte de empleo en EE.UU. que aleja incrementos de tasas de la FED",
         "url": "https://www.larepublica.co/globoeconomia/acciones-suben-tras-un-debil-informe-de-empleo-que-reduce-apuestas-de-alzas-de-la-fed-4495391",
         "fecha_portada": "",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Wall Street y los bonos del Tesoro suben antes de la decisión de la Reserva Federal",
         "capturado": "2026-09-16T18:55:11-05:00"
-      },
-      {
-        "titulo": "Cotización del dólar aumenta a la expectativa por la determinación de tasas de la Reserva Federal",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-16-de-septiembre-4482793",
-        "fecha_portada": "",
-        "titulo_fuente": "Precio del dólar se cotiza al alza a la espera de la decisión de tasas de la Reserva Federal",
-        "capturado": "2026-09-16T10:03:01-05:00"
       }
     ]
   }
