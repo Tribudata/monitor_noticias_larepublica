@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-05T00:56:29-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-05T08:00:02-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Fechas que deben tener presentes los aspirantes a estudiar en la Unal",
+        "url": "https://www.larepublica.co/economia/estas-son-las-fechas-que-deben-tener-en-cuenta-los-aspirantes-que-quieren-estudiar-en-la-unal-4496644",
+        "fecha_portada": "05/10/2026",
+        "titulo_fuente": "Las fechas que deben tener en cuenta los aspirantes que quieren estudiar en la Unal",
+        "capturado": "2026-10-05T08:00:02-05:00"
+      },
       {
         "titulo": "Especialistas del mercado estiman que la inflación subirá al 6,33% en septiembre",
         "url": "https://www.larepublica.co/economia/analistas-del-mercado-preven-que-la-inflacion-repuntara-hasta-6-33-en-septiembre-4495988",
@@ -416,16 +423,16 @@
         "fecha_portada": "25/09/2026",
         "titulo_fuente": "Junta de 4-72, liderada por la MinTIC, retiró a Fuad Abdala Salaiman de la presidencia",
         "capturado": "2026-09-25T17:51:09-05:00"
-      },
-      {
-        "titulo": "Ana Elena Monsalvo sería la próxima presidenta de Colpensiones",
-        "url": "https://www.larepublica.co/finanzas/ana-elena-monsalvo-podria-ser-la-nueva-presidenta-de-colpensiones-4490279",
-        "fecha_portada": "",
-        "titulo_fuente": "Ana Elena Monsalvo podría ser la nueva presidente de Colpensiones",
-        "capturado": "2026-09-25T17:51:09-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El oro cae por menores previsiones de incremento de tasas y la solidez del dólar frena su alza",
+        "url": "https://www.larepublica.co/finanzas/el-oro-baja-por-menores-expectativas-de-alza-de-tasas-y-la-fortaleza-del-dolar-limita-avance-4496628",
+        "fecha_portada": "05/10/2026",
+        "titulo_fuente": "El oro baja por menores expectativas de alza de tasas y la fortaleza del dólar limita avance",
+        "capturado": "2026-10-05T08:00:02-05:00"
+      },
       {
         "titulo": "Aspectos a considerar para la compra de monedas extranjeras en la semana de receso",
         "url": "https://www.larepublica.co/finanzas/lo-que-debe-tener-en-cuenta-sobre-la-compra-de-divisas-durante-la-semana-de-receso-4496448",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/el-oro-sube-mientras-operadores-evaluan-posiciones-tras-alza-de-tasas-de-interes-4483919",
         "fecha_portada": "17/09/2026",
         "titulo_fuente": "El oro sube mientras operadores evalúan posiciones tras alza de tasas de interés",
-        "capturado": "2026-09-17T12:09:23-05:00"
-      },
-      {
-        "titulo": "La Bolsa de Valores de Colombia inició la negociación del Futuro de TES tasa fija B30",
-        "url": "https://www.larepublica.co/finanzas/la-bolsa-de-valores-de-colombia-puso-en-negociacion-el-nuevo-futuro-de-tes-tasa-fija-b30-4483844",
-        "fecha_portada": "",
-        "titulo_fuente": "La Bolsa de Valores de Colombia puso en negociación Futuro de TES tasa fija B30",
         "capturado": "2026-09-17T12:09:23-05:00"
       }
     ]
