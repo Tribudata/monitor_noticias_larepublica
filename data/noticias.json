@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-04T19:15:30-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-05T00:56:29-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Especialistas del mercado estiman que la inflación subirá al 6,33% en septiembre",
+        "url": "https://www.larepublica.co/economia/analistas-del-mercado-preven-que-la-inflacion-repuntara-hasta-6-33-en-septiembre-4495988",
+        "fecha_portada": "05/10/2026",
+        "titulo_fuente": "Analistas del mercado prevén que la inflación repuntará hasta 6,33% en septiembre",
+        "capturado": "2026-10-05T00:56:29-05:00"
+      },
+      {
+        "titulo": "El panorama económico que asumirá el siguiente mandatario de Brasil entre deuda, tasas y empleo",
+        "url": "https://www.larepublica.co/globoeconomia/los-retos-del-nuevo-gobierno-de-brasillos-retos-que-enfrentara-el-nuevo-gobierno-de-brasil-4495911",
+        "fecha_portada": "",
+        "titulo_fuente": "La economía que heredará el próximo presidente de Brasil entre deuda, tasas y empleo",
+        "capturado": "2026-10-05T00:56:29-05:00"
+      },
+      {
+        "titulo": "Las regiones con mayores pérdidas por el incremento en las tasas de interés del Banco de la República",
+        "url": "https://www.larepublica.co/economia/las-regiones-que-mas-pierden-por-el-alza-a-la-tasa-de-interes-del-banco-de-la-republica-4495970",
+        "fecha_portada": "",
+        "titulo_fuente": "Las regiones que más pierden por el alza a la tasa de interés del Banco de la República",
+        "capturado": "2026-10-05T00:56:29-05:00"
+      },
+      {
+        "titulo": "JEP solicita al Congreso detener la reducción de $170.000 millones",
+        "url": "https://www.asuntoslegales.com.co/actualidad/jep-pide-al-congreso-frenar-recorte-de-170-000-millones-y-promete-plan-de-austeridad-4496398",
+        "fecha_portada": "04/10/2026",
+        "titulo_fuente": "JEP pide al Congreso frenar recorte de $170.000 millones",
+        "capturado": "2026-10-05T00:56:29-05:00"
+      },
       {
         "titulo": "Tania Gilinski se posesionó como nueva embajadora de Colombia ante el Estado de Israel",
         "url": "https://www.larepublica.co/economia/tania-gilinski-asume-como-nueva-embajadora-de-colombia-ante-el-estado-de-israel-4496172",
@@ -395,37 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Ana Elena Monsalvo podría ser la nueva presidente de Colpensiones",
         "capturado": "2026-09-25T17:51:09-05:00"
-      },
-      {
-        "titulo": "A julio, 115 municipios de 1.103 reportaron un máximo de 10 nacimientos",
-        "url": "https://www.larepublica.co/economia/de-1-103-hubo-115-municipios-que-registraron-10-o-menos-nacimientos-entre-enero-y-julio-4489872",
-        "fecha_portada": "25/09/2026",
-        "titulo_fuente": "De 1.103, hubo 115 municipios que registraron 10 o menos nacimientos a julio",
-        "capturado": "2026-09-25T00:37:48-05:00"
-      },
-      {
-        "titulo": "Cuatro altos funcionarios han salido en menos de dos meses de la administración De la Espriella",
-        "url": "https://www.larepublica.co/economia/en-menos-de-dos-meses-del-gobierno-de-la-espriella-se-han-ido-cuatro-altos-funcionarios-4489941",
-        "fecha_portada": "",
-        "titulo_fuente": "En menos de dos meses del gobierno De la Espriella, se han ido cuatro altos funcionarios",
-        "capturado": "2026-09-25T00:37:48-05:00"
-      },
-      {
-        "titulo": "Colombia se ubicó en la posición 34 en el cierre de la brecha de género, según el Foro Económico",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-ocupo-el-puesto-34-en-el-cierre-de-brecha-de-genero-segun-el-foro-economico-4489877",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia ocupó el puesto 34 en el cierre de brecha de género, según el Foro Económico",
-        "capturado": "2026-09-25T00:37:48-05:00"
-      },
-      {
-        "titulo": "El Dane informó que las muertes no fetales se incrementaron 4,8% a julio",
-        "url": "https://www.larepublica.co/economia/dane-reporto-que-las-defunciones-no-fetales-aumentaron-4-8-entre-enero-y-julio-4489890",
-        "fecha_portada": "25/09/2026",
-        "titulo_fuente": "Dane reportó que las defunciones no fetales aumentaron 4,8% a julio",
-        "capturado": "2026-09-25T00:37:48-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Aspectos a considerar para la compra de monedas extranjeras en la semana de receso",
+        "url": "https://www.larepublica.co/finanzas/lo-que-debe-tener-en-cuenta-sobre-la-compra-de-divisas-durante-la-semana-de-receso-4496448",
+        "fecha_portada": "",
+        "titulo_fuente": "Lo que debe tener en cuenta sobre la compra de divisas durante la semana de receso",
+        "capturado": "2026-10-05T00:56:29-05:00"
+      },
+      {
+        "titulo": "KOA concreta nueva titularización de $85.000 millones en la Bolsa de Valores de Colombia",
+        "url": "https://www.larepublica.co/finanzas/koa-tiene-nueva-titularizacion-en-la-bolsa-de-valores-de-colombia-por-85-000-millones-4496442",
+        "fecha_portada": "05/10/2026",
+        "titulo_fuente": "KOA con nueva titularización en la Bolsa de Valores de Colombia por $85.000 millones",
+        "capturado": "2026-10-05T00:56:29-05:00"
+      },
+      {
+        "titulo": "Aspectos clave al contrastar tipos de cambio y cobros ocultos en aplicaciones de dólares digitales",
+        "url": "https://www.larepublica.co/finanzas/esto-es-lo-que-debe-saber-al-comparar-tasas-de-cambio-y-acerca-de-los-costos-ocultos-4495668",
+        "fecha_portada": "",
+        "titulo_fuente": "Lo que debe saber al comparar las tasas de cambio y costos ocultos de apps de dólares digitales",
+        "capturado": "2026-10-05T00:56:29-05:00"
+      },
       {
         "titulo": "El sistema operativo Jeeves reportó una ronda de capital por US$110 millones",
         "url": "https://www.larepublica.co/finanzas/el-sistema-operativo-jeeves-anuncio-ronda-de-capital-porun-valor-de-us-110-millones-4495406",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "La Bolsa de Valores de Colombia puso en negociación Futuro de TES tasa fija B30",
         "capturado": "2026-09-17T12:09:23-05:00"
-      },
-      {
-        "titulo": "Dale! proyecta que el 30% de sus usuarios utilicen la cuenta en dólares y euros en tres años",
-        "url": "https://www.larepublica.co/finanzas/dale-busca-que-30-de-sus-clientes-usen-la-cuenta-de-dolares-y-euros-en-tres-anos-4482808",
-        "fecha_portada": "17/09/2026",
-        "titulo_fuente": "Dale! busca que 30% de sus clientes usen la cuenta de dólares y euros en tres años",
-        "capturado": "2026-09-17T01:48:48-05:00"
-      },
-      {
-        "titulo": "Nuam comunicó el inicio de funciones de la plataforma seon en el mercado de valores peruano",
-        "url": "https://www.larepublica.co/finanzas/nuam-anuncio-la-entrada-en-operacion-de-la-plataforma-seon-en-el-mercado-bursatil-peruano-4483419",
-        "fecha_portada": "",
-        "titulo_fuente": "Nuam anunció la entrada en operación de la plataforma seon en el mercado bursátil peruano",
-        "capturado": "2026-09-17T01:48:48-05:00"
-      },
-      {
-        "titulo": "Wall Street y los bonos del Tesoro registran alzas previo a la determinación de la Reserva Federal",
-        "url": "https://www.larepublica.co/globoeconomia/wall-street-y-treasuries-avanzan-antes-de-la-decision-de-la-reserva-federal-4482914",
-        "fecha_portada": "",
-        "titulo_fuente": "Wall Street y los bonos del Tesoro suben antes de la decisión de la Reserva Federal",
-        "capturado": "2026-09-16T18:55:11-05:00"
       }
     ]
   }
