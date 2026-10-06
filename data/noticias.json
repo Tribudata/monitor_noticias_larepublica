@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-05T20:38:39-05:00",
-  "nuevos_en_esta_corrida": 10,
+  "actualizado": "2026-10-06T03:12:18-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Sam Altman, Dario Amodei y Elon Musk lideran el listado de poder de Vanity Fair",
+        "url": "https://www.larepublica.co/globoeconomia/sam-altman-dario-amodei-y-elon-musk-encabezan-la-lista-de-poder-para-vanity-fair-4497347",
+        "fecha_portada": "06/10/2026",
+        "titulo_fuente": "Sam Altman, Dario Amodei y Elon Musk encabezan la lista de poder para Vanity Fair",
+        "capturado": "2026-10-06T03:12:18-05:00"
+      },
       {
         "titulo": "Faltan $3 billones al Banco de la República para lograr su meta de ganancias de 2026",
         "url": "https://www.larepublica.co/economia/banco-de-la-republica-esta-a-3-billones-de-alcanzar-meta-de-utilidades-de-2026-4497224",
@@ -416,16 +423,16 @@
         "fecha_portada": "27/09/2026",
         "titulo_fuente": "Servicio Geológico Colombiano reporta sismo de magnitud 4,2 en Roncesvalles, Tolima",
         "capturado": "2026-09-27T12:50:27-05:00"
-      },
-      {
-        "titulo": "Mac Master y el FMI evalúan la situación fiscal y el rol de las empresas privadas en Colombia",
-        "url": "https://www.larepublica.co/empresas/mac-master-y-el-fmi-analizan-finanzas-publicas-y-el-papel-del-sector-privado-en-colombia-4491203",
-        "fecha_portada": "",
-        "titulo_fuente": "Mac Master y el FMI analizan finanzas públicas y el papel del sector privado en Colombia",
-        "capturado": "2026-09-26T16:18:51-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Los asociados de ColCapital tienen cerca de US$4.500 millones disponibles para invertir",
+        "url": "https://www.larepublica.co/finanzas/entrevista-con-paola-garcia-barreneche-directora-ejecutiva-de-colcapital-4496927",
+        "fecha_portada": "",
+        "titulo_fuente": "“Los miembros de ColCapital tienen alrededor de US$4.500 millones listos para invertir”",
+        "capturado": "2026-10-06T03:12:18-05:00"
+      },
       {
         "titulo": "El dólar finalizó la sesión $62,57 por debajo de la TRM del día, registrando un precio de $3.210,92",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-5-de-octubre-de-2026-4496666",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-18-de-septiembre-4485077",
         "fecha_portada": "",
         "titulo_fuente": "El dólar cotiza en la jornada en un precio de $3.181, un alza de $29 frente a la TRM",
-        "capturado": "2026-09-18T08:55:36-05:00"
-      },
-      {
-        "titulo": "El peso encabeza la revaluación en las economías emergentes durante 2026, al valorizarse un 19,3%",
-        "url": "https://www.larepublica.co/finanzas/el-peso-colombiano-lidera-la-revaluacion-entre-las-emergentes-en-2026-al-apreciarse-19-3-4485118",
-        "fecha_portada": "",
-        "titulo_fuente": "El peso lidera la revaluación entre los mercados emergentes en 2026, al apreciarse 19,3%",
         "capturado": "2026-09-18T08:55:36-05:00"
       }
     ]
