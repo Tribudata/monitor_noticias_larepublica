@@ -1,9 +1,51 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-05T08:00:02-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-05T20:38:39-05:00",
+  "nuevos_en_esta_corrida": 10,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Faltan $3 billones al Banco de la República para lograr su meta de ganancias de 2026",
+        "url": "https://www.larepublica.co/economia/banco-de-la-republica-esta-a-3-billones-de-alcanzar-meta-de-utilidades-de-2026-4497224",
+        "fecha_portada": "05/10/2026",
+        "titulo_fuente": "Banco de la República está a $3 billones de alcanzar meta de utilidades de 2026",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
+      {
+        "titulo": "Restan tres semanas para que finalice el periodo de declaración de renta",
+        "url": "https://www.larepublica.co/economia/quedan-tres-semanas-para-el-cierre-de-la-temporada-de-declaracion-de-renta-4496860",
+        "fecha_portada": "",
+        "titulo_fuente": "Quedan tres semanas para el cierre de la temporada de la declaración de renta",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
+      {
+        "titulo": "A pesar del fortalecimiento del peso, las ventas externas subieron 12,8% en lo que va del año",
+        "url": "https://www.larepublica.co/economia/pese-a-apreciacion-del-peso-las-exportaciones-han-crecido-12-8-en-lo-que-va-del-ano-4496887",
+        "fecha_portada": "",
+        "titulo_fuente": "Pese a apreciación del peso, las exportaciones han crecido 12,8% en lo corrido del año",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
+      {
+        "titulo": "Colombia ahorraría hasta 290 básicos de interés si consigue un acuerdo con el FMI",
+        "url": "https://www.larepublica.co/economia/colombia-podria-ahorrarse-hasta-290-puntos-basicos-de-tasa-de-interes-si-logra-acuerdo-con-el-fmi-4496980",
+        "fecha_portada": "05/10/2026",
+        "titulo_fuente": "Colombia podría ahorrarse hasta 290 básicos de interés si logra acuerdo con el FMI",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
+      {
+        "titulo": "Incremento de 25 pbs. en el interés del Emisor mostró prudencia ante el impacto en la prima de riesgo",
+        "url": "https://www.larepublica.co/economia/alza-de-25-pbs-en-tasa-del-emisor-reflejo-cautela-por-efecto-en-prima-de-riesgo-4497395",
+        "fecha_portada": "05/10/2026",
+        "titulo_fuente": "Alza de 25 pbs. en tasa del Emisor reflejó cautela por efecto en prima de riesgo",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
+      {
+        "titulo": "Directiva de la Andi admite dimisión de Burce Mac Master y comienza a buscar su sustituto",
+        "url": "https://www.larepublica.co/empresas/junta-de-la-andi-acepta-renuncia-de-burce-mac-master-e-inicia-la-busqueda-de-su-reemplazo-4497419",
+        "fecha_portada": "",
+        "titulo_fuente": "Junta de la Andi acepta renuncia de Burce Mac Master e inicia la búsqueda de su reemplazo",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
       {
         "titulo": "Fechas que deben tener presentes los aspirantes a estudiar en la Unal",
         "url": "https://www.larepublica.co/economia/estas-son-las-fechas-que-deben-tener-en-cuenta-los-aspirantes-que-quieren-estudiar-en-la-unal-4496644",
@@ -381,51 +423,37 @@
         "fecha_portada": "",
         "titulo_fuente": "Mac Master y el FMI analizan finanzas públicas y el papel del sector privado en Colombia",
         "capturado": "2026-09-26T16:18:51-05:00"
-      },
-      {
-        "titulo": "A partir de noviembre la capital aplicará un cobro adicional al predial para costear la nueva iluminación",
-        "url": "https://www.larepublica.co/economia/desde-noviembre-la-capital-tendra-sobretasa-al-predial-para-financiar-nuevo-alumbrado-4490776",
-        "fecha_portada": "26/09/2026",
-        "titulo_fuente": "Desde noviembre, la capital tendrá sobretasa al predial para financiar nuevo alumbrado",
-        "capturado": "2026-09-26T00:48:45-05:00"
-      },
-      {
-        "titulo": "En Quibdó queda todo por realizar y se presenta una diversidad de opciones para realizar inversiones",
-        "url": "https://www.larepublica.co/economia/entrevista-con-el-alcalde-de-quibdo-rafael-bolanos-sobre-el-terremoto-4490850",
-        "fecha_portada": "26/09/2026",
-        "titulo_fuente": "“En Quibdó hay todo por hacer y se abre un abanico de oportunidades para invertir”",
-        "capturado": "2026-09-26T00:48:45-05:00"
-      },
-      {
-        "titulo": "Únicamente mediante la diplomacia y la negociación será posible recuperar la estabilidad",
-        "url": "https://www.larepublica.co/globoeconomia/el-ministro-de-asuntos-exteriores-union-europea-y-cooperacion-jose-manuel-albares-hablo-sobre-los-conflictos-del-mundo-4490899",
-        "fecha_portada": "26/09/2026",
-        "titulo_fuente": "\"Solo a través de la diplomacia y la negociación podremos volver a encontrar estabilidad\"",
-        "capturado": "2026-09-26T00:48:45-05:00"
-      },
-      {
-        "titulo": "Restrepo comunicó la realización de la primera Semana Milagro en Nueva York el 16 de noviembre",
-        "url": "https://www.larepublica.co/economia/restrepo-anuncio-la-primera-semana-milagro-llegara-a-nueva-york-el-16-de-noviembre-4490480",
-        "fecha_portada": "25/09/2026",
-        "titulo_fuente": "Restrepo anunció la primera \"Semana Milagro\" en Nueva York el 16 de noviembre",
-        "capturado": "2026-09-25T17:51:09-05:00"
-      },
-      {
-        "titulo": "Concejo de Bogotá avaló modificación de tarifas del ICA y sobretasa al alumbrado de la tributaria",
-        "url": "https://www.larepublica.co/economia/concejo-de-bogota-avanza-en-la-aprobacion-del-articulado-de-la-tributaria-4490103",
-        "fecha_portada": "",
-        "titulo_fuente": "Concejo de Bogotá aprobó ajuste a tarifas del ICA y sobretasa a alumbrado de tributaria",
-        "capturado": "2026-09-25T17:51:09-05:00"
-      },
-      {
-        "titulo": "Junta de 4-72, encabezada por la MinTIC, apartó a Fuad Abdala Salaiman de la presidencia",
-        "url": "https://www.larepublica.co/economia/junta-directiva-de-4-72-liderada-por-la-mintic-retiro-a-fuad-salaiman-de-la-presidencia-4490436",
-        "fecha_portada": "25/09/2026",
-        "titulo_fuente": "Junta de 4-72, liderada por la MinTIC, retiró a Fuad Abdala Salaiman de la presidencia",
-        "capturado": "2026-09-25T17:51:09-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó la sesión $62,57 por debajo de la TRM del día, registrando un precio de $3.210,92",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-5-de-octubre-de-2026-4496666",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró $62,57 por debajo de la TRM del día, ubicándose en un precio de $3.210,92",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
+      {
+        "titulo": "Wall Street asciende por tercer día mientras la estabilidad del petróleo da tranquilidad a los mercados",
+        "url": "https://www.larepublica.co/globoeconomia/las-bolsas-suben-al-compensarse-la-caida-del-petroleo-la-preocupacion-por-la-deuda-europea-4496891",
+        "fecha_portada": "05/10/2026",
+        "titulo_fuente": "Wall Street sube por tercer día mientras la estabilidad del petróleo alivia a los mercados",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
+      {
+        "titulo": "Grupo Sura comunicó el comienzo del programa de readquisición de acciones luego de su aprobación",
+        "url": "https://www.larepublica.co/finanzas/grupo-sura-inicio-la-ejecucion-de-su-programa-de-readquisicion-de-acciones-4497176",
+        "fecha_portada": "",
+        "titulo_fuente": "Grupo Sura anunció el inicio del programa de readquisición de acciones tras aprobación",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
+      {
+        "titulo": "Janus Henderson informó la compra de la administradora de fondos Rantum Capital",
+        "url": "https://www.larepublica.co/finanzas/janus-henderson-anuncio-la-adquisicion-de-la-gestora-de-fondos-rantum-capital-4496911",
+        "fecha_portada": "",
+        "titulo_fuente": "Janus Henderson anunció la adquisición de la gestora de fondos Rantum Capital",
+        "capturado": "2026-10-05T20:38:39-05:00"
+      },
       {
         "titulo": "El oro cae por menores previsiones de incremento de tasas y la solidez del dólar frena su alza",
         "url": "https://www.larepublica.co/finanzas/el-oro-baja-por-menores-expectativas-de-alza-de-tasas-y-la-fortaleza-del-dolar-limita-avance-4496628",
@@ -817,34 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El peso lidera la revaluación entre los mercados emergentes en 2026, al apreciarse 19,3%",
         "capturado": "2026-09-18T08:55:36-05:00"
-      },
-      {
-        "titulo": "El oro incrementa sus ganancias por la baja del petróleo y podría finalizar la semana al alza",
-        "url": "https://www.larepublica.co/finanzas/el-oro-amplia-sus-ganancias-por-la-caida-del-petroleo-y-podria-cerrar-la-semana-al-alza-4485071",
-        "fecha_portada": "18/09/2026",
-        "titulo_fuente": "El oro amplía sus ganancias por la caída del petróleo y podría cerrar la semana al alza",
-        "capturado": "2026-09-18T08:55:36-05:00"
-      },
-      {
-        "titulo": "Tras revelarse las tasas de la Reserva Federal, el dólar sube $15,11 y se cotiza en $3.143,57",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-17-de-septiembre-4483621",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cotiza $15,11 al alza, en $3.143,57, luego de conocerse tasas de la Reserva Federal",
-        "capturado": "2026-09-17T12:09:23-05:00"
-      },
-      {
-        "titulo": "Las acciones registran alzas, los bonos del Tesoro repuntan y el precio del petróleo cae",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-suben-bonos-del-tesoro-se-recuperan-y-petroleo-retrocede-ante-cambios-en-los-mercados-globales-4483725",
-        "fecha_portada": "17/09/2026",
-        "titulo_fuente": "Las acciones suben, los bonos del Tesoro se recuperan y el petróleo retrocede",
-        "capturado": "2026-09-17T12:09:23-05:00"
-      },
-      {
-        "titulo": "El oro se valoriza mientras los operadores analizan sus posiciones luego del incremento de tasas de interés",
-        "url": "https://www.larepublica.co/finanzas/el-oro-sube-mientras-operadores-evaluan-posiciones-tras-alza-de-tasas-de-interes-4483919",
-        "fecha_portada": "17/09/2026",
-        "titulo_fuente": "El oro sube mientras operadores evalúan posiciones tras alza de tasas de interés",
-        "capturado": "2026-09-17T12:09:23-05:00"
       }
     ]
   }
