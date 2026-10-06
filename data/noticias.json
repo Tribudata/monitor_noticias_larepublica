@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-06T10:18:41-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-06T15:24:48-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,27 @@
     ],
     "Bolsas": [
       {
+        "titulo": "Con un precio de $3.215,92 finalizó el dólar, superando por $6,14 la TRM del día de $3.209,78",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-6-de-octubre-4497514",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró con una cotización de $3.215,92, $6,14 por encima de la TRM del día, $3.209,78",
+        "capturado": "2026-10-06T15:24:48-05:00"
+      },
+      {
+        "titulo": "El S&P 500 registra un récord histórico por la baja del petróleo y el crecimiento de la IA",
+        "url": "https://www.larepublica.co/globoeconomia/s-p-500-alcanza-maximo-historico-con-caida-del-petroleo-y-renovado-entusiasmo-por-la-ia-4497695",
+        "fecha_portada": "",
+        "titulo_fuente": "S&P 500 marca máximo histórico impulsado por la caída del petróleo y el auge de la IA",
+        "capturado": "2026-10-06T15:24:48-05:00"
+      },
+      {
+        "titulo": "El oro compensó sus pérdidas ante la disminución de los temores inflacionarios",
+        "url": "https://www.larepublica.co/finanzas/el-oro-revirtio-sus-perdidas-ante-la-disminucion-de-los-temores-inflacionistas-4497467",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro revirtió sus pérdidas ante la disminución de los temores inflacionistas",
+        "capturado": "2026-10-06T15:24:48-05:00"
+      },
+      {
         "titulo": "Los asociados de ColCapital tienen cerca de US$4.500 millones disponibles para invertir",
         "url": "https://www.larepublica.co/finanzas/entrevista-con-paola-garcia-barreneche-directora-ejecutiva-de-colcapital-4496927",
         "fecha_portada": "",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "¿Cuántas acciones de Apple se pueden compran con lo que le cuesta el nuevo iPhone 18?",
         "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "Ferrovial lidera las acciones preferidas del Ibex por el fondo con mayor rentabilidad del planeta",
-        "url": "https://www.larepublica.co/globoeconomia/los-valores-favoritos-del-ibex-del-fondo-mas-rentable-del-mundo-ferrovial-a-la-cabeza-4485681",
-        "fecha_portada": "",
-        "titulo_fuente": "Los valores favoritos del Ibex del fondo más rentable del mundo, Ferrovial a la cabeza",
-        "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "Wall Street desciende a medida que el retorno del bono del Tesoro se aproxima otra vez al 5%",
-        "url": "https://www.larepublica.co/globoeconomia/wall-street-cae-mientras-el-rendimiento-del-bono-del-tesoro-vuelve-a-acercarse-al-5-4485282",
-        "fecha_portada": "18/09/2026",
-        "titulo_fuente": "Wall Street cae mientras el rendimiento del bono del Tesoro vuelve a acercarse a 5%",
-        "capturado": "2026-09-18T12:19:53-05:00"
-      },
-      {
-        "titulo": "El dólar se negocia durante el día en $3.181, registrando una subida de $29 en comparación con la TRM",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-18-de-septiembre-4485077",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cotiza en la jornada en un precio de $3.181, un alza de $29 frente a la TRM",
-        "capturado": "2026-09-18T08:55:36-05:00"
       }
     ]
   }
