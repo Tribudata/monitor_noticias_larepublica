@@ -1,9 +1,79 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-06T21:48:40-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-07T04:24:29-05:00",
+  "nuevos_en_esta_corrida": 10,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Adquirir un pollo asado ahora cuesta $5.000 más en comparación con octubre de 2025",
+        "url": "https://www.larepublica.co/economia/el-costo-de-comprar-un-pollo-asado-ya-esta-5-000-mas-caro-que-hace-un-ano-4497721",
+        "fecha_portada": "",
+        "titulo_fuente": "El costo de comprar un pollo asado ya está $5.000 más caro que en octubre de 2025",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "Según previsiones del Banco Mundial, Colombia registraría mayor crecimiento económico que Brasil y México",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-creceria-mas-que-brasil-y-mexico-segun-las-proyecciones-del-banco-mundial-4498010",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia crecería más que Brasil y México según las proyecciones del Banco Mundial",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "Los candidatos favoritos en las casas de apuestas para ganar el Premio Nobel de Economía",
+        "url": "https://www.larepublica.co/economia/los-nombres-que-suenan-en-las-casas-de-apuestas-para-el-nobel-de-economia-4498029",
+        "fecha_portada": "",
+        "titulo_fuente": "Los nombres que suenan en las casas de apuestas para el Premio Nobel de Economía",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "Demora en la corrección fiscal impulsó los intereses de los bonos a 10 años por arriba del 13%",
+        "url": "https://www.larepublica.co/economia/tardanza-en-el-ajuste-fiscal-llevo-bonos-a-10-anos-a-tasas-de-13-4497167",
+        "fecha_portada": "",
+        "titulo_fuente": "Tardanza en el ajuste fiscal llevó bonos a 10 años a tasas de interés por encima de 13%",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "El Gobierno comienza a elaborar el PND destinando $38,7 billones para la región del Eje Cafetero",
+        "url": "https://www.larepublica.co/economia/gobierno-inicia-construccion-del-pnd-con-38-7-billones-para-el-eje-cafetero-4497960",
+        "fecha_portada": "06/10/2026",
+        "titulo_fuente": "Gobierno inicia construcción del PND con un monto de $38,7 billones para el Eje Cafetero",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "Fitch Ratings alertó sobre el déficit de 9,4% del PIB estimado por la nación para el próximo año",
+        "url": "https://www.larepublica.co/economia/fitch-advirtio-por-deficit-de-9-4-del-pib-que-proyecta-el-pais-para-el-otro-ano-4497789",
+        "fecha_portada": "",
+        "titulo_fuente": "Fitch Ratings advirtió por déficit de 9,4% del PIB que proyecta el país para el otro año",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "Este viernes expira el término para presentar y pagar el ICA del cuarto bimestre de este año en Bogotá",
+        "url": "https://www.larepublica.co/economia/este-viernes-vence-plazo-para-declarar-y-pagar-el-ica-del-cuarto-bimestre-en-bogota-4497473",
+        "fecha_portada": "",
+        "titulo_fuente": "El viernes vence plazo para declarar y pagar el ICA del cuarto bimestre de este año en Bogotá",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "El Gobierno cita en Pereira a las autoridades locales para consolidar el Plan de Desarrollo",
+        "url": "https://www.larepublica.co/economia/gobierno-nacional-convoca-en-pereira-a-autoridades-locales-para-formalizar-el-plan-de-desarrollo-4498182",
+        "fecha_portada": "06/10/2026",
+        "titulo_fuente": "Gobierno convoca en Pereira a autoridades locales para formalizar el Plan de Desarrollo",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "Los bonos a 10 años de Colombia son los más desvalorizados de la región, con tasas superiores al 13%",
+        "url": "https://www.larepublica.co/economia/colombia-tiene-los-bonos-a-10-anos-mas-desvalorizados-de-la-region-con-tasas-sobre-13-4497849",
+        "fecha_portada": "06/10/2026",
+        "titulo_fuente": "Colombia tiene los bonos a 10 años más desvalorizados de la región con tasas sobre 13%",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
+      {
+        "titulo": "El Gobierno alista una reforma destinada a destrabar y acelerar los trámites de consulta previa",
+        "url": "https://www.larepublica.co/economia/gobierno-prepara-reforma-para-destrabar-y-agilizar-los-procesos-de-consulta-previa-4497526",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno prepara reforma para destrabar y agilizar los procesos de consulta previa",
+        "capturado": "2026-10-07T04:24:29-05:00"
+      },
       {
         "titulo": "Sam Altman, Dario Amodei y Elon Musk lideran el listado de poder de Vanity Fair",
         "url": "https://www.larepublica.co/globoeconomia/sam-altman-dario-amodei-y-elon-musk-encabezan-la-lista-de-poder-para-vanity-fair-4497347",
@@ -353,76 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Bogotá es la ciudad con mayor carga tributaria, ICA y predial son los principales ingresos",
         "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "El perjuicio de estos cuatro años no se soluciona en los 50 días que acumulamos de gestión",
-        "url": "https://www.larepublica.co/economia/ministro-de-hacienda-senala-al-gobierno-petro-por-el-deficit-fiscal-4492409",
-        "fecha_portada": "28/09/2026",
-        "titulo_fuente": "\"El daño de estos cuatro años no se resuelve en 50 días que llevamos de administración\"",
-        "capturado": "2026-09-28T21:05:15-05:00"
-      },
-      {
-        "titulo": "Administración De la Espriella solicita al FMI comenzar el análisis de la economía de Colombia",
-        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-pide-al-fmi-iniciar-evaluacion-de-la-economia-colombiana-4492280",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno De la Espriella pide al FMI iniciar evaluación de la economía colombiana",
-        "capturado": "2026-09-28T21:05:15-05:00"
-      },
-      {
-        "titulo": "Desorden en la Dian con el reembolso del IVA para adquisición de carros híbridos y eléctricos",
-        "url": "https://www.larepublica.co/economia/caos-en-la-dian-por-devolucion-del-iva-por-compra-de-vehiculos-electricos-e-hibridos-4490978",
-        "fecha_portada": "",
-        "titulo_fuente": "Caos en la Dian por devolución del IVA por la compra de vehículos eléctricos e híbridos",
-        "capturado": "2026-09-28T17:09:52-05:00"
-      },
-      {
-        "titulo": "La Inversión Extranjera Directa sobrepasa en 1,5 veces el envío de remesas durante este año",
-        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-ha-superado-en-1-5-veces-las-remesas-en-lo-corrido-del-ano-4491701",
-        "fecha_portada": "28/09/2026",
-        "titulo_fuente": "Inversión Extranjera Directa supera en 1,5 veces las remesas en lo corrido del año",
-        "capturado": "2026-09-28T17:09:52-05:00"
-      },
-      {
-        "titulo": "El mercado anticipa constancia en las tasas de interés del Banco de la República",
-        "url": "https://www.larepublica.co/economia/mercado-preve-estabilidad-en-las-tasas-de-interes-del-banco-de-la-republica-4490842",
-        "fecha_portada": "",
-        "titulo_fuente": "El mercado prevé estabilidad dentro de las tasas de interés del Banco de la República",
-        "capturado": "2026-09-28T17:09:52-05:00"
-      },
-      {
-        "titulo": "Gobierno comunicó la Milagro Week en noviembre para captar inversión internacional",
-        "url": "https://www.larepublica.co/economia/gobierno-anuncio-la-milagro-week-en-noviembre-para-atraer-inversion-internacional-4491593",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno anunció la 'Milagro Week' en noviembre para atraer inversión internacional",
-        "capturado": "2026-09-28T17:09:52-05:00"
-      },
-      {
-        "titulo": "Fitch avisa de presiones en firmas colombianas por reducción de flujo de caja y altas tasas",
-        "url": "https://www.larepublica.co/economia/fitch-advierte-presion-sobre-empresas-colombianas-por-menor-flujo-de-caja-y-altas-tasas-4492170",
-        "fecha_portada": "28/09/2026",
-        "titulo_fuente": "Fitch advierte presión sobre empresas colombianas por menor flujo de caja y altas tasas",
-        "capturado": "2026-09-28T17:09:52-05:00"
-      },
-      {
-        "titulo": "Concejo de Bogotá avaló reforma tributaria, ahora pasará a sanción de la Alcaldía",
-        "url": "https://www.larepublica.co/economia/concejo-de-bogota-dio-luz-verde-a-reforma-tributaria-pasara-a-sancion-de-la-alcaldia-4492084",
-        "fecha_portada": "",
-        "titulo_fuente": "Concejo de Bogotá dio luz verde a reforma tributaria, pasará a sanción de la Alcaldía",
-        "capturado": "2026-09-28T17:09:52-05:00"
-      },
-      {
-        "titulo": "De la Espriella instruyó a MinHacienda a entablar diálogos con el FMI por la crisis fiscal",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-ordeno-a-minhacienda-iniciar-conversaciones-con-el-fmi-por-crisis-fiscal-4491492",
-        "fecha_portada": "27/09/2026",
-        "titulo_fuente": "De la Espriella ordenó a MinHacienda iniciar conversaciones con el FMI por crisis fiscal",
-        "capturado": "2026-09-27T20:46:57-05:00"
-      },
-      {
-        "titulo": "Servicio Geológico Colombiano informa sobre temblor de magnitud 4,2 en Roncesvalles, Tolima",
-        "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporta-sismo-de-magnitud-4-2-en-roncesvalles-tolima-4491289",
-        "fecha_portada": "27/09/2026",
-        "titulo_fuente": "Servicio Geológico Colombiano reporta sismo de magnitud 4,2 en Roncesvalles, Tolima",
-        "capturado": "2026-09-27T12:50:27-05:00"
       }
     ],
     "Bolsas": [
