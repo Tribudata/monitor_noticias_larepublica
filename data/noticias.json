@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-07T11:41:32-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-07T16:39:19-05:00",
+  "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Ejecutivo sumó $624.656 millones al Fondo Milagro y nombró a su Junta Directiva",
+        "url": "https://www.larepublica.co/economia/gobierno-destina-624-656-millones-de-credito-externo-al-fondo-milagro-por-el-terremoto-4498302",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno adicionó $624.656 millones para el Fondo Milagro y designó a su Junta Directiva",
+        "capturado": "2026-10-07T16:39:19-05:00"
+      },
+      {
+        "titulo": "Con 6,45 puntos, Colombia se sitúa en el puesto 97 del Índice de Libertad Económica 2026",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-obtiene-6-45-puntos-y-ocupa-la-casilla-97-en-el-indice-de-libertad-economica-2026-4498169",
+        "fecha_portada": "06/10/2026",
+        "titulo_fuente": "Colombia obtiene 6,45 puntos y ocupa la casilla 97 en el Índice de Libertad Económica 2026",
+        "capturado": "2026-10-07T16:39:19-05:00"
+      },
+      {
+        "titulo": "MinHacienda encargó a Fiducoldex el manejo de los recursos del Fondo Milagro",
+        "url": "https://www.larepublica.co/economia/minhacienda-contrato-a-fiducoldex-para-administrar-recursos-de-la-reconstruccion-4498322",
+        "fecha_portada": "",
+        "titulo_fuente": "MinHacienda contrató a Fiducoldex para administrar los recursos del Fondo Milagro",
+        "capturado": "2026-10-07T16:39:19-05:00"
+      },
+      {
+        "titulo": "De la Espriella analizó junto a Estados Unidos el plan para enfrentar el narcotráfico",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-reviso-con-estados-unidos-estrategia-para-combatir-el-narcotrafico-4498812",
+        "fecha_portada": "07/10/2026",
+        "titulo_fuente": "De la Espriella revisó con Estados Unidos estrategia para combatir el narcotráfico",
+        "capturado": "2026-10-07T16:39:19-05:00"
+      },
       {
         "titulo": "Adquirir un pollo asado ahora cuesta $5.000 más en comparación con octubre de 2025",
         "url": "https://www.larepublica.co/economia/el-costo-de-comprar-un-pollo-asado-ya-esta-5-000-mas-caro-que-hace-un-ano-4497721",
@@ -395,37 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "Gobierno Nacional toca las puertas del FMI por cuarta vez desde comienzos de siglo",
         "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "El recaudo de remesas acumula 27 meses seguidos superando los US$1.000 millones",
-        "url": "https://www.larepublica.co/economia/ingresos-por-remesas-llevan-27-meses-consecutivos-por-encima-de-los-us-1-000-millones-4492339",
-        "fecha_portada": "29/09/2026",
-        "titulo_fuente": "Ingresos por remesas llevan 27 meses consecutivos por encima de los US$1.000 millones",
-        "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "Colombia reprobó en calidad para pensionarse y ocupó el penúltimo lugar entre 44 naciones",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-se-rajo-en-condiciones-para-la-jubilacion-y-quedo-penultima-entre-44-paises-4492169",
-        "fecha_portada": "29/09/2026",
-        "titulo_fuente": "Colombia se rajó en condiciones para la jubilación y quedó penúltima entre 44 países",
-        "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "Colombia sostiene colocaciones activas de bonos globales por US$39.564 millones",
-        "url": "https://www.larepublica.co/economia/colombia-mantiene-emisiones-vigentes-por-us-39-564-millones-en-bonos-globales-4492521",
-        "fecha_portada": "29/09/2026",
-        "titulo_fuente": "Colombia mantiene emisiones vigentes por US$39.564 millones en bonos globales",
-        "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "Bogotá lidera en presión impositiva y sus mayores recaudos provienen del predial y el ICA",
-        "url": "https://www.larepublica.co/economia/bogota-es-la-ciudad-con-mayor-carga-tributaria-ica-y-predial-son-la-principal-fuente-de-ingresos-4492629",
-        "fecha_portada": "",
-        "titulo_fuente": "Bogotá es la ciudad con mayor carga tributaria, ICA y predial son los principales ingresos",
-        "capturado": "2026-09-29T10:09:41-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó la sesión $23,15 sobre la TRM de la fecha, registrando un valor medio de $3.239",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-7-de-octubre-4498378",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró la jornada $23,15 por encima de la TRM del día, a un precio promedio de $3.239",
+        "capturado": "2026-10-07T16:39:19-05:00"
+      },
+      {
+        "titulo": "El oro baja 1% por incremento del dólar, con la atención en minutas de la Reserva Federal de EE.UU.",
+        "url": "https://www.larepublica.co/finanzas/oro-cae-1-por-alza-del-dolar-con-foco-en-minutas-de-la-reserva-federal-de-estados-unidos-4498296",
+        "fecha_portada": "",
+        "titulo_fuente": "Oro cae 1% por alza del dólar, con foco en minutas de la Reserva Federal de EE.UU.",
+        "capturado": "2026-10-07T16:39:19-05:00"
+      },
       {
         "titulo": "Con un precio de $3.215,92 finalizó el dólar, superando por $6,14 la TRM del día de $3.209,78",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-6-de-octubre-4497514",
@@ -831,20 +845,6 @@
         "fecha_portada": "21/09/2026",
         "titulo_fuente": "Colombia mueve criptos por US$44.200 millones, es el quinto en la región",
         "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "Nueva Zelanda enfoca sus inversiones en la Bolsa de España en Ferrovial, Aena y Redeia",
-        "url": "https://www.larepublica.co/globoeconomia/ferrovial-aena-y-redeia-concentran-la-apuesta-de-nueva-zelanda-en-la-bolsa-espanola-4485818",
-        "fecha_portada": "21/09/2026",
-        "titulo_fuente": "Ferrovial, Aena y Redeia concentran la apuesta de Nueva Zelanda en la Bolsa española",
-        "capturado": "2026-09-21T02:17:27-05:00"
-      },
-      {
-        "titulo": "¿Qué cantidad de acciones de Apple se adquieren con el valor del nuevo iPhone 18?",
-        "url": "https://www.larepublica.co/finanzas/cuantas-acciones-de-apple-se-pueden-compran-con-un-iphone-18-4486095",
-        "fecha_portada": "",
-        "titulo_fuente": "¿Cuántas acciones de Apple se pueden compran con lo que le cuesta el nuevo iPhone 18?",
-        "capturado": "2026-09-21T02:17:27-05:00"
       }
     ]
   }
