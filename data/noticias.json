@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-08T02:34:14-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-08T09:58:47-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La inflación básica, excluyendo alimentos y energía, retornó también a los niveles de hace dos años",
+        "url": "https://www.larepublica.co/economia/inflacion-basica-sin-alimentos-ni-energeticos-tambien-regreso-a-niveles-de-hace-dos-anos-4499257",
+        "fecha_portada": "",
+        "titulo_fuente": "Inflación básica, sin alimentos ni energéticos, también regresó a niveles de hace dos años",
+        "capturado": "2026-10-08T09:58:47-05:00"
+      },
       {
         "titulo": "Con una inflación de 6,29% en septiembre, el costo de vida alcanzó su punto más alto en dos años",
         "url": "https://www.larepublica.co/economia/el-costo-de-vida-subio-hasta-maximos-de-dos-anos-con-inflacion-de-6-29-4498539",
@@ -416,16 +423,23 @@
         "fecha_portada": "30/09/2026",
         "titulo_fuente": "El Gobierno de De la Espriella ya emitió cerca de $7 billones en títulos TES a corto plazo",
         "capturado": "2026-09-30T04:03:12-05:00"
-      },
-      {
-        "titulo": "Canadá multiplicó por ocho su inversión en Colombia a partir del TLC, según la embajadora",
-        "url": "https://www.larepublica.co/globoeconomia/canada-invierte-ocho-veces-mas-tras-el-tratado-de-libre-comercio-4493001",
-        "fecha_portada": "",
-        "titulo_fuente": "Canadá eleva ocho veces su inversión en Colombia desde el TLC, según embajadora",
-        "capturado": "2026-09-30T04:03:12-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar cae $9,23 por cuenta de la tensión mundial y el alza del petróleo",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-8-de-octubre-de-2026-4499196",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar se cotiza $9,23 a la baja, impulsado por tensión global y repunte del petróleo",
+        "capturado": "2026-10-08T09:58:47-05:00"
+      },
+      {
+        "titulo": "El oro sube tras registrar su mínimo de dos meses; mercados evalúan la trayectoria de tasas de la FED",
+        "url": "https://www.larepublica.co/finanzas/el-oro-repunta-tras-tocar-minimo-de-dos-meses-mercados-sopesan-senda-de-tasas-de-la-fed-4499158",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro repunta tras tocar mínimo de dos meses, mercados sopesan senda de tasas de la FED",
+        "capturado": "2026-10-08T09:58:47-05:00"
+      },
       {
         "titulo": "La Bolsa de Valores de Colombia habilitó un esquema de notas convertibles",
         "url": "https://www.larepublica.co/finanzas/la-bolsa-de-valores-de-colombia-puso-a-disposicion-mecanismo-de-notas-convertibles-4499014",
@@ -830,20 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/el-bitcoin-se-dispara-a-mas-de-us-84-800-tras-un-aumento-en-los-flujos-de-los-etf-4487109",
         "fecha_portada": "",
         "titulo_fuente": "El bitcoin se dispara a más de US$84.800 tras un aumento en los flujos de los ETF",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "Bonos y acciones se recuperan por el descenso del petróleo y la atención en Donald Trump y Xi Jinping",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-y-bonos-repuntan-con-caida-del-crudo-y-foco-en-donald-trump-y-xi-jinping-4486955",
-        "fecha_portada": "",
-        "titulo_fuente": "Acciones y bonos repuntan por caída del crudo y foco en Donald Trump y Xi Jinping",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "El oro descendió 0,6% hasta US$4.351,12 la onza ante la solidez del dólar luego del máximo del viernes",
-        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-firmeza-del-dolar-y-toma-de-beneficios-con-foco-en-oriente-medio-4486806",
-        "fecha_portada": "21/09/2026",
-        "titulo_fuente": "El oro cayó 0,6%, a US$4.351,12 por onza, por firmeza del dólar tras pico alcanzado el viernes",
         "capturado": "2026-09-21T14:36:08-05:00"
       }
     ]
