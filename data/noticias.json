@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-08T09:58:47-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-08T15:28:39-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El DNP prevé destinar alrededor de $7 billones para Chocó durante los siguientes cuatro años",
+        "url": "https://www.larepublica.co/economia/dnp-proyecta-inversiones-por-cerca-de-7-billones-en-choco-en-el-proximo-cuatrienio-4499428",
+        "fecha_portada": "",
+        "titulo_fuente": "DNP proyecta inversiones por cerca de $7 billones en Chocó en el próximo cuatrienio",
+        "capturado": "2026-10-08T15:28:39-05:00"
+      },
+      {
+        "titulo": "Entrada de capitales aumentó 17,1% durante la primera mitad del año y alcanzó los $52,4 billones",
+        "url": "https://www.larepublica.co/economia/ingresos-de-capitales-crecieron-17-1-en-el-primer-semestre-y-llegaron-a-52-4-billones-4499347",
+        "fecha_portada": "",
+        "titulo_fuente": "Ingresos de capitales crecieron 17,1% en el primer semestre y llegaron a $52,4 billones",
+        "capturado": "2026-10-08T15:28:39-05:00"
+      },
       {
         "titulo": "La inflación básica, excluyendo alimentos y energía, retornó también a los niveles de hace dos años",
         "url": "https://www.larepublica.co/economia/inflacion-basica-sin-alimentos-ni-energeticos-tambien-regreso-a-niveles-de-hace-dos-anos-4499257",
@@ -409,20 +423,6 @@
         "fecha_portada": "30/09/2026",
         "titulo_fuente": "Congreso, Educación y Minas lideraron la ejecución presupuestal en agosto",
         "capturado": "2026-09-30T15:31:10-05:00"
-      },
-      {
-        "titulo": "El ICA disminuirá en nueve de cada diez industrias debido a la reforma tributaria de Bogotá",
-        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-explico-los-detalles-de-la-reforma-tributaria-aprobada-4492997",
-        "fecha_portada": "",
-        "titulo_fuente": "“ICA tendrá reducciones en nueve de cada 10 industrias con la tributaria de Bogotá”",
-        "capturado": "2026-09-30T04:03:12-05:00"
-      },
-      {
-        "titulo": "La administración de De la Espriella ya colocó casi $7 billones en títulos TES a corto plazo",
-        "url": "https://www.larepublica.co/economia/el-gobierno-de-de-la-espriella-ya-emitio-7-billones-en-titulos-tes-con-plazo-a-un-ano-4493108",
-        "fecha_portada": "30/09/2026",
-        "titulo_fuente": "El Gobierno de De la Espriella ya emitió cerca de $7 billones en títulos TES a corto plazo",
-        "capturado": "2026-09-30T04:03:12-05:00"
       }
     ],
     "Bolsas": [
