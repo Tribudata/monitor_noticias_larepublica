@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-07T20:22:23-05:00",
+  "actualizado": "2026-10-08T02:34:14-05:00",
   "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Con una inflación de 6,29% en septiembre, el costo de vida alcanzó su punto más alto en dos años",
+        "url": "https://www.larepublica.co/economia/el-costo-de-vida-subio-hasta-maximos-de-dos-anos-con-inflacion-de-6-29-4498539",
+        "fecha_portada": "08/10/2026",
+        "titulo_fuente": "Costo de vida subió a máximos de dos años con inflación de 6,29% en septiembre",
+        "capturado": "2026-10-08T02:34:14-05:00"
+      },
+      {
+        "titulo": "Estos son los empresarios que integrarán la Junta Directiva del Fondo Milagro",
+        "url": "https://www.larepublica.co/economia/estos-son-los-empresarios-que-conformaran-la-junta-directiva-del-fondo-milagro-4498926",
+        "fecha_portada": "08/10/2026",
+        "titulo_fuente": "Estos son los empresarios que conformarán la Junta Directiva del Fondo Milagro",
+        "capturado": "2026-10-08T02:34:14-05:00"
+      },
+      {
+        "titulo": "MinHacienda tiene autorización para solicitar préstamos a KfW y financiar el Presupuesto 2026",
+        "url": "https://www.larepublica.co/economia/minhacienda-tiene-aval-para-pedir-creditos-a-kfw-y-financiar-presupuesto-2026-4499127",
+        "fecha_portada": "",
+        "titulo_fuente": "MinHacienda tiene aval para pedir créditos a KfW y financiar Presupuesto 2026",
+        "capturado": "2026-10-08T02:34:14-05:00"
+      },
       {
         "titulo": "Alimentos y servicios impulsaron la inflación del noveno mes del año que se situó en 6,29%",
         "url": "https://www.larepublica.co/economia/inflacion-alcanzo-6-29-en-septiembre-jalonada-por-alimentos-y-servicios-4498967",
@@ -402,30 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Canadá eleva ocho veces su inversión en Colombia desde el TLC, según embajadora",
         "capturado": "2026-09-30T04:03:12-05:00"
-      },
-      {
-        "titulo": "Santander destinó $42.094 millones para robustecer su Fuerza Pública con tecnología",
-        "url": "https://www.larepublica.co/economia/santander-invirtio-42-094-millones-para-fortalecer-su-fuerza-publica-con-tecnologia-4493134",
-        "fecha_portada": "",
-        "titulo_fuente": "Santander invirtió $42.094 millones para fortalecer su Fuerza Pública con tecnología",
-        "capturado": "2026-09-30T04:03:12-05:00"
-      },
-      {
-        "titulo": "Aprueban préstamo de hasta $1,3 billones a Bogotá para la primera línea del Metro",
-        "url": "https://www.larepublica.co/economia/autorizan-credito-de-hasta-1-3-billones-a-bogota-para-financiar-primera-linea-del-metro-4493241",
-        "fecha_portada": "",
-        "titulo_fuente": "Autorizan crédito de hasta $1,3 billones a Bogotá para primera línea del Metro",
-        "capturado": "2026-09-29T21:32:07-05:00"
-      },
-      {
-        "titulo": "Crédito Público ejecutará este jueves la primera de tres permutas programadas para 2026",
-        "url": "https://www.larepublica.co/economia/credito-publico-realizara-este-jueves-el-primero-de-tres-canjes-de-tes-previstos-para-2026-4492948",
-        "fecha_portada": "29/09/2026",
-        "titulo_fuente": "Crédito Público realizará este jueves el primero de tres canjes previstos para 2026",
-        "capturado": "2026-09-29T15:03:13-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "La Bolsa de Valores de Colombia habilitó un esquema de notas convertibles",
+        "url": "https://www.larepublica.co/finanzas/la-bolsa-de-valores-de-colombia-puso-a-disposicion-mecanismo-de-notas-convertibles-4499014",
+        "fecha_portada": "",
+        "titulo_fuente": "La Bolsa de Valores de Colombia puso a disposición mecanismo de notas convertibles",
+        "capturado": "2026-10-08T02:34:14-05:00"
+      },
       {
         "titulo": "El dólar finalizó la sesión $23,15 sobre la TRM de la fecha, registrando un valor medio de $3.239",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-7-de-octubre-4498378",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-firmeza-del-dolar-y-toma-de-beneficios-con-foco-en-oriente-medio-4486806",
         "fecha_portada": "21/09/2026",
         "titulo_fuente": "El oro cayó 0,6%, a US$4.351,12 por onza, por firmeza del dólar tras pico alcanzado el viernes",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "Colombia transa US$44.200 millones en criptomonedas y ocupa el quinto puesto en la región",
-        "url": "https://www.larepublica.co/finanzas/colombia-mueve-un-mercado-de-criptos-de-us-44-200-millones-es-el-quinto-en-la-region-4486693",
-        "fecha_portada": "21/09/2026",
-        "titulo_fuente": "Colombia mueve criptos por US$44.200 millones, es el quinto en la región",
         "capturado": "2026-09-21T14:36:08-05:00"
       }
     ]
