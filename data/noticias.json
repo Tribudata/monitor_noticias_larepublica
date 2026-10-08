@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-07T16:39:19-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-07T20:22:23-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Alimentos y servicios impulsaron la inflación del noveno mes del año que se situó en 6,29%",
+        "url": "https://www.larepublica.co/economia/inflacion-alcanzo-6-29-en-septiembre-jalonada-por-alimentos-y-servicios-4498967",
+        "fecha_portada": "07/10/2026",
+        "titulo_fuente": "Inflación en el noveno mes del año se ubicó en 6,29% jalonada por alimentos y servicios",
+        "capturado": "2026-10-07T20:22:23-05:00"
+      },
+      {
+        "titulo": "MinInterior expuso un programa de ahorro que contempla la finalización de 557 contratos",
+        "url": "https://www.larepublica.co/economia/mininterior-presento-plan-de-austeridad-que-incluye-terminacion-de-557-contratos-4499110",
+        "fecha_portada": "07/10/2026",
+        "titulo_fuente": "MinInterior presentó plan de austeridad que incluye terminación de 557 contratos",
+        "capturado": "2026-10-07T20:22:23-05:00"
+      },
+      {
+        "titulo": "Presidencia expide circular que restringe los viajes internacionales y el gasto en publicidad estatal",
+        "url": "https://www.larepublica.co/economia/presidencia-emite-circular-que-fija-limites-a-viajes-al-exterior-y-al-gasto-en-publicidad-estatal-4499099",
+        "fecha_portada": "",
+        "titulo_fuente": "Presidencia emite circular que fija límites a viajes al exterior y al gasto en publicidad estatal",
+        "capturado": "2026-10-07T20:22:23-05:00"
+      },
+      {
+        "titulo": "El presidente De la Espriella recibe un reconocimiento del Summit de Liderazgo Valiente",
+        "url": "https://www.larepublica.co/economia/el-summit-de-liderazgo-valiente-otorga-distincion-al-presidente-de-la-espriella-4499084",
+        "fecha_portada": "",
+        "titulo_fuente": "El Summit de Liderazgo Valiente otorga distinción al presidente De la Espriella",
+        "capturado": "2026-10-07T20:22:23-05:00"
+      },
       {
         "titulo": "El Ejecutivo sumó $624.656 millones al Fondo Milagro y nombró a su Junta Directiva",
         "url": "https://www.larepublica.co/economia/gobierno-destina-624-656-millones-de-credito-externo-al-fondo-milagro-por-el-terremoto-4498302",
@@ -395,34 +423,6 @@
         "fecha_portada": "29/09/2026",
         "titulo_fuente": "Crédito Público realizará este jueves el primero de tres canjes previstos para 2026",
         "capturado": "2026-09-29T15:03:13-05:00"
-      },
-      {
-        "titulo": "Dian incautó toneladas de mercancías de contrabando valoradas en $38.520 millones",
-        "url": "https://www.larepublica.co/economia/dian-aprehendio-toneladas-de-mercancia-de-contrabando-avaluadas-en-38-520-millones-4492870",
-        "fecha_portada": "",
-        "titulo_fuente": "Dian aprehendió toneladas de mercancía de contrabando avaluadas en $38.520 millones",
-        "capturado": "2026-09-29T15:03:13-05:00"
-      },
-      {
-        "titulo": "Guía del proyecto fiscal de Bogotá: modificaciones en el ICA y recargo al impuesto predial",
-        "url": "https://www.larepublica.co/economia/sobretasa-al-predial-y-cambios-en-el-ica-el-abc-de-la-reforma-tributaria-para-bogota-4492558",
-        "fecha_portada": "",
-        "titulo_fuente": "Sobretasa al predial y cambios en el ICA: el ABC de la reforma tributaria para Bogotá",
-        "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "Clarke resalta el compromiso del Ejecutivo con el rigor fiscal y la captación de capitales",
-        "url": "https://www.larepublica.co/economia/clarke-destaca-apuesta-de-gobierno-por-disciplina-fiscal-y-atraccion-de-inversion-4492673",
-        "fecha_portada": "",
-        "titulo_fuente": "Clarke destaca apuesta de Gobierno por disciplina fiscal y atracción de inversión",
-        "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "El Gobierno Nacional recurre al FMI por cuarta oportunidad desde el inicio del siglo",
-        "url": "https://www.larepublica.co/economia/gobierno-toca-las-puertas-del-fmi-por-cuarta-vez-desde-comienzos-de-siglo-4492321",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno Nacional toca las puertas del FMI por cuarta vez desde comienzos de siglo",
-        "capturado": "2026-09-29T10:09:41-05:00"
       }
     ],
     "Bolsas": [
