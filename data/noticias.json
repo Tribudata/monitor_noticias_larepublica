@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-09T01:50:29-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-09T08:53:14-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Pillay obtiene el Nobel de la Paz debido a su combate frente a la impunidad por crímenes de guerra",
+        "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/navi-pillay-gana-el-nobel-de-la-paz-por-su-lucha-contra-la-impunidad-en-crimenes-de-guerra-4499896",
+        "fecha_portada": "",
+        "titulo_fuente": "Pillay gana el Nobel de la Paz por su lucha contra la impunidad en crímenes de guerra",
+        "capturado": "2026-10-09T08:53:14-05:00"
+      },
+      {
+        "titulo": "La deuda externa llegó a US$255.632 millones en julio, cifra que representa el 50,1% del PIB",
+        "url": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-255-632-millones-en-julio-equivale-a-50-1-del-pib-4499998",
+        "fecha_portada": "09/10/2026",
+        "titulo_fuente": "Deuda externa alcanzó US$255.632 millones en julio, equivale a 50,1% del PIB",
+        "capturado": "2026-10-09T08:53:14-05:00"
+      },
       {
         "titulo": "Colombia baja en la clasificación internacional de riqueza por persona, según Allianz",
         "url": "https://www.larepublica.co/globoeconomia/colombia-retrocede-en-el-ranking-mundial-de-riqueza-financiera-por-habitante-segun-allianz-4499625",
@@ -409,23 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "En menos de 15 días se radicará la Ley de rescate económico en el Congreso de la República",
         "capturado": "2026-10-01T01:11:14-05:00"
-      },
-      {
-        "titulo": "Carf no considera viable el recorte de MinHacienda y estima un déficit de 7,8% del PIB",
-        "url": "https://www.larepublica.co/economia/carf-no-cree-factible-el-recorte-de-hacienda-y-proyecta-deficit-de-7-8-del-pib-4494124",
-        "fecha_portada": "",
-        "titulo_fuente": "Carf no cree \"factible\" el recorte del MinHacienda y proyecta déficit de 7,8% del PIB",
-        "capturado": "2026-10-01T01:11:14-05:00"
-      },
-      {
-        "titulo": "Colombia debe concentrarse con obsesión en la productividad ya que el motor de la natalidad se agotó",
-        "url": "https://www.larepublica.co/economia/publicacion-informe-nacional-de-competitividad-4493929",
-        "fecha_portada": "",
-        "titulo_fuente": "\"Colombia debe obsesionarse con la productividad, el motor de la natalidad se fundió\"",
-        "capturado": "2026-09-30T19:12:55-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "La divisa estadounidense inició el día $6,75 por debajo de la TRM, con un valor de $3.212",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-9-de-octubre-de-2026-4499926",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar abrió la jornada $6,75 por debajo de la TRM, a un precio de $3.212",
+        "capturado": "2026-10-09T08:53:14-05:00"
+      },
+      {
+        "titulo": "El oro incrementa su valor a la vez que la demanda en las subastas baja los rendimientos de los bonos",
+        "url": "https://www.larepublica.co/finanzas/el-oro-sube-mientras-que-la-demanda-en-las-subastas-reduce-los-rendimientos-de-los-bonos-4499910",
+        "fecha_portada": "09/10/2026",
+        "titulo_fuente": "El oro sube mientras que la demanda en las subastas reduce los rendimientos de los bonos",
+        "capturado": "2026-10-09T08:53:14-05:00"
+      },
+      {
+        "titulo": "Plataform habilitó la alternativa de invertir en sus acciones desde $5 millones",
+        "url": "https://www.larepublica.co/finanzas/plataform-abrio-posibilidad-de-inversion-en-sus-acciones-desde-un-minimo-de-5-millones-4500024",
+        "fecha_portada": "09/10/2026",
+        "titulo_fuente": "Plataform abrió posibilidad de inversión en sus acciones desde $5 millones",
+        "capturado": "2026-10-09T08:53:14-05:00"
+      },
       {
         "titulo": "Avalan a Findeter para emitir bonos por hasta $300.000 millones",
         "url": "https://www.larepublica.co/finanzas/findeter-recibio-autorizacion-para-emitir-bonos-por-un-valor-de-hasta-300-000-millones-4499406",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El dólar vuelve al terreno de $3.200; abrió al alza en $3.204, $12,27 más frente a la TRM",
         "capturado": "2026-09-22T10:47:17-05:00"
-      },
-      {
-        "titulo": "Los títulos de Estados Unidos conservan ganancias de IA, a la vez que el Brent disminuye a US$98",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-de-estados-unidos-mantienen-ganancias-de-ia-mientras-que-el-brent-cae-a-us-98-4487809",
-        "fecha_portada": "22/09/2026",
-        "titulo_fuente": "Acciones de Estados Unidos mantienen ganancias de IA, mientras que el Brent cae a US$98",
-        "capturado": "2026-09-22T10:47:17-05:00"
-      },
-      {
-        "titulo": "El oro modera sus pérdidas mientras los operadores siguen de cerca el petróleo",
-        "url": "https://www.larepublica.co/finanzas/el-oro-reduce-sus-perdidas-mientras-los-operadores-se-mantienen-atentos-al-petroleo-4487587",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro reduce sus pérdidas mientras los operadores se mantienen atentos al petróleo",
-        "capturado": "2026-09-22T06:52:34-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense finalizó en $3.192,56, a menos de $1 de diferencia de la TRM de la jornada",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-21-de-septiembre-4486850",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró en $3.192,56, menos de $1 por debajo de la TRM del día",
-        "capturado": "2026-09-21T14:36:08-05:00"
       }
     ]
   }
