@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-08T19:31:54-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-09T01:50:29-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Colombia baja en la clasificación internacional de riqueza por persona, según Allianz",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-retrocede-en-el-ranking-mundial-de-riqueza-financiera-por-habitante-segun-allianz-4499625",
+        "fecha_portada": "09/10/2026",
+        "titulo_fuente": "Colombia retrocede en el ranking mundial de riqueza por habitante, según Allianz",
+        "capturado": "2026-10-09T01:50:29-05:00"
+      },
+      {
+        "titulo": "Capital humano, seguridad y carreteras son los desafíos para el desarrollo de Antioquia",
+        "url": "https://www.larepublica.co/empresas/talento-humano-seguridad-y-vias-los-retos-que-hay-para-el-avance-de-antioquia-4499645",
+        "fecha_portada": "09/10/2026",
+        "titulo_fuente": "Talento humano, seguridad y vías, los retos que hay para el avance de Antioquia",
+        "capturado": "2026-10-09T01:50:29-05:00"
+      },
       {
         "titulo": "Erasmo Zuleta se citó con MinHacienda para robustecer las finanzas de Córdoba",
         "url": "https://www.larepublica.co/economia/erasmo-zuleta-se-reunio-con-minhacienda-para-fortalecer-las-finanzas-de-cordoba-4499554",
@@ -409,20 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "\"Colombia debe obsesionarse con la productividad, el motor de la natalidad se fundió\"",
         "capturado": "2026-09-30T19:12:55-05:00"
-      },
-      {
-        "titulo": "El Banco de la República modifica su política monetaria en 25 puntos básicos situándola en 12,25%",
-        "url": "https://www.larepublica.co/economia/banco-central-ajusta-politica-monetaria-en-25-puntos-basicos-hasta-12-25-4493750",
-        "fecha_portada": "30/09/2026",
-        "titulo_fuente": "Banco de la República ajusta política monetaria en 25 puntos básicos hasta 12,25%",
-        "capturado": "2026-09-30T15:31:10-05:00"
-      },
-      {
-        "titulo": "Ministro Gómez ratificó que el Gobierno presentará la Ley de Rescate en un plazo de 10 o 12 días",
-        "url": "https://www.larepublica.co/economia/ministro-gomez-confirmo-que-gobierno-radicara-la-ley-de-rescate-en-10-o-12-dias-4493845",
-        "fecha_portada": "",
-        "titulo_fuente": "Ministro Gómez confirmó que Gobierno radicará la Ley de Rescate en 10 o 12 días",
-        "capturado": "2026-09-30T15:31:10-05:00"
       }
     ],
     "Bolsas": [
