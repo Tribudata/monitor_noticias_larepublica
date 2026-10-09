@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-08T15:28:39-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-08T19:31:54-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Erasmo Zuleta se citó con MinHacienda para robustecer las finanzas de Córdoba",
+        "url": "https://www.larepublica.co/economia/erasmo-zuleta-se-reunio-con-minhacienda-para-fortalecer-las-finanzas-de-cordoba-4499554",
+        "fecha_portada": "",
+        "titulo_fuente": "Erasmo Zuleta se reunió con MinHacienda para fortalecer las finanzas de Córdoba",
+        "capturado": "2026-10-08T19:31:54-05:00"
+      },
+      {
+        "titulo": "Cotelco destacó un menor aumento en las tarifas de hospedaje frente al IPC",
+        "url": "https://www.larepublica.co/economia/cotelco-resalto-menor-incremento-en-las-tarifas-de-alojamiento-frente-al-ipc-4499710",
+        "fecha_portada": "08/10/2026",
+        "titulo_fuente": "Cotelco resaltó menor incremento en las tarifas de alojamiento frente al IPC",
+        "capturado": "2026-10-08T19:31:54-05:00"
+      },
       {
         "titulo": "El DNP prevé destinar alrededor de $7 billones para Chocó durante los siguientes cuatro años",
         "url": "https://www.larepublica.co/economia/dnp-proyecta-inversiones-por-cerca-de-7-billones-en-choco-en-el-proximo-cuatrienio-4499428",
@@ -409,23 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Ministro Gómez confirmó que Gobierno radicará la Ley de Rescate en 10 o 12 días",
         "capturado": "2026-09-30T15:31:10-05:00"
-      },
-      {
-        "titulo": "PIB de Bogotá aumentó 2,8% durante el primer trimestre, impulsado por el comercio y los servicios",
-        "url": "https://www.larepublica.co/economia/pib-de-bogota-crecio-2-8-en-el-primer-trimestre-jalonado-por-comercio-y-servicios-4493634",
-        "fecha_portada": "30/09/2026",
-        "titulo_fuente": "PIB de Bogotá creció 2,8% en el primer trimestre, jalonado por comercio y servicios",
-        "capturado": "2026-09-30T15:31:10-05:00"
-      },
-      {
-        "titulo": "Congreso, Educación y Minas encabezaron la ejecución del presupuesto en agosto",
-        "url": "https://www.larepublica.co/economia/congreso-educacion-y-minas-lideraron-la-ejecucion-presupuestal-en-agosto-4493603",
-        "fecha_portada": "30/09/2026",
-        "titulo_fuente": "Congreso, Educación y Minas lideraron la ejecución presupuestal en agosto",
-        "capturado": "2026-09-30T15:31:10-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Avalan a Findeter para emitir bonos por hasta $300.000 millones",
+        "url": "https://www.larepublica.co/finanzas/findeter-recibio-autorizacion-para-emitir-bonos-por-un-valor-de-hasta-300-000-millones-4499406",
+        "fecha_portada": "",
+        "titulo_fuente": "Findeter recibió autorización para emitir bonos por hasta $300.000 millones",
+        "capturado": "2026-10-08T19:31:54-05:00"
+      },
       {
         "titulo": "El dólar cae $9,23 por cuenta de la tensión mundial y el alza del petróleo",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-8-de-octubre-de-2026-4499196",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-21-de-septiembre-4486850",
         "fecha_portada": "",
         "titulo_fuente": "El dólar cerró en $3.192,56, menos de $1 por debajo de la TRM del día",
-        "capturado": "2026-09-21T14:36:08-05:00"
-      },
-      {
-        "titulo": "El bitcoin asciende a más de US$84.800 por el incremento de flujos en los ETF",
-        "url": "https://www.larepublica.co/globoeconomia/el-bitcoin-se-dispara-a-mas-de-us-84-800-tras-un-aumento-en-los-flujos-de-los-etf-4487109",
-        "fecha_portada": "",
-        "titulo_fuente": "El bitcoin se dispara a más de US$84.800 tras un aumento en los flujos de los ETF",
         "capturado": "2026-09-21T14:36:08-05:00"
       }
     ]
