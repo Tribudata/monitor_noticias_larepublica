@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-09T14:05:16-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-09T18:20:33-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Juan Carlos López obtuvo el reconocimiento de Mejor Alcalde Municipal en los Premios Politika",
+        "url": "https://www.larepublica.co/economia/juan-carlos-lopez-fue-reconocido-como-mejor-alcalde-municipal-en-los-premios-politika-4500375",
+        "fecha_portada": "",
+        "titulo_fuente": "Juan Carlos López fue reconocido como “Mejor Alcalde Municipal” en los Premios Politika",
+        "capturado": "2026-10-09T18:20:33-05:00"
+      },
       {
         "titulo": "Pillay obtiene el Nobel de la Paz debido a su combate frente a la impunidad por crímenes de guerra",
         "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/navi-pillay-gana-el-nobel-de-la-paz-por-su-lucha-contra-la-impunidad-en-crimenes-de-guerra-4499896",
@@ -416,16 +423,16 @@
         "fecha_portada": "01/10/2026",
         "titulo_fuente": "El costo del dinero subió a niveles de marzo de 2024 con una tasa de interés de 12,25%",
         "capturado": "2026-10-01T01:11:14-05:00"
-      },
-      {
-        "titulo": "En un lapso menor a 15 días se presentará la Ley de rescate económico en el Congreso de la República",
-        "url": "https://www.larepublica.co/economia/en-menos-de-15-dias-se-radicara-la-ley-de-rescate-en-el-congreso-de-la-republica-4494104",
-        "fecha_portada": "",
-        "titulo_fuente": "En menos de 15 días se radicará la Ley de rescate económico en el Congreso de la República",
-        "capturado": "2026-10-01T01:11:14-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Títulos accionarios suben por caída del crudo y menor preocupación sobre inteligencia artificial",
+        "url": "https://www.larepublica.co/globoeconomia/acciones-repuntan-ante-baja-del-petroleo-y-menor-inquietud-por-inteligencia-artificial-4500107",
+        "fecha_portada": "09/10/2026",
+        "titulo_fuente": "Acciones repuntan ante baja del petróleo y menor inquietud por inteligencia artificial",
+        "capturado": "2026-10-09T18:20:33-05:00"
+      },
       {
         "titulo": "La divisa estadounidense inició el día $6,75 por debajo de la TRM, con un valor de $3.212",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-9-de-octubre-de-2026-4499926",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "BVC elevó a 75,28% su participación en la Cámara de Riesgo Central de Contraparte",
         "capturado": "2026-09-23T00:18:10-05:00"
-      },
-      {
-        "titulo": "El dólar regresa al rango de $3.200; inició al alza en $3.204, superando por $12,27 a la TRM",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-22-de-septiembre-4487642",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar vuelve al terreno de $3.200; abrió al alza en $3.204, $12,27 más frente a la TRM",
-        "capturado": "2026-09-22T10:47:17-05:00"
       }
     ]
   }
