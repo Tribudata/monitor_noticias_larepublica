@@ -1,9 +1,65 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-10T09:50:22-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-10T13:58:37-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Ejecutivo pretende desatascar iniciativas mediante ajustes en licencias ambientales",
+        "url": "https://www.larepublica.co/economia/el-gobierno-busca-acelerar-licencias-ambientales-con-nuevo-decreto-publico-borrador-4501023",
+        "fecha_portada": "10/10/2026",
+        "titulo_fuente": "El Gobierno busca destrabar proyectos con cambios a las licencias ambientales",
+        "capturado": "2026-10-10T13:58:37-05:00"
+      },
+      {
+        "titulo": "Cuatro expertos en economía perfilados para ganar el Nobel este lunes",
+        "url": "https://www.larepublica.co/economia/los-cuatros-economistas-que-suenan-para-quedarse-con-el-nobel-este-lunes-4500755",
+        "fecha_portada": "",
+        "titulo_fuente": "Los cuatros economistas que suenan para quedarse con el Nobel este lunes",
+        "capturado": "2026-10-10T13:58:37-05:00"
+      },
+      {
+        "titulo": "A dos meses del sismo hay 243.409 casas con daños y más de 486.000 personas perjudicadas",
+        "url": "https://www.larepublica.co/economia/tras-dos-meses-de-terremoto-243-409-viviendas-afectadas-y-mas-de-486-000-damnificados-4500998",
+        "fecha_portada": "",
+        "titulo_fuente": "Tras dos meses del terremoto: 243.409 viviendas afectadas y más de 486.000 damnificados",
+        "capturado": "2026-10-10T13:58:37-05:00"
+      },
+      {
+        "titulo": "Durante la primera mitad del año arribaron a Bogotá 54 iniciativas por US$454 millones",
+        "url": "https://www.larepublica.co/economia/inside-lr-con-isis-duran-directora-ejecutiva-de-invest-in-bogota-sobre-la-llegada-de-nuevos-proyectos-4500063",
+        "fecha_portada": "10/10/2026",
+        "titulo_fuente": "“En el primer semestre llegaron 54 proyectos para invertir US$454 millones a Bogotá”",
+        "capturado": "2026-10-10T13:58:37-05:00"
+      },
+      {
+        "titulo": "Ejecutivo solicitó agilizar la adición de $2,7 billones al PGN 2026 a causa del sismo",
+        "url": "https://www.larepublica.co/economia/gobierno-pidio-acelerar-adicion-de-2-7-billones-al-pgn-2026-para-atender-el-terremoto-4500188",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno pidió acelerar adición de $2,7 billones al PGN 2026 por el terremoto",
+        "capturado": "2026-10-10T13:58:37-05:00"
+      },
+      {
+        "titulo": "Sismo de 7,7 en Panamá provocó afectaciones que superarían los US$1.000 millones",
+        "url": "https://www.larepublica.co/globoeconomia/terremoto-de-7-7-en-panama-dejo-danos-que-podrian-superar-hasta-los-us-1-000-millones-4500490",
+        "fecha_portada": "",
+        "titulo_fuente": "Terremoto de 7,7 en Panamá dejó daños que podrían superar hasta los US$1.000 millones",
+        "capturado": "2026-10-10T13:58:37-05:00"
+      },
+      {
+        "titulo": "La mensajería exprés tramitó 87,9 millones de despachos y $706.595 millones en ingresos",
+        "url": "https://www.larepublica.co/economia/la-mensajeria-express-movilizo-87-9-millones-de-envios-706-595-millones-en-ingresos-4500995",
+        "fecha_portada": "",
+        "titulo_fuente": "La mensajería express movilizó 87,9 millones de envíos; $706.595 millones en ingresos",
+        "capturado": "2026-10-10T13:58:37-05:00"
+      },
+      {
+        "titulo": "El endeudamiento externo de la nación alcanzó US$255.632 millones al cierre de julio",
+        "url": "https://www.larepublica.co/economia/la-deuda-externa-del-pais-llego-hasta-los-us-255-632-millones-con-corte-a-julio-4500794",
+        "fecha_portada": "",
+        "titulo_fuente": "La deuda externa del país llegó hasta los US$255.632 millones con corte a julio",
+        "capturado": "2026-10-10T13:58:37-05:00"
+      },
       {
         "titulo": "Colpensiones descartó modificaciones en la entrega de las mesadas pensionales",
         "url": "https://www.larepublica.co/finanzas/colpensiones-desmintio-cambios-en-el-pago-de-las-mesadas-pensionales-y-reitero-fechas-4500645",
@@ -367,62 +423,6 @@
         "fecha_portada": "02/10/2026",
         "titulo_fuente": "Crédito Público canjeó TES por $11,15 billones para reperfilar deuda de la Nación",
         "capturado": "2026-10-02T14:59:24-05:00"
-      },
-      {
-        "titulo": "La estrategia sugerida por el Fondo Monetario Internacional con el fin de incrementar la recaudación",
-        "url": "https://www.larepublica.co/economia/la-receta-que-propone-el-fondo-monetario-internacional-para-aumentar-el-recaudo-4494824",
-        "fecha_portada": "02/10/2026",
-        "titulo_fuente": "La receta que propone el Fondo Monetario Internacional para aumentar el recaudo",
-        "capturado": "2026-10-02T03:41:03-05:00"
-      },
-      {
-        "titulo": "EE.UU. y China lideran la inversión extranjera de este siglo mientras la tecnología impone nuevas pautas",
-        "url": "https://www.larepublica.co/globoeconomia/ee-uu-y-china-dominan-la-inversion-del-siglo-pero-la-tecnologia-dicta-nuevas-reglas-en-2026-4495013",
-        "fecha_portada": "01/10/2026",
-        "titulo_fuente": "EE.UU. y China dominan la inversión extranjera del siglo, y la tecnología dicta nuevas reglas",
-        "capturado": "2026-10-02T03:41:03-05:00"
-      },
-      {
-        "titulo": "El Gobierno oficializó la designación de Jaime Vives en la presidencia de Coljuegos",
-        "url": "https://www.larepublica.co/economia/gobierno-formalizo-el-nombramiento-de-jaime-vives-pinedo-a-la-presidencia-de-coljuegos-4494776",
-        "fecha_portada": "01/10/2026",
-        "titulo_fuente": "Gobierno formalizó el nombramiento de Jaime Vives a la presidencia de Coljuegos",
-        "capturado": "2026-10-02T03:41:03-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo proyecta una expansión del 6% para ingresar a las 25 economías más fuertes",
-        "url": "https://www.larepublica.co/economia/gobierno-plantea-crecimiento-de-6-para-entrar-a-las-25-economias-mas-fuertes-4495033",
-        "fecha_portada": "01/10/2026",
-        "titulo_fuente": "Gobierno plantea crecimiento de 6% para entrar a las 25 economías más fuertes",
-        "capturado": "2026-10-01T21:20:03-05:00"
-      },
-      {
-        "titulo": "El Ministerio de Hacienda presentó el presupuesto del SGR por $27,5 billones para el bienio 2027-2028",
-        "url": "https://www.larepublica.co/economia/minhacienda-radico-presupuesto-del-sgr-por-27-5-billones-para-el-bienio-2027-2028-4494841",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda radicó presupuesto del SGR por $27,5 billones para el bienio 2027-2028",
-        "capturado": "2026-10-01T21:20:03-05:00"
-      },
-      {
-        "titulo": "CAF viabilizó cinco proyectos estratégicos en Colombia por un total de US$1.250 millones",
-        "url": "https://www.larepublica.co/economia/caf-aprobo-cinco-proyectos-estrategicos-en-colombia-que-suman-us-1-250-millones-4494629",
-        "fecha_portada": "",
-        "titulo_fuente": "CAF aprobó cinco proyectos estratégicos en Colombia que suman US$1.250 millones",
-        "capturado": "2026-10-01T14:05:21-05:00"
-      },
-      {
-        "titulo": "Dian reporta disposiciones frente a peticiones de reembolso de IVA para híbridos y eléctricos",
-        "url": "https://www.larepublica.co/economia/dian-anuncio-medidas-ante-incremento-de-solicitudes-de-devolucion-del-iva-por-hibridos-y-electricos-4494432",
-        "fecha_portada": "",
-        "titulo_fuente": "Dian anuncia medidas ante solicitudes de devolución de IVA de híbridos y eléctricos",
-        "capturado": "2026-10-01T14:05:21-05:00"
-      },
-      {
-        "titulo": "José Manuel Restrepo promueve la agenda de inversiones entre Colombia y Venezuela",
-        "url": "https://www.larepublica.co/economia/jose-manuel-restrepo-impulsa-agenda-de-inversion-entre-colombia-y-venezuela-4494249",
-        "fecha_portada": "",
-        "titulo_fuente": "José Manuel Restrepo impulsa agenda de inversión entre Colombia y Venezuela",
-        "capturado": "2026-10-01T08:34:38-05:00"
       }
     ],
     "Bolsas": [
