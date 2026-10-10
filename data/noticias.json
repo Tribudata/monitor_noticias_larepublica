@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-09T21:27:07-05:00",
+  "actualizado": "2026-10-10T03:44:02-05:00",
   "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
@@ -427,6 +427,13 @@
     ],
     "Bolsas": [
       {
+        "titulo": "Desempeño de las firmas locales en Wall Street desde su ingreso en los 90",
+        "url": "https://www.larepublica.co/finanzas/asi-les-ha-ido-a-las-empresas-locales-en-wall-street-desde-su-entrada-en-los-90-4500574",
+        "fecha_portada": "",
+        "titulo_fuente": "Así les ha ido a las empresas locales en Wall Street desde su entrada en los 90",
+        "capturado": "2026-10-10T03:44:02-05:00"
+      },
+      {
         "titulo": "Títulos accionarios suben por caída del crudo y menor preocupación sobre inteligencia artificial",
         "url": "https://www.larepublica.co/globoeconomia/acciones-repuntan-ante-baja-del-petroleo-y-menor-inquietud-por-inteligencia-artificial-4500107",
         "fecha_portada": "09/10/2026",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/inside-lr-con-galantino-gallo-ceo-de-credicorp-capital-sobre-los-planes-de-la-compania-4487689",
         "fecha_portada": "",
         "titulo_fuente": "“Para fin de año lanzaremos un fondo y tenemos la expectativa de captar $2 billones”",
-        "capturado": "2026-09-23T00:18:10-05:00"
-      },
-      {
-        "titulo": "BVC aumentó a 75,28% su participación en la Cámara de Riesgo Central de Contraparte",
-        "url": "https://www.larepublica.co/finanzas/bvc-elevo-a-75-28-su-participacion-en-la-camara-de-riesgo-central-de-contraparte-4487849",
-        "fecha_portada": "",
-        "titulo_fuente": "BVC elevó a 75,28% su participación en la Cámara de Riesgo Central de Contraparte",
         "capturado": "2026-09-23T00:18:10-05:00"
       }
     ]
