@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-09T18:20:33-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-09T21:27:07-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Colpensiones descartó modificaciones en la entrega de las mesadas pensionales",
+        "url": "https://www.larepublica.co/finanzas/colpensiones-desmintio-cambios-en-el-pago-de-las-mesadas-pensionales-y-reitero-fechas-4500645",
+        "fecha_portada": "",
+        "titulo_fuente": "Colpensiones desmintió cambios en el pago de las mesadas pensionales",
+        "capturado": "2026-10-09T21:27:07-05:00"
+      },
       {
         "titulo": "Juan Carlos López obtuvo el reconocimiento de Mejor Alcalde Municipal en los Premios Politika",
         "url": "https://www.larepublica.co/economia/juan-carlos-lopez-fue-reconocido-como-mejor-alcalde-municipal-en-los-premios-politika-4500375",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "José Manuel Restrepo impulsa agenda de inversión entre Colombia y Venezuela",
         "capturado": "2026-10-01T08:34:38-05:00"
-      },
-      {
-        "titulo": "El precio del dinero se elevó a los niveles de marzo de 2024 con un interés del 12,25%",
-        "url": "https://www.larepublica.co/economia/el-costo-del-dinero-subio-a-niveles-de-marzo-de-2024-con-tasa-de-12-25-4493863",
-        "fecha_portada": "01/10/2026",
-        "titulo_fuente": "El costo del dinero subió a niveles de marzo de 2024 con una tasa de interés de 12,25%",
-        "capturado": "2026-10-01T01:11:14-05:00"
       }
     ],
     "Bolsas": [
