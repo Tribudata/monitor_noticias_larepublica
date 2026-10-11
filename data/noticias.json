@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-10T17:11:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-10T20:03:57-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "ADLE solicita a la FAC indagar señalamientos contra la exprimera dama Verónica Alcocer",
+        "url": "https://www.larepublica.co/economia/adle-pide-a-la-fac-investigar-acusaciones-contra-exprimera-dama-veronica-alcocer-4501115",
+        "fecha_portada": "10/10/2026",
+        "titulo_fuente": "ADLE pide a la FAC investigar acusaciones contra exprimera dama, Verónica Alcocer",
+        "capturado": "2026-10-10T20:03:57-05:00"
+      },
       {
         "titulo": "El Ejecutivo pretende desatascar iniciativas mediante ajustes en licencias ambientales",
         "url": "https://www.larepublica.co/economia/el-gobierno-busca-acelerar-licencias-ambientales-con-nuevo-decreto-publico-borrador-4501023",
@@ -416,13 +423,6 @@
         "fecha_portada": "02/10/2026",
         "titulo_fuente": "MinHacienda posesionó a Fernando Isaza Gutiérrez como presidente del FNG",
         "capturado": "2026-10-02T21:26:48-05:00"
-      },
-      {
-        "titulo": "Para reperfilar la deuda de la Nación, Crédito Público intercambió TES por $11,15 billones",
-        "url": "https://www.larepublica.co/economia/credito-publico-canjeo-tes-por-11-15-billones-para-reperfilar-deuda-de-la-nacion-4495343",
-        "fecha_portada": "02/10/2026",
-        "titulo_fuente": "Crédito Público canjeó TES por $11,15 billones para reperfilar deuda de la Nación",
-        "capturado": "2026-10-02T14:59:24-05:00"
       }
     ],
     "Bolsas": [
