@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-11T02:21:37-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-11T09:12:43-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Gobierno solicita agilizar trabajos del Metro debido a demoras en estaciones y espacio público",
+        "url": "https://www.larepublica.co/economia/gobierno-pide-acelerar-obras-del-metro-ante-retrasos-en-estaciones-y-espacio-publico-4501156",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno pide acelerar obras del Metro ante retrasos en estaciones y espacio público",
+        "capturado": "2026-10-11T09:12:43-05:00"
+      },
       {
         "titulo": "ADLE solicita a la FAC indagar señalamientos contra la exprimera dama Verónica Alcocer",
         "url": "https://www.larepublica.co/economia/adle-pide-a-la-fac-investigar-acusaciones-contra-exprimera-dama-veronica-alcocer-4501115",
@@ -416,13 +423,6 @@
         "fecha_portada": "02/10/2026",
         "titulo_fuente": "Gobierno anunció Zona Especial en Sucre con proyecto de aluminio de hasta US$5.200 millones",
         "capturado": "2026-10-03T03:22:15-05:00"
-      },
-      {
-        "titulo": "MinHacienda oficializó la posesión de Fernando Isaza Gutiérrez como presidente del FNG",
-        "url": "https://www.larepublica.co/finanzas/el-ministro-de-hacienda-posesiono-a-fernando-isaza-gutierrez-de-pineres-como-presidente-del-fng-4495722",
-        "fecha_portada": "02/10/2026",
-        "titulo_fuente": "MinHacienda posesionó a Fernando Isaza Gutiérrez como presidente del FNG",
-        "capturado": "2026-10-02T21:26:48-05:00"
       }
     ],
     "Bolsas": [
