@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-12T04:27:25-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-12T14:11:10-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Premio Nobel de Economía fue otorgado a Robert E. Hall y Michael Woodford",
+        "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/robert-e-hall-y-michael-woodford-los-ganadores-del-premio-nobel-de-economia-4501301",
+        "fecha_portada": "",
+        "titulo_fuente": "Robert E. Hall y Michael Woodford fueron los ganadores del Premio Nobel de Economía",
+        "capturado": "2026-10-12T14:11:10-05:00"
+      },
+      {
+        "titulo": "Presidente y ministros solicitan indagar a Matador por ataques a la primera dama",
+        "url": "https://www.larepublica.co/economia/gobierno-pide-a-la-fiscalia-investigar-comentarios-de-matador-contra-la-primera-dama-4501361",
+        "fecha_portada": "12/10/2026",
+        "titulo_fuente": "Presidente y ministros piden investigar a 'Matador' por ataques a primera dama",
+        "capturado": "2026-10-12T14:11:10-05:00"
+      },
+      {
+        "titulo": "Alrededor de 500 notarías estarían en peligro de clausura por falta de planeación presupuestal",
+        "url": "https://www.larepublica.co/economia/cerca-de-500-notarias-en-colombia-estarian-en-riesgo-de-cierre-4501370",
+        "fecha_portada": "",
+        "titulo_fuente": "Cerca de 500 notarías estarían en riesgo de cierre por falta de planeación presupuestal",
+        "capturado": "2026-10-12T14:11:10-05:00"
+      },
       {
         "titulo": "Gobierno solicita agilizar trabajos del Metro debido a demoras en estaciones y espacio público",
         "url": "https://www.larepublica.co/economia/gobierno-pide-acelerar-obras-del-metro-ante-retrasos-en-estaciones-y-espacio-publico-4501156",
@@ -401,27 +422,6 @@
         "url": "https://www.larepublica.co/economia/entrevista-con-juanita-espeleta-secretaria-de-desarrollo-de-caldas-sobre-el-terremoto-4495934",
         "fecha_portada": "",
         "titulo_fuente": "“Estimamos que la reconstrucción de Caldas tras el terremoto costaría $4 billones”",
-        "capturado": "2026-10-03T03:22:15-05:00"
-      },
-      {
-        "titulo": "Lula da Silva y Flávio Bolsonaro asisten a las urnas con una competencia voto a voto",
-        "url": "https://www.larepublica.co/globoeconomia/lula-da-silva-y-flavio-bolsonaro-llegan-a-las-urnas-con-una-carrera-voto-a-voto-4495671",
-        "fecha_portada": "",
-        "titulo_fuente": "Lula da Silva y Flávio Bolsonaro llegan a las urnas con una carrera voto a voto",
-        "capturado": "2026-10-03T03:22:15-05:00"
-      },
-      {
-        "titulo": "Colombia bajó siete casillas en el índice de innovación 2026 de la Ompi",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-retrocedio-siete-puestos-en-el-ranking-de-innovacion-global-2026-de-la-ompi-4495719",
-        "fecha_portada": "03/10/2026",
-        "titulo_fuente": "Colombia retrocedió siete puestos en el ranking de innovación 2026 de la Ompi",
-        "capturado": "2026-10-03T03:22:15-05:00"
-      },
-      {
-        "titulo": "Gobierno informó sobre una Zona Especial en Sucre con proyecto de aluminio de hasta US$5.200 millones",
-        "url": "https://www.larepublica.co/economia/gobierno-anuncio-zona-especial-en-sucre-con-proyecto-de-aluminio-de-hasta-us-5-200-millones-4496090",
-        "fecha_portada": "02/10/2026",
-        "titulo_fuente": "Gobierno anunció Zona Especial en Sucre con proyecto de aluminio de hasta US$5.200 millones",
         "capturado": "2026-10-03T03:22:15-05:00"
       }
     ],
