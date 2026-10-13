@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-12T14:11:10-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-12T20:28:22-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Premiados con el Nobel son economistas que redefinieron las tesis de Keynes",
+        "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/robert-hall-y-michael-woodford-los-economistas-que-reformularon-las-ideas-de-keynes-4501309",
+        "fecha_portada": "",
+        "titulo_fuente": "Galardonados con el Nobel, economistas que reformularon las ideas de Keynes",
+        "capturado": "2026-10-12T20:28:22-05:00"
+      },
+      {
+        "titulo": "MIT y Harvard encabezan la lista de universidades con más economistas premiados",
+        "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/mit-y-harvard-lideran-el-ranking-de-universidades-con-mas-economistas-ganadores-4501329",
+        "fecha_portada": "",
+        "titulo_fuente": "MIT y Harvard lideran el ranking de universidades con más economistas ganadores",
+        "capturado": "2026-10-12T20:28:22-05:00"
+      },
+      {
+        "titulo": "De la Espriella y Marco Rubio hablaron sobre seguridad y cooperación bilateral",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-y-marco-rubio-conversaron-sobre-seguridad-y-cooperacion-bilateral-4501459",
+        "fecha_portada": "",
+        "titulo_fuente": "De la Espriella y Marco Rubio conversaron sobre seguridad y cooperación bilateral",
+        "capturado": "2026-10-12T20:28:22-05:00"
+      },
+      {
+        "titulo": "Colombia propone ante la ONU cambiar la verificación internacional del Acuerdo de Paz",
+        "url": "https://www.larepublica.co/economia/colombia-propone-modificar-la-verificacion-internacional-del-acuerdo-de-paz-ante-la-onu-4501410",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia plantea modificar la verificación internacional del Acuerdo de Paz ante la ONU",
+        "capturado": "2026-10-12T20:28:22-05:00"
+      },
+      {
+        "titulo": "Rodríguez atribuye a los diálogos con Estados Unidos la recuperación económica de Venezuela",
+        "url": "https://www.larepublica.co/globoeconomia/delcy-rodriguez-atribuye-al-dialogo-con-ee-uu-la-recuperacion-economica-de-venezuela-4501413",
+        "fecha_portada": "12/10/2026",
+        "titulo_fuente": "Rodríguez atribuye al diálogo con EE.UU. la recuperación económica de Venezuela",
+        "capturado": "2026-10-12T20:28:22-05:00"
+      },
       {
         "titulo": "El Premio Nobel de Economía fue otorgado a Robert E. Hall y Michael Woodford",
         "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/robert-e-hall-y-michael-woodford-los-ganadores-del-premio-nobel-de-economia-4501301",
@@ -388,41 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "La economía que heredará el próximo presidente de Brasil entre deuda, tasas y empleo",
         "capturado": "2026-10-05T00:56:29-05:00"
-      },
-      {
-        "titulo": "Las regiones con mayores pérdidas por el incremento en las tasas de interés del Banco de la República",
-        "url": "https://www.larepublica.co/economia/las-regiones-que-mas-pierden-por-el-alza-a-la-tasa-de-interes-del-banco-de-la-republica-4495970",
-        "fecha_portada": "",
-        "titulo_fuente": "Las regiones que más pierden por el alza a la tasa de interés del Banco de la República",
-        "capturado": "2026-10-05T00:56:29-05:00"
-      },
-      {
-        "titulo": "JEP solicita al Congreso detener la reducción de $170.000 millones",
-        "url": "https://www.asuntoslegales.com.co/actualidad/jep-pide-al-congreso-frenar-recorte-de-170-000-millones-y-promete-plan-de-austeridad-4496398",
-        "fecha_portada": "04/10/2026",
-        "titulo_fuente": "JEP pide al Congreso frenar recorte de $170.000 millones",
-        "capturado": "2026-10-05T00:56:29-05:00"
-      },
-      {
-        "titulo": "Tania Gilinski se posesionó como nueva embajadora de Colombia ante el Estado de Israel",
-        "url": "https://www.larepublica.co/economia/tania-gilinski-asume-como-nueva-embajadora-de-colombia-ante-el-estado-de-israel-4496172",
-        "fecha_portada": "03/10/2026",
-        "titulo_fuente": "Tania Gilinski asumió como nueva embajadora de Colombia ante el Estado de Israel",
-        "capturado": "2026-10-03T15:14:37-05:00"
-      },
-      {
-        "titulo": "El presidente De la Espriella solicitó la remoción de Germán Miranda, director de los Bomberos",
-        "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-pidio-retirar-del-cargo-a-german-miranda-director-de-los-bomberos-4496176",
-        "fecha_portada": "",
-        "titulo_fuente": "Presidente De la Espriella pidió retirar del cargo a Germán Miranda, director de los Bomberos",
-        "capturado": "2026-10-03T12:39:24-05:00"
-      },
-      {
-        "titulo": "Calculamos que la reconstrucción de Caldas luego del sismo costaría $4 billones",
-        "url": "https://www.larepublica.co/economia/entrevista-con-juanita-espeleta-secretaria-de-desarrollo-de-caldas-sobre-el-terremoto-4495934",
-        "fecha_portada": "",
-        "titulo_fuente": "“Estimamos que la reconstrucción de Caldas tras el terremoto costaría $4 billones”",
-        "capturado": "2026-10-03T03:22:15-05:00"
       }
     ],
     "Bolsas": [
