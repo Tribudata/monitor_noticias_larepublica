@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-15T05:24:23-05:00",
-  "nuevos_en_esta_corrida": 12,
+  "actualizado": "2026-10-15T10:08:26-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "35 organizaciones reprobadas por la Contraloría debido a fallas en sus estados financieros",
+        "url": "https://www.larepublica.co/economia/las-35-entidades-que-recibieron-opinion-negativa-de-la-contraloria-sobre-sus-estados-financieros-4503318",
+        "fecha_portada": "",
+        "titulo_fuente": "Las 35 entidades que rajó la Contraloría por inconsistencias en sus estados financieros",
+        "capturado": "2026-10-15T10:08:26-05:00"
+      },
+      {
+        "titulo": "Aumento de la inflación en Estados Unidos plantea un nuevo incremento de tasas",
+        "url": "https://www.larepublica.co/globoeconomia/repunte-de-inflacion-en-estados-unidos-pone-otra-subida-de-tasas-sobre-la-mesa-4502973",
+        "fecha_portada": "",
+        "titulo_fuente": "Repunte de inflación en Estados Unidos pone otra subida de tasas sobre la mesa",
+        "capturado": "2026-10-15T10:08:26-05:00"
+      },
+      {
+        "titulo": "Secretaría de Hacienda de Bogotá autorizó rebajas de 60% en intereses de deudas",
+        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-habilito-descuentos-de-60-en-intereses-de-deudas-4503305",
+        "fecha_portada": "15/10/2026",
+        "titulo_fuente": "Secretaría de Hacienda de Bogotá habilitó descuentos de 60% en intereses de deudas",
+        "capturado": "2026-10-15T10:08:26-05:00"
+      },
+      {
+        "titulo": "Fondo Milagro comenzará con $624.000 millones y arrancará derribos de casas",
+        "url": "https://www.larepublica.co/economia/fondo-milagro-abrira-con-624-000-millones-e-iniciara-con-demoliciones-de-viviendas-4503465",
+        "fecha_portada": "15/10/2026",
+        "titulo_fuente": "Fondo Milagro abrirá con $624.000 millones e iniciará con demoliciones de viviendas",
+        "capturado": "2026-10-15T10:08:26-05:00"
+      },
+      {
+        "titulo": "Bobby Pulido, intérprete de regional mexicano que enfrenta al trumpismo en Texas",
+        "url": "https://www.agronegocios.co/agricultura/bobby-pulido-el-cantante-de-regional-mexicano-que-busca-desafiar-al-trumpismo-en-texas-4503364",
+        "fecha_portada": "15/10/2026",
+        "titulo_fuente": "Bobby Pulido, el cantante de regional mexicano que desafía al trumpismo en Texas",
+        "capturado": "2026-10-15T10:08:26-05:00"
+      },
       {
         "titulo": "Cartera de Minas y Energía obtendría $3 billones destinados a subsidiar gas y luz en el PGN",
         "url": "https://www.larepublica.co/economia/minas-y-energia-recibiria-3-billones-para-los-subsidios-de-energia-y-gas-4503129",
@@ -387,41 +422,6 @@
         "url": "https://www.larepublica.co/economia/gobierno-inicia-construccion-del-pnd-con-38-7-billones-para-el-eje-cafetero-4497960",
         "fecha_portada": "06/10/2026",
         "titulo_fuente": "Gobierno inicia construcción del PND con un monto de $38,7 billones para el Eje Cafetero",
-        "capturado": "2026-10-07T04:24:29-05:00"
-      },
-      {
-        "titulo": "Fitch Ratings alertó sobre el déficit de 9,4% del PIB estimado por la nación para el próximo año",
-        "url": "https://www.larepublica.co/economia/fitch-advirtio-por-deficit-de-9-4-del-pib-que-proyecta-el-pais-para-el-otro-ano-4497789",
-        "fecha_portada": "",
-        "titulo_fuente": "Fitch Ratings advirtió por déficit de 9,4% del PIB que proyecta el país para el otro año",
-        "capturado": "2026-10-07T04:24:29-05:00"
-      },
-      {
-        "titulo": "Este viernes expira el término para presentar y pagar el ICA del cuarto bimestre de este año en Bogotá",
-        "url": "https://www.larepublica.co/economia/este-viernes-vence-plazo-para-declarar-y-pagar-el-ica-del-cuarto-bimestre-en-bogota-4497473",
-        "fecha_portada": "",
-        "titulo_fuente": "El viernes vence plazo para declarar y pagar el ICA del cuarto bimestre de este año en Bogotá",
-        "capturado": "2026-10-07T04:24:29-05:00"
-      },
-      {
-        "titulo": "El Gobierno cita en Pereira a las autoridades locales para consolidar el Plan de Desarrollo",
-        "url": "https://www.larepublica.co/economia/gobierno-nacional-convoca-en-pereira-a-autoridades-locales-para-formalizar-el-plan-de-desarrollo-4498182",
-        "fecha_portada": "06/10/2026",
-        "titulo_fuente": "Gobierno convoca en Pereira a autoridades locales para formalizar el Plan de Desarrollo",
-        "capturado": "2026-10-07T04:24:29-05:00"
-      },
-      {
-        "titulo": "Los bonos a 10 años de Colombia son los más desvalorizados de la región, con tasas superiores al 13%",
-        "url": "https://www.larepublica.co/economia/colombia-tiene-los-bonos-a-10-anos-mas-desvalorizados-de-la-region-con-tasas-sobre-13-4497849",
-        "fecha_portada": "06/10/2026",
-        "titulo_fuente": "Colombia tiene los bonos a 10 años más desvalorizados de la región con tasas sobre 13%",
-        "capturado": "2026-10-07T04:24:29-05:00"
-      },
-      {
-        "titulo": "El Gobierno alista una reforma destinada a destrabar y acelerar los trámites de consulta previa",
-        "url": "https://www.larepublica.co/economia/gobierno-prepara-reforma-para-destrabar-y-agilizar-los-procesos-de-consulta-previa-4497526",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno prepara reforma para destrabar y agilizar los procesos de consulta previa",
         "capturado": "2026-10-07T04:24:29-05:00"
       }
     ],
