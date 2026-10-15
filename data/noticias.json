@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-15T10:08:26-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-15T14:16:02-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Banco Emisor adquirió US$1.039 millones a partir de agosto para incrementar reservas",
+        "url": "https://www.larepublica.co/economia/emisor-ha-comprado-us-1-039-millones-desde-agosto-para-acumular-reservas-4503646",
+        "fecha_portada": "15/10/2026",
+        "titulo_fuente": "Emisor ha comprado US$1.039 millones desde agosto para acumular reservas",
+        "capturado": "2026-10-15T14:16:02-05:00"
+      },
       {
         "titulo": "35 organizaciones reprobadas por la Contraloría debido a fallas en sus estados financieros",
         "url": "https://www.larepublica.co/economia/las-35-entidades-que-recibieron-opinion-negativa-de-la-contraloria-sobre-sus-estados-financieros-4503318",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/tardanza-en-el-ajuste-fiscal-llevo-bonos-a-10-anos-a-tasas-de-13-4497167",
         "fecha_portada": "",
         "titulo_fuente": "Tardanza en el ajuste fiscal llevó bonos a 10 años a tasas de interés por encima de 13%",
-        "capturado": "2026-10-07T04:24:29-05:00"
-      },
-      {
-        "titulo": "El Gobierno comienza a elaborar el PND destinando $38,7 billones para la región del Eje Cafetero",
-        "url": "https://www.larepublica.co/economia/gobierno-inicia-construccion-del-pnd-con-38-7-billones-para-el-eje-cafetero-4497960",
-        "fecha_portada": "06/10/2026",
-        "titulo_fuente": "Gobierno inicia construcción del PND con un monto de $38,7 billones para el Eje Cafetero",
         "capturado": "2026-10-07T04:24:29-05:00"
       }
     ],
