@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-16T04:57:22-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-16T09:26:13-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,13 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El dólar inició $3,6 menos que la TRM por la expectativa de que la FED no suba las tasas",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-16-de-octubre-4504276",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar abrió $3,6 por debajo de la TRM ante expectativas de que la FED no aumente tasas",
+        "capturado": "2026-10-16T09:26:13-05:00"
+      },
+      {
         "titulo": "El dólar bajó fuertemente ayer y el peso lidera la revaluación entre las monedas emergentes",
         "url": "https://www.larepublica.co/finanzas/dolar-cayo-con-fuerza-durante-la-jornada-de-ayer-y-el-peso-es-la-emergente-mas-revaluada-4503912",
         "fecha_portada": "16/10/2026",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/el-oro-cae-mientras-los-operadores-siguen-de-cerca-el-repunte-del-petroleo-4489211",
         "fecha_portada": "",
         "titulo_fuente": "El oro cayó 0,7% mientras los operadores siguen de cerca el repunte del petróleo",
-        "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "Sura Investments dio a conocer las equivocaciones más usuales al evaluar inversiones bajo incertidumbre",
-        "url": "https://www.larepublica.co/finanzas/sura-investments-revelo-los-errores-mas-comunes-a-la-hora-de-realizar-inversiones-4489427",
-        "fecha_portada": "",
-        "titulo_fuente": "Sura Investments reveló errores comunes al analizar inversiones en incertidumbre",
         "capturado": "2026-09-24T14:31:37-05:00"
       }
     ]
