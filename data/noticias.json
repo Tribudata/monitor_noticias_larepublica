@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-15T19:34:18-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-16T00:11:48-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La ANI y la Dian figuran entre las 35 entidades reprobadas por sus estados financieros",
+        "url": "https://www.larepublica.co/economia/la-ani-y-la-dian-entre-las-35-entidades-que-se-rajan-por-sus-estados-financieros-4503978",
+        "fecha_portada": "",
+        "titulo_fuente": "La ANI y la Dian están entre las 35 entidades que se rajan debido a sus estados financieros",
+        "capturado": "2026-10-16T00:11:48-05:00"
+      },
+      {
+        "titulo": "Cinco de cada 10 colombianos piensan que la economía va a mejorar en los siguientes seis meses",
+        "url": "https://www.larepublica.co/economia/cinco-de-cada-10-colombianos-cree-que-la-economia-mejorara-en-seis-meses-4503975",
+        "fecha_portada": "",
+        "titulo_fuente": "Cinco de cada 10 colombianos cree que la economía mejorará en los próximos seis meses",
+        "capturado": "2026-10-16T00:11:48-05:00"
+      },
+      {
+        "titulo": "Secretaría de Hacienda decretó nueva contingencia en la plataforma de información",
+        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-declaro-nueva-contingencia-en-plataforma-de-informacion-exogena-4504017",
+        "fecha_portada": "15/10/2026",
+        "titulo_fuente": "Secretaría de Hacienda declaró nueva contingencia en plataforma de información",
+        "capturado": "2026-10-16T00:11:48-05:00"
+      },
+      {
+        "titulo": "El debate del presupuesto se hará contrarreloj, la semana entrante es determinante",
+        "url": "https://www.larepublica.co/economia/discusion-del-presupuesto-se-hara-a-contra-reloj-la-proxima-semana-es-definitiva-4503992",
+        "fecha_portada": "",
+        "titulo_fuente": "La discusión del presupuesto se hará a contra reloj, la próxima semana es definitiva",
+        "capturado": "2026-10-16T00:11:48-05:00"
+      },
       {
         "titulo": "Gómez advirtió sobre $17 billones en sentencias que no canceló el gobierno anterior",
         "url": "https://www.larepublica.co/economia/gomez-defendio-el-presupuesto-y-advirtio-por-un-pasivo-de-17-billones-por-sentencias-4503769",
@@ -395,37 +423,37 @@
         "fecha_portada": "",
         "titulo_fuente": "MinHacienda contrató a Fiducoldex para administrar los recursos del Fondo Milagro",
         "capturado": "2026-10-07T16:39:19-05:00"
-      },
-      {
-        "titulo": "De la Espriella analizó junto a Estados Unidos el plan para enfrentar el narcotráfico",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-reviso-con-estados-unidos-estrategia-para-combatir-el-narcotrafico-4498812",
-        "fecha_portada": "07/10/2026",
-        "titulo_fuente": "De la Espriella revisó con Estados Unidos estrategia para combatir el narcotráfico",
-        "capturado": "2026-10-07T16:39:19-05:00"
-      },
-      {
-        "titulo": "Adquirir un pollo asado ahora cuesta $5.000 más en comparación con octubre de 2025",
-        "url": "https://www.larepublica.co/economia/el-costo-de-comprar-un-pollo-asado-ya-esta-5-000-mas-caro-que-hace-un-ano-4497721",
-        "fecha_portada": "",
-        "titulo_fuente": "El costo de comprar un pollo asado ya está $5.000 más caro que en octubre de 2025",
-        "capturado": "2026-10-07T04:24:29-05:00"
-      },
-      {
-        "titulo": "Según previsiones del Banco Mundial, Colombia registraría mayor crecimiento económico que Brasil y México",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-creceria-mas-que-brasil-y-mexico-segun-las-proyecciones-del-banco-mundial-4498010",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia crecería más que Brasil y México según las proyecciones del Banco Mundial",
-        "capturado": "2026-10-07T04:24:29-05:00"
-      },
-      {
-        "titulo": "Los candidatos favoritos en las casas de apuestas para ganar el Premio Nobel de Economía",
-        "url": "https://www.larepublica.co/economia/los-nombres-que-suenan-en-las-casas-de-apuestas-para-el-nobel-de-economia-4498029",
-        "fecha_portada": "",
-        "titulo_fuente": "Los nombres que suenan en las casas de apuestas para el Premio Nobel de Economía",
-        "capturado": "2026-10-07T04:24:29-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar bajó fuertemente ayer y el peso lidera la revaluación entre las monedas emergentes",
+        "url": "https://www.larepublica.co/finanzas/dolar-cayo-con-fuerza-durante-la-jornada-de-ayer-y-el-peso-es-la-emergente-mas-revaluada-4503912",
+        "fecha_portada": "16/10/2026",
+        "titulo_fuente": "Dólar cayó con fuerza durante la jornada de ayer y el peso es la emergente más revaluada",
+        "capturado": "2026-10-16T00:11:48-05:00"
+      },
+      {
+        "titulo": "Banca, retail y consumo son las opciones de inversión que prevé Renta4 para los inversionistas",
+        "url": "https://www.larepublica.co/globoeconomia/las-oportunidades-de-inversion-que-ve-renta4-4504035",
+        "fecha_portada": "16/10/2026",
+        "titulo_fuente": "Banca, retail y consumo, las oportunidades de inversión que ve Renta4 para inversionistas",
+        "capturado": "2026-10-16T00:11:48-05:00"
+      },
+      {
+        "titulo": "Grupo Energía Bogotá emitió $400.000 millones en títulos comerciales dentro de la BVC",
+        "url": "https://www.larepublica.co/finanzas/grupo-energia-bogota-coloco-400-000-millones-en-papeles-comerciales-en-la-bvc-4503900",
+        "fecha_portada": "15/10/2026",
+        "titulo_fuente": "Grupo Energía Bogotá colocó $400.000 millones en papeles comerciales en la BVC",
+        "capturado": "2026-10-16T00:11:48-05:00"
+      },
+      {
+        "titulo": "Littio elevó el rendimiento de sus bóvedas digitales hasta el 12,5% E.A. a 90 días",
+        "url": "https://www.larepublica.co/finanzas/littio-subio-la-rentabilidad-de-sus-bovedas-digitales-hasta-12-5-e-a-para-plazos-de-90-dias-4503478",
+        "fecha_portada": "",
+        "titulo_fuente": "Littio subió la rentabilidad de sus bóvedas digitales hasta 12,5% E.A. para 90 días",
+        "capturado": "2026-10-16T00:11:48-05:00"
+      },
       {
         "titulo": "Wall Street baja luego de inflación en EE.UU. que impulsa previsiones de mayores incrementos de la FED",
         "url": "https://www.larepublica.co/globoeconomia/wall-street-cae-tras-la-inflacion-de-ee-uu-que-refuerza-apuestas-de-mas-alzas-de-la-fed-4502650",
@@ -817,34 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Sura Investments reveló errores comunes al analizar inversiones en incertidumbre",
         "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "Mayor cantidad de opciones y la llegada de inversionistas recientes trazan la ruta del mercado de capitales",
-        "url": "https://www.larepublica.co/finanzas/mas-alternativas-y-nuevos-inversionistas-marcan-el-rumbo-del-mercado-de-capitales-4489465",
-        "fecha_portada": "",
-        "titulo_fuente": "Más alternativas y nuevos inversionistas marcan el rumbo del mercado de capitales",
-        "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "Nuam y Vantek concretaron un acuerdo para simplificar la adecuación tecnológica en el sector financiero",
-        "url": "https://www.larepublica.co/finanzas/nuam-y-vantek-firmaron-una-alianza-para-facilitar-la-adaptacion-tecnologica-financiera-4489347",
-        "fecha_portada": "",
-        "titulo_fuente": "Nuam y Vantek firmaron una alianza para facilitar la adaptación tecnológica financiera",
-        "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "La aplicación de Credicorp, Tyba, logró registrar US$2.000 millones en activos bajo su administración",
-        "url": "https://www.larepublica.co/finanzas/tyba-app-de-credicorp-alcanzo-us-2-000-millones-en-activos-administradostyba-4489299",
-        "fecha_portada": "",
-        "titulo_fuente": "Tyba, app de Credicorp, alcanzó US$2.000 millones en activos administrados",
-        "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "Dólar alcanzó su mayor valor en dos meses y se aproxima a la barrera de los $3.300",
-        "url": "https://www.larepublica.co/finanzas/dolar-toco-maximo-de-hace-dos-meses-y-se-acerca-a-la-linea-de-los-3-300-4488937",
-        "fecha_portada": "24/09/2026",
-        "titulo_fuente": "Dólar tocó máximo no registrado hace dos meses y se acerca a la línea de los $3.300",
-        "capturado": "2026-09-24T05:33:49-05:00"
       }
     ]
   }
