@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-16T09:26:13-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-16T13:12:58-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Liquidez de la Nación repuntó al finalizar septiembre por la reanudación de las subastas de TES",
+        "url": "https://www.larepublica.co/economia/caja-de-la-nacion-se-recupero-al-cierre-de-septiembre-por-el-reinicio-de-las-subastas-de-tes-4504575",
+        "fecha_portada": "16/10/2026",
+        "titulo_fuente": "Caja de la Nación se recuperó al cierre de septiembre por el reinicio de las subastas de TES",
+        "capturado": "2026-10-16T13:12:58-05:00"
+      },
       {
         "titulo": "La ANI y la Dian figuran entre las 35 entidades reprobadas por sus estados financieros",
         "url": "https://www.larepublica.co/economia/la-ani-y-la-dian-entre-las-35-entidades-que-se-rajan-por-sus-estados-financieros-4503978",
@@ -416,16 +423,16 @@
         "fecha_portada": "06/10/2026",
         "titulo_fuente": "Colombia obtiene 6,45 puntos y ocupa la casilla 97 en el Índice de Libertad Económica 2026",
         "capturado": "2026-10-07T16:39:19-05:00"
-      },
-      {
-        "titulo": "MinHacienda encargó a Fiducoldex el manejo de los recursos del Fondo Milagro",
-        "url": "https://www.larepublica.co/economia/minhacienda-contrato-a-fiducoldex-para-administrar-recursos-de-la-reconstruccion-4498322",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda contrató a Fiducoldex para administrar los recursos del Fondo Milagro",
-        "capturado": "2026-10-07T16:39:19-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El oro sin variaciones después de afirmaciones de Warsh que disminuyen la inquietud por los intereses",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-16-de-octubre-4504337",
+        "fecha_portada": "16/10/2026",
+        "titulo_fuente": "Oro estable tras declaraciones de Warsh que reducen temores sobre los intereses",
+        "capturado": "2026-10-16T13:12:58-05:00"
+      },
       {
         "titulo": "El dólar inició $3,6 menos que la TRM por la expectativa de que la FED no suba las tasas",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-16-de-octubre-4504276",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/acciones-caen-y-alza-del-petroleo-impulsa-una-venta-masiva-de-bonos-en-los-mercados-4489436",
         "fecha_portada": "",
         "titulo_fuente": "Acciones caen y alza del petróleo impulsa venta masiva de bonos en mercados",
-        "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "El valor del oro disminuyó 0,7% a la vez que los operadores monitorean el incremento del petróleo",
-        "url": "https://www.larepublica.co/finanzas/el-oro-cae-mientras-los-operadores-siguen-de-cerca-el-repunte-del-petroleo-4489211",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro cayó 0,7% mientras los operadores siguen de cerca el repunte del petróleo",
         "capturado": "2026-09-24T14:31:37-05:00"
       }
     ]
