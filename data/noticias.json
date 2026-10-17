@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-17T05:58:56-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-17T09:03:01-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Papa León recibirá el alta este sábado, cuatro días después de una cirugía de cáncer",
+        "url": "https://www.larepublica.co/globoeconomia/papa-leon-sera-dado-de-alta-este-sabado-cuatro-dias-despues-de-una-operacion-de-cancer-4505366",
+        "fecha_portada": "",
+        "titulo_fuente": "Papa León será dado de alta este sábado, cuatro días después de una operación de cáncer",
+        "capturado": "2026-10-17T09:03:01-05:00"
+      },
       {
         "titulo": "La inversión extranjera directa llegó a US$885 millones y aumentó 44% en septiembre",
         "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-alcanzo-us-885-millones-y-crecio-44-en-septiembre-4505170",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/presidencia-emite-circular-que-fija-limites-a-viajes-al-exterior-y-al-gasto-en-publicidad-estatal-4499099",
         "fecha_portada": "",
         "titulo_fuente": "Presidencia emite circular que fija límites a viajes al exterior y al gasto en publicidad estatal",
-        "capturado": "2026-10-07T20:22:23-05:00"
-      },
-      {
-        "titulo": "El presidente De la Espriella recibe un reconocimiento del Summit de Liderazgo Valiente",
-        "url": "https://www.larepublica.co/economia/el-summit-de-liderazgo-valiente-otorga-distincion-al-presidente-de-la-espriella-4499084",
-        "fecha_portada": "",
-        "titulo_fuente": "El Summit de Liderazgo Valiente otorga distinción al presidente De la Espriella",
         "capturado": "2026-10-07T20:22:23-05:00"
       }
     ],
