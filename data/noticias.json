@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-16T20:41:58-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-17T01:17:20-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La inversión extranjera directa llegó a US$885 millones y aumentó 44% en septiembre",
+        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-alcanzo-us-885-millones-y-crecio-44-en-septiembre-4505170",
+        "fecha_portada": "16/10/2026",
+        "titulo_fuente": "Inversión Extranjera Directa alcanzó US$885 millones y creció 44% en septiembre",
+        "capturado": "2026-10-17T01:17:20-05:00"
+      },
       {
         "titulo": "Especialistas estiman un incremento de 25 puntos básicos en la tasa de política monetaria",
         "url": "https://www.larepublica.co/economia/analistas-preven-un-alza-de-25-puntos-basicos-en-la-tasa-de-politica-monetaria-4504617",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El Summit de Liderazgo Valiente otorga distinción al presidente De la Espriella",
         "capturado": "2026-10-07T20:22:23-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo sumó $624.656 millones al Fondo Milagro y nombró a su Junta Directiva",
-        "url": "https://www.larepublica.co/economia/gobierno-destina-624-656-millones-de-credito-externo-al-fondo-milagro-por-el-terremoto-4498302",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno adicionó $624.656 millones para el Fondo Milagro y designó a su Junta Directiva",
-        "capturado": "2026-10-07T16:39:19-05:00"
       }
     ],
     "Bolsas": [
