@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-18T12:36:55-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-18T14:43:23-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De la Espriella enfrentó a la gobernadora de San Andrés por la gestión de fondos públicos",
+        "url": "https://www.asuntoslegales.com.co/actualidad/de-la-espriella-confronto-a-gobernadora-de-san-andres-por-manejo-de-recursos-publicos-4505642",
+        "fecha_portada": "18/10/2026",
+        "titulo_fuente": "De la Espriella confrontó a gobernadora de San Andrés por manejo de recursos públicos",
+        "capturado": "2026-10-18T14:43:23-05:00"
+      },
       {
         "titulo": "El Papa León recibirá el alta este sábado, cuatro días después de una cirugía de cáncer",
         "url": "https://www.larepublica.co/globoeconomia/papa-leon-sera-dado-de-alta-este-sabado-cuatro-dias-despues-de-una-operacion-de-cancer-4505366",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/mininterior-presento-plan-de-austeridad-que-incluye-terminacion-de-557-contratos-4499110",
         "fecha_portada": "07/10/2026",
         "titulo_fuente": "MinInterior presentó plan de austeridad que incluye terminación de 557 contratos",
-        "capturado": "2026-10-07T20:22:23-05:00"
-      },
-      {
-        "titulo": "Presidencia expide circular que restringe los viajes internacionales y el gasto en publicidad estatal",
-        "url": "https://www.larepublica.co/economia/presidencia-emite-circular-que-fija-limites-a-viajes-al-exterior-y-al-gasto-en-publicidad-estatal-4499099",
-        "fecha_portada": "",
-        "titulo_fuente": "Presidencia emite circular que fija límites a viajes al exterior y al gasto en publicidad estatal",
         "capturado": "2026-10-07T20:22:23-05:00"
       }
     ],
