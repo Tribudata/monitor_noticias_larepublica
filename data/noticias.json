@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-18T20:55:54-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-19T02:03:56-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Detectamos casi 320 macroproyectos regionales que superarían los $520 billones",
+        "url": "https://www.larepublica.co/economia/entrevista-con-julian-buitrago-director-del-dnp-sobre-las-claves-del-pnd-4503677",
+        "fecha_portada": "",
+        "titulo_fuente": "“Identificamos cerca de 320 macroproyectos regionales que sumarían más de $520 billones”",
+        "capturado": "2026-10-19T02:03:56-05:00"
+      },
+      {
+        "titulo": "Los pilares sobre los cuales se han estructurado los 17 planes de desarrollo nacional de Colombia",
+        "url": "https://www.larepublica.co/economia/los-ejes-en-los-que-se-han-desarrollado-los-17-planes-de-desarrollo-nacional-4503674",
+        "fecha_portada": "19/10/2026",
+        "titulo_fuente": "Los ejes en los que se han desarrollado los 17 planes de desarrollo nacional de Colombia",
+        "capturado": "2026-10-19T02:03:56-05:00"
+      },
+      {
+        "titulo": "Adquirir vivienda para alquilar en España puede dar un rendimiento de hasta el 9,2%",
+        "url": "https://www.larepublica.co/globoeconomia/comprar-vivienda-para-arrendar-en-espana-puede-generar-una-rentabilidad-de-hasta-9-2-4504985",
+        "fecha_portada": "19/10/2026",
+        "titulo_fuente": "Comprar vivienda para arrendar en España puede generar una rentabilidad de hasta 9,2%",
+        "capturado": "2026-10-19T02:03:56-05:00"
+      },
       {
         "titulo": "Ejecutivo nacional emitirá en noviembre decreto sobre líneas de base de San Andrés",
         "url": "https://www.larepublica.co/economia/gobierno-expedira-en-noviembre-decreto-de-lineas-de-base-del-archipielago-de-san-andres-4505688",
@@ -402,30 +423,16 @@
         "fecha_portada": "08/10/2026",
         "titulo_fuente": "Costo de vida subió a máximos de dos años con inflación de 6,29% en septiembre",
         "capturado": "2026-10-08T02:34:14-05:00"
-      },
-      {
-        "titulo": "Estos son los empresarios que integrarán la Junta Directiva del Fondo Milagro",
-        "url": "https://www.larepublica.co/economia/estos-son-los-empresarios-que-conformaran-la-junta-directiva-del-fondo-milagro-4498926",
-        "fecha_portada": "08/10/2026",
-        "titulo_fuente": "Estos son los empresarios que conformarán la Junta Directiva del Fondo Milagro",
-        "capturado": "2026-10-08T02:34:14-05:00"
-      },
-      {
-        "titulo": "MinHacienda tiene autorización para solicitar préstamos a KfW y financiar el Presupuesto 2026",
-        "url": "https://www.larepublica.co/economia/minhacienda-tiene-aval-para-pedir-creditos-a-kfw-y-financiar-presupuesto-2026-4499127",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda tiene aval para pedir créditos a KfW y financiar Presupuesto 2026",
-        "capturado": "2026-10-08T02:34:14-05:00"
-      },
-      {
-        "titulo": "Alimentos y servicios impulsaron la inflación del noveno mes del año que se situó en 6,29%",
-        "url": "https://www.larepublica.co/economia/inflacion-alcanzo-6-29-en-septiembre-jalonada-por-alimentos-y-servicios-4498967",
-        "fecha_portada": "07/10/2026",
-        "titulo_fuente": "Inflación en el noveno mes del año se ubicó en 6,29% jalonada por alimentos y servicios",
-        "capturado": "2026-10-07T20:22:23-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Unidades residenciales destinaron cerca de $1.836 millones en Cdta de Fincomercio",
+        "url": "https://www.larepublica.co/finanzas/conjuntos-residenciales-invirtieron-alrededor-de-1-836-millones-en-cdta-de-fincomercio-4504433",
+        "fecha_portada": "",
+        "titulo_fuente": "Conjuntos residenciales invirtieron alrededor de $1.836 millones en Cdta de Fincomercio",
+        "capturado": "2026-10-19T02:03:56-05:00"
+      },
       {
         "titulo": "El oro sin variaciones después de afirmaciones de Warsh que disminuyen la inquietud por los intereses",
         "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-16-de-octubre-4504337",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-24-de-septiembre-4489258",
         "fecha_portada": "",
         "titulo_fuente": "El dólar cerró la jornada en $3.327, una diferencia de $63,44 frente a la TRM del día",
-        "capturado": "2026-09-24T14:31:37-05:00"
-      },
-      {
-        "titulo": "Las acciones descienden y el incremento del crudo estimula la venta masiva de bonos en los mercados",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-caen-y-alza-del-petroleo-impulsa-una-venta-masiva-de-bonos-en-los-mercados-4489436",
-        "fecha_portada": "",
-        "titulo_fuente": "Acciones caen y alza del petróleo impulsa venta masiva de bonos en mercados",
         "capturado": "2026-09-24T14:31:37-05:00"
       }
     ]
