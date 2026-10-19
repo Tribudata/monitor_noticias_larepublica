@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-18T18:49:21-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-18T20:55:54-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Ejecutivo nacional emitirá en noviembre decreto sobre líneas de base de San Andrés",
+        "url": "https://www.larepublica.co/economia/gobierno-expedira-en-noviembre-decreto-de-lineas-de-base-del-archipielago-de-san-andres-4505688",
+        "fecha_portada": "18/10/2026",
+        "titulo_fuente": "Gobierno nacional expedirá en noviembre decreto de líneas de base de San Andrés",
+        "capturado": "2026-10-18T20:55:54-05:00"
+      },
       {
         "titulo": "De la Espriella enfrentó a la gobernadora de San Andrés por la gestión de fondos públicos",
         "url": "https://www.asuntoslegales.com.co/actualidad/de-la-espriella-confronto-a-gobernadora-de-san-andres-por-manejo-de-recursos-publicos-4505642",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/inflacion-alcanzo-6-29-en-septiembre-jalonada-por-alimentos-y-servicios-4498967",
         "fecha_portada": "07/10/2026",
         "titulo_fuente": "Inflación en el noveno mes del año se ubicó en 6,29% jalonada por alimentos y servicios",
-        "capturado": "2026-10-07T20:22:23-05:00"
-      },
-      {
-        "titulo": "MinInterior expuso un programa de ahorro que contempla la finalización de 557 contratos",
-        "url": "https://www.larepublica.co/economia/mininterior-presento-plan-de-austeridad-que-incluye-terminacion-de-557-contratos-4499110",
-        "fecha_portada": "07/10/2026",
-        "titulo_fuente": "MinInterior presentó plan de austeridad que incluye terminación de 557 contratos",
         "capturado": "2026-10-07T20:22:23-05:00"
       }
     ],
