@@ -1,9 +1,51 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-19T09:47:27-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-19T15:15:49-05:00",
+  "nuevos_en_esta_corrida": 10,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Indicador de Seguimiento a la Economía anotó su nivel más bajo desde abril de 2025",
+        "url": "https://www.larepublica.co/economia/el-indicador-de-seguimiento-de-la-economia-de-agosto-tuvo-su-peor-registro-desde-abril-de-2025-4506070",
+        "fecha_portada": "",
+        "titulo_fuente": "El Indicador de Seguimiento de la Economía tuvo su peor registro desde abril de 2025",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
+      {
+        "titulo": "Mañana finaliza el tiempo para que el Congreso de la República avale el Presupuesto de 2027",
+        "url": "https://www.larepublica.co/economia/manana-vence-el-plazo-para-que-el-congreso-de-la-republica-apruebe-el-presupuesto-de-2027-4505803",
+        "fecha_portada": "",
+        "titulo_fuente": "Mañana vence el plazo para que el Congreso de la República apruebe el Presupuesto de 2027",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
+      {
+        "titulo": "La Andi advirtió sobre la caída del agro, la industria y la construcción en agosto",
+        "url": "https://www.larepublica.co/economia/andi-alerto-por-el-retroceso-del-agro-la-industria-y-la-construccion-en-agosto-4506300",
+        "fecha_portada": "",
+        "titulo_fuente": "Andi alertó por el retroceso del agro, la industria y la construcción en agosto",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
+      {
+        "titulo": "Corfi sugiere aplicar la regla técnica e incrementar el salario mínimo un 8%",
+        "url": "https://www.larepublica.co/economia/corficolombiana-propone-seguir-regla-tecnica-para-aumentar-el-salario-minimo-8-4506131",
+        "fecha_portada": "",
+        "titulo_fuente": "Corfi propone seguir la regla técnica y aumentar el salario mínimo en 8%",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
+      {
+        "titulo": "El Gobierno insiste en ahorro en viajes, priorizando la virtualidad y pasajes aéreos más económicos",
+        "url": "https://www.larepublica.co/economia/gobierno-expide-directrices-sobre-medidas-de-austeridad-para-viajes-y-publicidad-4506055",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno reitera austeridad en viajes, se prioriza virtualidad y tarifas aéreas más bajas",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
+      {
+        "titulo": "Abelardo de la Espriella informó sobre infraestructura para prestación de salud en Chocó",
+        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-anuncio-infraestructura-para-mejorar-atencion-en-salud-en-choco-4505877",
+        "fecha_portada": "",
+        "titulo_fuente": "Abelardo de la Espriella anunció infraestructura para atención en salud en Chocó",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
       {
         "titulo": "Detectamos casi 320 macroproyectos regionales que superarían los $520 billones",
         "url": "https://www.larepublica.co/economia/entrevista-con-julian-buitrago-director-del-dnp-sobre-las-claves-del-pnd-4503677",
@@ -381,51 +423,37 @@
         "fecha_portada": "09/10/2026",
         "titulo_fuente": "Talento humano, seguridad y vías, los retos que hay para el avance de Antioquia",
         "capturado": "2026-10-09T01:50:29-05:00"
-      },
-      {
-        "titulo": "Erasmo Zuleta se citó con MinHacienda para robustecer las finanzas de Córdoba",
-        "url": "https://www.larepublica.co/economia/erasmo-zuleta-se-reunio-con-minhacienda-para-fortalecer-las-finanzas-de-cordoba-4499554",
-        "fecha_portada": "",
-        "titulo_fuente": "Erasmo Zuleta se reunió con MinHacienda para fortalecer las finanzas de Córdoba",
-        "capturado": "2026-10-08T19:31:54-05:00"
-      },
-      {
-        "titulo": "Cotelco destacó un menor aumento en las tarifas de hospedaje frente al IPC",
-        "url": "https://www.larepublica.co/economia/cotelco-resalto-menor-incremento-en-las-tarifas-de-alojamiento-frente-al-ipc-4499710",
-        "fecha_portada": "08/10/2026",
-        "titulo_fuente": "Cotelco resaltó menor incremento en las tarifas de alojamiento frente al IPC",
-        "capturado": "2026-10-08T19:31:54-05:00"
-      },
-      {
-        "titulo": "El DNP prevé destinar alrededor de $7 billones para Chocó durante los siguientes cuatro años",
-        "url": "https://www.larepublica.co/economia/dnp-proyecta-inversiones-por-cerca-de-7-billones-en-choco-en-el-proximo-cuatrienio-4499428",
-        "fecha_portada": "",
-        "titulo_fuente": "DNP proyecta inversiones por cerca de $7 billones en Chocó en el próximo cuatrienio",
-        "capturado": "2026-10-08T15:28:39-05:00"
-      },
-      {
-        "titulo": "Entrada de capitales aumentó 17,1% durante la primera mitad del año y alcanzó los $52,4 billones",
-        "url": "https://www.larepublica.co/economia/ingresos-de-capitales-crecieron-17-1-en-el-primer-semestre-y-llegaron-a-52-4-billones-4499347",
-        "fecha_portada": "",
-        "titulo_fuente": "Ingresos de capitales crecieron 17,1% en el primer semestre y llegaron a $52,4 billones",
-        "capturado": "2026-10-08T15:28:39-05:00"
-      },
-      {
-        "titulo": "La inflación básica, excluyendo alimentos y energía, retornó también a los niveles de hace dos años",
-        "url": "https://www.larepublica.co/economia/inflacion-basica-sin-alimentos-ni-energeticos-tambien-regreso-a-niveles-de-hace-dos-anos-4499257",
-        "fecha_portada": "",
-        "titulo_fuente": "Inflación básica, sin alimentos ni energéticos, también regresó a niveles de hace dos años",
-        "capturado": "2026-10-08T09:58:47-05:00"
-      },
-      {
-        "titulo": "Con una inflación de 6,29% en septiembre, el costo de vida alcanzó su punto más alto en dos años",
-        "url": "https://www.larepublica.co/economia/el-costo-de-vida-subio-hasta-maximos-de-dos-anos-con-inflacion-de-6-29-4498539",
-        "fecha_portada": "08/10/2026",
-        "titulo_fuente": "Costo de vida subió a máximos de dos años con inflación de 6,29% en septiembre",
-        "capturado": "2026-10-08T02:34:14-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó la sesión en $3.156, con una brecha de $18,3 respecto a la TRM del día",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-19-de-octubre-4505897",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró la jornada en $3.156, con una diferencia de $18,3 frente a la TRM del día",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
+      {
+        "titulo": "Findeter realizó una emisión de bonos por $300.000 millones y la demanda alcanzó 1,9 veces lo ofertado",
+        "url": "https://www.larepublica.co/finanzas/findeter-emitio-bonos-por-300-000-millones-y-la-demanda-fue-1-9-veces-el-monto-ofertado-4506213",
+        "fecha_portada": "",
+        "titulo_fuente": "Findeter emitió bonos por $300.000 millones y la demanda fue 1,9 veces el monto ofertado",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
+      {
+        "titulo": "El valor del oro registró una ligera alza, impulsado por la caída en la cotización del petróleo",
+        "url": "https://www.larepublica.co/finanzas/el-oro-sube-levemente-impulsado-por-baja-de-precios-del-petroleo-4505831",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del oro subió levemente, impulsado por la bajada de los precios del petróleo",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
+      {
+        "titulo": "Conjuntos residenciales destinaron cerca de $1.836 millones a los Cadt de Fincomercio",
+        "url": "https://www.larepublica.co/finanzas/conjuntos-residenciales-invirtieron-alrededor-de-1-836-millones-en-cadt-de-fincomercio-4504433",
+        "fecha_portada": "",
+        "titulo_fuente": "Conjuntos residenciales invirtieron alrededor de $1.836 millones en los Cadt de Fincomercio",
+        "capturado": "2026-10-19T15:15:49-05:00"
+      },
       {
         "titulo": "Unidades residenciales destinaron cerca de $1.836 millones en Cdta de Fincomercio",
         "url": "https://www.larepublica.co/finanzas/conjuntos-residenciales-invirtieron-alrededor-de-1-836-millones-en-cdta-de-fincomercio-4504433",
@@ -817,34 +845,6 @@
         "fecha_portada": "25/09/2026",
         "titulo_fuente": "Oro se dirige a caída semanal mientras sube expectativa de alza de tasas de la Fed",
         "capturado": "2026-09-25T19:58:49-05:00"
-      },
-      {
-        "titulo": "Sura Investments aclaró las razones por las que poseer múltiples activos no equivale a diversificar",
-        "url": "https://www.larepublica.co/finanzas/sura-investments-explico-por-que-tener-varios-activos-invertidos-no-significa-diversificacion-4488876",
-        "fecha_portada": "",
-        "titulo_fuente": "Sura Investments explicó por qué tener varios activos no significa diversificación",
-        "capturado": "2026-09-25T00:37:48-05:00"
-      },
-      {
-        "titulo": "La cotización del dólar retorna a los rangos de julio y apunta hacia la barrera de los $3.400",
-        "url": "https://www.larepublica.co/finanzas/el-precio-del-dolar-vuelve-a-niveles-de-julio-y-pone-la-mira-en-la-linea-de-los-3-400-4489971",
-        "fecha_portada": "",
-        "titulo_fuente": "El precio del dólar vuelve a niveles de julio y pone la mira en la línea de los $3.400",
-        "capturado": "2026-09-25T00:37:48-05:00"
-      },
-      {
-        "titulo": "GEB progresa en su estrategia para cotizar en la Bolsa de Nueva York y sumar nuevos inversionistas",
-        "url": "https://www.larepublica.co/finanzas/geb-avanza-en-su-plan-para-llegar-a-la-bolsa-de-nueva-york-mediante-adrs-4489732",
-        "fecha_portada": "24/09/2026",
-        "titulo_fuente": "GEB avanza en su plan para llegar a la Bolsa de Nueva York y ampliar sus inversionistas",
-        "capturado": "2026-09-25T00:37:48-05:00"
-      },
-      {
-        "titulo": "El dólar finalizó la sesión en $3.327, registrando una diferencia de $63,44 frente a la TRM de la jornada",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-24-de-septiembre-4489258",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró la jornada en $3.327, una diferencia de $63,44 frente a la TRM del día",
-        "capturado": "2026-09-24T14:31:37-05:00"
       }
     ]
   }
