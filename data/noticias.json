@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-20T13:01:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-20T16:44:30-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,20 @@
     ],
     "Bolsas": [
       {
+        "titulo": "Luego de aprobar el presupuesto la cotización del dólar finalizó $7,27 arriba de la TRM",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-20-de-octubre-4506774",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del dólar cerró $7,27 por encima de la TRM, tras la aprobación del presupuesto",
+        "capturado": "2026-10-20T16:44:30-05:00"
+      },
+      {
+        "titulo": "Preocupación por el gasto en inteligencia artificial afecta las acciones y el petróleo se eleva",
+        "url": "https://www.larepublica.co/globoeconomia/temor-por-gasto-en-inteligencia-artificial-golpea-acciones-y-el-petroleo-se-dispara-4506882",
+        "fecha_portada": "20/10/2026",
+        "titulo_fuente": "Temor por gasto en inteligencia artificial golpea acciones y el petróleo se dispara",
+        "capturado": "2026-10-20T16:44:30-05:00"
+      },
+      {
         "titulo": "El valor del oro baja porque el petróleo más caro intensifica temores de inflación",
         "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-20-de-octubre-4506704",
         "fecha_portada": "",
@@ -830,20 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-29-de-septiembre-4492512",
         "fecha_portada": "",
         "titulo_fuente": "El dólar cotiza apenas $0,76 al alza frente a la TRM tras conversaciones entre EE.UU. e Irán",
-        "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "El oro registró un alza conforme se estabilizaron los bonos del Tesoro de Estados Unidos",
-        "url": "https://www.larepublica.co/finanzas/el-oro-subio-a-medida-que-se-estabilizaron-los-bonos-del-tesoro-de-ee-uu-4492490",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro subió a medida que se estabilizaron los bonos del Tesoro de Estados Unidos",
-        "capturado": "2026-09-29T10:09:41-05:00"
-      },
-      {
-        "titulo": "Citi citó a una reunión extraordinaria para el Fondo Bursátil Ishares Msci Colcap",
-        "url": "https://www.larepublica.co/finanzas/citi-convoco-asamblea-extraordinaria-para-el-fondo-bursatil-ishares-msci-colcap-4492123",
-        "fecha_portada": "",
-        "titulo_fuente": "Citi convocó asamblea extraordinaria para el Fondo Bursátil Ishares Msci Colcap",
         "capturado": "2026-09-29T10:09:41-05:00"
       }
     ]
