@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-19T21:13:46-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-20T02:46:09-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "En plenaria, el Senado avaló el Presupuesto General de la Nación del año entrante",
+        "url": "https://www.larepublica.co/economia/la-plenaria-del-senado-aprobo-el-presupuesto-general-de-la-nacion-para-2027-4506548",
+        "fecha_portada": "19/10/2026",
+        "titulo_fuente": "La plenaria del Senado aprobó el Presupuesto General de la Nación para el próximo año",
+        "capturado": "2026-10-20T02:46:09-05:00"
+      },
+      {
+        "titulo": "Hacienda pretende mover fondos del PGN al Fondo Milagro para responder al sismo",
+        "url": "https://www.larepublica.co/economia/hacienda-busca-trasladar-recursos-del-pgn-al-fondo-milagro-para-atender-el-terremoto-4506499",
+        "fecha_portada": "",
+        "titulo_fuente": "Hacienda busca trasladar recursos del PGN al Fondo Milagro para atender sismo",
+        "capturado": "2026-10-20T02:46:09-05:00"
+      },
+      {
+        "titulo": "El efecto del terremoto provocó la primera caída del ISE desde abril del año pasado",
+        "url": "https://www.larepublica.co/economia/impacto-del-terremoto-llevo-al-ise-a-su-primera-contraccion-desde-abril-del-ano-pasado-4506438",
+        "fecha_portada": "",
+        "titulo_fuente": "Impacto del terremoto llevó al ISE a su primera contracción desde abril del año pasado",
+        "capturado": "2026-10-20T02:46:09-05:00"
+      },
+      {
+        "titulo": "Bogotá, Cali y Medellín están entre las 10 latinoamericanas de mayor rendimiento económico",
+        "url": "https://www.larepublica.co/globoeconomia/bogota-cali-y-medellin-destacan-entre-las-10-latinoamericanas-de-mejor-desempeno-economico-4506416",
+        "fecha_portada": "",
+        "titulo_fuente": "Bogotá, Cali y Medellín, en las 10 latinoamericanas de mejor desempeño económico",
+        "capturado": "2026-10-20T02:46:09-05:00"
+      },
       {
         "titulo": "El Indicador de Seguimiento a la Economía anotó su nivel más bajo desde abril de 2025",
         "url": "https://www.larepublica.co/economia/el-indicador-de-seguimiento-de-la-economia-de-agosto-tuvo-su-peor-registro-desde-abril-de-2025-4506070",
@@ -395,37 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Juan Carlos López fue reconocido como “Mejor Alcalde Municipal” en los Premios Politika",
         "capturado": "2026-10-09T18:20:33-05:00"
-      },
-      {
-        "titulo": "Pillay obtiene el Nobel de la Paz debido a su combate frente a la impunidad por crímenes de guerra",
-        "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/navi-pillay-gana-el-nobel-de-la-paz-por-su-lucha-contra-la-impunidad-en-crimenes-de-guerra-4499896",
-        "fecha_portada": "",
-        "titulo_fuente": "Pillay gana el Nobel de la Paz por su lucha contra la impunidad en crímenes de guerra",
-        "capturado": "2026-10-09T08:53:14-05:00"
-      },
-      {
-        "titulo": "La deuda externa llegó a US$255.632 millones en julio, cifra que representa el 50,1% del PIB",
-        "url": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-255-632-millones-en-julio-equivale-a-50-1-del-pib-4499998",
-        "fecha_portada": "09/10/2026",
-        "titulo_fuente": "Deuda externa alcanzó US$255.632 millones en julio, equivale a 50,1% del PIB",
-        "capturado": "2026-10-09T08:53:14-05:00"
-      },
-      {
-        "titulo": "Colombia baja en la clasificación internacional de riqueza por persona, según Allianz",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-retrocede-en-el-ranking-mundial-de-riqueza-financiera-por-habitante-segun-allianz-4499625",
-        "fecha_portada": "09/10/2026",
-        "titulo_fuente": "Colombia retrocede en el ranking mundial de riqueza por habitante, según Allianz",
-        "capturado": "2026-10-09T01:50:29-05:00"
-      },
-      {
-        "titulo": "Capital humano, seguridad y carreteras son los desafíos para el desarrollo de Antioquia",
-        "url": "https://www.larepublica.co/empresas/talento-humano-seguridad-y-vias-los-retos-que-hay-para-el-avance-de-antioquia-4499645",
-        "fecha_portada": "09/10/2026",
-        "titulo_fuente": "Talento humano, seguridad y vías, los retos que hay para el avance de Antioquia",
-        "capturado": "2026-10-09T01:50:29-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Para 2027 NoName planea movilizar alrededor de US$200 millones de capital",
+        "url": "https://www.larepublica.co/finanzas/entrevista-con-miguel-piedrahita-director-de-noname-banca-de-inversion-sobre-los-proyectos-de-la-compania-4505943",
+        "fecha_portada": "",
+        "titulo_fuente": "“NoName están proyectando mover cerca de US$200 millones de capital en 2027”",
+        "capturado": "2026-10-20T02:46:09-05:00"
+      },
       {
         "titulo": "El dólar finalizó la sesión en $3.156, con una brecha de $18,3 respecto a la TRM del día",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-19-de-octubre-4505897",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-25-de-septiembre-4490171",
         "fecha_portada": "",
         "titulo_fuente": "Dólar cerró en $3.306,36, una diferencia de $23,25 por debajo de la TRM del día $3.329,61",
-        "capturado": "2026-09-25T19:58:49-05:00"
-      },
-      {
-        "titulo": "El oro va hacia un retroceso semanal por la mayor expectativa de un incremento de tasas de la Fed",
-        "url": "https://www.larepublica.co/finanzas/oro-se-dirige-a-caida-semanal-mientras-sube-expectativa-de-alza-de-tasas-de-la-fed-4490243",
-        "fecha_portada": "25/09/2026",
-        "titulo_fuente": "Oro se dirige a caída semanal mientras sube expectativa de alza de tasas de la Fed",
         "capturado": "2026-09-25T19:58:49-05:00"
       }
     ]
