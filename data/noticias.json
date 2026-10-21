@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-20T19:12:01-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-21T00:02:35-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,13 @@
     ],
     "Bolsas": [
       {
+        "titulo": "Protección acreditó $18,1 billones en ganancias a sus clientes de pensiones",
+        "url": "https://www.larepublica.co/finanzas/proteccion-abono-18-1-billones-en-rendimientos-a-sus-clientes-de-pensiones-y-cesantias-4506981",
+        "fecha_portada": "",
+        "titulo_fuente": "Protección abonó $18,1 billones en rendimientos a sus clientes de pensiones",
+        "capturado": "2026-10-21T00:02:35-05:00"
+      },
+      {
         "titulo": "Luego de aprobar el presupuesto la cotización del dólar finalizó $7,27 arriba de la TRM",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-20-de-octubre-4506774",
         "fecha_portada": "",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Tejo Turmequé busca recaudar hasta $2.700 millones a través de a2censo para su expansión",
         "capturado": "2026-09-29T15:03:13-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense sube solo $0,76 respecto a la TRM luego de diálogos entre EE.UU. e Irán",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-29-de-septiembre-4492512",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cotiza apenas $0,76 al alza frente a la TRM tras conversaciones entre EE.UU. e Irán",
-        "capturado": "2026-09-29T10:09:41-05:00"
       }
     ]
   }
