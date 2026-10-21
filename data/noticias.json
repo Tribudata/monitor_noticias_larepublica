@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-20T16:44:30-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-20T19:12:01-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El FMI y el Banco Mundial evaluarán la estrategia de endeudamiento público para 2027-2030",
+        "url": "https://www.larepublica.co/economia/fmi-y-banco-mundial-revisaran-estrategia-de-deuda-publica-de-colombia-para-2027-2030-4507257",
+        "fecha_portada": "20/10/2026",
+        "titulo_fuente": "FMI y Banco Mundial revisarán estrategia de deuda pública para 2027-2030",
+        "capturado": "2026-10-20T19:12:01-05:00"
+      },
+      {
+        "titulo": "El Gobierno presentará 86 proyectos de US$56.799 millones en rueda de inversión en Nueva York",
+        "url": "https://www.larepublica.co/economia/gobierno-llevara-86-proyectos-por-us-56-799-millones-a-rueda-de-inversion-en-nueva-york-4506984",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno llevará 86 proyectos por US$56.799 millones a rueda de inversión en Nueva York",
+        "capturado": "2026-10-20T19:12:01-05:00"
+      },
+      {
+        "titulo": "Ministerio de Hacienda suscribió crédito por US$224 millones con el KfW",
+        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-firmo-operacion-de-credito-por-us-224-millones-con-el-kfw-4506963",
+        "fecha_portada": "20/10/2026",
+        "titulo_fuente": "Ministerio de Hacienda firmó operación de crédito por US$224 millones con el KfW",
+        "capturado": "2026-10-20T19:12:01-05:00"
+      },
+      {
+        "titulo": "Gobierno presentará ley de financiamiento o rescate en la primera semana de noviembre",
+        "url": "https://www.larepublica.co/economia/gobierno-radicara-ley-de-financiamiento-o-rescate-en-la-primera-semana-de-noviembre-4507347",
+        "fecha_portada": "20/10/2026",
+        "titulo_fuente": "Gobierno radicará ley de financiamiento o \"rescate\" en la primera semana de noviembre",
+        "capturado": "2026-10-20T19:12:01-05:00"
+      },
+      {
+        "titulo": "Colfondos desplaza su Oficina Móvil al Chocó para asistir a afectados por el terremoto",
+        "url": "https://www.larepublica.co/finanzas/colfondos-lleva-su-oficina-movil-al-choco-para-atender-a-damnificados-por-el-terremoto-4507346",
+        "fecha_portada": "",
+        "titulo_fuente": "Colfondos lleva su Oficina Móvil al Chocó para atender a damnificados por el terremoto",
+        "capturado": "2026-10-20T19:12:01-05:00"
+      },
       {
         "titulo": "El área de la salud resultó la mayor favorecida luego de aprobarse el presupuesto de 2027",
         "url": "https://www.larepublica.co/economia/congreso-de-la-republica-dio-luz-verde-al-presupuesto-de-2027-por-634-9-billones-4506678",
@@ -387,41 +422,6 @@
         "url": "https://www.larepublica.co/economia/tras-dos-meses-de-terremoto-243-409-viviendas-afectadas-y-mas-de-486-000-damnificados-4500998",
         "fecha_portada": "",
         "titulo_fuente": "Tras dos meses del terremoto: 243.409 viviendas afectadas y más de 486.000 damnificados",
-        "capturado": "2026-10-10T13:58:37-05:00"
-      },
-      {
-        "titulo": "Durante la primera mitad del año arribaron a Bogotá 54 iniciativas por US$454 millones",
-        "url": "https://www.larepublica.co/economia/inside-lr-con-isis-duran-directora-ejecutiva-de-invest-in-bogota-sobre-la-llegada-de-nuevos-proyectos-4500063",
-        "fecha_portada": "10/10/2026",
-        "titulo_fuente": "“En el primer semestre llegaron 54 proyectos para invertir US$454 millones a Bogotá”",
-        "capturado": "2026-10-10T13:58:37-05:00"
-      },
-      {
-        "titulo": "Ejecutivo solicitó agilizar la adición de $2,7 billones al PGN 2026 a causa del sismo",
-        "url": "https://www.larepublica.co/economia/gobierno-pidio-acelerar-adicion-de-2-7-billones-al-pgn-2026-para-atender-el-terremoto-4500188",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno pidió acelerar adición de $2,7 billones al PGN 2026 por el terremoto",
-        "capturado": "2026-10-10T13:58:37-05:00"
-      },
-      {
-        "titulo": "Sismo de 7,7 en Panamá provocó afectaciones que superarían los US$1.000 millones",
-        "url": "https://www.larepublica.co/globoeconomia/terremoto-de-7-7-en-panama-dejo-danos-que-podrian-superar-hasta-los-us-1-000-millones-4500490",
-        "fecha_portada": "",
-        "titulo_fuente": "Terremoto de 7,7 en Panamá dejó daños que podrían superar hasta los US$1.000 millones",
-        "capturado": "2026-10-10T13:58:37-05:00"
-      },
-      {
-        "titulo": "La mensajería exprés tramitó 87,9 millones de despachos y $706.595 millones en ingresos",
-        "url": "https://www.larepublica.co/economia/la-mensajeria-express-movilizo-87-9-millones-de-envios-706-595-millones-en-ingresos-4500995",
-        "fecha_portada": "",
-        "titulo_fuente": "La mensajería express movilizó 87,9 millones de envíos; $706.595 millones en ingresos",
-        "capturado": "2026-10-10T13:58:37-05:00"
-      },
-      {
-        "titulo": "El endeudamiento externo de la nación alcanzó US$255.632 millones al cierre de julio",
-        "url": "https://www.larepublica.co/economia/la-deuda-externa-del-pais-llego-hasta-los-us-255-632-millones-con-corte-a-julio-4500794",
-        "fecha_portada": "",
-        "titulo_fuente": "La deuda externa del país llegó hasta los US$255.632 millones con corte a julio",
         "capturado": "2026-10-10T13:58:37-05:00"
       }
     ],
