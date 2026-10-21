@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-21T10:24:08-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-21T14:23:38-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Presupuesto por decreto deja fuera $3 billones para Salud y reducción de gasto en deuda",
+        "url": "https://www.larepublica.co/economia/presupuesto-por-decreto-excluye-3-billones-a-salud-y-la-reduccion-en-servicio-de-la-deuda-4507770",
+        "fecha_portada": "",
+        "titulo_fuente": "Presupuesto vía decreto excluye $3 billones a Salud y reducción en gasto en deuda",
+        "capturado": "2026-10-21T14:23:38-05:00"
+      },
+      {
+        "titulo": "Cruz Roja instó a participar de forma activa en el Simulacro Nacional",
+        "url": "https://www.larepublica.co/economia/cruz-roja-hizo-un-llamado-a-participar-de-manera-activa-en-el-simulacro-nacional-4507604",
+        "fecha_portada": "21/10/2026",
+        "titulo_fuente": "Cruz Roja hizo un llamado a participar de manera activa en el Simulacro Nacional",
+        "capturado": "2026-10-21T14:23:38-05:00"
+      },
+      {
+        "titulo": "Gómez urgió a tramitar con rapidez la adición de $1,2 billones para el sector energía",
+        "url": "https://www.larepublica.co/economia/gomez-inisitio-en-que-se-de-tramite-a-la-adicion-de-1-2-billones-para-el-sector-energia-4507565",
+        "fecha_portada": "",
+        "titulo_fuente": "Gómez insistió en tramitar rápido la adición de $1,2 billones para el sector energía",
+        "capturado": "2026-10-21T14:23:38-05:00"
+      },
+      {
+        "titulo": "Los TES a 10 años rebasan el 13% y Colombia registra más riesgo país que Brasil y México",
+        "url": "https://www.larepublica.co/economia/los-tes-a-10-anos-superan-13-y-colombia-tiene-mayor-riesgo-pais-que-brasil-y-mexico-4507217",
+        "fecha_portada": "",
+        "titulo_fuente": "Los TES a 10 años superan 13% y Colombia tiene mayor riesgo país que Brasil y México",
+        "capturado": "2026-10-21T14:23:38-05:00"
+      },
       {
         "titulo": "El FMI y el Banco Mundial evaluarán la estrategia de endeudamiento público para 2027-2030",
         "url": "https://www.larepublica.co/economia/fmi-y-banco-mundial-revisaran-estrategia-de-deuda-publica-de-colombia-para-2027-2030-4507257",
@@ -395,37 +423,37 @@
         "fecha_portada": "",
         "titulo_fuente": "Gobierno pide acelerar obras del Metro ante retrasos en estaciones y espacio público",
         "capturado": "2026-10-11T09:12:43-05:00"
-      },
-      {
-        "titulo": "ADLE solicita a la FAC indagar señalamientos contra la exprimera dama Verónica Alcocer",
-        "url": "https://www.larepublica.co/economia/adle-pide-a-la-fac-investigar-acusaciones-contra-exprimera-dama-veronica-alcocer-4501115",
-        "fecha_portada": "10/10/2026",
-        "titulo_fuente": "ADLE pide a la FAC investigar acusaciones contra exprimera dama, Verónica Alcocer",
-        "capturado": "2026-10-10T20:03:57-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo pretende desatascar iniciativas mediante ajustes en licencias ambientales",
-        "url": "https://www.larepublica.co/economia/el-gobierno-busca-acelerar-licencias-ambientales-con-nuevo-decreto-publico-borrador-4501023",
-        "fecha_portada": "10/10/2026",
-        "titulo_fuente": "El Gobierno busca destrabar proyectos con cambios a las licencias ambientales",
-        "capturado": "2026-10-10T13:58:37-05:00"
-      },
-      {
-        "titulo": "Cuatro expertos en economía perfilados para ganar el Nobel este lunes",
-        "url": "https://www.larepublica.co/economia/los-cuatros-economistas-que-suenan-para-quedarse-con-el-nobel-este-lunes-4500755",
-        "fecha_portada": "",
-        "titulo_fuente": "Los cuatros economistas que suenan para quedarse con el Nobel este lunes",
-        "capturado": "2026-10-10T13:58:37-05:00"
-      },
-      {
-        "titulo": "A dos meses del sismo hay 243.409 casas con daños y más de 486.000 personas perjudicadas",
-        "url": "https://www.larepublica.co/economia/tras-dos-meses-de-terremoto-243-409-viviendas-afectadas-y-mas-de-486-000-damnificados-4500998",
-        "fecha_portada": "",
-        "titulo_fuente": "Tras dos meses del terremoto: 243.409 viviendas afectadas y más de 486.000 damnificados",
-        "capturado": "2026-10-10T13:58:37-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó al alza con un precio promedio de $3.191, $27,93 por encima de la TRM",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-21-de-octubre-4507572",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró al alza en un precio promedio de $3.191, $27,93 por encima de la TRM",
+        "capturado": "2026-10-21T14:23:38-05:00"
+      },
+      {
+        "titulo": "Wall Street avanza por optimismo sobre resultados a pesar de la inestabilidad tecnológica",
+        "url": "https://www.larepublica.co/globoeconomia/wall-street-sube-por-optimismo-sobre-resultados-pese-a-volatilidad-tecnologica-4507670",
+        "fecha_portada": "",
+        "titulo_fuente": "Wall Street sube por optimismo sobre resultados pese a volatilidad tecnológica",
+        "capturado": "2026-10-21T14:23:38-05:00"
+      },
+      {
+        "titulo": "El oro retrocedió por cuarta jornada seguida, bajando 0,1% a US$4.121,27 por onza",
+        "url": "https://www.larepublica.co/finanzas/el-oro-cayo-por-cuarta-sesion-consecutiva-con-un-descenso-de-0-1-a-us-4-121-27-por-onza-4507530",
+        "fecha_portada": "21/10/2026",
+        "titulo_fuente": "El oro cayó por cuarta sesión consecutiva, con un descenso de 0,1% a US$4.121,27 por onza",
+        "capturado": "2026-10-21T14:23:38-05:00"
+      },
+      {
+        "titulo": "Ecopetrol, Grupo Sura y Cibest se posicionaron como las acciones más atractivas en octubre",
+        "url": "https://www.larepublica.co/finanzas/ecopetrol-grupo-sura-y-cibest-se-ubicaron-como-las-acciones-mas-llamativas-en-octubre-4507663",
+        "fecha_portada": "",
+        "titulo_fuente": "Ecopetrol, Grupo Sura y Cibest se ubicaron como las acciones más llamativas en octubre",
+        "capturado": "2026-10-21T14:23:38-05:00"
+      },
       {
         "titulo": "JPMorgan prevé que el bitcoin tendrá mayor rendimiento que el S&P 500 a 15 años",
         "url": "https://www.larepublica.co/globoeconomia/jpmorgan-proyecta-que-el-bitcoin-superara-al-s-p-500-en-rentabilidad-a-15-anos-4507233",
@@ -817,34 +845,6 @@
         "fecha_portada": "30/09/2026",
         "titulo_fuente": "El mercado ve incertidumbre en la acción de Nu por su posible entrada a Reino Unido",
         "capturado": "2026-09-30T15:31:10-05:00"
-      },
-      {
-        "titulo": "El dólar baja $32,95 con el mercado pendiente de las tasas del Banco de la República",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-30-de-septiembre-4493343",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar cotiza $32,95 a la baja mientras el mercado está atento a tasas del Banco de la República",
-        "capturado": "2026-09-30T10:59:09-05:00"
-      },
-      {
-        "titulo": "Wall Street asciende tras inflación moderada y caen apuestas de un incremento de la FED en octubre",
-        "url": "https://www.larepublica.co/globoeconomia/wall-street-sube-tras-inflacion-moderada-y-bajan-apuestas-a-alza-de-la-fed-en-octubre-4493528",
-        "fecha_portada": "",
-        "titulo_fuente": "Wall Street sube tras inflación moderada y bajan apuestas a alza de la FED en octubre",
-        "capturado": "2026-09-30T10:59:09-05:00"
-      },
-      {
-        "titulo": "El oro permanece estable mientras el mercado está a la espera de la inflación en EE.UU.",
-        "url": "https://www.larepublica.co/finanzas/el-oro-se-mantiene-estable-mientras-el-mercado-espera-el-indicador-de-inflacion-en-ee-uu-4493332",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro se mantiene estable mientras mercado espera la inflación en EE.UU.",
-        "capturado": "2026-09-30T10:59:09-05:00"
-      },
-      {
-        "titulo": "Los viajes a Estados Unidos costarán hasta 14,2% menos con el dólar en el nivel de $3.300",
-        "url": "https://www.larepublica.co/finanzas/viajar-a-estados-unidos-saldra-hasta-14-2-mas-barato-con-dolar-en-el-umbral-de-3-300-4493195",
-        "fecha_portada": "30/09/2026",
-        "titulo_fuente": "Viajar a Estados Unidos saldrá hasta 14,2% más barato con dólar en el umbral de $3.300",
-        "capturado": "2026-09-30T04:03:12-05:00"
       }
     ]
   }
