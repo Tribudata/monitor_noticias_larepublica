@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-21T00:02:35-05:00",
+  "actualizado": "2026-10-21T05:20:48-05:00",
   "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
@@ -427,6 +427,13 @@
     ],
     "Bolsas": [
       {
+        "titulo": "JPMorgan prevé que el bitcoin tendrá mayor rendimiento que el S&P 500 a 15 años",
+        "url": "https://www.larepublica.co/globoeconomia/jpmorgan-proyecta-que-el-bitcoin-superara-al-s-p-500-en-rentabilidad-a-15-anos-4507233",
+        "fecha_portada": "21/10/2026",
+        "titulo_fuente": "JPMorgan proyecta que el bitcoin superará al S&P 500 en rentabilidad a los 15 años",
+        "capturado": "2026-10-21T05:20:48-05:00"
+      },
+      {
         "titulo": "Protección acreditó $18,1 billones en ganancias a sus clientes de pensiones",
         "url": "https://www.larepublica.co/finanzas/proteccion-abono-18-1-billones-en-rendimientos-a-sus-clientes-de-pensiones-y-cesantias-4506981",
         "fecha_portada": "",
@@ -838,13 +845,6 @@
         "fecha_portada": "30/09/2026",
         "titulo_fuente": "Viajar a Estados Unidos saldrá hasta 14,2% más barato con dólar en el umbral de $3.300",
         "capturado": "2026-09-30T04:03:12-05:00"
-      },
-      {
-        "titulo": "Tejo Turmequé pretende recolectar hasta $2.700 millones mediante a2censo para expandirse",
-        "url": "https://www.larepublica.co/finanzas/tejo-turmeque-busca-recaudar-hasta-2-700-millones-a-traves-de-a2censo-para-su-expansion-4492812",
-        "fecha_portada": "",
-        "titulo_fuente": "Tejo Turmequé busca recaudar hasta $2.700 millones a través de a2censo para su expansión",
-        "capturado": "2026-09-29T15:03:13-05:00"
       }
     ]
   }
