@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-22T12:21:35-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-22T15:37:32-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Faltante fiscal se ubicó en 4,7% del PIB a agosto e intereses absorben 28% del recaudo de impuestos",
+        "url": "https://www.larepublica.co/economia/deficit-fiscal-llego-a-4-7-del-pib-a-agosto-y-los-intereses-consumen-28-del-recaudo-tributario-4508903",
+        "fecha_portada": "",
+        "titulo_fuente": "Déficit fiscal llegó a 4,7% del PIB a agosto y los intereses consumen 28% del recaudo tributario",
+        "capturado": "2026-10-22T15:37:32-05:00"
+      },
+      {
+        "titulo": "El objetivo es alcanzar cerca de 60.000 subsidios de vivienda asignados durante este gobierno",
+        "url": "https://www.larepublica.co/economia/intervencion-de-carlos-fernando-galan-alcalde-de-bogota-4508805",
+        "fecha_portada": "",
+        "titulo_fuente": "\"La meta es llegar a alrededor de 60.000 subsidios de vivienda asignados en este gobierno\"",
+        "capturado": "2026-10-22T15:37:32-05:00"
+      },
+      {
+        "titulo": "El faltante fiscal de enero a agosto ascendió a 4,6% del PIB, lo que equivale a $91,2 billones",
+        "url": "https://www.larepublica.co/economia/deficit-fiscal-llego-a-4-6-del-pib-con-corte-a-agosto-equivalente-a-91-billones-4508726",
+        "fecha_portada": "",
+        "titulo_fuente": "Déficit fiscal entre enero y agosto llegó a 4,6% del PIB, equivalente a $91,2 billones",
+        "capturado": "2026-10-22T15:37:32-05:00"
+      },
       {
         "titulo": "Villar alertó que el déficit tensiona las tasas e impulsa la apreciación del peso",
         "url": "https://www.larepublica.co/economia/villar-adviertio-que-el-deficit-fiscal-presiona-las-tasas-y-contribuye-a-la-apreciacion-del-peso-4508688",
@@ -402,27 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Ministerio del Interior actualizó protocolo de la fuerza pública en protestas sociales",
         "capturado": "2026-10-14T05:21:42-05:00"
-      },
-      {
-        "titulo": "El Gobierno reanudó el convenio con Colfuturo dentro del programa Talento Colombia",
-        "url": "https://www.larepublica.co/economia/reactivacion-del-programa-talento-colombia-4502350",
-        "fecha_portada": "13/10/2026",
-        "titulo_fuente": "El Gobierno reactivó la alianza con Colfuturo como parte del programa Talento Colombia",
-        "capturado": "2026-10-14T05:21:42-05:00"
-      },
-      {
-        "titulo": "Premiados con el Nobel son economistas que redefinieron las tesis de Keynes",
-        "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/robert-hall-y-michael-woodford-los-economistas-que-reformularon-las-ideas-de-keynes-4501309",
-        "fecha_portada": "",
-        "titulo_fuente": "Galardonados con el Nobel, economistas que reformularon las ideas de Keynes",
-        "capturado": "2026-10-12T20:28:22-05:00"
-      },
-      {
-        "titulo": "MIT y Harvard encabezan la lista de universidades con más economistas premiados",
-        "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/mit-y-harvard-lideran-el-ranking-de-universidades-con-mas-economistas-ganadores-4501329",
-        "fecha_portada": "",
-        "titulo_fuente": "MIT y Harvard lideran el ranking de universidades con más economistas ganadores",
-        "capturado": "2026-10-12T20:28:22-05:00"
       }
     ],
     "Bolsas": [
