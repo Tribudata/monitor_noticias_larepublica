@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-22T15:37:32-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-22T18:42:00-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "DNP propone un ajuste fiscal y promover la inversión privada para que Colombia crezca al 6%",
+        "url": "https://www.larepublica.co/economia/dnp-plantea-un-ajuste-fiscal-y-fomentar-la-inversion-privada-para-que-colombia-crezca-6-4508983",
+        "fecha_portada": "22/10/2026",
+        "titulo_fuente": "DNP plantea un ajuste fiscal y fomentar la inversión privada para que Colombia crezca 6%",
+        "capturado": "2026-10-22T18:42:00-05:00"
+      },
+      {
+        "titulo": "Dian reducirá 85% de las sanciones a contribuyentes morosos mediante decreto del sismo",
+        "url": "https://www.larepublica.co/economia/dian-rebajara-85-de-las-sanciones-a-contribuyentes-en-mora-con-el-decreto-del-terremoto-4509104",
+        "fecha_portada": "22/10/2026",
+        "titulo_fuente": "Dian rebajará 85% de las sanciones a contribuyentes en mora con decreto del sismo",
+        "capturado": "2026-10-22T18:42:00-05:00"
+      },
       {
         "titulo": "Faltante fiscal se ubicó en 4,7% del PIB a agosto e intereses absorben 28% del recaudo de impuestos",
         "url": "https://www.larepublica.co/economia/deficit-fiscal-llego-a-4-7-del-pib-a-agosto-y-los-intereses-consumen-28-del-recaudo-tributario-4508903",
@@ -409,20 +423,6 @@
         "fecha_portada": "14/10/2026",
         "titulo_fuente": "Corte Constitucional dio 30 días al Gobierno para sustentar impacto fiscal de la pensional",
         "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "El FMI recortó sus previsiones de crecimiento para Colombia en este año y el próximo",
-        "url": "https://www.larepublica.co/globoeconomia/fmi-reduce-las-previsiones-de-crecimiento-de-colombia-para-2026-y-2027-ante-las-presiones-inflacionarias-4502073",
-        "fecha_portada": "14/10/2026",
-        "titulo_fuente": "El FMI redujo sus proyecciones de crecimiento para Colombia en este curso y el próximo",
-        "capturado": "2026-10-14T05:21:42-05:00"
-      },
-      {
-        "titulo": "Ministerio del Interior ajustó el procedimiento de la fuerza pública durante las protestas sociales",
-        "url": "https://www.larepublica.co/economia/ministerio-del-interior-actualizo-protocolo-de-la-fuerza-publica-en-protestas-sociales-4502314",
-        "fecha_portada": "",
-        "titulo_fuente": "Ministerio del Interior actualizó protocolo de la fuerza pública en protestas sociales",
-        "capturado": "2026-10-14T05:21:42-05:00"
       }
     ],
     "Bolsas": [
