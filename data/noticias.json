@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-21T20:00:40-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-22T01:11:08-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Presupuesto General de la Nación se emitirá por decreto por tercera ocasión desde 1991",
+        "url": "https://www.larepublica.co/economia/por-tercera-vez-desde-1991-se-expedira-el-presupuesto-general-de-la-nacion-via-decreto-4508176",
+        "fecha_portada": "22/10/2026",
+        "titulo_fuente": "Por tercera vez desde 1991 se expedirá el Presupuesto General de la Nación vía decreto",
+        "capturado": "2026-10-22T01:11:08-05:00"
+      },
+      {
+        "titulo": "Alejandro Ordoñez ocupará el Ministerio del Interior, un puesto con duración promedio de 16 meses",
+        "url": "https://www.larepublica.co/economia/ordonez-sera-ministro-del-interior-un-cargo-que-dura-16-meses-en-promedio-4508267",
+        "fecha_portada": "",
+        "titulo_fuente": "Alejandro Ordoñez será ministro del Interior, un cargo que dura 16 meses en promedio",
+        "capturado": "2026-10-22T01:11:08-05:00"
+      },
+      {
+        "titulo": "Andrés Duque sería designado embajador de Colombia ante Australia en el Gobierno",
+        "url": "https://www.larepublica.co/economia/andres-duque-seria-nombrado-embajador-de-colombia-en-australia-en-el-gobierno-de-de-la-espriella-4508258",
+        "fecha_portada": "",
+        "titulo_fuente": "Andrés Duque sería nombrado embajador de Colombia en Australia en el Gobierno",
+        "capturado": "2026-10-22T01:11:08-05:00"
+      },
+      {
+        "titulo": "Los regímenes autoritarios y los populismos buscan modificar los sistemas",
+        "url": "https://www.larepublica.co/economia/jose-maria-aznar-e-ivan-duque-debatieron-sobre-democracia-libertad-y-retos-del-orden-mundial-4507737",
+        "fecha_portada": "",
+        "titulo_fuente": "\"Los regímenes autoritarios y los populismos buscan transformar los sistemas\"",
+        "capturado": "2026-10-22T01:11:08-05:00"
+      },
+      {
+        "titulo": "Por cada $100 del Presupuesto General de 2027, $22 se destinan exclusivamente a la deuda",
+        "url": "https://www.larepublica.co/economia/de-cada-100-del-presupuesto-general-de-2027-22-van-unicamente-al-pago-de-deuda-4506880",
+        "fecha_portada": "21/10/2026",
+        "titulo_fuente": "De cada $100 del Presupuesto General de 2027, $22 van únicamente a la deuda",
+        "capturado": "2026-10-22T01:11:08-05:00"
+      },
       {
         "titulo": "Presupuesto por decreto deja fuera $3 billones para Salud y reducción de gasto en deuda",
         "url": "https://www.larepublica.co/economia/presupuesto-por-decreto-excluye-3-billones-a-salud-y-la-reduccion-en-servicio-de-la-deuda-4507770",
@@ -388,41 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Colombia plantea modificar la verificación internacional del Acuerdo de Paz ante la ONU",
         "capturado": "2026-10-12T20:28:22-05:00"
-      },
-      {
-        "titulo": "Rodríguez atribuye a los diálogos con Estados Unidos la recuperación económica de Venezuela",
-        "url": "https://www.larepublica.co/globoeconomia/delcy-rodriguez-atribuye-al-dialogo-con-ee-uu-la-recuperacion-economica-de-venezuela-4501413",
-        "fecha_portada": "12/10/2026",
-        "titulo_fuente": "Rodríguez atribuye al diálogo con EE.UU. la recuperación económica de Venezuela",
-        "capturado": "2026-10-12T20:28:22-05:00"
-      },
-      {
-        "titulo": "El Premio Nobel de Economía fue otorgado a Robert E. Hall y Michael Woodford",
-        "url": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/robert-e-hall-y-michael-woodford-los-ganadores-del-premio-nobel-de-economia-4501301",
-        "fecha_portada": "",
-        "titulo_fuente": "Robert E. Hall y Michael Woodford fueron los ganadores del Premio Nobel de Economía",
-        "capturado": "2026-10-12T14:11:10-05:00"
-      },
-      {
-        "titulo": "Presidente y ministros solicitan indagar a Matador por ataques a la primera dama",
-        "url": "https://www.larepublica.co/economia/gobierno-pide-a-la-fiscalia-investigar-comentarios-de-matador-contra-la-primera-dama-4501361",
-        "fecha_portada": "12/10/2026",
-        "titulo_fuente": "Presidente y ministros piden investigar a 'Matador' por ataques a primera dama",
-        "capturado": "2026-10-12T14:11:10-05:00"
-      },
-      {
-        "titulo": "Alrededor de 500 notarías estarían en peligro de clausura por falta de planeación presupuestal",
-        "url": "https://www.larepublica.co/economia/cerca-de-500-notarias-en-colombia-estarian-en-riesgo-de-cierre-4501370",
-        "fecha_portada": "",
-        "titulo_fuente": "Cerca de 500 notarías estarían en riesgo de cierre por falta de planeación presupuestal",
-        "capturado": "2026-10-12T14:11:10-05:00"
-      },
-      {
-        "titulo": "Gobierno solicita agilizar trabajos del Metro debido a demoras en estaciones y espacio público",
-        "url": "https://www.larepublica.co/economia/gobierno-pide-acelerar-obras-del-metro-ante-retrasos-en-estaciones-y-espacio-publico-4501156",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno pide acelerar obras del Metro ante retrasos en estaciones y espacio público",
-        "capturado": "2026-10-11T09:12:43-05:00"
       }
     ],
     "Bolsas": [
