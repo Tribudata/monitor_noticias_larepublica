@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-22T01:11:08-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-22T07:07:58-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,13 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El oro cayó a su nivel más bajo en más de dos semanas por la subida del crudo brent",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-22-de-octubre-4508399",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro tocó mínimo de más de dos semanas lastrado por repunte del crudo brent",
+        "capturado": "2026-10-22T07:07:58-05:00"
+      },
+      {
         "titulo": "El dólar finalizó al alza con un precio promedio de $3.191, $27,93 por encima de la TRM",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-21-de-octubre-4507572",
         "fecha_portada": "",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "\"Tenemos muchos planes hacia el futuro, queremos abrir cuentas para menores de edad\"",
         "capturado": "2026-10-01T01:11:14-05:00"
-      },
-      {
-        "titulo": "Incertidumbre en el mercado por los títulos de Nu ante su potencial arribo a Reino Unido",
-        "url": "https://www.larepublica.co/finanzas/el-mercado-ve-incertidumbre-en-la-accion-de-nu-por-su-posible-entrada-a-reino-unido-4493654",
-        "fecha_portada": "30/09/2026",
-        "titulo_fuente": "El mercado ve incertidumbre en la acción de Nu por su posible entrada a Reino Unido",
-        "capturado": "2026-09-30T15:31:10-05:00"
       }
     ]
   }
