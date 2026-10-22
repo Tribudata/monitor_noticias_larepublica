@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-22T07:07:58-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-22T12:21:35-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Villar alertó que el déficit tensiona las tasas e impulsa la apreciación del peso",
+        "url": "https://www.larepublica.co/economia/villar-adviertio-que-el-deficit-fiscal-presiona-las-tasas-y-contribuye-a-la-apreciacion-del-peso-4508688",
+        "fecha_portada": "",
+        "titulo_fuente": "Villar advirtió que el déficit presiona las tasas y contribuye a la apreciación del peso",
+        "capturado": "2026-10-22T12:21:35-05:00"
+      },
+      {
+        "titulo": "Los desafíos que Aznar detecta para la democracia liberal: la IA, la crisis energética y demográfica",
+        "url": "https://www.larepublica.co/economia/los-retos-que-aznar-identifica-para-la-democracia-liberal-la-ia-la-crisis-energetica-y-demografica-4508662",
+        "fecha_portada": "22/10/2026",
+        "titulo_fuente": "Los retos que Aznar identifica para la democracia liberal: la IA, la crisis energética y demográfica",
+        "capturado": "2026-10-22T12:21:35-05:00"
+      },
       {
         "titulo": "El Presupuesto General de la Nación se emitirá por decreto por tercera ocasión desde 1991",
         "url": "https://www.larepublica.co/economia/por-tercera-vez-desde-1991-se-expedira-el-presupuesto-general-de-la-nacion-via-decreto-4508176",
@@ -409,23 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "MIT y Harvard lideran el ranking de universidades con más economistas ganadores",
         "capturado": "2026-10-12T20:28:22-05:00"
-      },
-      {
-        "titulo": "De la Espriella y Marco Rubio hablaron sobre seguridad y cooperación bilateral",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-y-marco-rubio-conversaron-sobre-seguridad-y-cooperacion-bilateral-4501459",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella y Marco Rubio conversaron sobre seguridad y cooperación bilateral",
-        "capturado": "2026-10-12T20:28:22-05:00"
-      },
-      {
-        "titulo": "Colombia propone ante la ONU cambiar la verificación internacional del Acuerdo de Paz",
-        "url": "https://www.larepublica.co/economia/colombia-propone-modificar-la-verificacion-internacional-del-acuerdo-de-paz-ante-la-onu-4501410",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia plantea modificar la verificación internacional del Acuerdo de Paz ante la ONU",
-        "capturado": "2026-10-12T20:28:22-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Mercados descienden tras reportes de las tecnológicas e incremento del barril brent",
+        "url": "https://www.larepublica.co/globoeconomia/las-bolsas-caen-por-resultados-de-tecnologicas-y-la-subida-del-petroleo-4508665",
+        "fecha_portada": "22/10/2026",
+        "titulo_fuente": "Bolsas caen luego de los resultados de tecnológicas y la subida del barril brent",
+        "capturado": "2026-10-22T12:21:35-05:00"
+      },
+      {
+        "titulo": "El dólar se negocia a la baja en $3.186,22, un descenso de $5,25 respecto a la TRM de $3.191,47",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-22-de-octubre-4508460",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cotiza a la baja en $3.186,22, una caída de $5,25 frente a la TRM de $3.191,47",
+        "capturado": "2026-10-22T12:21:35-05:00"
+      },
       {
         "titulo": "El oro cayó a su nivel más bajo en más de dos semanas por la subida del crudo brent",
         "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-22-de-octubre-4508399",
@@ -831,20 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Grupo Nutresa absorbió a Nugil y Jgdb con la totalidad de sus activos, pasivos y patrimonio",
         "capturado": "2026-10-01T08:34:38-05:00"
-      },
-      {
-        "titulo": "El oro se mantiene sin cambios mientras los operadores analizan los rendimientos de los bonos",
-        "url": "https://www.larepublica.co/finanzas/el-oro-se-mantiene-estable-mientras-los-operadores-sopesan-los-rendimientos-de-los-bonos-4494217",
-        "fecha_portada": "01/10/2026",
-        "titulo_fuente": "El oro está estable mientras los operadores sopesan rendimientos de los bonos",
-        "capturado": "2026-10-01T08:34:38-05:00"
-      },
-      {
-        "titulo": "Contamos con múltiples proyectos a futuro y deseamos habilitar cuentas para menores de edad",
-        "url": "https://www.larepublica.co/finanzas/entrevista-con-diego-torres-ceo-y-cofundador-de-trii-4493957",
-        "fecha_portada": "",
-        "titulo_fuente": "\"Tenemos muchos planes hacia el futuro, queremos abrir cuentas para menores de edad\"",
-        "capturado": "2026-10-01T01:11:14-05:00"
       }
     ]
   }
