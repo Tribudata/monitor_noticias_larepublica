@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-23T07:53:24-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-23T12:31:32-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Se retira el grupo legislativo de Hacienda por una equivocación en el trámite del Presupuesto",
+        "url": "https://www.larepublica.co/economia/sale-el-equipo-legislativo-de-hacienda-tras-error-en-el-tramite-del-presupuesto-4509648",
+        "fecha_portada": "",
+        "titulo_fuente": "Sale el equipo legislativo de Hacienda tras error en el trámite del Presupuesto",
+        "capturado": "2026-10-23T12:31:32-05:00"
+      },
+      {
+        "titulo": "Analistas esperan que el Banco de la República eleve las tasas hasta 12,50% en octubre",
+        "url": "https://www.larepublica.co/economia/analistas-preven-que-el-banco-de-la-republica-suba-las-tasas-hasta-12-50-en-octubre-4509658",
+        "fecha_portada": "23/10/2026",
+        "titulo_fuente": "Analistas prevén que el Banco de la República suba las tasas hasta 12,50% en octubre",
+        "capturado": "2026-10-23T12:31:32-05:00"
+      },
       {
         "titulo": "Reducción de $13,8 billones al PGN de 2026 contempla $4 billones para el servicio de la deuda",
         "url": "https://www.larepublica.co/economia/gobierno-recorto-13-8-billones-al-presupuesto-general-de-la-nacion-de-2026-4509412",
@@ -409,23 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Mesa técnica del FMI llegará a Bogotá en noviembre para explorar apoyo financiero",
         "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Colombia es quinta en América Latina en cuanto a nivel de endeudamiento por habitante",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-ocupa-el-quinto-lugar-en-america-latina-en-deuda-por-habitante-4502972",
-        "fecha_portada": "15/10/2026",
-        "titulo_fuente": "Colombia ocupa el quinto lugar en América Latina en materia de deuda por cada habitante",
-        "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Las áreas que obtendrían más fondos en el Presupuesto y en cuáles habrá recortes",
-        "url": "https://www.larepublica.co/economia/los-sectores-que-recibirian-mas-recursos-en-el-presupuesto-de-2027-y-donde-se-pasaria-tijera-4502463",
-        "fecha_portada": "",
-        "titulo_fuente": "Los sectores que recibirían más recursos en el Presupuesto y dónde se pasaría tijera",
-        "capturado": "2026-10-15T05:24:23-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar cae $23,09 en su cotización, al tiempo que el petróleo sube",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-octubre-4509419",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar cotiza a la baja, con una caída de $23,09, mientras el petróleo repunta",
+        "capturado": "2026-10-23T12:31:32-05:00"
+      },
+      {
+        "titulo": "El título del Grupo Nutresa se ha elevado más de 236% desde que Gilinski tomó la presidencia",
+        "url": "https://www.larepublica.co/finanzas/accion-de-nutresa-tras-la-compra-de-presto-4509523",
+        "fecha_portada": "",
+        "titulo_fuente": "Acción del Grupo Nutresa ha crecido más de 236% desde que Gilinski asumió la presidencia",
+        "capturado": "2026-10-23T12:31:32-05:00"
+      },
+      {
+        "titulo": "El descenso de las tecnológicas se atenúa, pero el valor del petróleo restringe el alivio",
+        "url": "https://www.larepublica.co/globoeconomia/la-caida-de-tecnologicas-se-modera-pero-el-precio-del-petroleo-limita-el-alivio-4509638",
+        "fecha_portada": "23/10/2026",
+        "titulo_fuente": "La caída de tecnológicas se modera, pero el precio del petróleo limita el alivio",
+        "capturado": "2026-10-23T12:31:32-05:00"
+      },
       {
         "titulo": "El oro está cerca de US$4.000 la onza luego de un bajón marcado en una semana agitada",
         "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-23-de-octubre-4509395",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El dólar se cotiza $27,07 a la baja frente a la TRM del día que se ubicó en $3.307",
         "capturado": "2026-10-02T10:07:05-05:00"
-      },
-      {
-        "titulo": "El oro se mantiene estable previo al reporte de empleo en EE.UU., encaminado a una pérdida semanal",
-        "url": "https://www.larepublica.co/finanzas/el-oro-se-cotiza-estable-antes-de-dato-laboral-en-ee-uu-en-camino-a-caida-semanal-4495136",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro se cotiza estable antes de dato laboral en EE.UU., en camino a caída semanal",
-        "capturado": "2026-10-02T10:07:05-05:00"
-      },
-      {
-        "titulo": "Acciones de EE. UU. ganan valor a pesar de la inestabilidad de bonos y el alza en rendimientos",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-de-ee-uu-suben-pese-a-volatilidad-de-los-bonos-y-el-repunte-de-los-rendimientos-4494430",
-        "fecha_portada": "",
-        "titulo_fuente": "Acciones de EE.UU. suben pese a volatilidad de los bonos y el repunte de los rendimientos",
-        "capturado": "2026-10-01T14:05:21-05:00"
-      },
-      {
-        "titulo": "El dólar comenzó la jornada cayendo $14,84 después del incremento en las tasas de interés del Emisor",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-1-de-octubre-4494236",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar abrió $14,84 a la baja tras subida de las tasas de interés del Emisor",
-        "capturado": "2026-10-01T08:34:38-05:00"
       }
     ]
   }
