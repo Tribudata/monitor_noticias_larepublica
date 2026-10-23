@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-22T21:05:49-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-23T02:43:56-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El faltante fiscal creció a 4,6% del PIB a agosto y rebasó el acumulado total de 2023",
+        "url": "https://www.larepublica.co/economia/el-deficit-fiscal-se-expandio-a-4-6-del-pib-a-agosto-y-ya-supero-al-registro-total-de-2023-4509036",
+        "fecha_portada": "",
+        "titulo_fuente": "El déficit fiscal se expandió a 4,6% del PIB a agosto y ya logró superar al registro total de 2023",
+        "capturado": "2026-10-23T02:43:56-05:00"
+      },
+      {
+        "titulo": "Michel Janna representará a Colombia ante el FMI en Washington",
+        "url": "https://www.larepublica.co/economia/michel-janna-asumira-la-representacion-de-colombia-ante-el-fmi-en-washington-4509158",
+        "fecha_portada": "22/10/2026",
+        "titulo_fuente": "Michel Janna asumirá la representación de Colombia ante el FMI en Washington",
+        "capturado": "2026-10-23T02:43:56-05:00"
+      },
       {
         "titulo": "DNP propone un ajuste fiscal y promover la inversión privada para que Colombia crezca al 6%",
         "url": "https://www.larepublica.co/economia/dnp-plantea-un-ajuste-fiscal-y-fomentar-la-inversion-privada-para-que-colombia-crezca-6-4508983",
@@ -408,20 +422,6 @@
         "url": "https://www.larepublica.co/economia/plenaria-de-camara-dara-inicio-a-segundo-debate-de-presupuesto-este-jueves-a-las-9-00-a-m-4503231",
         "fecha_portada": "",
         "titulo_fuente": "Plenaria de Cámara dará inicio a segundo debate de Presupuesto este jueves a las 9:00 a.m.",
-        "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Sepa cuáles son los 50 municipios que poseen la población más vieja",
-        "url": "https://www.larepublica.co/economia/los-50-municipios-que-tienen-la-poblacion-mas-vieja-en-colombia-4500086",
-        "fecha_portada": "13/10/2026",
-        "titulo_fuente": "Conozca cuáles son los 50 municipios que tienen la población más vieja",
-        "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Corte Constitucional otorgó 30 días al Gobierno para justificar el impacto fiscal de la pensional",
-        "url": "https://www.larepublica.co/finanzas/corte-constitucional-dio-30-dias-al-gobierno-para-sustentar-impacto-fiscal-de-la-pensional-4503253",
-        "fecha_portada": "14/10/2026",
-        "titulo_fuente": "Corte Constitucional dio 30 días al Gobierno para sustentar impacto fiscal de la pensional",
         "capturado": "2026-10-15T05:24:23-05:00"
       }
     ],
