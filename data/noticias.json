@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-23T02:43:56-05:00",
+  "actualizado": "2026-10-23T07:53:24-05:00",
   "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Reducción de $13,8 billones al PGN de 2026 contempla $4 billones para el servicio de la deuda",
+        "url": "https://www.larepublica.co/economia/gobierno-recorto-13-8-billones-al-presupuesto-general-de-la-nacion-de-2026-4509412",
+        "fecha_portada": "",
+        "titulo_fuente": "Recorte de $13,8 billones al PGN de 2026 incluye $4 billones al servicio de la deuda",
+        "capturado": "2026-10-23T07:53:24-05:00"
+      },
       {
         "titulo": "El faltante fiscal creció a 4,6% del PIB a agosto y rebasó el acumulado total de 2023",
         "url": "https://www.larepublica.co/economia/el-deficit-fiscal-se-expandio-a-4-6-del-pib-a-agosto-y-ya-supero-al-registro-total-de-2023-4509036",
@@ -416,16 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Los sectores que recibirían más recursos en el Presupuesto y dónde se pasaría tijera",
         "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Plenaria de la Cámara comenzará el segundo debate del Presupuesto este jueves a las 9:00 a.m.",
-        "url": "https://www.larepublica.co/economia/plenaria-de-camara-dara-inicio-a-segundo-debate-de-presupuesto-este-jueves-a-las-9-00-a-m-4503231",
-        "fecha_portada": "",
-        "titulo_fuente": "Plenaria de Cámara dará inicio a segundo debate de Presupuesto este jueves a las 9:00 a.m.",
-        "capturado": "2026-10-15T05:24:23-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El oro está cerca de US$4.000 la onza luego de un bajón marcado en una semana agitada",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-23-de-octubre-4509395",
+        "fecha_portada": "23/10/2026",
+        "titulo_fuente": "El oro ronda US$4.000 la onza tras una fuerte caída en medio de una semana turbulenta",
+        "capturado": "2026-10-23T07:53:24-05:00"
+      },
       {
         "titulo": "Mercados descienden tras reportes de las tecnológicas e incremento del barril brent",
         "url": "https://www.larepublica.co/globoeconomia/las-bolsas-caen-por-resultados-de-tecnologicas-y-la-subida-del-petroleo-4508665",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-1-de-octubre-4494236",
         "fecha_portada": "",
         "titulo_fuente": "El dólar abrió $14,84 a la baja tras subida de las tasas de interés del Emisor",
-        "capturado": "2026-10-01T08:34:38-05:00"
-      },
-      {
-        "titulo": "Grupo Nutresa incorporó a Nugil y Jgdb con el total de sus activos, pasivos y patrimonio",
-        "url": "https://www.larepublica.co/empresas/absorcion-de-nugil-y-jgdb-en-el-grupo-nutresa-4494259",
-        "fecha_portada": "",
-        "titulo_fuente": "Grupo Nutresa absorbió a Nugil y Jgdb con la totalidad de sus activos, pasivos y patrimonio",
         "capturado": "2026-10-01T08:34:38-05:00"
       }
     ]
