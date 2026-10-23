@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-23T12:31:32-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-23T15:41:25-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Apenas se logró el 72,5% de los objetivos del Plan Nacional de Desarrollo Petro",
+        "url": "https://www.larepublica.co/economia/solo-se-cumplieron-72-5-de-las-metas-del-plan-nacional-de-desarrollo-petro-4509729",
+        "fecha_portada": "23/10/2026",
+        "titulo_fuente": "Solo se cumplieron 72,5% de las metas del Plan Nacional de Desarrollo Petro",
+        "capturado": "2026-10-23T15:41:25-05:00"
+      },
       {
         "titulo": "Se retira el grupo legislativo de Hacienda por una equivocación en el trámite del Presupuesto",
         "url": "https://www.larepublica.co/economia/sale-el-equipo-legislativo-de-hacienda-tras-error-en-el-tramite-del-presupuesto-4509648",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/minas-y-energia-recibiria-3-billones-para-los-subsidios-de-energia-y-gas-4503129",
         "fecha_portada": "15/10/2026",
         "titulo_fuente": "Minas y energía recibiría $3 billones para los subsidios de energía y gas en el PGN",
-        "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Comisión técnica del FMI arribará a Bogotá en noviembre a fin de evaluar auxilio financiero",
-        "url": "https://www.larepublica.co/economia/mesa-tecnica-del-fmi-llegara-a-bogota-en-noviembre-para-explorar-apoyo-financiero-4502552",
-        "fecha_portada": "",
-        "titulo_fuente": "Mesa técnica del FMI llegará a Bogotá en noviembre para explorar apoyo financiero",
         "capturado": "2026-10-15T05:24:23-05:00"
       }
     ],
