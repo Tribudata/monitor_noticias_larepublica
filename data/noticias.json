@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-24T07:06:38-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-24T11:05:57-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Entraron en servicio los primeros kilómetros del Gran Malecón del Mar en Cartagena",
+        "url": "https://www.larepublica.co/economia/se-inauguraron-los-primeros-kilometros-del-gran-malecon-del-mar-en-cartagena-4510253",
+        "fecha_portada": "24/10/2026",
+        "titulo_fuente": "Se inauguraron los primeros kilómetros del Gran Malecón del Mar en Cartagena",
+        "capturado": "2026-10-24T11:05:57-05:00"
+      },
       {
         "titulo": "Gobierno revela recorte de presupuesto de $9,8 billones a más de 110 instituciones",
         "url": "https://www.larepublica.co/economia/gobierno-nacional-anuncia-tijeretazo-presupuestal-a-114-entidades-por-9-8-billones-4509957",
@@ -416,13 +423,6 @@
         "fecha_portada": "15/10/2026",
         "titulo_fuente": "Emisor ha comprado US$1.039 millones desde agosto para acumular reservas",
         "capturado": "2026-10-15T14:16:02-05:00"
-      },
-      {
-        "titulo": "35 organizaciones reprobadas por la Contraloría debido a fallas en sus estados financieros",
-        "url": "https://www.larepublica.co/economia/las-35-entidades-que-recibieron-opinion-negativa-de-la-contraloria-sobre-sus-estados-financieros-4503318",
-        "fecha_portada": "",
-        "titulo_fuente": "Las 35 entidades que rajó la Contraloría por inconsistencias en sus estados financieros",
-        "capturado": "2026-10-15T10:08:26-05:00"
       }
     ],
     "Bolsas": [
