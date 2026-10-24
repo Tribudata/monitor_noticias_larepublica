@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-23T21:04:31-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-24T02:26:00-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Gobierno revela recorte de presupuesto de $9,8 billones a más de 110 instituciones",
+        "url": "https://www.larepublica.co/economia/gobierno-nacional-anuncia-tijeretazo-presupuestal-a-114-entidades-por-9-8-billones-4509957",
+        "fecha_portada": "24/10/2026",
+        "titulo_fuente": "El Gobierno anuncia un tijeretazo presupuestal a más de 110 entidades por $9,8 billones",
+        "capturado": "2026-10-24T02:26:00-05:00"
+      },
+      {
+        "titulo": "José Manuel Restrepo propuso un nuevo ajuste fiscal de $70 billones para el siguiente periodo",
+        "url": "https://www.larepublica.co/economia/jose-manuel-restrepo-plantea-ajuste-fiscal-de-70-billones-para-el-proximo-ano-4510040",
+        "fecha_portada": "23/10/2026",
+        "titulo_fuente": "José Manuel Restrepo planteó un nuevo ajuste fiscal de $70 billones para el próximo curso",
+        "capturado": "2026-10-24T02:26:00-05:00"
+      },
+      {
+        "titulo": "En dos meses de la administración De la Espriella, se han retirado dos ministros y tres viceministros",
+        "url": "https://www.larepublica.co/economia/en-dos-meses-del-gobierno-de-la-espriella-han-salido-dos-ministros-y-tres-viceministros-4510080",
+        "fecha_portada": "24/10/2026",
+        "titulo_fuente": "En dos meses del Gobierno De la Espriella, han salido dos ministros y tres viceministros",
+        "capturado": "2026-10-24T02:26:00-05:00"
+      },
+      {
+        "titulo": "De esta forma puede aminorar la sanción si no declaró renta en las fechas fijadas",
+        "url": "https://www.larepublica.co/finanzas/asi-puede-reducir-la-sancion-si-no-declaro-renta-dentro-de-las-fechas-establecidas-por-la-dian-4509914",
+        "fecha_portada": "",
+        "titulo_fuente": "Así puede reducir la sanción si no declaró renta dentro de las fechas establecidas",
+        "capturado": "2026-10-24T02:26:00-05:00"
+      },
       {
         "titulo": "El Ejecutivo intercambió $30,1 billones en TES y la siguiente permuta será en noviembre",
         "url": "https://www.larepublica.co/economia/gobierno-ya-canjeo-30-1-billones-en-tes-el-proximo-canje-se-hara-en-noviembre-4510067",
@@ -395,37 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Las 35 entidades que rajó la Contraloría por inconsistencias en sus estados financieros",
         "capturado": "2026-10-15T10:08:26-05:00"
-      },
-      {
-        "titulo": "Aumento de la inflación en Estados Unidos plantea un nuevo incremento de tasas",
-        "url": "https://www.larepublica.co/globoeconomia/repunte-de-inflacion-en-estados-unidos-pone-otra-subida-de-tasas-sobre-la-mesa-4502973",
-        "fecha_portada": "",
-        "titulo_fuente": "Repunte de inflación en Estados Unidos pone otra subida de tasas sobre la mesa",
-        "capturado": "2026-10-15T10:08:26-05:00"
-      },
-      {
-        "titulo": "Secretaría de Hacienda de Bogotá autorizó rebajas de 60% en intereses de deudas",
-        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-habilito-descuentos-de-60-en-intereses-de-deudas-4503305",
-        "fecha_portada": "15/10/2026",
-        "titulo_fuente": "Secretaría de Hacienda de Bogotá habilitó descuentos de 60% en intereses de deudas",
-        "capturado": "2026-10-15T10:08:26-05:00"
-      },
-      {
-        "titulo": "Fondo Milagro comenzará con $624.000 millones y arrancará derribos de casas",
-        "url": "https://www.larepublica.co/economia/fondo-milagro-abrira-con-624-000-millones-e-iniciara-con-demoliciones-de-viviendas-4503465",
-        "fecha_portada": "15/10/2026",
-        "titulo_fuente": "Fondo Milagro abrirá con $624.000 millones e iniciará con demoliciones de viviendas",
-        "capturado": "2026-10-15T10:08:26-05:00"
-      },
-      {
-        "titulo": "Bobby Pulido, intérprete de regional mexicano que enfrenta al trumpismo en Texas",
-        "url": "https://www.agronegocios.co/agricultura/bobby-pulido-el-cantante-de-regional-mexicano-que-busca-desafiar-al-trumpismo-en-texas-4503364",
-        "fecha_portada": "15/10/2026",
-        "titulo_fuente": "Bobby Pulido, el cantante de regional mexicano que desafía al trumpismo en Texas",
-        "capturado": "2026-10-15T10:08:26-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Adelante sus adquisiciones de Navidad usando el valor más bajo que marca el dólar",
+        "url": "https://www.larepublica.co/finanzas/anticipese-a-las-compras-que-hara-en-navidad-aprovechando-el-minimo-que-registra-el-dolar-4510018",
+        "fecha_portada": "",
+        "titulo_fuente": "Anticípese a las compras que hará en Navidad aprovechando el mínimo que registra el dólar",
+        "capturado": "2026-10-24T02:26:00-05:00"
+      },
       {
         "titulo": "El dólar cae $23,09 en su cotización, al tiempo que el petróleo sube",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-octubre-4509419",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "BVC en alianza con Trii anunció nueva edición de la iniciativa Bolsa Millonaria",
         "capturado": "2026-10-02T21:26:48-05:00"
-      },
-      {
-        "titulo": "El dólar registra una baja de $27,07 respecto a la TRM del día de $3.307",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-2-de-octubre-de-2026-4495200",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar se cotiza $27,07 a la baja frente a la TRM del día que se ubicó en $3.307",
-        "capturado": "2026-10-02T10:07:05-05:00"
       }
     ]
   }
