@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-25T10:05:31-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-25T13:28:02-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De ser una nación, los latinos en Estados Unidos constituirían la quinta economía más grande",
+        "url": "https://www.larepublica.co/globoeconomia/si-los-latinos-en-ee-uu-fueran-un-pais-serian-la-quinta-economia-mas-grande-4510586",
+        "fecha_portada": "",
+        "titulo_fuente": "Si los latinos en Estados Unidos fueran un país serían la quinta economía más grande",
+        "capturado": "2026-10-25T13:28:02-05:00"
+      },
       {
         "titulo": "Entraron en servicio los primeros kilómetros del Gran Malecón del Mar en Cartagena",
         "url": "https://www.larepublica.co/economia/se-inauguraron-los-primeros-kilometros-del-gran-malecon-del-mar-en-cartagena-4510253",
@@ -416,13 +423,6 @@
         "fecha_portada": "15/10/2026",
         "titulo_fuente": "Gómez alertó por $17 billones en sentencias que no pagó el gobierno anterior",
         "capturado": "2026-10-15T17:29:45-05:00"
-      },
-      {
-        "titulo": "Banco Emisor adquirió US$1.039 millones a partir de agosto para incrementar reservas",
-        "url": "https://www.larepublica.co/economia/emisor-ha-comprado-us-1-039-millones-desde-agosto-para-acumular-reservas-4503646",
-        "fecha_portada": "15/10/2026",
-        "titulo_fuente": "Emisor ha comprado US$1.039 millones desde agosto para acumular reservas",
-        "capturado": "2026-10-15T14:16:02-05:00"
       }
     ],
     "Bolsas": [
