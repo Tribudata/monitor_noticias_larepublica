@@ -1,9 +1,58 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-25T20:22:38-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-26T01:28:21-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Inicia la disputa por la Ley de Rescate y las nuevas adiciones presupuestales del PGN",
+        "url": "https://www.larepublica.co/economia/comienza-la-carrera-por-la-ley-de-rescate-y-las-nuevas-adiciones-presupuestales-del-pgn-4510052",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Comienza la carrera por la Ley de Rescate y las nuevas adiciones presupuestales del PGN",
+        "capturado": "2026-10-26T01:28:21-05:00"
+      },
+      {
+        "titulo": "De la Espriella radicará la Ley de Rescate esta semana y adopta medidas preventivas por El Niño",
+        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-presentara-la-ley-de-rescate-para-ajustar-las-finanzas-esta-semana-4510802",
+        "fecha_portada": "",
+        "titulo_fuente": "De la Espriella presentará la Ley de Rescate esta semana y adopta medidas de cuidado por El Niño",
+        "capturado": "2026-10-26T01:28:21-05:00"
+      },
+      {
+        "titulo": "Colombia se frena en competitividad fiscal dentro del grupo de países de la Ocde",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-se-estanca-en-competitividad-fiscal-en-el-bloque-de-paises-ocde-4510128",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Colombia se estanca en competitividad fiscal en el bloque de países Ocde",
+        "capturado": "2026-10-26T01:28:21-05:00"
+      },
+      {
+        "titulo": "Mi Casa Ya y el ajuste fiscal definirán la agenda legislativa del siguiente periodo",
+        "url": "https://www.larepublica.co/especiales/congreso-camacol-2026/mi-casa-ya-y-el-ajuste-fiscal-son-los-ejes-que-marcaran-la-agenda-legislativa-de-2027-4510722",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Mi Casa Ya y el ajuste fiscal, son los ejes que marcarán la agenda legislativa del próximo curso",
+        "capturado": "2026-10-26T01:28:21-05:00"
+      },
+      {
+        "titulo": "Las personas mayores de 50 años fijan las prioridades del desarrollo y crecimiento del país",
+        "url": "https://www.larepublica.co/especiales/congreso-camacol-2026/los-mayores-de-50-anos-marcan-las-prioridades-para-el-desarrollo-4510746",
+        "fecha_portada": "",
+        "titulo_fuente": "Los mayores de 50 años marcan las prioridades para el desarrollo y crecimiento del país",
+        "capturado": "2026-10-26T01:28:21-05:00"
+      },
+      {
+        "titulo": "De esta forma ha perdido terreno el efectivo desde el arribo de pagos inmediatos con Bre-B",
+        "url": "https://www.larepublica.co/finanzas/asi-ha-perdido-terreno-el-efectivo-con-la-llegada-de-bre-b-4510738",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Así ha perdido terreno el efectivo desde la llegada de los pagos inmediatos con Bre-B",
+        "capturado": "2026-10-26T01:28:21-05:00"
+      },
+      {
+        "titulo": "El Dane dará a conocer la encuesta multipropósito Bogotá tras cinco años del estudio previo",
+        "url": "https://www.larepublica.co/economia/el-dane-revelara-encuesta-multiproposito-bogota-luego-de-cinco-anos-del-ultimo-estudio-4510903",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Dane revelará la encuesta multipropósito Bogotá luego de cinco años del último estudio",
+        "capturado": "2026-10-26T01:28:21-05:00"
+      },
       {
         "titulo": "De ser una nación, los latinos en Estados Unidos constituirían la quinta economía más grande",
         "url": "https://www.larepublica.co/globoeconomia/si-los-latinos-en-ee-uu-fueran-un-pais-serian-la-quinta-economia-mas-grande-4510586",
@@ -374,58 +423,16 @@
         "fecha_portada": "16/10/2026",
         "titulo_fuente": "Inversión Extranjera Directa alcanzó US$885 millones y creció 44% en septiembre",
         "capturado": "2026-10-17T01:17:20-05:00"
-      },
-      {
-        "titulo": "Especialistas estiman un incremento de 25 puntos básicos en la tasa de política monetaria",
-        "url": "https://www.larepublica.co/economia/analistas-preven-un-alza-de-25-puntos-basicos-en-la-tasa-de-politica-monetaria-4504617",
-        "fecha_portada": "16/10/2026",
-        "titulo_fuente": "Analistas prevén un alza de 25 puntos básicos en la tasa de política monetaria",
-        "capturado": "2026-10-16T16:25:17-05:00"
-      },
-      {
-        "titulo": "Liquidez de la Nación repuntó al finalizar septiembre por la reanudación de las subastas de TES",
-        "url": "https://www.larepublica.co/economia/caja-de-la-nacion-se-recupero-al-cierre-de-septiembre-por-el-reinicio-de-las-subastas-de-tes-4504575",
-        "fecha_portada": "16/10/2026",
-        "titulo_fuente": "Caja de la Nación se recuperó al cierre de septiembre por el reinicio de las subastas de TES",
-        "capturado": "2026-10-16T13:12:58-05:00"
-      },
-      {
-        "titulo": "La ANI y la Dian figuran entre las 35 entidades reprobadas por sus estados financieros",
-        "url": "https://www.larepublica.co/economia/la-ani-y-la-dian-entre-las-35-entidades-que-se-rajan-por-sus-estados-financieros-4503978",
-        "fecha_portada": "",
-        "titulo_fuente": "La ANI y la Dian están entre las 35 entidades que se rajan debido a sus estados financieros",
-        "capturado": "2026-10-16T00:11:48-05:00"
-      },
-      {
-        "titulo": "Cinco de cada 10 colombianos piensan que la economía va a mejorar en los siguientes seis meses",
-        "url": "https://www.larepublica.co/economia/cinco-de-cada-10-colombianos-cree-que-la-economia-mejorara-en-seis-meses-4503975",
-        "fecha_portada": "",
-        "titulo_fuente": "Cinco de cada 10 colombianos cree que la economía mejorará en los próximos seis meses",
-        "capturado": "2026-10-16T00:11:48-05:00"
-      },
-      {
-        "titulo": "Secretaría de Hacienda decretó nueva contingencia en la plataforma de información",
-        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-declaro-nueva-contingencia-en-plataforma-de-informacion-exogena-4504017",
-        "fecha_portada": "15/10/2026",
-        "titulo_fuente": "Secretaría de Hacienda declaró nueva contingencia en plataforma de información",
-        "capturado": "2026-10-16T00:11:48-05:00"
-      },
-      {
-        "titulo": "El debate del presupuesto se hará contrarreloj, la semana entrante es determinante",
-        "url": "https://www.larepublica.co/economia/discusion-del-presupuesto-se-hara-a-contra-reloj-la-proxima-semana-es-definitiva-4503992",
-        "fecha_portada": "",
-        "titulo_fuente": "La discusión del presupuesto se hará a contra reloj, la próxima semana es definitiva",
-        "capturado": "2026-10-16T00:11:48-05:00"
-      },
-      {
-        "titulo": "Gómez advirtió sobre $17 billones en sentencias que no canceló el gobierno anterior",
-        "url": "https://www.larepublica.co/economia/gomez-defendio-el-presupuesto-y-advirtio-por-un-pasivo-de-17-billones-por-sentencias-4503769",
-        "fecha_portada": "15/10/2026",
-        "titulo_fuente": "Gómez alertó por $17 billones en sentencias que no pagó el gobierno anterior",
-        "capturado": "2026-10-15T17:29:45-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Las transacciones de dólares digitales sumaron US$3.500 millones en tres meses",
+        "url": "https://www.larepublica.co/finanzas/los-dolares-digitales-han-registrado-movimientos-por-us-3-500-millones-en-tres-meses-4509705",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Los dólares digitales registraron movimientos por US$3.500 millones en tres meses",
+        "capturado": "2026-10-26T01:28:21-05:00"
+      },
       {
         "titulo": "Adelante sus adquisiciones de Navidad usando el valor más bajo que marca el dólar",
         "url": "https://www.larepublica.co/finanzas/anticipese-a-las-compras-que-hara-en-navidad-aprovechando-el-minimo-que-registra-el-dolar-4510018",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/acciones-suben-tras-un-debil-informe-de-empleo-que-reduce-apuestas-de-alzas-de-la-fed-4495391",
         "fecha_portada": "",
         "titulo_fuente": "Wall Street sube tras débil dato de empleo de EE.UU. que aleja alzas de tasas de la FED",
-        "capturado": "2026-10-02T21:26:48-05:00"
-      },
-      {
-        "titulo": "BVC en asocio con Trii presentó nueva versión de la iniciativa Bolsa Millonaria",
-        "url": "https://www.larepublica.co/finanzas/bvc-en-alianza-con-trii-anuncio-nueva-edicion-de-la-iniciativa-de-aprendizaje-bolsa-millonaria-4495354",
-        "fecha_portada": "",
-        "titulo_fuente": "BVC en alianza con Trii anunció nueva edición de la iniciativa Bolsa Millonaria",
         "capturado": "2026-10-02T21:26:48-05:00"
       }
     ]
