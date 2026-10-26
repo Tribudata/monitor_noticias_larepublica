@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-26T08:24:42-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-26T14:25:35-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Para América Latina la Cepal prevé un avance de 2% en 2026 y de 2,5% en 2027",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-creceria-2-4-en-2026-por-encima-del-promedio-de-america-latina-estima-la-cepal-4511218",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "La Cepal proyecta un crecimiento de 2% para América Latina en 2026 y de 2,5% en 2027",
+        "capturado": "2026-10-26T14:25:35-05:00"
+      },
+      {
+        "titulo": "Colombia regresa al mercado externo con una nueva colocación de bonos globales",
+        "url": "https://www.larepublica.co/economia/colombia-vuelve-al-mercado-internacional-con-nueva-emision-de-bonos-globales-4511193",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Colombia vuelve al mercado internacional con nueva emisión de bonos globales",
+        "capturado": "2026-10-26T14:25:35-05:00"
+      },
       {
         "titulo": "Concluirá esta semana la misión de apoyo técnico del FMI y el Banco Mundial",
         "url": "https://www.larepublica.co/economia/esta-semana-terminara-la-mision-de-asistencia-tecnica-del-fmi-y-el-banco-mundial-4511022",
@@ -409,23 +423,30 @@
         "fecha_portada": "19/10/2026",
         "titulo_fuente": "Comprar vivienda para arrendar en España puede generar una rentabilidad de hasta 9,2%",
         "capturado": "2026-10-19T02:03:56-05:00"
-      },
-      {
-        "titulo": "Ejecutivo nacional emitirá en noviembre decreto sobre líneas de base de San Andrés",
-        "url": "https://www.larepublica.co/economia/gobierno-expedira-en-noviembre-decreto-de-lineas-de-base-del-archipielago-de-san-andres-4505688",
-        "fecha_portada": "18/10/2026",
-        "titulo_fuente": "Gobierno nacional expedirá en noviembre decreto de líneas de base de San Andrés",
-        "capturado": "2026-10-18T20:55:54-05:00"
-      },
-      {
-        "titulo": "De la Espriella enfrentó a la gobernadora de San Andrés por la gestión de fondos públicos",
-        "url": "https://www.asuntoslegales.com.co/actualidad/de-la-espriella-confronto-a-gobernadora-de-san-andres-por-manejo-de-recursos-publicos-4505642",
-        "fecha_portada": "18/10/2026",
-        "titulo_fuente": "De la Espriella confrontó a gobernadora de San Andrés por manejo de recursos públicos",
-        "capturado": "2026-10-18T14:43:23-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Caída de los mercados en Brasil luego del poco probable triunfo electoral de Lula",
+        "url": "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-improbable-victoria-electoral-de-lula-4511106",
+        "fecha_portada": "",
+        "titulo_fuente": "Los mercados brasileños sufren un desplome tras la improbable victoria electoral de Lula",
+        "capturado": "2026-10-26T14:25:35-05:00"
+      },
+      {
+        "titulo": "Anthropic pide entrar a la bolsa y ser el primer laboratorio de inteligencia artificial en cotizar",
+        "url": "https://www.larepublica.co/globoeconomia/anthropic-solicita-salir-a-bolsa-y-ser-el-primer-laboratorio-de-inteligencia-artificial-cotizado-4511063",
+        "fecha_portada": "",
+        "titulo_fuente": "Anthropic solicita salir a bolsa y ser el primer laboratorio de inteligencia artificial cotizado",
+        "capturado": "2026-10-26T14:25:35-05:00"
+      },
+      {
+        "titulo": "Las acciones aumentan previo a balances de tecnológicas, al tiempo que el petróleo disminuye",
+        "url": "https://www.larepublica.co/globoeconomia/las-acciones-suben-antes-de-resultados-de-tecnologicas-mientras-que-el-petroleo-cae-4511145",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Las acciones suben antes de resultados de tecnológicas, mientras que el petróleo cae",
+        "capturado": "2026-10-26T14:25:35-05:00"
+      },
       {
         "titulo": "El dólar inicia la sesión $10 abajo y pierde fuerza por el descenso del petróleo y los bonos de EE.UU.",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-26-de-octubre-de-2026-4511039",
@@ -824,27 +845,6 @@
         "fecha_portada": "05/10/2026",
         "titulo_fuente": "El oro baja por menores expectativas de alza de tasas y la fortaleza del dólar limita avance",
         "capturado": "2026-10-05T08:00:02-05:00"
-      },
-      {
-        "titulo": "Aspectos a considerar para la compra de monedas extranjeras en la semana de receso",
-        "url": "https://www.larepublica.co/finanzas/lo-que-debe-tener-en-cuenta-sobre-la-compra-de-divisas-durante-la-semana-de-receso-4496448",
-        "fecha_portada": "",
-        "titulo_fuente": "Lo que debe tener en cuenta sobre la compra de divisas durante la semana de receso",
-        "capturado": "2026-10-05T00:56:29-05:00"
-      },
-      {
-        "titulo": "KOA concreta nueva titularización de $85.000 millones en la Bolsa de Valores de Colombia",
-        "url": "https://www.larepublica.co/finanzas/koa-tiene-nueva-titularizacion-en-la-bolsa-de-valores-de-colombia-por-85-000-millones-4496442",
-        "fecha_portada": "05/10/2026",
-        "titulo_fuente": "KOA con nueva titularización en la Bolsa de Valores de Colombia por $85.000 millones",
-        "capturado": "2026-10-05T00:56:29-05:00"
-      },
-      {
-        "titulo": "Aspectos clave al contrastar tipos de cambio y cobros ocultos en aplicaciones de dólares digitales",
-        "url": "https://www.larepublica.co/finanzas/esto-es-lo-que-debe-saber-al-comparar-tasas-de-cambio-y-acerca-de-los-costos-ocultos-4495668",
-        "fecha_portada": "",
-        "titulo_fuente": "Lo que debe saber al comparar las tasas de cambio y costos ocultos de apps de dólares digitales",
-        "capturado": "2026-10-05T00:56:29-05:00"
       }
     ]
   }
