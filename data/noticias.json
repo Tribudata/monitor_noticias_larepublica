@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-26T01:28:21-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-26T08:24:42-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Concluirá esta semana la misión de apoyo técnico del FMI y el Banco Mundial",
+        "url": "https://www.larepublica.co/economia/esta-semana-terminara-la-mision-de-asistencia-tecnica-del-fmi-y-el-banco-mundial-4511022",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Esta semana terminará la misión de asistencia técnica del FMI y el Banco Mundial",
+        "capturado": "2026-10-26T08:24:42-05:00"
+      },
+      {
+        "titulo": "De la Espriella pide impulsar la cooperación con Brasil a pesar de las diferencias",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-llama-a-fortalecer-cooperacion-con-brasil-pese-a-diferencias-con-lula-4510954",
+        "fecha_portada": "",
+        "titulo_fuente": "De la Espriella llama a fortalecer cooperación con Brasil pese a diferencias",
+        "capturado": "2026-10-26T08:24:42-05:00"
+      },
       {
         "titulo": "Inicia la disputa por la Ley de Rescate y las nuevas adiciones presupuestales del PGN",
         "url": "https://www.larepublica.co/economia/comienza-la-carrera-por-la-ley-de-rescate-y-las-nuevas-adiciones-presupuestales-del-pgn-4510052",
@@ -409,23 +423,23 @@
         "fecha_portada": "18/10/2026",
         "titulo_fuente": "De la Espriella confrontó a gobernadora de San Andrés por manejo de recursos públicos",
         "capturado": "2026-10-18T14:43:23-05:00"
-      },
-      {
-        "titulo": "El Papa León recibirá el alta este sábado, cuatro días después de una cirugía de cáncer",
-        "url": "https://www.larepublica.co/globoeconomia/papa-leon-sera-dado-de-alta-este-sabado-cuatro-dias-despues-de-una-operacion-de-cancer-4505366",
-        "fecha_portada": "",
-        "titulo_fuente": "Papa León será dado de alta este sábado, cuatro días después de una operación de cáncer",
-        "capturado": "2026-10-17T09:03:01-05:00"
-      },
-      {
-        "titulo": "La inversión extranjera directa llegó a US$885 millones y aumentó 44% en septiembre",
-        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-alcanzo-us-885-millones-y-crecio-44-en-septiembre-4505170",
-        "fecha_portada": "16/10/2026",
-        "titulo_fuente": "Inversión Extranjera Directa alcanzó US$885 millones y creció 44% en septiembre",
-        "capturado": "2026-10-17T01:17:20-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar inicia la sesión $10 abajo y pierde fuerza por el descenso del petróleo y los bonos de EE.UU.",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-26-de-octubre-de-2026-4511039",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar abre la jornada $10 a la baja y pierde impulso por caída del petróleo y bonos de EE.UU.",
+        "capturado": "2026-10-26T08:24:42-05:00"
+      },
+      {
+        "titulo": "El oro aumenta por el descenso del crudo, lo que calma algunas inquietudes sobre la inflación",
+        "url": "https://www.larepublica.co/finanzas/el-oro-sube-por-caida-del-petroleo-que-alivia-algunas-preocupaciones-sobre-inflacion-4510918",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro sube por caída del petróleo, que alivia algunas preocupaciones sobre inflación",
+        "capturado": "2026-10-26T08:24:42-05:00"
+      },
       {
         "titulo": "Las transacciones de dólares digitales sumaron US$3.500 millones en tres meses",
         "url": "https://www.larepublica.co/finanzas/los-dolares-digitales-han-registrado-movimientos-por-us-3-500-millones-en-tres-meses-4509705",
@@ -831,20 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Lo que debe saber al comparar las tasas de cambio y costos ocultos de apps de dólares digitales",
         "capturado": "2026-10-05T00:56:29-05:00"
-      },
-      {
-        "titulo": "El sistema operativo Jeeves reportó una ronda de capital por US$110 millones",
-        "url": "https://www.larepublica.co/finanzas/el-sistema-operativo-jeeves-anuncio-ronda-de-capital-porun-valor-de-us-110-millones-4495406",
-        "fecha_portada": "",
-        "titulo_fuente": "El sistema operativo Jeeves anunció ronda de capital por un valor de US$110 millones",
-        "capturado": "2026-10-04T16:40:45-05:00"
-      },
-      {
-        "titulo": "Wall Street asciende por flojo reporte de empleo en EE.UU. que aleja incrementos de tasas de la FED",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-suben-tras-un-debil-informe-de-empleo-que-reduce-apuestas-de-alzas-de-la-fed-4495391",
-        "fecha_portada": "",
-        "titulo_fuente": "Wall Street sube tras débil dato de empleo de EE.UU. que aleja alzas de tasas de la FED",
-        "capturado": "2026-10-02T21:26:48-05:00"
       }
     ]
   }
