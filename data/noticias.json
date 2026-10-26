@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-26T14:25:35-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-26T18:11:43-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El vicepresidente Restrepo sostuvo un encuentro con Albert Ramdin, secretario general de la OEA",
+        "url": "https://www.larepublica.co/economia/vicepresidente-restrepo-se-reunio-con-el-secretario-general-de-la-oea-albert-ramdin-4511506",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "Vicepresidente Restrepo se reunió con el secretario general de la OEA, Albert Ramdin",
+        "capturado": "2026-10-26T18:11:43-05:00"
+      },
       {
         "titulo": "Para América Latina la Cepal prevé un avance de 2% en 2026 y de 2,5% en 2027",
         "url": "https://www.larepublica.co/globoeconomia/colombia-creceria-2-4-en-2026-por-encima-del-promedio-de-america-latina-estima-la-cepal-4511218",
@@ -416,16 +423,16 @@
         "fecha_portada": "19/10/2026",
         "titulo_fuente": "Los ejes en los que se han desarrollado los 17 planes de desarrollo nacional de Colombia",
         "capturado": "2026-10-19T02:03:56-05:00"
-      },
-      {
-        "titulo": "Adquirir vivienda para alquilar en España puede dar un rendimiento de hasta el 9,2%",
-        "url": "https://www.larepublica.co/globoeconomia/comprar-vivienda-para-arrendar-en-espana-puede-generar-una-rentabilidad-de-hasta-9-2-4504985",
-        "fecha_portada": "19/10/2026",
-        "titulo_fuente": "Comprar vivienda para arrendar en España puede generar una rentabilidad de hasta 9,2%",
-        "capturado": "2026-10-19T02:03:56-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Los mercados de Brasil se desploman luego del triunfo electoral de Lula da Silva",
+        "url": "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-victoria-electoral-de-lula-4511106",
+        "fecha_portada": "",
+        "titulo_fuente": "Los mercados brasileños sufren un desplome tras la victoria electoral de Lula da Silva",
+        "capturado": "2026-10-26T18:11:43-05:00"
+      },
       {
         "titulo": "Caída de los mercados en Brasil luego del poco probable triunfo electoral de Lula",
         "url": "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-improbable-victoria-electoral-de-lula-4511106",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Janus Henderson anunció la adquisición de la gestora de fondos Rantum Capital",
         "capturado": "2026-10-05T20:38:39-05:00"
-      },
-      {
-        "titulo": "El oro cae por menores previsiones de incremento de tasas y la solidez del dólar frena su alza",
-        "url": "https://www.larepublica.co/finanzas/el-oro-baja-por-menores-expectativas-de-alza-de-tasas-y-la-fortaleza-del-dolar-limita-avance-4496628",
-        "fecha_portada": "05/10/2026",
-        "titulo_fuente": "El oro baja por menores expectativas de alza de tasas y la fortaleza del dólar limita avance",
-        "capturado": "2026-10-05T08:00:02-05:00"
       }
     ]
   }
