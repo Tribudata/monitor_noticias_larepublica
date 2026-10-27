@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-27T03:03:11-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-27T09:41:50-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Colombia se ubica en la quinta posición de las economías con más crecimiento en Suramérica",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-ocupa-el-quinto-lugar-entre-las-economias-de-mayor-crecimiento-en-suramerica-4511508",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia ocupa el quinto lugar entre las economías de mayor crecimiento en Suramérica",
+        "capturado": "2026-10-27T09:41:50-05:00"
+      },
       {
         "titulo": "Colombia se ubica quinta entre las economías que más crecen en América Latina",
         "url": "https://www.larepublica.co/globoeconomia/colombia-ocupa-el-quinto-lugar-entre-las-economias-de-mayor-crecimientoen-latinoamerica-4511508",
@@ -416,16 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "Gobierno reitera austeridad en viajes, se prioriza virtualidad y tarifas aéreas más bajas",
         "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "Abelardo de la Espriella informó sobre infraestructura para prestación de salud en Chocó",
-        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-anuncio-infraestructura-para-mejorar-atencion-en-salud-en-choco-4505877",
-        "fecha_portada": "",
-        "titulo_fuente": "Abelardo de la Espriella anunció infraestructura para atención en salud en Chocó",
-        "capturado": "2026-10-19T15:15:49-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Dólar pierde valor ante futuras determinaciones de política monetaria",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-27-de-octubre-de-2026-4511869",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar se cotiza a la baja ante futuras decisiones de política monetaria",
+        "capturado": "2026-10-27T09:41:50-05:00"
+      },
+      {
+        "titulo": "El oro baja por la fuerza del dólar mientras operadores aguardan la decisión de la FED",
+        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-fortaleza-del-dolar-mientras-operadores-esperan-decision-de-la-fed-4511885",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro cae por fortaleza del dólar, mientras operadores esperan decisión de la FED",
+        "capturado": "2026-10-27T09:41:50-05:00"
+      },
       {
         "titulo": "Lunes crítico para los activos de Brasil luego del triunfo electoral de Lula da Silva",
         "url": "https://www.larepublica.co/globoeconomia/lunes-negro-para-los-activos-brasilenos-tras-victoria-de-lula-da-silva-4511672",
@@ -831,20 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "“Los miembros de ColCapital tienen alrededor de US$4.500 millones listos para invertir”",
         "capturado": "2026-10-06T03:12:18-05:00"
-      },
-      {
-        "titulo": "El dólar finalizó la sesión $62,57 por debajo de la TRM del día, registrando un precio de $3.210,92",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-5-de-octubre-de-2026-4496666",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró $62,57 por debajo de la TRM del día, ubicándose en un precio de $3.210,92",
-        "capturado": "2026-10-05T20:38:39-05:00"
-      },
-      {
-        "titulo": "Wall Street asciende por tercer día mientras la estabilidad del petróleo da tranquilidad a los mercados",
-        "url": "https://www.larepublica.co/globoeconomia/las-bolsas-suben-al-compensarse-la-caida-del-petroleo-la-preocupacion-por-la-deuda-europea-4496891",
-        "fecha_portada": "05/10/2026",
-        "titulo_fuente": "Wall Street sube por tercer día mientras la estabilidad del petróleo alivia a los mercados",
-        "capturado": "2026-10-05T20:38:39-05:00"
       }
     ]
   }
