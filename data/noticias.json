@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-27T14:42:18-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-27T18:16:32-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "MinHacienda plantea trasladar $750.000 millones de obras de Bogotá al Presupuesto",
+        "url": "https://www.larepublica.co/economia/minhacienda-propone-reasignar-750-000-millones-de-obras-en-bogota-para-el-presupuesto-4511948",
+        "fecha_portada": "",
+        "titulo_fuente": "MinHacienda propone reasignar $750.000 millones de obras en Bogotá para el Presupuesto",
+        "capturado": "2026-10-27T18:16:32-05:00"
+      },
       {
         "titulo": "Arrancó la discusión de la adición presupuestal en el Congreso y así se repartirán los recursos",
         "url": "https://www.larepublica.co/economia/comenzo-el-debate-de-la-adicion-presupuestal-asi-se-distribuiran-los-recursos-4512160",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/el-indicador-de-seguimiento-de-la-economia-de-agosto-tuvo-su-peor-registro-desde-abril-de-2025-4506070",
         "fecha_portada": "",
         "titulo_fuente": "El Indicador de Seguimiento de la Economía tuvo su peor registro desde abril de 2025",
-        "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "Mañana finaliza el tiempo para que el Congreso de la República avale el Presupuesto de 2027",
-        "url": "https://www.larepublica.co/economia/manana-vence-el-plazo-para-que-el-congreso-de-la-republica-apruebe-el-presupuesto-de-2027-4505803",
-        "fecha_portada": "",
-        "titulo_fuente": "Mañana vence el plazo para que el Congreso de la República apruebe el Presupuesto de 2027",
         "capturado": "2026-10-19T15:15:49-05:00"
       }
     ],
