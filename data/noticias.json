@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-26T21:10:45-05:00",
+  "actualizado": "2026-10-27T03:03:11-05:00",
   "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Colombia se ubica quinta entre las economías que más crecen en América Latina",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-ocupa-el-quinto-lugar-entre-las-economias-de-mayor-crecimientoen-latinoamerica-4511508",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia ocupa el quinto lugar entre las economías de mayor crecimiento en Latinoamérica",
+        "capturado": "2026-10-27T03:03:11-05:00"
+      },
       {
         "titulo": "El Gobierno Nacional emitió títulos de deuda externa por un valor de US$5.200 millones",
         "url": "https://www.larepublica.co/economia/el-gobierno-nacional-coloco-bonos-de-deuda-externa-por-un-valor-de-us-5-200-millones-4511654",
@@ -416,16 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Abelardo de la Espriella anunció infraestructura para atención en salud en Chocó",
         "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "Detectamos casi 320 macroproyectos regionales que superarían los $520 billones",
-        "url": "https://www.larepublica.co/economia/entrevista-con-julian-buitrago-director-del-dnp-sobre-las-claves-del-pnd-4503677",
-        "fecha_portada": "",
-        "titulo_fuente": "“Identificamos cerca de 320 macroproyectos regionales que sumarían más de $520 billones”",
-        "capturado": "2026-10-19T02:03:56-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Lunes crítico para los activos de Brasil luego del triunfo electoral de Lula da Silva",
+        "url": "https://www.larepublica.co/globoeconomia/lunes-negro-para-los-activos-brasilenos-tras-victoria-de-lula-da-silva-4511672",
+        "fecha_portada": "",
+        "titulo_fuente": "Lunes negro para los activos brasileños tras victoria en las elecciones de Lula da Silva",
+        "capturado": "2026-10-27T03:03:11-05:00"
+      },
       {
         "titulo": "BID Lab y Fundación Bolívar Davivienda diseñaron el programa AuRA destinado a inversionistas",
         "url": "https://www.larepublica.co/finanzas/fundacion-bolivar-davivienda-y-bid-lab-crearon-el-programa-aura-para-inversionistas-4511690",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/las-bolsas-suben-al-compensarse-la-caida-del-petroleo-la-preocupacion-por-la-deuda-europea-4496891",
         "fecha_portada": "05/10/2026",
         "titulo_fuente": "Wall Street sube por tercer día mientras la estabilidad del petróleo alivia a los mercados",
-        "capturado": "2026-10-05T20:38:39-05:00"
-      },
-      {
-        "titulo": "Grupo Sura comunicó el comienzo del programa de readquisición de acciones luego de su aprobación",
-        "url": "https://www.larepublica.co/finanzas/grupo-sura-inicio-la-ejecucion-de-su-programa-de-readquisicion-de-acciones-4497176",
-        "fecha_portada": "",
-        "titulo_fuente": "Grupo Sura anunció el inicio del programa de readquisición de acciones tras aprobación",
         "capturado": "2026-10-05T20:38:39-05:00"
       }
     ]
