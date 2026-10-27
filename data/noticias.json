@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-27T09:41:50-05:00",
+  "actualizado": "2026-10-27T14:42:18-05:00",
   "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Arrancó la discusión de la adición presupuestal en el Congreso y así se repartirán los recursos",
+        "url": "https://www.larepublica.co/economia/comenzo-el-debate-de-la-adicion-presupuestal-asi-se-distribuiran-los-recursos-4512160",
+        "fecha_portada": "",
+        "titulo_fuente": "Comenzó el debate de la adición presupuestal en el Congreso, así se distribuirán los recursos",
+        "capturado": "2026-10-27T14:42:18-05:00"
+      },
+      {
+        "titulo": "La colocación de US$5.200 millones de MinHacienda concluyó el programa de bonos globales",
+        "url": "https://www.larepublica.co/economia/emision-por-us-5-200-millones-cerro-el-programa-de-bonos-globales-de-2026-4512029",
+        "fecha_portada": "27/10/2026",
+        "titulo_fuente": "Emisión por US$5.200 millones del MinHacienda cerró el programa de bonos globales",
+        "capturado": "2026-10-27T14:42:18-05:00"
+      },
+      {
+        "titulo": "Presidente de Anif solicitó que la 'Ley de Rescate' se oriente más a reducir el gasto público",
+        "url": "https://www.larepublica.co/economia/presidente-de-anif-pidio-que-la-ley-de-rescate-apunte-a-recortar-el-gasto-publico-4512294",
+        "fecha_portada": "27/10/2026",
+        "titulo_fuente": "Presidente de Anif pidió que la 'Ley de Rescate' apunte más recortar el gasto público",
+        "capturado": "2026-10-27T14:42:18-05:00"
+      },
       {
         "titulo": "Colombia se ubica en la quinta posición de las economías con más crecimiento en Suramérica",
         "url": "https://www.larepublica.co/globoeconomia/colombia-ocupa-el-quinto-lugar-entre-las-economias-de-mayor-crecimiento-en-suramerica-4511508",
@@ -401,27 +422,6 @@
         "url": "https://www.larepublica.co/economia/manana-vence-el-plazo-para-que-el-congreso-de-la-republica-apruebe-el-presupuesto-de-2027-4505803",
         "fecha_portada": "",
         "titulo_fuente": "Mañana vence el plazo para que el Congreso de la República apruebe el Presupuesto de 2027",
-        "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "La Andi advirtió sobre la caída del agro, la industria y la construcción en agosto",
-        "url": "https://www.larepublica.co/economia/andi-alerto-por-el-retroceso-del-agro-la-industria-y-la-construccion-en-agosto-4506300",
-        "fecha_portada": "",
-        "titulo_fuente": "Andi alertó por el retroceso del agro, la industria y la construcción en agosto",
-        "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "Corfi sugiere aplicar la regla técnica e incrementar el salario mínimo un 8%",
-        "url": "https://www.larepublica.co/economia/corficolombiana-propone-seguir-regla-tecnica-para-aumentar-el-salario-minimo-8-4506131",
-        "fecha_portada": "",
-        "titulo_fuente": "Corfi propone seguir la regla técnica y aumentar el salario mínimo en 8%",
-        "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "El Gobierno insiste en ahorro en viajes, priorizando la virtualidad y pasajes aéreos más económicos",
-        "url": "https://www.larepublica.co/economia/gobierno-expide-directrices-sobre-medidas-de-austeridad-para-viajes-y-publicidad-4506055",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno reitera austeridad en viajes, se prioriza virtualidad y tarifas aéreas más bajas",
         "capturado": "2026-10-19T15:15:49-05:00"
       }
     ],
