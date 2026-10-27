@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-26T18:11:43-05:00",
+  "actualizado": "2026-10-26T21:10:45-05:00",
   "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Gobierno Nacional emitió títulos de deuda externa por un valor de US$5.200 millones",
+        "url": "https://www.larepublica.co/economia/el-gobierno-nacional-coloco-bonos-de-deuda-externa-por-un-valor-de-us-5-200-millones-4511654",
+        "fecha_portada": "26/10/2026",
+        "titulo_fuente": "El Gobierno Nacional colocó bonos de deuda externa por un valor de US$5.200 millones",
+        "capturado": "2026-10-26T21:10:45-05:00"
+      },
       {
         "titulo": "El vicepresidente Restrepo sostuvo un encuentro con Albert Ramdin, secretario general de la OEA",
         "url": "https://www.larepublica.co/economia/vicepresidente-restrepo-se-reunio-con-el-secretario-general-de-la-oea-albert-ramdin-4511506",
@@ -416,16 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "“Identificamos cerca de 320 macroproyectos regionales que sumarían más de $520 billones”",
         "capturado": "2026-10-19T02:03:56-05:00"
-      },
-      {
-        "titulo": "Los pilares sobre los cuales se han estructurado los 17 planes de desarrollo nacional de Colombia",
-        "url": "https://www.larepublica.co/economia/los-ejes-en-los-que-se-han-desarrollado-los-17-planes-de-desarrollo-nacional-4503674",
-        "fecha_portada": "19/10/2026",
-        "titulo_fuente": "Los ejes en los que se han desarrollado los 17 planes de desarrollo nacional de Colombia",
-        "capturado": "2026-10-19T02:03:56-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "BID Lab y Fundación Bolívar Davivienda diseñaron el programa AuRA destinado a inversionistas",
+        "url": "https://www.larepublica.co/finanzas/fundacion-bolivar-davivienda-y-bid-lab-crearon-el-programa-aura-para-inversionistas-4511690",
+        "fecha_portada": "",
+        "titulo_fuente": "Fundación Bolívar Davivienda y BID Lab crearon el programa AuRA para inversionistas",
+        "capturado": "2026-10-26T21:10:45-05:00"
+      },
       {
         "titulo": "Los mercados de Brasil se desploman luego del triunfo electoral de Lula da Silva",
         "url": "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-victoria-electoral-de-lula-4511106",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/grupo-sura-inicio-la-ejecucion-de-su-programa-de-readquisicion-de-acciones-4497176",
         "fecha_portada": "",
         "titulo_fuente": "Grupo Sura anunció el inicio del programa de readquisición de acciones tras aprobación",
-        "capturado": "2026-10-05T20:38:39-05:00"
-      },
-      {
-        "titulo": "Janus Henderson informó la compra de la administradora de fondos Rantum Capital",
-        "url": "https://www.larepublica.co/finanzas/janus-henderson-anuncio-la-adquisicion-de-la-gestora-de-fondos-rantum-capital-4496911",
-        "fecha_portada": "",
-        "titulo_fuente": "Janus Henderson anunció la adquisición de la gestora de fondos Rantum Capital",
         "capturado": "2026-10-05T20:38:39-05:00"
       }
     ]
