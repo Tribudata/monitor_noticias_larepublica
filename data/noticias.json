@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-27T18:16:32-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-27T21:25:54-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Cámara rechazó tres propuestas de la reforma pensional y seguirá la discusión este miércoles",
+        "url": "https://www.larepublica.co/economia/camara-nego-tres-proposiciones-de-la-reforma-pensional-y-continuara-el-debate-este-miercoles-4512674",
+        "fecha_portada": "27/10/2026",
+        "titulo_fuente": "Cámara negó tres proposiciones de la reforma pensional y continuará el debate este miércoles",
+        "capturado": "2026-10-27T21:25:54-05:00"
+      },
+      {
+        "titulo": "ProCúcuta solicita aumentar la seguridad en Norte de Santander luego de los últimos actos violentos",
+        "url": "https://www.larepublica.co/economia/procucuta-pide-reforzar-la-seguridad-en-norte-de-santander-tras-recientes-hechos-de-violencia-4512655",
+        "fecha_portada": "",
+        "titulo_fuente": "ProCúcuta pide reforzar la seguridad en Norte de Santander tras recientes hechos de violencia",
+        "capturado": "2026-10-27T21:25:54-05:00"
+      },
       {
         "titulo": "MinHacienda plantea trasladar $750.000 millones de obras de Bogotá al Presupuesto",
         "url": "https://www.larepublica.co/economia/minhacienda-propone-reasignar-750-000-millones-de-obras-en-bogota-para-el-presupuesto-4511948",
@@ -409,20 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Impacto del terremoto llevó al ISE a su primera contracción desde abril del año pasado",
         "capturado": "2026-10-20T02:46:09-05:00"
-      },
-      {
-        "titulo": "Bogotá, Cali y Medellín están entre las 10 latinoamericanas de mayor rendimiento económico",
-        "url": "https://www.larepublica.co/globoeconomia/bogota-cali-y-medellin-destacan-entre-las-10-latinoamericanas-de-mejor-desempeno-economico-4506416",
-        "fecha_portada": "",
-        "titulo_fuente": "Bogotá, Cali y Medellín, en las 10 latinoamericanas de mejor desempeño económico",
-        "capturado": "2026-10-20T02:46:09-05:00"
-      },
-      {
-        "titulo": "El Indicador de Seguimiento a la Economía anotó su nivel más bajo desde abril de 2025",
-        "url": "https://www.larepublica.co/economia/el-indicador-de-seguimiento-de-la-economia-de-agosto-tuvo-su-peor-registro-desde-abril-de-2025-4506070",
-        "fecha_portada": "",
-        "titulo_fuente": "El Indicador de Seguimiento de la Economía tuvo su peor registro desde abril de 2025",
-        "capturado": "2026-10-19T15:15:49-05:00"
       }
     ],
     "Bolsas": [
