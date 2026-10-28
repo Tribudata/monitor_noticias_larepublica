@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-28T03:46:02-05:00",
+  "actualizado": "2026-10-28T10:31:49-05:00",
   "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Gobierno apenas ha captado $1,1 billones de los $2,7 billones que prevé incorporar al PGN",
+        "url": "https://www.larepublica.co/economia/gobierno-solo-ha-recaudado-1-1-billones-de-los-2-7-billones-que-busca-adicionar-al-presupuesto-4512660",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno solo ha recaudado $1,1 billones de los $2,7 billones que busca adicionar al PGN",
+        "capturado": "2026-10-28T10:31:49-05:00"
+      },
       {
         "titulo": "Colombia cuenta con una exposición significativa a las inversiones corrosivas y sus riesgos",
         "url": "https://www.larepublica.co/economia/entrevista-con-carlos-augusto-chacon-director-ejecutivo-del-icp-sobre-las-inversiones-corrosivas-4512643",
@@ -416,16 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Canciller Omar Bula busca fortalecer las relaciones bilaterales con Ucrania",
         "capturado": "2026-10-20T08:04:05-05:00"
-      },
-      {
-        "titulo": "En plenaria, el Senado avaló el Presupuesto General de la Nación del año entrante",
-        "url": "https://www.larepublica.co/economia/la-plenaria-del-senado-aprobo-el-presupuesto-general-de-la-nacion-para-2027-4506548",
-        "fecha_portada": "19/10/2026",
-        "titulo_fuente": "La plenaria del Senado aprobó el Presupuesto General de la Nación para el próximo año",
-        "capturado": "2026-10-20T02:46:09-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar sube a $3.154,96, $6,94 por encima de la TRM del día, fijada en $3.148,02",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-28-de-octubre-de-2026-4512776",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar se cotiza al alza en $3.154,96, $6,94 por arriba de la TRM del día, que se fijó en $3.148,02",
+        "capturado": "2026-10-28T10:31:49-05:00"
+      },
+      {
+        "titulo": "La BVC pasa a denominarse Bolsa de Colombia como parte de la integración en Nuam",
+        "url": "https://www.larepublica.co/finanzas/la-bvc-presento-su-nueva-identidad-ahora-se-pasa-a-llamar-bolsa-de-colombia-4512926",
+        "fecha_portada": "28/10/2026",
+        "titulo_fuente": "La BVC ahora se llama Bolsa de Colombia como parte de la integración en Nuam",
+        "capturado": "2026-10-28T10:31:49-05:00"
+      },
+      {
+        "titulo": "El oro baja por el aumento de precios del petróleo antes de la decisión de la Reserva Federal",
+        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-alza-de-los-precios-del-petroleo-antes-de-decision-de-la-reserva-federal-4512767",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro cae por alza de los precios del petróleo antes de decisión de la Reserva Federal",
+        "capturado": "2026-10-28T10:31:49-05:00"
+      },
       {
         "titulo": "Las criptomonedas pasaron de ser una inversión a convertirse en infraestructura de pagos",
         "url": "https://www.larepublica.co/especiales/un-futuro-innovador-con-cripto/las-criptomonedas-ya-no-son-inversion-se-trata-de-infraestructura-de-pagos-4512503",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El dólar cerró la jornada $23,15 por encima de la TRM del día, a un precio promedio de $3.239",
         "capturado": "2026-10-07T16:39:19-05:00"
-      },
-      {
-        "titulo": "El oro baja 1% por incremento del dólar, con la atención en minutas de la Reserva Federal de EE.UU.",
-        "url": "https://www.larepublica.co/finanzas/oro-cae-1-por-alza-del-dolar-con-foco-en-minutas-de-la-reserva-federal-de-estados-unidos-4498296",
-        "fecha_portada": "",
-        "titulo_fuente": "Oro cae 1% por alza del dólar, con foco en minutas de la Reserva Federal de EE.UU.",
-        "capturado": "2026-10-07T16:39:19-05:00"
-      },
-      {
-        "titulo": "Con un precio de $3.215,92 finalizó el dólar, superando por $6,14 la TRM del día de $3.209,78",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-6-de-octubre-4497514",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró con una cotización de $3.215,92, $6,14 por encima de la TRM del día, $3.209,78",
-        "capturado": "2026-10-06T15:24:48-05:00"
-      },
-      {
-        "titulo": "El S&P 500 registra un récord histórico por la baja del petróleo y el crecimiento de la IA",
-        "url": "https://www.larepublica.co/globoeconomia/s-p-500-alcanza-maximo-historico-con-caida-del-petroleo-y-renovado-entusiasmo-por-la-ia-4497695",
-        "fecha_portada": "",
-        "titulo_fuente": "S&P 500 marca máximo histórico impulsado por la caída del petróleo y el auge de la IA",
-        "capturado": "2026-10-06T15:24:48-05:00"
       }
     ]
   }
