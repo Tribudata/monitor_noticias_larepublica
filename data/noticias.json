@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-27T21:25:54-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-28T03:46:02-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Colombia cuenta con una exposición significativa a las inversiones corrosivas y sus riesgos",
+        "url": "https://www.larepublica.co/economia/entrevista-con-carlos-augusto-chacon-director-ejecutivo-del-icp-sobre-las-inversiones-corrosivas-4512643",
+        "fecha_portada": "",
+        "titulo_fuente": "“Colombia tiene una exposición relevante a inversiones corrosivas y a sus riesgos”",
+        "capturado": "2026-10-28T03:46:02-05:00"
+      },
+      {
+        "titulo": "Los multimillonarios globales poseen más del 75% de la riqueza total del planeta",
+        "url": "https://www.larepublica.co/globoeconomia/multimillonarios-del-mundo-concentran-mas-de-75-de-toda-la-riqueza-global-4512531",
+        "fecha_portada": "28/10/2026",
+        "titulo_fuente": "Los multimillonarios del planeta concentran más de 75% del total de la riqueza global",
+        "capturado": "2026-10-28T03:46:02-05:00"
+      },
       {
         "titulo": "Cámara rechazó tres propuestas de la reforma pensional y seguirá la discusión este miércoles",
         "url": "https://www.larepublica.co/economia/camara-nego-tres-proposiciones-de-la-reforma-pensional-y-continuara-el-debate-este-miercoles-4512674",
@@ -409,23 +423,23 @@
         "fecha_portada": "19/10/2026",
         "titulo_fuente": "La plenaria del Senado aprobó el Presupuesto General de la Nación para el próximo año",
         "capturado": "2026-10-20T02:46:09-05:00"
-      },
-      {
-        "titulo": "Hacienda pretende mover fondos del PGN al Fondo Milagro para responder al sismo",
-        "url": "https://www.larepublica.co/economia/hacienda-busca-trasladar-recursos-del-pgn-al-fondo-milagro-para-atender-el-terremoto-4506499",
-        "fecha_portada": "",
-        "titulo_fuente": "Hacienda busca trasladar recursos del PGN al Fondo Milagro para atender sismo",
-        "capturado": "2026-10-20T02:46:09-05:00"
-      },
-      {
-        "titulo": "El efecto del terremoto provocó la primera caída del ISE desde abril del año pasado",
-        "url": "https://www.larepublica.co/economia/impacto-del-terremoto-llevo-al-ise-a-su-primera-contraccion-desde-abril-del-ano-pasado-4506438",
-        "fecha_portada": "",
-        "titulo_fuente": "Impacto del terremoto llevó al ISE a su primera contracción desde abril del año pasado",
-        "capturado": "2026-10-20T02:46:09-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Las criptomonedas pasaron de ser una inversión a convertirse en infraestructura de pagos",
+        "url": "https://www.larepublica.co/especiales/un-futuro-innovador-con-cripto/las-criptomonedas-ya-no-son-inversion-se-trata-de-infraestructura-de-pagos-4512503",
+        "fecha_portada": "28/10/2026",
+        "titulo_fuente": "“Las criptomonedas ya no son inversión, ahora son infraestructura de pagos”",
+        "capturado": "2026-10-28T03:46:02-05:00"
+      },
+      {
+        "titulo": "Initium ingresa a Colombia para profesionalizar la compra y venta de stablecoins en el mercado",
+        "url": "https://www.larepublica.co/especiales/un-futuro-innovador-con-cripto/initium-llega-a-profesionalizar-compraventa-de-stablecoins-4512477",
+        "fecha_portada": "",
+        "titulo_fuente": "Initium llega a Colombia para profesionalizar la compraventa de las stablecoins en el mercado",
+        "capturado": "2026-10-28T03:46:02-05:00"
+      },
       {
         "titulo": "Dólar pierde valor ante futuras determinaciones de política monetaria",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-27-de-octubre-de-2026-4511869",
@@ -831,20 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "S&P 500 marca máximo histórico impulsado por la caída del petróleo y el auge de la IA",
         "capturado": "2026-10-06T15:24:48-05:00"
-      },
-      {
-        "titulo": "El oro compensó sus pérdidas ante la disminución de los temores inflacionarios",
-        "url": "https://www.larepublica.co/finanzas/el-oro-revirtio-sus-perdidas-ante-la-disminucion-de-los-temores-inflacionistas-4497467",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro revirtió sus pérdidas ante la disminución de los temores inflacionistas",
-        "capturado": "2026-10-06T15:24:48-05:00"
-      },
-      {
-        "titulo": "Los asociados de ColCapital tienen cerca de US$4.500 millones disponibles para invertir",
-        "url": "https://www.larepublica.co/finanzas/entrevista-con-paola-garcia-barreneche-directora-ejecutiva-de-colcapital-4496927",
-        "fecha_portada": "",
-        "titulo_fuente": "“Los miembros de ColCapital tienen alrededor de US$4.500 millones listos para invertir”",
-        "capturado": "2026-10-06T03:12:18-05:00"
       }
     ]
   }
