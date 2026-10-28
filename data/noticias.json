@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-28T10:31:49-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-28T15:36:59-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "En Bogotá un hogar de cada cinco es de una persona y el 48% está liderado por mujeres",
+        "url": "https://www.larepublica.co/economia/resultados-de-la-encuesta-multiproposito-del-dane-para-bogota-y-alrededores-4513065",
+        "fecha_portada": "",
+        "titulo_fuente": "Uno de cada cinco hogares de Bogotá es unipersonal y 48% tienen jefatura femenina",
+        "capturado": "2026-10-28T15:36:59-05:00"
+      },
+      {
+        "titulo": "La plenaria de la Cámara rechazó el proyecto para quitar comisiones de 0,7% a las AFP",
+        "url": "https://www.larepublica.co/economia/plenaria-de-la-camara-tumbo-la-propuesta-de-eliminar-las-comisiones-de-0-7-a-las-afp-4513216",
+        "fecha_portada": "28/10/2026",
+        "titulo_fuente": "Plenaria de la Cámara tumbó la propuesta de eliminar las comisiones de 0,7% a las AFP",
+        "capturado": "2026-10-28T15:36:59-05:00"
+      },
+      {
+        "titulo": "Hacienda respaldó el cobro de 0,7% de las AFP y previno sobre el costo de bajar semanas",
+        "url": "https://www.larepublica.co/economia/hacienda-defendio-comision-de-0-7-de-las-afp-y-alerto-sobre-costo-de-reducir-semanas-4513252",
+        "fecha_portada": "",
+        "titulo_fuente": "Hacienda defendió comisión de 0,7% de las AFP y alertó sobre costo de reducir semanas",
+        "capturado": "2026-10-28T15:36:59-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá avisó que el interés de bonos globales del Gobierno roza 15% en pesos",
+        "url": "https://www.larepublica.co/economia/banco-de-bogota-advirtio-que-tasa-de-bonos-globales-del-gobierno-bordea-15-en-pesos-4513120",
+        "fecha_portada": "",
+        "titulo_fuente": "Banco de Bogotá advirtió que tasa de bonos globales del Gobierno bordea 15% en pesos",
+        "capturado": "2026-10-28T15:36:59-05:00"
+      },
       {
         "titulo": "El Gobierno apenas ha captado $1,1 billones de los $2,7 billones que prevé incorporar al PGN",
         "url": "https://www.larepublica.co/economia/gobierno-solo-ha-recaudado-1-1-billones-de-los-2-7-billones-que-busca-adicionar-al-presupuesto-4512660",
@@ -395,37 +423,16 @@
         "fecha_portada": "20/10/2026",
         "titulo_fuente": "Ministerio de Hacienda firmó operación de crédito por US$224 millones con el KfW",
         "capturado": "2026-10-20T19:12:01-05:00"
-      },
-      {
-        "titulo": "Gobierno presentará ley de financiamiento o rescate en la primera semana de noviembre",
-        "url": "https://www.larepublica.co/economia/gobierno-radicara-ley-de-financiamiento-o-rescate-en-la-primera-semana-de-noviembre-4507347",
-        "fecha_portada": "20/10/2026",
-        "titulo_fuente": "Gobierno radicará ley de financiamiento o \"rescate\" en la primera semana de noviembre",
-        "capturado": "2026-10-20T19:12:01-05:00"
-      },
-      {
-        "titulo": "Colfondos desplaza su Oficina Móvil al Chocó para asistir a afectados por el terremoto",
-        "url": "https://www.larepublica.co/finanzas/colfondos-lleva-su-oficina-movil-al-choco-para-atender-a-damnificados-por-el-terremoto-4507346",
-        "fecha_portada": "",
-        "titulo_fuente": "Colfondos lleva su Oficina Móvil al Chocó para atender a damnificados por el terremoto",
-        "capturado": "2026-10-20T19:12:01-05:00"
-      },
-      {
-        "titulo": "El área de la salud resultó la mayor favorecida luego de aprobarse el presupuesto de 2027",
-        "url": "https://www.larepublica.co/economia/congreso-de-la-republica-dio-luz-verde-al-presupuesto-de-2027-por-634-9-billones-4506678",
-        "fecha_portada": "20/10/2026",
-        "titulo_fuente": "Salud fue el sector más beneficiado tras la aprobación del presupuesto de 2027",
-        "capturado": "2026-10-20T08:04:05-05:00"
-      },
-      {
-        "titulo": "El canciller Omar Bula procura afianzar los nexos bilaterales con Ucrania",
-        "url": "https://www.larepublica.co/economia/canciller-omar-bula-busca-fortalecer-las-relaciones-bilaterales-con-ucrania-4506754",
-        "fecha_portada": "",
-        "titulo_fuente": "Canciller Omar Bula busca fortalecer las relaciones bilaterales con Ucrania",
-        "capturado": "2026-10-20T08:04:05-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Mercado cripto movilizó US$29.100 millones y gremio plantea medidas regulatorias",
+        "url": "https://www.larepublica.co/finanzas/el-mercado-cripto-movio-us-29-100-millones-y-el-gremio-propone-seis-medidas-regulatorias-4513057",
+        "fecha_portada": "28/10/2026",
+        "titulo_fuente": "El mercado cripto movió US$29.100 millones, gremio propone medidas regulatorias",
+        "capturado": "2026-10-28T15:36:59-05:00"
+      },
       {
         "titulo": "El dólar sube a $3.154,96, $6,94 por encima de la TRM del día, fijada en $3.148,02",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-28-de-octubre-de-2026-4512776",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "La Bolsa de Valores de Colombia puso a disposición mecanismo de notas convertibles",
         "capturado": "2026-10-08T02:34:14-05:00"
-      },
-      {
-        "titulo": "El dólar finalizó la sesión $23,15 sobre la TRM de la fecha, registrando un valor medio de $3.239",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-7-de-octubre-4498378",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró la jornada $23,15 por encima de la TRM del día, a un precio promedio de $3.239",
-        "capturado": "2026-10-07T16:39:19-05:00"
       }
     ]
   }
