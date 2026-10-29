@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-29T08:22:51-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-29T14:01:38-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Ganancias del Emisor a septiembre llegaron a $5,97 billones, con una baja de 45%",
+        "url": "https://www.larepublica.co/economia/utilidades-del-emisor-a-septiembre-fueron-de-5-97-billones-cayeron-en-45-4513963",
+        "fecha_portada": "",
+        "titulo_fuente": "Utilidades del Emisor a septiembre fueron de $5,97 billones, registran caída de 45%",
+        "capturado": "2026-10-29T14:01:38-05:00"
+      },
+      {
+        "titulo": "La Nación vuelve a tomar deuda a niveles próximos al 13% en títulos a corto plazo",
+        "url": "https://www.larepublica.co/economia/la-nacion-se-vuelve-a-endeudar-a-niveles-cercanos-a-13-en-titulos-de-corto-plazo-4514003",
+        "fecha_portada": "29/10/2026",
+        "titulo_fuente": "La Nación se vuelve a endeudar a niveles cercanos a 13% en títulos de corto plazo",
+        "capturado": "2026-10-29T14:01:38-05:00"
+      },
       {
         "titulo": "La Reserva Federal mantuvo los tipos de interés en 3,75%-4% debido al creciente temor por la inflación",
         "url": "https://www.larepublica.co/globoeconomia/la-reserva-federal-dejo-las-tasas-de-interes-en-3-75-4-ante-creciente-temor-inflacionario-4513460",
@@ -409,23 +423,16 @@
         "fecha_portada": "21/10/2026",
         "titulo_fuente": "Cruz Roja hizo un llamado a participar de manera activa en el Simulacro Nacional",
         "capturado": "2026-10-21T14:23:38-05:00"
-      },
-      {
-        "titulo": "Gómez urgió a tramitar con rapidez la adición de $1,2 billones para el sector energía",
-        "url": "https://www.larepublica.co/economia/gomez-inisitio-en-que-se-de-tramite-a-la-adicion-de-1-2-billones-para-el-sector-energia-4507565",
-        "fecha_portada": "",
-        "titulo_fuente": "Gómez insistió en tramitar rápido la adición de $1,2 billones para el sector energía",
-        "capturado": "2026-10-21T14:23:38-05:00"
-      },
-      {
-        "titulo": "Los TES a 10 años rebasan el 13% y Colombia registra más riesgo país que Brasil y México",
-        "url": "https://www.larepublica.co/economia/los-tes-a-10-anos-superan-13-y-colombia-tiene-mayor-riesgo-pais-que-brasil-y-mexico-4507217",
-        "fecha_portada": "",
-        "titulo_fuente": "Los TES a 10 años superan 13% y Colombia tiene mayor riesgo país que Brasil y México",
-        "capturado": "2026-10-21T14:23:38-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Banco Serfinanza realizó su tercera oferta de bonos con una colocación de $150.000 millones",
+        "url": "https://www.larepublica.co/finanzas/banco-serfinanza-coloco-bonos-ordinarios-por-150-000-millones-y-conmemoro-sus-50-anos-4514068",
+        "fecha_portada": "29/10/2026",
+        "titulo_fuente": "Banco Serfinanza hizo su tercera emisión de bonos con colocación por $150.000 millones",
+        "capturado": "2026-10-29T14:01:38-05:00"
+      },
       {
         "titulo": "El dólar inició ganando $18,32, mientras el crudo cae por un eventual aumento de tasas en diciembre",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-29-de-octubre-4513797",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/el-oro-sube-mientras-que-la-demanda-en-las-subastas-reduce-los-rendimientos-de-los-bonos-4499910",
         "fecha_portada": "09/10/2026",
         "titulo_fuente": "El oro sube mientras que la demanda en las subastas reduce los rendimientos de los bonos",
-        "capturado": "2026-10-09T08:53:14-05:00"
-      },
-      {
-        "titulo": "Plataform habilitó la alternativa de invertir en sus acciones desde $5 millones",
-        "url": "https://www.larepublica.co/finanzas/plataform-abrio-posibilidad-de-inversion-en-sus-acciones-desde-un-minimo-de-5-millones-4500024",
-        "fecha_portada": "09/10/2026",
-        "titulo_fuente": "Plataform abrió posibilidad de inversión en sus acciones desde $5 millones",
         "capturado": "2026-10-09T08:53:14-05:00"
       }
     ]
