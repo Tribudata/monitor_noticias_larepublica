@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-28T19:28:04-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-29T01:08:43-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La Reserva Federal mantuvo los tipos de interés en 3,75%-4% debido al creciente temor por la inflación",
+        "url": "https://www.larepublica.co/globoeconomia/la-reserva-federal-dejo-las-tasas-de-interes-en-3-75-4-ante-creciente-temor-inflacionario-4513460",
+        "fecha_portada": "",
+        "titulo_fuente": "La Reserva Federal dejó las tasas de interés en 3,75%-4% ante creciente temor inflacionario",
+        "capturado": "2026-10-29T01:08:43-05:00"
+      },
+      {
+        "titulo": "La agencia Fitch Ratings inaugura sede en Bogotá debido al aumento de la inversión extranjera",
+        "url": "https://www.larepublica.co/economia/agencia-fitch-ratings-abre-nueva-sede-en-bogota-ante-mayor-inversion-extranjera-directa-4512896",
+        "fecha_portada": "29/10/2026",
+        "titulo_fuente": "Agencia Fitch Ratings abre nueva sede en Bogotá ante mayor inversión extranjera",
+        "capturado": "2026-10-29T01:08:43-05:00"
+      },
       {
         "titulo": "La bancada del Centro Democrático presentó su contrarreforma a las pensiones",
         "url": "https://www.larepublica.co/economia/bancada-del-centro-democratico-radico-oficialmente-su-contrarreforma-pensional-4513389",
@@ -409,20 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Los TES a 10 años superan 13% y Colombia tiene mayor riesgo país que Brasil y México",
         "capturado": "2026-10-21T14:23:38-05:00"
-      },
-      {
-        "titulo": "El FMI y el Banco Mundial evaluarán la estrategia de endeudamiento público para 2027-2030",
-        "url": "https://www.larepublica.co/economia/fmi-y-banco-mundial-revisaran-estrategia-de-deuda-publica-de-colombia-para-2027-2030-4507257",
-        "fecha_portada": "20/10/2026",
-        "titulo_fuente": "FMI y Banco Mundial revisarán estrategia de deuda pública para 2027-2030",
-        "capturado": "2026-10-20T19:12:01-05:00"
-      },
-      {
-        "titulo": "El Gobierno presentará 86 proyectos de US$56.799 millones en rueda de inversión en Nueva York",
-        "url": "https://www.larepublica.co/economia/gobierno-llevara-86-proyectos-por-us-56-799-millones-a-rueda-de-inversion-en-nueva-york-4506984",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno llevará 86 proyectos por US$56.799 millones a rueda de inversión en Nueva York",
-        "capturado": "2026-10-20T19:12:01-05:00"
       }
     ],
     "Bolsas": [
