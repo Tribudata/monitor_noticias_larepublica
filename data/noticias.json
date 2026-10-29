@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-28T15:36:59-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-28T19:28:04-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La bancada del Centro Democrático presentó su contrarreforma a las pensiones",
+        "url": "https://www.larepublica.co/economia/bancada-del-centro-democratico-radico-oficialmente-su-contrarreforma-pensional-4513389",
+        "fecha_portada": "",
+        "titulo_fuente": "Bancada del Centro Democrático radicó su 'contrarreforma' pensional",
+        "capturado": "2026-10-28T19:28:04-05:00"
+      },
       {
         "titulo": "En Bogotá un hogar de cada cinco es de una persona y el 48% está liderado por mujeres",
         "url": "https://www.larepublica.co/economia/resultados-de-la-encuesta-multiproposito-del-dane-para-bogota-y-alrededores-4513065",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/gobierno-llevara-86-proyectos-por-us-56-799-millones-a-rueda-de-inversion-en-nueva-york-4506984",
         "fecha_portada": "",
         "titulo_fuente": "Gobierno llevará 86 proyectos por US$56.799 millones a rueda de inversión en Nueva York",
-        "capturado": "2026-10-20T19:12:01-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda suscribió crédito por US$224 millones con el KfW",
-        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-firmo-operacion-de-credito-por-us-224-millones-con-el-kfw-4506963",
-        "fecha_portada": "20/10/2026",
-        "titulo_fuente": "Ministerio de Hacienda firmó operación de crédito por US$224 millones con el KfW",
         "capturado": "2026-10-20T19:12:01-05:00"
       }
     ],
