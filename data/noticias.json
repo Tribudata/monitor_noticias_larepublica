@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-29T01:08:43-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-29T08:22:51-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,34 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El dólar inició ganando $18,32, mientras el crudo cae por un eventual aumento de tasas en diciembre",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-29-de-octubre-4513797",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar abrió al alza $18,32, mientras el petróleo cae por posible subida de tasas en diciembre",
+        "capturado": "2026-10-29T08:22:51-05:00"
+      },
+      {
+        "titulo": "El oro bajó 1% debido a que se mantienen las apuestas sobre un aumento de tasas de la Reserva Federal",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-29-de-octubre-4513753",
+        "fecha_portada": "29/10/2026",
+        "titulo_fuente": "El oro cayó 1% debido a que persisten las apuestas a un alza de tasas de la Reserva Federal",
+        "capturado": "2026-10-29T08:22:51-05:00"
+      },
+      {
+        "titulo": "Argos obtendrá más de $183.000 millones por dividendos extraordinarios de Odinsa",
+        "url": "https://www.larepublica.co/empresas/grupo-argos-recibira-mas-de-183-000-millones-en-dividendos-extraordinarios-de-odinsa-4513652",
+        "fecha_portada": "28/10/2026",
+        "titulo_fuente": "Argos recibirá más de $183.000 millones en dividendos extraordinarios de Odinsa",
+        "capturado": "2026-10-29T08:22:51-05:00"
+      },
+      {
+        "titulo": "Con más de 18.000 clientes, KOA ingresó a la Bolsa de Colombia como emisor de CDT",
+        "url": "https://www.larepublica.co/finanzas/koa-compania-de-financiamiento-entro-a-la-bolsa-de-colombia-como-emisor-de-cdt-4513659",
+        "fecha_portada": "28/10/2026",
+        "titulo_fuente": "KOA entró a la Bolsa de Colombia como emisor de CDT con más de 18.000 clientes",
+        "capturado": "2026-10-29T08:22:51-05:00"
+      },
+      {
         "titulo": "Mercado cripto movilizó US$29.100 millones y gremio plantea medidas regulatorias",
         "url": "https://www.larepublica.co/finanzas/el-mercado-cripto-movio-us-29-100-millones-y-el-gremio-propone-seis-medidas-regulatorias-4513057",
         "fecha_portada": "28/10/2026",
@@ -817,34 +845,6 @@
         "fecha_portada": "09/10/2026",
         "titulo_fuente": "Plataform abrió posibilidad de inversión en sus acciones desde $5 millones",
         "capturado": "2026-10-09T08:53:14-05:00"
-      },
-      {
-        "titulo": "Avalan a Findeter para emitir bonos por hasta $300.000 millones",
-        "url": "https://www.larepublica.co/finanzas/findeter-recibio-autorizacion-para-emitir-bonos-por-un-valor-de-hasta-300-000-millones-4499406",
-        "fecha_portada": "",
-        "titulo_fuente": "Findeter recibió autorización para emitir bonos por hasta $300.000 millones",
-        "capturado": "2026-10-08T19:31:54-05:00"
-      },
-      {
-        "titulo": "El dólar cae $9,23 por cuenta de la tensión mundial y el alza del petróleo",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-8-de-octubre-de-2026-4499196",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar se cotiza $9,23 a la baja, impulsado por tensión global y repunte del petróleo",
-        "capturado": "2026-10-08T09:58:47-05:00"
-      },
-      {
-        "titulo": "El oro sube tras registrar su mínimo de dos meses; mercados evalúan la trayectoria de tasas de la FED",
-        "url": "https://www.larepublica.co/finanzas/el-oro-repunta-tras-tocar-minimo-de-dos-meses-mercados-sopesan-senda-de-tasas-de-la-fed-4499158",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro repunta tras tocar mínimo de dos meses, mercados sopesan senda de tasas de la FED",
-        "capturado": "2026-10-08T09:58:47-05:00"
-      },
-      {
-        "titulo": "La Bolsa de Valores de Colombia habilitó un esquema de notas convertibles",
-        "url": "https://www.larepublica.co/finanzas/la-bolsa-de-valores-de-colombia-puso-a-disposicion-mecanismo-de-notas-convertibles-4499014",
-        "fecha_portada": "",
-        "titulo_fuente": "La Bolsa de Valores de Colombia puso a disposición mecanismo de notas convertibles",
-        "capturado": "2026-10-08T02:34:14-05:00"
       }
     ]
   }
