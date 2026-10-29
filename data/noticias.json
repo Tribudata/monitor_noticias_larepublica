@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-29T14:01:38-05:00",
+  "actualizado": "2026-10-29T18:24:40-05:00",
   "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Cinco aspectos fundamentales incluidos en la Ley de Rescate Económico del Gobierno",
+        "url": "https://www.larepublica.co/economia/estos-son-los-cinco-puntos-claves-que-contiene-la-ley-de-rescate-economico-del-gobierno-4514369",
+        "fecha_portada": "",
+        "titulo_fuente": "Estos son los cinco puntos claves que contiene la Ley de Rescate Económico del Gobierno",
+        "capturado": "2026-10-29T18:24:40-05:00"
+      },
+      {
+        "titulo": "La Ley de Rescate del Gobierno incorporaría un régimen de estabilidad jurídica para inversiones",
+        "url": "https://www.larepublica.co/economia/ley-de-rescate-del-gobierno-traeria-regimen-de-estabilidad-juridica-para-inversiones-4514249",
+        "fecha_portada": "29/10/2026",
+        "titulo_fuente": "Ley de Rescate del Gobierno traería régimen de estabilidad jurídica para inversiones",
+        "capturado": "2026-10-29T18:24:40-05:00"
+      },
+      {
+        "titulo": "A septiembre, la deuda pública llegó a $1.185 billones, lo que representa el 61,4% del PIB",
+        "url": "https://www.larepublica.co/economia/deuda-publica-a-septiembre-alcanzo-1-181-billones-equivale-a-61-4-del-pib-4514154",
+        "fecha_portada": "",
+        "titulo_fuente": "Deuda pública a septiembre alcanzó $1.185 billones, equivale a 61,4% del PIB",
+        "capturado": "2026-10-29T18:24:40-05:00"
+      },
       {
         "titulo": "Ganancias del Emisor a septiembre llegaron a $5,97 billones, con una baja de 45%",
         "url": "https://www.larepublica.co/economia/utilidades-del-emisor-a-septiembre-fueron-de-5-97-billones-cayeron-en-45-4513963",
@@ -402,27 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "\"Los regímenes autoritarios y los populismos buscan transformar los sistemas\"",
         "capturado": "2026-10-22T01:11:08-05:00"
-      },
-      {
-        "titulo": "Por cada $100 del Presupuesto General de 2027, $22 se destinan exclusivamente a la deuda",
-        "url": "https://www.larepublica.co/economia/de-cada-100-del-presupuesto-general-de-2027-22-van-unicamente-al-pago-de-deuda-4506880",
-        "fecha_portada": "21/10/2026",
-        "titulo_fuente": "De cada $100 del Presupuesto General de 2027, $22 van únicamente a la deuda",
-        "capturado": "2026-10-22T01:11:08-05:00"
-      },
-      {
-        "titulo": "Presupuesto por decreto deja fuera $3 billones para Salud y reducción de gasto en deuda",
-        "url": "https://www.larepublica.co/economia/presupuesto-por-decreto-excluye-3-billones-a-salud-y-la-reduccion-en-servicio-de-la-deuda-4507770",
-        "fecha_portada": "",
-        "titulo_fuente": "Presupuesto vía decreto excluye $3 billones a Salud y reducción en gasto en deuda",
-        "capturado": "2026-10-21T14:23:38-05:00"
-      },
-      {
-        "titulo": "Cruz Roja instó a participar de forma activa en el Simulacro Nacional",
-        "url": "https://www.larepublica.co/economia/cruz-roja-hizo-un-llamado-a-participar-de-manera-activa-en-el-simulacro-nacional-4507604",
-        "fecha_portada": "21/10/2026",
-        "titulo_fuente": "Cruz Roja hizo un llamado a participar de manera activa en el Simulacro Nacional",
-        "capturado": "2026-10-21T14:23:38-05:00"
       }
     ],
     "Bolsas": [
