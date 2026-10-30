@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-29T21:42:35-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-30T04:06:43-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Aspectos centrales de la Ley de Rescate Económica que busca aprobación en el Congreso",
+        "url": "https://www.larepublica.co/economia/los-puntos-clave-de-la-ley-de-rescate-economica-que-busca-luz-verde-en-el-congreso-4513927",
+        "fecha_portada": "30/10/2026",
+        "titulo_fuente": "Los puntos clave de la Ley de Rescate Económica que busca luz verde en el Congreso",
+        "capturado": "2026-10-30T04:06:43-05:00"
+      },
+      {
+        "titulo": "El sector financiero anticipa un alza de 25 puntos en las tasas que determina el Banco de la República",
+        "url": "https://www.larepublica.co/economia/mercado-financiaero-preve-alza-de-25-puntos-en-la-tasa-del-banco-de-la-republica-4514553",
+        "fecha_portada": "",
+        "titulo_fuente": "El mercado financiero prevé una subida de 25 puntos en las tasas que fija el Banco de la República",
+        "capturado": "2026-10-30T04:06:43-05:00"
+      },
+      {
+        "titulo": "La Ley de Rescate cambiaría la regla fiscal y fijaría un límite al gasto cuando aumente la deuda",
+        "url": "https://www.larepublica.co/economia/ley-de-rescate-modificaria-regla-fiscal-y-pondria-techo-al-gasto-si-la-deuda-supera-63-del-pib-4514413",
+        "fecha_portada": "",
+        "titulo_fuente": "Ley de Rescate modificaría regla fiscal y pondría techo al gasto cuando haya más deuda",
+        "capturado": "2026-10-30T04:06:43-05:00"
+      },
       {
         "titulo": "Tope anual de $32,9 millones para la renta exenta del 25% con Ley de Rescate Económico",
         "url": "https://www.larepublica.co/economia/renta-exenta-de-25-tendra-un-limite-anual-de-32-millones-con-ley-de-rescate-economico-4514395",
@@ -402,30 +423,16 @@
         "fecha_portada": "22/10/2026",
         "titulo_fuente": "Los retos que Aznar identifica para la democracia liberal: la IA, la crisis energética y demográfica",
         "capturado": "2026-10-22T12:21:35-05:00"
-      },
-      {
-        "titulo": "El Presupuesto General de la Nación se emitirá por decreto por tercera ocasión desde 1991",
-        "url": "https://www.larepublica.co/economia/por-tercera-vez-desde-1991-se-expedira-el-presupuesto-general-de-la-nacion-via-decreto-4508176",
-        "fecha_portada": "22/10/2026",
-        "titulo_fuente": "Por tercera vez desde 1991 se expedirá el Presupuesto General de la Nación vía decreto",
-        "capturado": "2026-10-22T01:11:08-05:00"
-      },
-      {
-        "titulo": "Alejandro Ordoñez ocupará el Ministerio del Interior, un puesto con duración promedio de 16 meses",
-        "url": "https://www.larepublica.co/economia/ordonez-sera-ministro-del-interior-un-cargo-que-dura-16-meses-en-promedio-4508267",
-        "fecha_portada": "",
-        "titulo_fuente": "Alejandro Ordoñez será ministro del Interior, un cargo que dura 16 meses en promedio",
-        "capturado": "2026-10-22T01:11:08-05:00"
-      },
-      {
-        "titulo": "Andrés Duque sería designado embajador de Colombia ante Australia en el Gobierno",
-        "url": "https://www.larepublica.co/economia/andres-duque-seria-nombrado-embajador-de-colombia-en-australia-en-el-gobierno-de-de-la-espriella-4508258",
-        "fecha_portada": "",
-        "titulo_fuente": "Andrés Duque sería nombrado embajador de Colombia en Australia en el Gobierno",
-        "capturado": "2026-10-22T01:11:08-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "De esta manera puede invertir en un ETF a partir de $16.700 en el Mercado Global Colombia de la Bolsa",
+        "url": "https://www.larepublica.co/finanzas/asi-puede-invertir-en-un-etf-desde-16-700-en-el-mercado-global-colombia-de-la-bolsa-4514496",
+        "fecha_portada": "30/10/2026",
+        "titulo_fuente": "Así puede invertir en un ETF desde $16.700 en el Mercado Global Colombia de la Bolsa",
+        "capturado": "2026-10-30T04:06:43-05:00"
+      },
       {
         "titulo": "Banco Serfinanza realizó su tercera oferta de bonos con una colocación de $150.000 millones",
         "url": "https://www.larepublica.co/finanzas/banco-serfinanza-coloco-bonos-ordinarios-por-150-000-millones-y-conmemoro-sus-50-anos-4514068",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-9-de-octubre-de-2026-4499926",
         "fecha_portada": "",
         "titulo_fuente": "El dólar abrió la jornada $6,75 por debajo de la TRM, a un precio de $3.212",
-        "capturado": "2026-10-09T08:53:14-05:00"
-      },
-      {
-        "titulo": "El oro incrementa su valor a la vez que la demanda en las subastas baja los rendimientos de los bonos",
-        "url": "https://www.larepublica.co/finanzas/el-oro-sube-mientras-que-la-demanda-en-las-subastas-reduce-los-rendimientos-de-los-bonos-4499910",
-        "fecha_portada": "09/10/2026",
-        "titulo_fuente": "El oro sube mientras que la demanda en las subastas reduce los rendimientos de los bonos",
         "capturado": "2026-10-09T08:53:14-05:00"
       }
     ]
