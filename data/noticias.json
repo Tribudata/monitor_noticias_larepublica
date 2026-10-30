@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-30T04:06:43-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-30T11:02:49-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Desde inicios del siglo se han avalado 13 reformas tributarias",
+        "url": "https://www.larepublica.co/economia/en-el-pais-se-han-aprobado-13-reformas-tributarias-desde-inicios-del-siglo-4514768",
+        "fecha_portada": "",
+        "titulo_fuente": "Se han aprobado 13 reformas tributarias desde comienzos del siglo",
+        "capturado": "2026-10-30T11:02:49-05:00"
+      },
+      {
+        "titulo": "Compañías quedarían exentas de pagos a Sena, Icbf y salud para sueldos de hasta dos mínimos",
+        "url": "https://www.larepublica.co/economia/empresas-quedarian-exoneradas-de-aportes-al-sena-icbf-y-salud-por-salarios-de-hasta-dos-minimos-4514782",
+        "fecha_portada": "30/10/2026",
+        "titulo_fuente": "Empresas quedarían exoneradas de aportes al Sena, Icbf y salud por salarios de hasta dos mínimos",
+        "capturado": "2026-10-30T11:02:49-05:00"
+      },
+      {
+        "titulo": "Bebidas con edulcorantes captarían alrededor de $1,8 billones en 2028",
+        "url": "https://www.larepublica.co/economia/bebidas-con-edulcorantes-recaudarian-1-8-billones-en-2028-con-ley-de-rescate-4514781",
+        "fecha_portada": "",
+        "titulo_fuente": "Bebidas con edulcorantes recaudarían cerca de $1,8 billones en 2028",
+        "capturado": "2026-10-30T11:02:49-05:00"
+      },
+      {
+        "titulo": "Las recientes normas para controlar el gasto en pauta y publicidad oficial de la Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/las-nuevas-reglas-para-regular-el-gasto-en-pauta-y-publicidad-oficial-de-la-ley-de-rescate-4514773",
+        "fecha_portada": "",
+        "titulo_fuente": "Las nuevas reglas para regular el gasto en pauta y publicidad oficial de la Ley de Rescate",
+        "capturado": "2026-10-30T11:02:49-05:00"
+      },
       {
         "titulo": "Aspectos centrales de la Ley de Rescate Económica que busca aprobación en el Congreso",
         "url": "https://www.larepublica.co/economia/los-puntos-clave-de-la-ley-de-rescate-economica-que-busca-luz-verde-en-el-congreso-4513927",
@@ -395,37 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Déficit fiscal llegó a 4,7% del PIB a agosto y los intereses consumen 28% del recaudo tributario",
         "capturado": "2026-10-22T15:37:32-05:00"
-      },
-      {
-        "titulo": "El objetivo es alcanzar cerca de 60.000 subsidios de vivienda asignados durante este gobierno",
-        "url": "https://www.larepublica.co/economia/intervencion-de-carlos-fernando-galan-alcalde-de-bogota-4508805",
-        "fecha_portada": "",
-        "titulo_fuente": "\"La meta es llegar a alrededor de 60.000 subsidios de vivienda asignados en este gobierno\"",
-        "capturado": "2026-10-22T15:37:32-05:00"
-      },
-      {
-        "titulo": "El faltante fiscal de enero a agosto ascendió a 4,6% del PIB, lo que equivale a $91,2 billones",
-        "url": "https://www.larepublica.co/economia/deficit-fiscal-llego-a-4-6-del-pib-con-corte-a-agosto-equivalente-a-91-billones-4508726",
-        "fecha_portada": "",
-        "titulo_fuente": "Déficit fiscal entre enero y agosto llegó a 4,6% del PIB, equivalente a $91,2 billones",
-        "capturado": "2026-10-22T15:37:32-05:00"
-      },
-      {
-        "titulo": "Villar alertó que el déficit tensiona las tasas e impulsa la apreciación del peso",
-        "url": "https://www.larepublica.co/economia/villar-adviertio-que-el-deficit-fiscal-presiona-las-tasas-y-contribuye-a-la-apreciacion-del-peso-4508688",
-        "fecha_portada": "",
-        "titulo_fuente": "Villar advirtió que el déficit presiona las tasas y contribuye a la apreciación del peso",
-        "capturado": "2026-10-22T12:21:35-05:00"
-      },
-      {
-        "titulo": "Los desafíos que Aznar detecta para la democracia liberal: la IA, la crisis energética y demográfica",
-        "url": "https://www.larepublica.co/economia/los-retos-que-aznar-identifica-para-la-democracia-liberal-la-ia-la-crisis-energetica-y-demografica-4508662",
-        "fecha_portada": "22/10/2026",
-        "titulo_fuente": "Los retos que Aznar identifica para la democracia liberal: la IA, la crisis energética y demográfica",
-        "capturado": "2026-10-22T12:21:35-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "La divisa se negocia en $3.174,54, superando por $7,63 la TRM de la jornada de $3.166,91",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-30-de-octubre-4514831",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar se cotiza en $3.174,54, $7,63 por encima de la TRM del día, que se ubicó en $3.166,91",
+        "capturado": "2026-10-30T11:02:49-05:00"
+      },
+      {
+        "titulo": "Bitcoin baja de US$77.000 tras ciberataque a Binance que afecta a las criptomonedas",
+        "url": "https://www.larepublica.co/globoeconomia/bitcoin-cae-por-debajo-de-los-us-77-000-tras-hackeo-de-binance-que-sacude-el-mundo-cripto-4514818",
+        "fecha_portada": "30/10/2026",
+        "titulo_fuente": "Bitcoin cae por debajo de los US$77.000 tras hackeo de Binance que sacude a las cripto",
+        "capturado": "2026-10-30T11:02:49-05:00"
+      },
+      {
+        "titulo": "La baja de tecnológicas se acentúa por dudas sobre el gasto en inteligencia artificial",
+        "url": "https://www.larepublica.co/globoeconomia/caida-de-tecnologicas-se-intensifica-por-dudas-sobre-gasto-en-inteligencia-artificial-4515014",
+        "fecha_portada": "",
+        "titulo_fuente": "Caída de tecnológicas se intensifica por dudas sobre gasto en inteligencia artificial",
+        "capturado": "2026-10-30T11:02:49-05:00"
+      },
       {
         "titulo": "De esta manera puede invertir en un ETF a partir de $16.700 en el Mercado Global Colombia de la Bolsa",
         "url": "https://www.larepublica.co/finanzas/asi-puede-invertir-en-un-etf-desde-16-700-en-el-mercado-global-colombia-de-la-bolsa-4514496",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Oro baja por tercera sesión consecutiva, a la espera de datos de inflación en EE.UU.",
         "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Desempeño de las firmas locales en Wall Street desde su ingreso en los 90",
-        "url": "https://www.larepublica.co/finanzas/asi-les-ha-ido-a-las-empresas-locales-en-wall-street-desde-su-entrada-en-los-90-4500574",
-        "fecha_portada": "",
-        "titulo_fuente": "Así les ha ido a las empresas locales en Wall Street desde su entrada en los 90",
-        "capturado": "2026-10-10T03:44:02-05:00"
-      },
-      {
-        "titulo": "Títulos accionarios suben por caída del crudo y menor preocupación sobre inteligencia artificial",
-        "url": "https://www.larepublica.co/globoeconomia/acciones-repuntan-ante-baja-del-petroleo-y-menor-inquietud-por-inteligencia-artificial-4500107",
-        "fecha_portada": "09/10/2026",
-        "titulo_fuente": "Acciones repuntan ante baja del petróleo y menor inquietud por inteligencia artificial",
-        "capturado": "2026-10-09T18:20:33-05:00"
-      },
-      {
-        "titulo": "La divisa estadounidense inició el día $6,75 por debajo de la TRM, con un valor de $3.212",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-9-de-octubre-de-2026-4499926",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar abrió la jornada $6,75 por debajo de la TRM, a un precio de $3.212",
-        "capturado": "2026-10-09T08:53:14-05:00"
       }
     ]
   }
