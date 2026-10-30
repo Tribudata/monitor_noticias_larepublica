@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-30T11:02:49-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-30T15:54:36-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Junta del Banco de la República dejó sin cambios la tasa de interés en 12,25%",
+        "url": "https://www.larepublica.co/economia/junta-del-banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-en-12-25-4515191",
+        "fecha_portada": "",
+        "titulo_fuente": "Junta del Banco de la República mantuvo inalterada la tasa de interés en 12,25%",
+        "capturado": "2026-10-30T15:54:36-05:00"
+      },
+      {
+        "titulo": "El Gobierno comunicará un proyecto de acueducto para Santa Marta y municipios vecinos",
+        "url": "https://www.larepublica.co/economia/gobierno-anunciara-nuevo-proyecto-de-acueducto-para-santa-marta-y-municipios-aledanos-4515075",
+        "fecha_portada": "30/10/2026",
+        "titulo_fuente": "Gobierno anunciará un proyecto de acueducto para Santa Marta y los municipios aledaños",
+        "capturado": "2026-10-30T15:54:36-05:00"
+      },
+      {
+        "titulo": "Así respondieron congresistas y gremios ante la Ley de rescate",
+        "url": "https://www.larepublica.co/economia/las-reacciones-a-la-ley-de-rescate-presentada-por-el-gobierno-4514789",
+        "fecha_portada": "",
+        "titulo_fuente": "Así han reaccionado congresistas y gremios a la Ley de rescate",
+        "capturado": "2026-10-30T15:54:36-05:00"
+      },
       {
         "titulo": "Desde inicios del siglo se han avalado 13 reformas tributarias",
         "url": "https://www.larepublica.co/economia/en-el-pais-se-han-aprobado-13-reformas-tributarias-desde-inicios-del-siglo-4514768",
@@ -402,27 +423,6 @@
         "fecha_portada": "22/10/2026",
         "titulo_fuente": "Michel Janna asumirá la representación de Colombia ante el FMI en Washington",
         "capturado": "2026-10-23T02:43:56-05:00"
-      },
-      {
-        "titulo": "DNP propone un ajuste fiscal y promover la inversión privada para que Colombia crezca al 6%",
-        "url": "https://www.larepublica.co/economia/dnp-plantea-un-ajuste-fiscal-y-fomentar-la-inversion-privada-para-que-colombia-crezca-6-4508983",
-        "fecha_portada": "22/10/2026",
-        "titulo_fuente": "DNP plantea un ajuste fiscal y fomentar la inversión privada para que Colombia crezca 6%",
-        "capturado": "2026-10-22T18:42:00-05:00"
-      },
-      {
-        "titulo": "Dian reducirá 85% de las sanciones a contribuyentes morosos mediante decreto del sismo",
-        "url": "https://www.larepublica.co/economia/dian-rebajara-85-de-las-sanciones-a-contribuyentes-en-mora-con-el-decreto-del-terremoto-4509104",
-        "fecha_portada": "22/10/2026",
-        "titulo_fuente": "Dian rebajará 85% de las sanciones a contribuyentes en mora con decreto del sismo",
-        "capturado": "2026-10-22T18:42:00-05:00"
-      },
-      {
-        "titulo": "Faltante fiscal se ubicó en 4,7% del PIB a agosto e intereses absorben 28% del recaudo de impuestos",
-        "url": "https://www.larepublica.co/economia/deficit-fiscal-llego-a-4-7-del-pib-a-agosto-y-los-intereses-consumen-28-del-recaudo-tributario-4508903",
-        "fecha_portada": "",
-        "titulo_fuente": "Déficit fiscal llegó a 4,7% del PIB a agosto y los intereses consumen 28% del recaudo tributario",
-        "capturado": "2026-10-22T15:37:32-05:00"
       }
     ],
     "Bolsas": [
