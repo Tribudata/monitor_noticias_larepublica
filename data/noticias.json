@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-29T18:24:40-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-29T21:42:35-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Tope anual de $32,9 millones para la renta exenta del 25% con Ley de Rescate Económico",
+        "url": "https://www.larepublica.co/economia/renta-exenta-de-25-tendra-un-limite-anual-de-32-millones-con-ley-de-rescate-economico-4514395",
+        "fecha_portada": "",
+        "titulo_fuente": "Renta exenta de 25% tendrá límite anual de $32,9 millones con Ley de Rescate Económico",
+        "capturado": "2026-10-29T21:42:35-05:00"
+      },
       {
         "titulo": "Cinco aspectos fundamentales incluidos en la Ley de Rescate Económico del Gobierno",
         "url": "https://www.larepublica.co/economia/estos-son-los-cinco-puntos-claves-que-contiene-la-ley-de-rescate-economico-del-gobierno-4514369",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/andres-duque-seria-nombrado-embajador-de-colombia-en-australia-en-el-gobierno-de-de-la-espriella-4508258",
         "fecha_portada": "",
         "titulo_fuente": "Andrés Duque sería nombrado embajador de Colombia en Australia en el Gobierno",
-        "capturado": "2026-10-22T01:11:08-05:00"
-      },
-      {
-        "titulo": "Los regímenes autoritarios y los populismos buscan modificar los sistemas",
-        "url": "https://www.larepublica.co/economia/jose-maria-aznar-e-ivan-duque-debatieron-sobre-democracia-libertad-y-retos-del-orden-mundial-4507737",
-        "fecha_portada": "",
-        "titulo_fuente": "\"Los regímenes autoritarios y los populismos buscan transformar los sistemas\"",
         "capturado": "2026-10-22T01:11:08-05:00"
       }
     ],
