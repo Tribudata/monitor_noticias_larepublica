@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-31T00:58:39-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-31T06:37:42-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Artículos que subirán de precio por el cambio al IVA en la Ley de Rescate de De La Espriella",
+        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/estos-son-lo-productos-que-se-encarecen-con-un-ajuste-del-iva-en-la-ley-de-rescate-4514952",
+        "fecha_portada": "",
+        "titulo_fuente": "Estos son lo productos que se encarecen con un ajuste del IVA en la Ley de Rescate de De La Espriella",
+        "capturado": "2026-10-31T06:37:42-05:00"
+      },
+      {
+        "titulo": "El Banco de la República tomó por sorpresa al mercado y dejó sin cambios las tasas",
+        "url": "https://www.larepublica.co/economia/el-banco-de-la-republica-sorprendio-al-mercado-y-mantuvo-las-tasas-quietas-en-12-25-4515408",
+        "fecha_portada": "",
+        "titulo_fuente": "El Banco de la República sorprendió al mercado y mantuvo las tasas quietas",
+        "capturado": "2026-10-31T06:37:42-05:00"
+      },
+      {
+        "titulo": "El límite para tributar el impuesto al patrimonio cambiaría de $3.770 a $5.000 millones",
+        "url": "https://www.larepublica.co/economia/el-umbral-para-pagar-el-impuesto-al-patrimonio-pasaria-de-72-000-a-95-500-uvt-4514779",
+        "fecha_portada": "30/10/2026",
+        "titulo_fuente": "El umbral para pagar el impuesto al patrimonio pasaría de $3.770 a $5.000 millones",
+        "capturado": "2026-10-31T06:37:42-05:00"
+      },
+      {
+        "titulo": "Fecoljuegos solicitó evaluar los cambios impositivos para los juegos de azar",
+        "url": "https://www.larepublica.co/economia/fecoljuegos-pidio-revisar-ajustes-tributarios-de-ley-de-rescate-4515150",
+        "fecha_portada": "",
+        "titulo_fuente": "Fecoljuegos pidió revisar ajustes tributarios para juegos de azar",
+        "capturado": "2026-10-31T06:37:42-05:00"
+      },
       {
         "titulo": "Junta del Banco de la República dejó sin cambios la tasa de interés en 12,25%",
         "url": "https://www.larepublica.co/economia/junta-del-banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-en-12-25-4515191",
@@ -395,34 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Sale el equipo legislativo de Hacienda tras error en el trámite del Presupuesto",
         "capturado": "2026-10-23T12:31:32-05:00"
-      },
-      {
-        "titulo": "Analistas esperan que el Banco de la República eleve las tasas hasta 12,50% en octubre",
-        "url": "https://www.larepublica.co/economia/analistas-preven-que-el-banco-de-la-republica-suba-las-tasas-hasta-12-50-en-octubre-4509658",
-        "fecha_portada": "23/10/2026",
-        "titulo_fuente": "Analistas prevén que el Banco de la República suba las tasas hasta 12,50% en octubre",
-        "capturado": "2026-10-23T12:31:32-05:00"
-      },
-      {
-        "titulo": "Reducción de $13,8 billones al PGN de 2026 contempla $4 billones para el servicio de la deuda",
-        "url": "https://www.larepublica.co/economia/gobierno-recorto-13-8-billones-al-presupuesto-general-de-la-nacion-de-2026-4509412",
-        "fecha_portada": "",
-        "titulo_fuente": "Recorte de $13,8 billones al PGN de 2026 incluye $4 billones al servicio de la deuda",
-        "capturado": "2026-10-23T07:53:24-05:00"
-      },
-      {
-        "titulo": "El faltante fiscal creció a 4,6% del PIB a agosto y rebasó el acumulado total de 2023",
-        "url": "https://www.larepublica.co/economia/el-deficit-fiscal-se-expandio-a-4-6-del-pib-a-agosto-y-ya-supero-al-registro-total-de-2023-4509036",
-        "fecha_portada": "",
-        "titulo_fuente": "El déficit fiscal se expandió a 4,6% del PIB a agosto y ya logró superar al registro total de 2023",
-        "capturado": "2026-10-23T02:43:56-05:00"
-      },
-      {
-        "titulo": "Michel Janna representará a Colombia ante el FMI en Washington",
-        "url": "https://www.larepublica.co/economia/michel-janna-asumira-la-representacion-de-colombia-ante-el-fmi-en-washington-4509158",
-        "fecha_portada": "22/10/2026",
-        "titulo_fuente": "Michel Janna asumirá la representación de Colombia ante el FMI en Washington",
-        "capturado": "2026-10-23T02:43:56-05:00"
       }
     ],
     "Bolsas": [
