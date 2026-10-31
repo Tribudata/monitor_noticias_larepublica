@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-31T11:21:38-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-31T15:07:00-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Dian y Minhacienda preparan ajustes legales para frenar la evasión y el contrabando",
+        "url": "https://www.larepublica.co/economia/dian-y-minhacienda-alistan-cambios-normativos-para-combatir-la-evasion-y-el-contrabando-4515816",
+        "fecha_portada": "31/10/2026",
+        "titulo_fuente": "Dian y Minhacienda alistan cambios normativos para combatir la evasión y el contrabando",
+        "capturado": "2026-10-31T15:07:00-05:00"
+      },
+      {
+        "titulo": "Rubio y ministro de Asuntos Exteriores de Brasil se encontrarán luego de fricciones electorales",
+        "url": "https://www.larepublica.co/globoeconomia/rubio-y-ministro-de-asuntos-exteriores-de-brasil-se-reuniran-tras-tensiones-electorales-4515847",
+        "fecha_portada": "31/10/2026",
+        "titulo_fuente": "Rubio y ministro de Asuntos Exteriores de Brasil se reunirán tras tensiones electorales",
+        "capturado": "2026-10-31T15:07:00-05:00"
+      },
       {
         "titulo": "Artículos que subirán de precio por el cambio al IVA en la Ley de Rescate de De La Espriella",
         "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/estos-son-lo-productos-que-se-encarecen-con-un-ajuste-del-iva-en-la-ley-de-rescate-4514952",
@@ -409,20 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Gobierno ya canjeó $30,1 billones en TES, el próximo canje se hará durante noviembre",
         "capturado": "2026-10-23T21:04:31-05:00"
-      },
-      {
-        "titulo": "Apenas se logró el 72,5% de los objetivos del Plan Nacional de Desarrollo Petro",
-        "url": "https://www.larepublica.co/economia/solo-se-cumplieron-72-5-de-las-metas-del-plan-nacional-de-desarrollo-petro-4509729",
-        "fecha_portada": "23/10/2026",
-        "titulo_fuente": "Solo se cumplieron 72,5% de las metas del Plan Nacional de Desarrollo Petro",
-        "capturado": "2026-10-23T15:41:25-05:00"
-      },
-      {
-        "titulo": "Se retira el grupo legislativo de Hacienda por una equivocación en el trámite del Presupuesto",
-        "url": "https://www.larepublica.co/economia/sale-el-equipo-legislativo-de-hacienda-tras-error-en-el-tramite-del-presupuesto-4509648",
-        "fecha_portada": "",
-        "titulo_fuente": "Sale el equipo legislativo de Hacienda tras error en el trámite del Presupuesto",
-        "capturado": "2026-10-23T12:31:32-05:00"
       }
     ],
     "Bolsas": [
