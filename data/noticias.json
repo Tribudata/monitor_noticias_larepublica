@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-10-31T21:25:45-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-01T04:26:08-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Las Naciones Unidas concluyeron su misión política en Somalia tras tres décadas",
+        "url": "https://www.larepublica.co/globoeconomia/las-naciones-unidas-pone-fin-a-su-mision-politica-en-somalia-tras-tres-decadas-4515886",
+        "fecha_portada": "",
+        "titulo_fuente": "Las Naciones Unidas pusieron fin a su misión política en Somalia luego de tres décadas",
+        "capturado": "2026-11-01T04:26:08-05:00"
+      },
       {
         "titulo": "Dian y Minhacienda preparan ajustes legales para frenar la evasión y el contrabando",
         "url": "https://www.larepublica.co/economia/dian-y-minhacienda-alistan-cambios-normativos-para-combatir-la-evasion-y-el-contrabando-4515816",
@@ -416,16 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Así puede reducir la sanción si no declaró renta dentro de las fechas establecidas",
         "capturado": "2026-10-24T02:26:00-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo intercambió $30,1 billones en TES y la siguiente permuta será en noviembre",
-        "url": "https://www.larepublica.co/economia/gobierno-ya-canjeo-30-1-billones-en-tes-el-proximo-canje-se-hara-en-noviembre-4510067",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno ya canjeó $30,1 billones en TES, el próximo canje se hará durante noviembre",
-        "capturado": "2026-10-23T21:04:31-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Binance ya restituyó más de 90% de los activos hurtados durante un evento de seguridad",
+        "url": "https://www.larepublica.co/globoeconomia/binance-repone-90-de-los-activos-sustraidos-en-un-incidente-de-seguridad-4515845",
+        "fecha_portada": "",
+        "titulo_fuente": "Binance ya repuso más de 90% de los activos sustraídos en un incidente de seguridad",
+        "capturado": "2026-11-01T04:26:08-05:00"
+      },
       {
         "titulo": "La divisa se negocia en $3.174,54, superando por $7,63 la TRM de la jornada de $3.166,91",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-30-de-octubre-4514831",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-14-de-octubre-de-2026-4502473",
         "fecha_portada": "",
         "titulo_fuente": "Precio del dólar cerró $15,8 al alza ante previsión de pausa en tasas de la Reserva Federal",
-        "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Oro cae por tercera jornada seguida, aguardando cifras de inflación en EE.UU.",
-        "url": "https://www.larepublica.co/finanzas/precios-del-oro-hoy-14-de-octubre-4502466",
-        "fecha_portada": "",
-        "titulo_fuente": "Oro baja por tercera sesión consecutiva, a la espera de datos de inflación en EE.UU.",
         "capturado": "2026-10-15T05:24:23-05:00"
       }
     ]
