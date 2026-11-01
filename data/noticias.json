@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-01T11:10:25-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-01T15:38:02-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El 30% de la población más pobre se beneficiaría del esquema EfectIVA de la Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/el-mecanismo-efectiva-de-la-ley-de-rescate-beneficiaria-a-30-de-la-poblacion-mas-pobre-4515993",
+        "fecha_portada": "01/11/2026",
+        "titulo_fuente": "El mecanismo EfectIVA de la Ley de Rescate beneficiaría a 30% de la población más pobre",
+        "capturado": "2026-11-01T15:38:02-05:00"
+      },
       {
         "titulo": "Las Naciones Unidas concluyeron su misión política en Somalia tras tres décadas",
         "url": "https://www.larepublica.co/globoeconomia/las-naciones-unidas-pone-fin-a-su-mision-politica-en-somalia-tras-tres-decadas-4515886",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/en-dos-meses-del-gobierno-de-la-espriella-han-salido-dos-ministros-y-tres-viceministros-4510080",
         "fecha_portada": "24/10/2026",
         "titulo_fuente": "En dos meses del Gobierno De la Espriella, han salido dos ministros y tres viceministros",
-        "capturado": "2026-10-24T02:26:00-05:00"
-      },
-      {
-        "titulo": "De esta forma puede aminorar la sanción si no declaró renta en las fechas fijadas",
-        "url": "https://www.larepublica.co/finanzas/asi-puede-reducir-la-sancion-si-no-declaro-renta-dentro-de-las-fechas-establecidas-por-la-dian-4509914",
-        "fecha_portada": "",
-        "titulo_fuente": "Así puede reducir la sanción si no declaró renta dentro de las fechas establecidas",
         "capturado": "2026-10-24T02:26:00-05:00"
       }
     ],
