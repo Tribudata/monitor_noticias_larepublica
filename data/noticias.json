@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-02T22:14:19-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-03T06:05:45-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Reforma tributaria, US$5.000 millones al 4% del Fondo Monetario Internacional y reajuste",
+        "url": "https://www.larepublica.co/economia/ajuste-tributaria-y-us-5-000-millones-a-4-del-fondo-monetario-internacional-4516246",
+        "fecha_portada": "03/11/2026",
+        "titulo_fuente": "Tributaria, US$5.000 millones, a 4%, del Fondo Monetario Internacional y ajuste",
+        "capturado": "2026-11-03T06:05:45-05:00"
+      },
+      {
+        "titulo": "El cambio en el IVA impulsaría más la inflación y la pondría por encima de 6,4% el año entrante",
+        "url": "https://www.larepublica.co/economia/el-ajuste-en-el-iva-presionaria-mas-la-inflacion-y-la-llevaria-arriba-de-6-4-el-proximo-ano-4515593",
+        "fecha_portada": "",
+        "titulo_fuente": "El ajuste en el IVA presionaría más la inflación y la llevaría arriba de 6,4% el próximo año",
+        "capturado": "2026-11-03T06:05:45-05:00"
+      },
+      {
+        "titulo": "Cerca de 100 países cobran impuestos por compras en plataformas como Temu y Shein",
+        "url": "https://www.larepublica.co/globoeconomia/casi-100-paises-tienen-impuestos-a-compras-en-plataformas-como-temu-y-shein-4515523",
+        "fecha_portada": "03/11/2026",
+        "titulo_fuente": "Casi 100 países tienen impuestos a compras en plataformas como Temu y Shein",
+        "capturado": "2026-11-03T06:05:45-05:00"
+      },
       {
         "titulo": "El 30% de la población más pobre se beneficiaría del esquema EfectIVA de la Ley de Rescate",
         "url": "https://www.larepublica.co/economia/el-mecanismo-efectiva-de-la-ley-de-rescate-beneficiaria-a-30-de-la-poblacion-mas-pobre-4515993",
@@ -402,27 +423,6 @@
         "fecha_portada": "24/10/2026",
         "titulo_fuente": "Se inauguraron los primeros kilómetros del Gran Malecón del Mar en Cartagena",
         "capturado": "2026-10-24T11:05:57-05:00"
-      },
-      {
-        "titulo": "Gobierno revela recorte de presupuesto de $9,8 billones a más de 110 instituciones",
-        "url": "https://www.larepublica.co/economia/gobierno-nacional-anuncia-tijeretazo-presupuestal-a-114-entidades-por-9-8-billones-4509957",
-        "fecha_portada": "24/10/2026",
-        "titulo_fuente": "El Gobierno anuncia un tijeretazo presupuestal a más de 110 entidades por $9,8 billones",
-        "capturado": "2026-10-24T02:26:00-05:00"
-      },
-      {
-        "titulo": "José Manuel Restrepo propuso un nuevo ajuste fiscal de $70 billones para el siguiente periodo",
-        "url": "https://www.larepublica.co/economia/jose-manuel-restrepo-plantea-ajuste-fiscal-de-70-billones-para-el-proximo-ano-4510040",
-        "fecha_portada": "23/10/2026",
-        "titulo_fuente": "José Manuel Restrepo planteó un nuevo ajuste fiscal de $70 billones para el próximo curso",
-        "capturado": "2026-10-24T02:26:00-05:00"
-      },
-      {
-        "titulo": "En dos meses de la administración De la Espriella, se han retirado dos ministros y tres viceministros",
-        "url": "https://www.larepublica.co/economia/en-dos-meses-del-gobierno-de-la-espriella-han-salido-dos-ministros-y-tres-viceministros-4510080",
-        "fecha_portada": "24/10/2026",
-        "titulo_fuente": "En dos meses del Gobierno De la Espriella, han salido dos ministros y tres viceministros",
-        "capturado": "2026-10-24T02:26:00-05:00"
       }
     ],
     "Bolsas": [
