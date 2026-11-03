@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-03T06:05:45-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-03T13:29:30-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Delegación del FMI inicia reuniones mientras el Ejecutivo busca préstamo de US$5.000 millones",
+        "url": "https://www.larepublica.co/economia/mision-del-fmi-inicia-reuniones-mientras-el-gobierno-explora-credito-de-us-5-000-millones-4516695",
+        "fecha_portada": "",
+        "titulo_fuente": "Misión del FMI inicia reuniones mientras el Gobierno explora crédito de US$5.000 millones",
+        "capturado": "2026-11-03T13:29:30-05:00"
+      },
+      {
+        "titulo": "Aconauto solicitó en carta al MinHacienda reconsiderar el IVA de 19% a vehículos eléctricos",
+        "url": "https://www.larepublica.co/economia/aconauto-insistio-en-una-carta-al-minhacienda-reconsiderar-iva-de-19-a-carros-electricos-4516686",
+        "fecha_portada": "",
+        "titulo_fuente": "Aconauto insistió, en una carta al MinHacienda, reconsiderar IVA de 19% a carros eléctricos",
+        "capturado": "2026-11-03T13:29:30-05:00"
+      },
+      {
+        "titulo": "Chaparral ha contabilizado más de 1.100 temblores superiores a 2,0 grados en el último mes",
+        "url": "https://www.larepublica.co/economia/chaparral-ha-registrado-mas-de-1-100-sismos-de-mas-de-2-0-grados-en-el-ultimo-mes-4516427",
+        "fecha_portada": "03/11/2026",
+        "titulo_fuente": "Chaparral ha registrado más de 1.100 sismos de más de 2,0 grados en el último mes",
+        "capturado": "2026-11-03T13:29:30-05:00"
+      },
+      {
+        "titulo": "Educación es el sector con más recursos en el proyecto de Presupuesto de Bogotá",
+        "url": "https://www.larepublica.co/economia/proyecto-de-presupuesto-de-bogota-radicado-por-la-alcaldia-para-2027-4516523",
+        "fecha_portada": "",
+        "titulo_fuente": "Educación es el sector con mayor asignación en proyecto de Presupuesto de Bogotá",
+        "capturado": "2026-11-03T13:29:30-05:00"
+      },
       {
         "titulo": "Reforma tributaria, US$5.000 millones al 4% del Fondo Monetario Internacional y reajuste",
         "url": "https://www.larepublica.co/economia/ajuste-tributaria-y-us-5-000-millones-a-4-del-fondo-monetario-internacional-4516246",
@@ -395,37 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Los mayores de 50 años marcan las prioridades para el desarrollo y crecimiento del país",
         "capturado": "2026-10-26T01:28:21-05:00"
-      },
-      {
-        "titulo": "De esta forma ha perdido terreno el efectivo desde el arribo de pagos inmediatos con Bre-B",
-        "url": "https://www.larepublica.co/finanzas/asi-ha-perdido-terreno-el-efectivo-con-la-llegada-de-bre-b-4510738",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Así ha perdido terreno el efectivo desde la llegada de los pagos inmediatos con Bre-B",
-        "capturado": "2026-10-26T01:28:21-05:00"
-      },
-      {
-        "titulo": "El Dane dará a conocer la encuesta multipropósito Bogotá tras cinco años del estudio previo",
-        "url": "https://www.larepublica.co/economia/el-dane-revelara-encuesta-multiproposito-bogota-luego-de-cinco-anos-del-ultimo-estudio-4510903",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Dane revelará la encuesta multipropósito Bogotá luego de cinco años del último estudio",
-        "capturado": "2026-10-26T01:28:21-05:00"
-      },
-      {
-        "titulo": "De ser una nación, los latinos en Estados Unidos constituirían la quinta economía más grande",
-        "url": "https://www.larepublica.co/globoeconomia/si-los-latinos-en-ee-uu-fueran-un-pais-serian-la-quinta-economia-mas-grande-4510586",
-        "fecha_portada": "",
-        "titulo_fuente": "Si los latinos en Estados Unidos fueran un país serían la quinta economía más grande",
-        "capturado": "2026-10-25T13:28:02-05:00"
-      },
-      {
-        "titulo": "Entraron en servicio los primeros kilómetros del Gran Malecón del Mar en Cartagena",
-        "url": "https://www.larepublica.co/economia/se-inauguraron-los-primeros-kilometros-del-gran-malecon-del-mar-en-cartagena-4510253",
-        "fecha_portada": "24/10/2026",
-        "titulo_fuente": "Se inauguraron los primeros kilómetros del Gran Malecón del Mar en Cartagena",
-        "capturado": "2026-10-24T11:05:57-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar subió $54,15 al cierre, pendiente de los resultados de las elecciones en Estados Unidos",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-3-de-noviembre-de-2026-4516451",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró $54,15 al alza, a la espera de los resultados electorales en Estados Unidos",
+        "capturado": "2026-11-03T13:29:30-05:00"
+      },
+      {
+        "titulo": "Los mercados siguen precavidos frente a las elecciones de mitad de término en EE.UU.",
+        "url": "https://www.larepublica.co/globoeconomia/los-mercados-mantienen-la-cautela-ante-las-elecciones-de-medio-termino-en-ee-uu-4516676",
+        "fecha_portada": "",
+        "titulo_fuente": "Los mercados mantienen la cautela ante las elecciones de medio término en EE.UU.",
+        "capturado": "2026-11-03T13:29:30-05:00"
+      },
+      {
+        "titulo": "El oro bajó por temor a la inflación, con atención centrada en las elecciones de Estados Unidos",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-3-de-noviembre-4516418",
+        "fecha_portada": "03/11/2026",
+        "titulo_fuente": "El oro cayó por temores de inflación, con foco en las elecciones en Estados Unidos",
+        "capturado": "2026-11-03T13:29:30-05:00"
+      },
       {
         "titulo": "Binance ya restituyó más de 90% de los activos hurtados durante un evento de seguridad",
         "url": "https://www.larepublica.co/globoeconomia/binance-repone-90-de-los-activos-sustraidos-en-un-incidente-de-seguridad-4515845",
@@ -823,27 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/wall-street-cae-tras-la-inflacion-de-ee-uu-que-refuerza-apuestas-de-mas-alzas-de-la-fed-4502650",
         "fecha_portada": "",
         "titulo_fuente": "Wall Street cae tras la inflación de EE.UU. que refuerza apuestas de más alzas de la FED",
-        "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Grupo Sura comunicó la extensión del Programa de Formador de Liquidez",
-        "url": "https://www.larepublica.co/finanzas/grupo-sura-anuncio-la-renovacion-del-programa-de-formador-de-liquidez-ante-la-bvc-4502748",
-        "fecha_portada": "14/10/2026",
-        "titulo_fuente": "Grupo Sura anunció la renovación del Programa de Formador de Liquidez",
-        "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Grupo Energía Bogotá informó sobre una oferta pública por valor de $250.000 millones",
-        "url": "https://www.larepublica.co/finanzas/grupo-energia-bogota-publico-oferta-publica-por-un-monto-de-250-000-millones-4502822",
-        "fecha_portada": "",
-        "titulo_fuente": "Grupo Energía Bogotá anunció una oferta pública por un monto de $250.000 millones",
-        "capturado": "2026-10-15T05:24:23-05:00"
-      },
-      {
-        "titulo": "Cotización del dólar finalizó $15,8 arriba por proyección de suspensión en tasas de la Reserva Federal",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-14-de-octubre-de-2026-4502473",
-        "fecha_portada": "",
-        "titulo_fuente": "Precio del dólar cerró $15,8 al alza ante previsión de pausa en tasas de la Reserva Federal",
         "capturado": "2026-10-15T05:24:23-05:00"
       }
     ]
