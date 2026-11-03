@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-03T13:29:30-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-03T18:33:36-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "MinHacienda, Miguel Gómez, desmintió haber solicitado hojas de vida a congresistas a cambio de votos",
+        "url": "https://www.larepublica.co/economia/minhacienda-miguel-gomez-nego-que-pidio-hojas-de-vida-a-los-congresistas-por-un-voto-4516733",
+        "fecha_portada": "03/11/2026",
+        "titulo_fuente": "MinHacienda, Miguel Gómez, negó que pidió hojas de vida a los congresistas por votos",
+        "capturado": "2026-11-03T18:33:36-05:00"
+      },
+      {
+        "titulo": "Fenalco planteó modificaciones a la Ley de Rescate que comenzará a debatirse en el Congreso",
+        "url": "https://www.larepublica.co/economia/fenalco-propuso-cambios-en-la-ley-de-rescate-que-se-empezara-a-discutir-en-el-congreso-4517012",
+        "fecha_portada": "03/11/2026",
+        "titulo_fuente": "Fenalco propuso cambios en la Ley de Rescate que se empezará a discutir en el Congreso",
+        "capturado": "2026-11-03T18:33:36-05:00"
+      },
+      {
+        "titulo": "El Gobierno presentó mensaje de urgencia para tramitar la Ley de Rescate Económico",
+        "url": "https://www.larepublica.co/economia/gobierno-radico-mensaje-de-urgencia-para-tramitar-la-ley-de-rescate-economico-4517003",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno radicó mensaje de urgencia para tramitar la Ley de Rescate Económico",
+        "capturado": "2026-11-03T18:33:36-05:00"
+      },
+      {
+        "titulo": "El gobernador de Antioquia planteó un plan de austeridad por $26 billones",
+        "url": "https://www.larepublica.co/economia/gobernador-de-antioquia-propuso-plan-de-austeridad-que-implica-ahorro-por-26-billones-4516791",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobernador de Antioquia propuso plan de austeridad por $26 billones",
+        "capturado": "2026-11-03T18:33:36-05:00"
+      },
       {
         "titulo": "Delegación del FMI inicia reuniones mientras el Ejecutivo busca préstamo de US$5.000 millones",
         "url": "https://www.larepublica.co/economia/mision-del-fmi-inicia-reuniones-mientras-el-gobierno-explora-credito-de-us-5-000-millones-4516695",
@@ -394,34 +422,6 @@
         "url": "https://www.larepublica.co/economia/comienza-la-carrera-por-la-ley-de-rescate-y-las-nuevas-adiciones-presupuestales-del-pgn-4510052",
         "fecha_portada": "26/10/2026",
         "titulo_fuente": "Comienza la carrera por la Ley de Rescate y las nuevas adiciones presupuestales del PGN",
-        "capturado": "2026-10-26T01:28:21-05:00"
-      },
-      {
-        "titulo": "De la Espriella radicará la Ley de Rescate esta semana y adopta medidas preventivas por El Niño",
-        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-presentara-la-ley-de-rescate-para-ajustar-las-finanzas-esta-semana-4510802",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella presentará la Ley de Rescate esta semana y adopta medidas de cuidado por El Niño",
-        "capturado": "2026-10-26T01:28:21-05:00"
-      },
-      {
-        "titulo": "Colombia se frena en competitividad fiscal dentro del grupo de países de la Ocde",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-se-estanca-en-competitividad-fiscal-en-el-bloque-de-paises-ocde-4510128",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Colombia se estanca en competitividad fiscal en el bloque de países Ocde",
-        "capturado": "2026-10-26T01:28:21-05:00"
-      },
-      {
-        "titulo": "Mi Casa Ya y el ajuste fiscal definirán la agenda legislativa del siguiente periodo",
-        "url": "https://www.larepublica.co/especiales/congreso-camacol-2026/mi-casa-ya-y-el-ajuste-fiscal-son-los-ejes-que-marcaran-la-agenda-legislativa-de-2027-4510722",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Mi Casa Ya y el ajuste fiscal, son los ejes que marcarán la agenda legislativa del próximo curso",
-        "capturado": "2026-10-26T01:28:21-05:00"
-      },
-      {
-        "titulo": "Las personas mayores de 50 años fijan las prioridades del desarrollo y crecimiento del país",
-        "url": "https://www.larepublica.co/especiales/congreso-camacol-2026/los-mayores-de-50-anos-marcan-las-prioridades-para-el-desarrollo-4510746",
-        "fecha_portada": "",
-        "titulo_fuente": "Los mayores de 50 años marcan las prioridades para el desarrollo y crecimiento del país",
         "capturado": "2026-10-26T01:28:21-05:00"
       }
     ],
