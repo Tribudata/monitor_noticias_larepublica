@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-04T13:43:47-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-04T18:58:56-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Superó el primer debate el presupuesto de regalías para el bienio 2027-2028",
+        "url": "https://www.larepublica.co/economia/fue-aprobado-en-primer-debate-el-presupuesto-de-regalias-para-el-bienio-2027-2028-4517637",
+        "fecha_portada": "",
+        "titulo_fuente": "Fue aprobado en primer debate el presupuesto de regalías para el bienio 2027-2028",
+        "capturado": "2026-11-04T18:58:56-05:00"
+      },
+      {
+        "titulo": "En primer debate las Comisiones Económicas avalaron la adición al Presupuesto de 2026",
+        "url": "https://www.larepublica.co/economia/comisiones-economicas-aprobaron-en-primer-debate-adicion-el-presupuesto-de-2026-4517651",
+        "fecha_portada": "",
+        "titulo_fuente": "Comisiones Económicas aprobaron en primer debate adición al Presupuesto de 2026",
+        "capturado": "2026-11-04T18:58:56-05:00"
+      },
       {
         "titulo": "Ley de Rescate prevé ahorros por $44,6 billones tras recortes a contratistas y nómina",
         "url": "https://www.larepublica.co/economia/ley-de-rescate-plantea-ahorros-de-44-6-billones-con-recortes-a-contratistas-y-nomina-4517259",
@@ -409,23 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Colombia ocupa el quinto lugar entre las economías de mayor crecimiento en Suramérica",
         "capturado": "2026-10-27T09:41:50-05:00"
-      },
-      {
-        "titulo": "Colombia se ubica quinta entre las economías que más crecen en América Latina",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-ocupa-el-quinto-lugar-entre-las-economias-de-mayor-crecimientoen-latinoamerica-4511508",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia ocupa el quinto lugar entre las economías de mayor crecimiento en Latinoamérica",
-        "capturado": "2026-10-27T03:03:11-05:00"
-      },
-      {
-        "titulo": "El Gobierno Nacional emitió títulos de deuda externa por un valor de US$5.200 millones",
-        "url": "https://www.larepublica.co/economia/el-gobierno-nacional-coloco-bonos-de-deuda-externa-por-un-valor-de-us-5-200-millones-4511654",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "El Gobierno Nacional colocó bonos de deuda externa por un valor de US$5.200 millones",
-        "capturado": "2026-10-26T21:10:45-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Títulos de Tesla bajan 5% y SpaceX 6,9% luego de la victoria demócrata en las midterm",
+        "url": "https://www.larepublica.co/globoeconomia/las-acciones-de-tesla-caen-5-y-spacex-se-desploma-6-9-antes-de-la-apertura-del-mercado-4517464",
+        "fecha_portada": "",
+        "titulo_fuente": "Acciones de Tesla caen 5% y SpaceX 6,9% tras victoria de demócratas en las 'midterm'",
+        "capturado": "2026-11-04T18:58:56-05:00"
+      },
       {
         "titulo": "El dólar finalizó con una reducción de $14,19 luego de las elecciones intermedias de EE.UU.",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-petroleo-hoy-4-de-noviembre-de-2026-4517240",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/dolar-cayo-con-fuerza-durante-la-jornada-de-ayer-y-el-peso-es-la-emergente-mas-revaluada-4503912",
         "fecha_portada": "16/10/2026",
         "titulo_fuente": "Dólar cayó con fuerza durante la jornada de ayer y el peso es la emergente más revaluada",
-        "capturado": "2026-10-16T00:11:48-05:00"
-      },
-      {
-        "titulo": "Banca, retail y consumo son las opciones de inversión que prevé Renta4 para los inversionistas",
-        "url": "https://www.larepublica.co/globoeconomia/las-oportunidades-de-inversion-que-ve-renta4-4504035",
-        "fecha_portada": "16/10/2026",
-        "titulo_fuente": "Banca, retail y consumo, las oportunidades de inversión que ve Renta4 para inversionistas",
         "capturado": "2026-10-16T00:11:48-05:00"
       }
     ]
