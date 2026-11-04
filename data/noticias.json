@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-03T22:27:01-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-04T06:18:57-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Reforma tributaria restaría $969.000 al mes a sueldos de $25 millones",
+        "url": "https://www.larepublica.co/economia/reforma-tributaria-reduciria-en-969-000-mensuales-los-salarios-de-25-millones-4516846",
+        "fecha_portada": "04/11/2026",
+        "titulo_fuente": "Reforma tributaria reduciría en $969.000 mensuales los salarios por $25 millones",
+        "capturado": "2026-11-04T06:18:57-05:00"
+      },
+      {
+        "titulo": "Aranceles, China, IA e Irán son las decisiones en disputa en las midterm de Estados Unidos",
+        "url": "https://www.larepublica.co/globoeconomia/aranceles-china-ia-e-iran-las-decisiones-en-juego-en-las-midterm-de-ee-uu-4517011",
+        "fecha_portada": "",
+        "titulo_fuente": "Aranceles, China, IA e Irán, las decisiones en juego en las 'midterm' de Estados Unidos",
+        "capturado": "2026-11-04T06:18:57-05:00"
+      },
       {
         "titulo": "MinHacienda, Miguel Gómez, desmintió haber solicitado hojas de vida a congresistas a cambio de votos",
         "url": "https://www.larepublica.co/economia/minhacienda-miguel-gomez-nego-que-pidio-hojas-de-vida-a-los-congresistas-por-un-voto-4516733",
@@ -409,20 +423,6 @@
         "fecha_portada": "26/10/2026",
         "titulo_fuente": "Esta semana terminará la misión de asistencia técnica del FMI y el Banco Mundial",
         "capturado": "2026-10-26T08:24:42-05:00"
-      },
-      {
-        "titulo": "De la Espriella pide impulsar la cooperación con Brasil a pesar de las diferencias",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-llama-a-fortalecer-cooperacion-con-brasil-pese-a-diferencias-con-lula-4510954",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella llama a fortalecer cooperación con Brasil pese a diferencias",
-        "capturado": "2026-10-26T08:24:42-05:00"
-      },
-      {
-        "titulo": "Inicia la disputa por la Ley de Rescate y las nuevas adiciones presupuestales del PGN",
-        "url": "https://www.larepublica.co/economia/comienza-la-carrera-por-la-ley-de-rescate-y-las-nuevas-adiciones-presupuestales-del-pgn-4510052",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Comienza la carrera por la Ley de Rescate y las nuevas adiciones presupuestales del PGN",
-        "capturado": "2026-10-26T01:28:21-05:00"
       }
     ],
     "Bolsas": [
