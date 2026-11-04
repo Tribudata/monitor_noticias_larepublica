@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-04T06:18:57-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-04T13:43:47-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Ley de Rescate prevé ahorros por $44,6 billones tras recortes a contratistas y nómina",
+        "url": "https://www.larepublica.co/economia/ley-de-rescate-plantea-ahorros-de-44-6-billones-con-recortes-a-contratistas-y-nomina-4517259",
+        "fecha_portada": "",
+        "titulo_fuente": "Ley de Rescate plantea ahorros de $44,6 billones por los recortes a contratistas y nómina",
+        "capturado": "2026-11-04T13:43:47-05:00"
+      },
+      {
+        "titulo": "De la Espriella posesionó de manera oficial a Alejandro Ordoñez como minInterior",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-posesiono-oficialmente-a-alejandro-ordonez-como-ministro-del-interior-4517558",
+        "fecha_portada": "04/11/2026",
+        "titulo_fuente": "De la Espriella posesionó oficialmente a Alejandro Ordoñez como minInterior",
+        "capturado": "2026-11-04T13:43:47-05:00"
+      },
+      {
+        "titulo": "Emisor hizo su cuarta subasta para la compra de dólares por US$399,8 millones",
+        "url": "https://www.larepublica.co/economia/emisor-lanzo-cuarta-subasta-de-compra-de-dolares-por-us-399-8-millones-4517606",
+        "fecha_portada": "04/11/2026",
+        "titulo_fuente": "Emisor lanzó cuarta subasta de compra de dólares por US$399,8 millones",
+        "capturado": "2026-11-04T13:43:47-05:00"
+      },
+      {
+        "titulo": "Viviane Morales fue nombrada Consejera Comisionada de Paz por el gobierno",
+        "url": "https://www.larepublica.co/economia/viviane-morales-fue-designada-como-consejera-comisionada-de-paz-4517578",
+        "fecha_portada": "",
+        "titulo_fuente": "Viviane Morales fue designada como Consejera Comisionada de Paz del gobierno",
+        "capturado": "2026-11-04T13:43:47-05:00"
+      },
       {
         "titulo": "Reforma tributaria restaría $969.000 al mes a sueldos de $25 millones",
         "url": "https://www.larepublica.co/economia/reforma-tributaria-reduciria-en-969-000-mensuales-los-salarios-de-25-millones-4516846",
@@ -395,37 +423,30 @@
         "fecha_portada": "26/10/2026",
         "titulo_fuente": "El Gobierno Nacional colocó bonos de deuda externa por un valor de US$5.200 millones",
         "capturado": "2026-10-26T21:10:45-05:00"
-      },
-      {
-        "titulo": "El vicepresidente Restrepo sostuvo un encuentro con Albert Ramdin, secretario general de la OEA",
-        "url": "https://www.larepublica.co/economia/vicepresidente-restrepo-se-reunio-con-el-secretario-general-de-la-oea-albert-ramdin-4511506",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Vicepresidente Restrepo se reunió con el secretario general de la OEA, Albert Ramdin",
-        "capturado": "2026-10-26T18:11:43-05:00"
-      },
-      {
-        "titulo": "Para América Latina la Cepal prevé un avance de 2% en 2026 y de 2,5% en 2027",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-creceria-2-4-en-2026-por-encima-del-promedio-de-america-latina-estima-la-cepal-4511218",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "La Cepal proyecta un crecimiento de 2% para América Latina en 2026 y de 2,5% en 2027",
-        "capturado": "2026-10-26T14:25:35-05:00"
-      },
-      {
-        "titulo": "Colombia regresa al mercado externo con una nueva colocación de bonos globales",
-        "url": "https://www.larepublica.co/economia/colombia-vuelve-al-mercado-internacional-con-nueva-emision-de-bonos-globales-4511193",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Colombia vuelve al mercado internacional con nueva emisión de bonos globales",
-        "capturado": "2026-10-26T14:25:35-05:00"
-      },
-      {
-        "titulo": "Concluirá esta semana la misión de apoyo técnico del FMI y el Banco Mundial",
-        "url": "https://www.larepublica.co/economia/esta-semana-terminara-la-mision-de-asistencia-tecnica-del-fmi-y-el-banco-mundial-4511022",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Esta semana terminará la misión de asistencia técnica del FMI y el Banco Mundial",
-        "capturado": "2026-10-26T08:24:42-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó con una reducción de $14,19 luego de las elecciones intermedias de EE.UU.",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-petroleo-hoy-4-de-noviembre-de-2026-4517240",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró con una caída de $14,19 tras las midterm elections de EE.UU.",
+        "capturado": "2026-11-04T13:43:47-05:00"
+      },
+      {
+        "titulo": "La inflación en la zona euro aumentó al 4,0% en octubre, su cifra más alta en tres años",
+        "url": "https://www.larepublica.co/globoeconomia/la-inflacion-de-la-zona-euro-subio-hasta-4-0-en-octubre-su-nivel-mas-alto-en-tres-anos-4517219",
+        "fecha_portada": "",
+        "titulo_fuente": "La inflación de la zona euro subió hasta 4,0% en octubre, su nivel más alto en tres años",
+        "capturado": "2026-11-04T13:43:47-05:00"
+      },
+      {
+        "titulo": "Oro aumenta frente a la baja del dólar por avances demócratas en elecciones intermedias",
+        "url": "https://www.larepublica.co/finanzas/precios-del-oro-hoy-4-de-noviembre-de-2026-4517201",
+        "fecha_portada": "",
+        "titulo_fuente": "Oro sube ante baja del dólar por avances demócratas en elecciones de medio mandato",
+        "capturado": "2026-11-04T13:43:47-05:00"
+      },
       {
         "titulo": "El dólar subió $54,15 al cierre, pendiente de los resultados de las elecciones en Estados Unidos",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-3-de-noviembre-de-2026-4516451",
@@ -824,27 +845,6 @@
         "fecha_portada": "16/10/2026",
         "titulo_fuente": "Banca, retail y consumo, las oportunidades de inversión que ve Renta4 para inversionistas",
         "capturado": "2026-10-16T00:11:48-05:00"
-      },
-      {
-        "titulo": "Grupo Energía Bogotá emitió $400.000 millones en títulos comerciales dentro de la BVC",
-        "url": "https://www.larepublica.co/finanzas/grupo-energia-bogota-coloco-400-000-millones-en-papeles-comerciales-en-la-bvc-4503900",
-        "fecha_portada": "15/10/2026",
-        "titulo_fuente": "Grupo Energía Bogotá colocó $400.000 millones en papeles comerciales en la BVC",
-        "capturado": "2026-10-16T00:11:48-05:00"
-      },
-      {
-        "titulo": "Littio elevó el rendimiento de sus bóvedas digitales hasta el 12,5% E.A. a 90 días",
-        "url": "https://www.larepublica.co/finanzas/littio-subio-la-rentabilidad-de-sus-bovedas-digitales-hasta-12-5-e-a-para-plazos-de-90-dias-4503478",
-        "fecha_portada": "",
-        "titulo_fuente": "Littio subió la rentabilidad de sus bóvedas digitales hasta 12,5% E.A. para 90 días",
-        "capturado": "2026-10-16T00:11:48-05:00"
-      },
-      {
-        "titulo": "Wall Street baja luego de inflación en EE.UU. que impulsa previsiones de mayores incrementos de la FED",
-        "url": "https://www.larepublica.co/globoeconomia/wall-street-cae-tras-la-inflacion-de-ee-uu-que-refuerza-apuestas-de-mas-alzas-de-la-fed-4502650",
-        "fecha_portada": "",
-        "titulo_fuente": "Wall Street cae tras la inflación de EE.UU. que refuerza apuestas de más alzas de la FED",
-        "capturado": "2026-10-15T05:24:23-05:00"
       }
     ]
   }
