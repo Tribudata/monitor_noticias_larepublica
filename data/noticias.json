@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-04T18:58:56-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-04T23:59:40-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Grupo técnico del Banco de la República proyecta más inflación y menor avance económico",
+        "url": "https://www.larepublica.co/economia/equipo-tecnico-de-banco-central-de-colombia-ve-mayor-inflacion-y-menor-crecimiento-economico-este-y-el-proximo-ano-4517960",
+        "fecha_portada": "04/11/2026",
+        "titulo_fuente": "Equipo del Banco de la República ve mayor inflación y menor crecimiento económico",
+        "capturado": "2026-11-04T23:59:40-05:00"
+      },
       {
         "titulo": "Superó el primer debate el presupuesto de regalías para el bienio 2027-2028",
         "url": "https://www.larepublica.co/economia/fue-aprobado-en-primer-debate-el-presupuesto-de-regalias-para-el-bienio-2027-2028-4517637",
@@ -416,13 +423,6 @@
         "fecha_portada": "27/10/2026",
         "titulo_fuente": "Presidente de Anif pidió que la 'Ley de Rescate' apunte más recortar el gasto público",
         "capturado": "2026-10-27T14:42:18-05:00"
-      },
-      {
-        "titulo": "Colombia se ubica en la quinta posición de las economías con más crecimiento en Suramérica",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-ocupa-el-quinto-lugar-entre-las-economias-de-mayor-crecimiento-en-suramerica-4511508",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia ocupa el quinto lugar entre las economías de mayor crecimiento en Suramérica",
-        "capturado": "2026-10-27T09:41:50-05:00"
       }
     ],
     "Bolsas": [
