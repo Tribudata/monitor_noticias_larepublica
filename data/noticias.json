@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-05T07:56:04-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-05T15:22:36-05:00",
+  "nuevos_en_esta_corrida": 9,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Fedesarrollo apoya la Ley de Rescate y pide acuerdo en el Congreso",
+        "url": "https://www.larepublica.co/economia/fedesarrollo-respalda-la-ley-de-rescate-y-hace-un-llamado-al-consenso-en-el-congreso-4518464",
+        "fecha_portada": "",
+        "titulo_fuente": "Fedesarrollo respalda la Ley de Rescate y hace un llamado al consenso en el Congreso",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
+      {
+        "titulo": "Las amplias facultades que daría la Ley de Rescate Económico al Confis en el PGN",
+        "url": "https://www.larepublica.co/economia/estos-son-los-superpoderesque-otorgaria-la-ley-de-rescate-economico-al-confis-4518080",
+        "fecha_portada": "05/11/2026",
+        "titulo_fuente": "Estos son los superpoderes que otorgaría la Ley de Rescate Económico al Confis en el PGN",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
+      {
+        "titulo": "Únicamente la aprobación total de la Ley de Rescate retornaría el superávit primario en 2030",
+        "url": "https://www.larepublica.co/economia/solo-la-aprobacion-completa-de-la-ley-de-rescate-devolveria-el-superavit-primario-en-2030-4518173",
+        "fecha_portada": "05/11/2026",
+        "titulo_fuente": "Solo la aprobación completa de la Ley de Rescate devolvería el superávit primario en 2030",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
+      {
+        "titulo": "La Contraloría alertó por $10,18 billones que faltan por legalizar en el Minsalud",
+        "url": "https://www.larepublica.co/economia/contraloria-emitio-advertencia-por-10-18-billones-pendientes-por-legalizar-en-el-minsalud-4518142",
+        "fecha_portada": "05/11/2026",
+        "titulo_fuente": "Contraloría emitió advertencia por $10,18 billones pendientes por legalizar en el Minsalud",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
+      {
+        "titulo": "Colombia es cuarta en América Latina en la gestión de los ahorros pensionales",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-cuarta-en-america-latina-en-administracion-de-ahorros-pensionales-4517908",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia, cuarta en América Latina en la administración de los ahorros pensionales",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
       {
         "titulo": "Grupo técnico del Banco de la República proyecta más inflación y menor avance económico",
         "url": "https://www.larepublica.co/economia/equipo-tecnico-de-banco-central-de-colombia-ve-mayor-inflacion-y-menor-crecimiento-economico-este-y-el-proximo-ano-4517960",
@@ -388,44 +423,37 @@
         "fecha_portada": "27/10/2026",
         "titulo_fuente": "Cámara negó tres proposiciones de la reforma pensional y continuará el debate este miércoles",
         "capturado": "2026-10-27T21:25:54-05:00"
-      },
-      {
-        "titulo": "ProCúcuta solicita aumentar la seguridad en Norte de Santander luego de los últimos actos violentos",
-        "url": "https://www.larepublica.co/economia/procucuta-pide-reforzar-la-seguridad-en-norte-de-santander-tras-recientes-hechos-de-violencia-4512655",
-        "fecha_portada": "",
-        "titulo_fuente": "ProCúcuta pide reforzar la seguridad en Norte de Santander tras recientes hechos de violencia",
-        "capturado": "2026-10-27T21:25:54-05:00"
-      },
-      {
-        "titulo": "MinHacienda plantea trasladar $750.000 millones de obras de Bogotá al Presupuesto",
-        "url": "https://www.larepublica.co/economia/minhacienda-propone-reasignar-750-000-millones-de-obras-en-bogota-para-el-presupuesto-4511948",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda propone reasignar $750.000 millones de obras en Bogotá para el Presupuesto",
-        "capturado": "2026-10-27T18:16:32-05:00"
-      },
-      {
-        "titulo": "Arrancó la discusión de la adición presupuestal en el Congreso y así se repartirán los recursos",
-        "url": "https://www.larepublica.co/economia/comenzo-el-debate-de-la-adicion-presupuestal-asi-se-distribuiran-los-recursos-4512160",
-        "fecha_portada": "",
-        "titulo_fuente": "Comenzó el debate de la adición presupuestal en el Congreso, así se distribuirán los recursos",
-        "capturado": "2026-10-27T14:42:18-05:00"
-      },
-      {
-        "titulo": "La colocación de US$5.200 millones de MinHacienda concluyó el programa de bonos globales",
-        "url": "https://www.larepublica.co/economia/emision-por-us-5-200-millones-cerro-el-programa-de-bonos-globales-de-2026-4512029",
-        "fecha_portada": "27/10/2026",
-        "titulo_fuente": "Emisión por US$5.200 millones del MinHacienda cerró el programa de bonos globales",
-        "capturado": "2026-10-27T14:42:18-05:00"
-      },
-      {
-        "titulo": "Presidente de Anif solicitó que la 'Ley de Rescate' se oriente más a reducir el gasto público",
-        "url": "https://www.larepublica.co/economia/presidente-de-anif-pidio-que-la-ley-de-rescate-apunte-a-recortar-el-gasto-publico-4512294",
-        "fecha_portada": "27/10/2026",
-        "titulo_fuente": "Presidente de Anif pidió que la 'Ley de Rescate' apunte más recortar el gasto público",
-        "capturado": "2026-10-27T14:42:18-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar se incrementó $7 luego del descenso en las peticiones de ayuda por desempleo",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-5-de-noviembre-4518099",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar subió $7 tras caída en el número de solicitudes de subsidio por desempleo",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
+      {
+        "titulo": "El Nasdaq baja 5% al tiempo que se intensifica la venta de títulos de productores de chips",
+        "url": "https://www.larepublica.co/globoeconomia/nasdaq-cae-5-mientras-se-agudiza-venta-de-acciones-de-fabricantes-de-chips-4518398",
+        "fecha_portada": "05/11/2026",
+        "titulo_fuente": "Nasdaq cae 5% mientras se agudiza venta de acciones de fabricantes de chips",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
+      {
+        "titulo": "El petróleo sube al tiempo que inversionistas analizan la incertidumbre por la guerra iraní",
+        "url": "https://www.larepublica.co/globoeconomia/el-crudo-sube-mientras-los-inversores-sopesan-incertidumbre-por-guerra-irani-4518056",
+        "fecha_portada": "05/11/2026",
+        "titulo_fuente": "El crudo sube mientras los inversores sopesan incertidumbre por guerra iraní",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
+      {
+        "titulo": "Anthropic llega a la bolsa alertando acerca de los riesgos existenciales de su propia IA",
+        "url": "https://www.larepublica.co/globoeconomia/anthropic-sale-a-bolsa-advirtiendo-sobre-riesgos-existenciales-de-su-propia-inteligencia-artificial-4518228",
+        "fecha_portada": "",
+        "titulo_fuente": "Anthropic sale a bolsa advirtiendo sobre riesgos existenciales de su propia IA",
+        "capturado": "2026-11-05T15:22:36-05:00"
+      },
       {
         "titulo": "Grupo Cibest, Grupo Sura y Banco de Bogotá ofrecerán los dividendos más llamativos",
         "url": "https://www.larepublica.co/finanzas/grupo-cibest-grupo-sura-y-banco-de-bogota-tendran-los-dividendos-mas-atractivos-4517874",
@@ -817,34 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Findeter emitió bonos por $300.000 millones y la demanda fue 1,9 veces el monto ofertado",
         "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "El valor del oro registró una ligera alza, impulsado por la caída en la cotización del petróleo",
-        "url": "https://www.larepublica.co/finanzas/el-oro-sube-levemente-impulsado-por-baja-de-precios-del-petroleo-4505831",
-        "fecha_portada": "",
-        "titulo_fuente": "El precio del oro subió levemente, impulsado por la bajada de los precios del petróleo",
-        "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "Conjuntos residenciales destinaron cerca de $1.836 millones a los Cadt de Fincomercio",
-        "url": "https://www.larepublica.co/finanzas/conjuntos-residenciales-invirtieron-alrededor-de-1-836-millones-en-cadt-de-fincomercio-4504433",
-        "fecha_portada": "",
-        "titulo_fuente": "Conjuntos residenciales invirtieron alrededor de $1.836 millones en los Cadt de Fincomercio",
-        "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "Unidades residenciales destinaron cerca de $1.836 millones en Cdta de Fincomercio",
-        "url": "https://www.larepublica.co/finanzas/conjuntos-residenciales-invirtieron-alrededor-de-1-836-millones-en-cdta-de-fincomercio-4504433",
-        "fecha_portada": "",
-        "titulo_fuente": "Conjuntos residenciales invirtieron alrededor de $1.836 millones en Cdta de Fincomercio",
-        "capturado": "2026-10-19T02:03:56-05:00"
-      },
-      {
-        "titulo": "El oro sin variaciones después de afirmaciones de Warsh que disminuyen la inquietud por los intereses",
-        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-16-de-octubre-4504337",
-        "fecha_portada": "16/10/2026",
-        "titulo_fuente": "Oro estable tras declaraciones de Warsh que reducen temores sobre los intereses",
-        "capturado": "2026-10-16T13:12:58-05:00"
       }
     ]
   }
