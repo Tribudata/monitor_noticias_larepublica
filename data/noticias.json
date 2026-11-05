@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-04T23:59:40-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-05T07:56:04-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,20 @@
     ],
     "Bolsas": [
       {
+        "titulo": "Grupo Cibest, Grupo Sura y Banco de Bogotá ofrecerán los dividendos más llamativos",
+        "url": "https://www.larepublica.co/finanzas/grupo-cibest-grupo-sura-y-banco-de-bogota-tendran-los-dividendos-mas-atractivos-4517874",
+        "fecha_portada": "",
+        "titulo_fuente": "Grupo Cibest, Grupo Sura y Banco de Bogotá tendrán los dividendos más atractivos",
+        "capturado": "2026-11-05T07:56:04-05:00"
+      },
+      {
+        "titulo": "El oro registró un pico de dos semanas, mientras el dólar y el crudo descendieron tras comicios",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-5-de-noviembre-4518058",
+        "fecha_portada": "05/11/2026",
+        "titulo_fuente": "Oro tocó un máximo de dos semanas, mientras el dólar y el crudo bajaron tras elecciones",
+        "capturado": "2026-11-05T07:56:04-05:00"
+      },
+      {
         "titulo": "Títulos de Tesla bajan 5% y SpaceX 6,9% luego de la victoria demócrata en las midterm",
         "url": "https://www.larepublica.co/globoeconomia/las-acciones-de-tesla-caen-5-y-spacex-se-desploma-6-9-antes-de-la-apertura-del-mercado-4517464",
         "fecha_portada": "",
@@ -831,20 +845,6 @@
         "fecha_portada": "16/10/2026",
         "titulo_fuente": "Oro estable tras declaraciones de Warsh que reducen temores sobre los intereses",
         "capturado": "2026-10-16T13:12:58-05:00"
-      },
-      {
-        "titulo": "El dólar inició $3,6 menos que la TRM por la expectativa de que la FED no suba las tasas",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-16-de-octubre-4504276",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar abrió $3,6 por debajo de la TRM ante expectativas de que la FED no aumente tasas",
-        "capturado": "2026-10-16T09:26:13-05:00"
-      },
-      {
-        "titulo": "El dólar bajó fuertemente ayer y el peso lidera la revaluación entre las monedas emergentes",
-        "url": "https://www.larepublica.co/finanzas/dolar-cayo-con-fuerza-durante-la-jornada-de-ayer-y-el-peso-es-la-emergente-mas-revaluada-4503912",
-        "fecha_portada": "16/10/2026",
-        "titulo_fuente": "Dólar cayó con fuerza durante la jornada de ayer y el peso es la emergente más revaluada",
-        "capturado": "2026-10-16T00:11:48-05:00"
       }
     ]
   }
