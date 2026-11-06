@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-06T10:25:39-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-06T15:57:45-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Ungrd diseñó 70 proyectos por $8,68 billones para la recuperación de ocho departamentos",
+        "url": "https://www.larepublica.co/economia/ungrd-estructuro-70-proyectos-por-8-68-billones-para-recuperar-ocho-departamentos-4519198",
+        "fecha_portada": "",
+        "titulo_fuente": "Ungrd estructuró 70 proyectos por $8,68 billones para recuperar ocho departamentos",
+        "capturado": "2026-11-06T15:57:45-05:00"
+      },
+      {
+        "titulo": "La Contraloría identificó hallazgos fiscales por $61.273 millones en obras de Aerocafé",
+        "url": "https://www.larepublica.co/economia/contraloria-encontro-hallazgos-fiscales-por-61-273-millones-en-las-obras-de-aerocafe-4519330",
+        "fecha_portada": "06/11/2026",
+        "titulo_fuente": "Contraloría encontró hallazgos fiscales por $61.273 millones en las obras de Aerocafé",
+        "capturado": "2026-11-06T15:57:45-05:00"
+      },
       {
         "titulo": "¿Quiénes se favorecerán con el Régimen Único para Generar Estabilidad Empresarial?",
         "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/como-funcionara-el-regimen-unico-para-generar-estabilidad-empresarial-asi-funcionara-4518899",
@@ -409,20 +423,6 @@
         "fecha_portada": "29/10/2026",
         "titulo_fuente": "Agencia Fitch Ratings abre nueva sede en Bogotá ante mayor inversión extranjera",
         "capturado": "2026-10-29T01:08:43-05:00"
-      },
-      {
-        "titulo": "La bancada del Centro Democrático presentó su contrarreforma a las pensiones",
-        "url": "https://www.larepublica.co/economia/bancada-del-centro-democratico-radico-oficialmente-su-contrarreforma-pensional-4513389",
-        "fecha_portada": "",
-        "titulo_fuente": "Bancada del Centro Democrático radicó su 'contrarreforma' pensional",
-        "capturado": "2026-10-28T19:28:04-05:00"
-      },
-      {
-        "titulo": "En Bogotá un hogar de cada cinco es de una persona y el 48% está liderado por mujeres",
-        "url": "https://www.larepublica.co/economia/resultados-de-la-encuesta-multiproposito-del-dane-para-bogota-y-alrededores-4513065",
-        "fecha_portada": "",
-        "titulo_fuente": "Uno de cada cinco hogares de Bogotá es unipersonal y 48% tienen jefatura femenina",
-        "capturado": "2026-10-28T15:36:59-05:00"
       }
     ],
     "Bolsas": [
