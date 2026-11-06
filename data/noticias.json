@@ -1,9 +1,51 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-05T19:59:08-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-06T02:38:30-05:00",
+  "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "¿Quiénes se favorecerán con el Régimen Único para Generar Estabilidad Empresarial?",
+        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/como-funcionara-el-regimen-unico-para-generar-estabilidad-empresarial-asi-funcionara-4518899",
+        "fecha_portada": "06/11/2026",
+        "titulo_fuente": "¿A quién beneficiará el régimen Régimen Único para Generar Estabilidad Empresarial?",
+        "capturado": "2026-11-06T02:38:30-05:00"
+      },
+      {
+        "titulo": "Tributo al patrimonio iniciaría en montos líquidos de $5.002 millones entre 2027 y 2030",
+        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/el-impuesto-al-patrimonio-partiria-de-valores-liquidos-de-5-002-millones-de-2027-a-2030-4518876",
+        "fecha_portada": "",
+        "titulo_fuente": "El impuesto al patrimonio partiría de valores líquidos de $5.002 millones de 2027 a 2030",
+        "capturado": "2026-11-06T02:38:30-05:00"
+      },
+      {
+        "titulo": "Emisor incrementó su pronóstico de inflación y calcula que terminará el año en 7,1%",
+        "url": "https://www.larepublica.co/economia/emisor-actualizo-al-alza-su-proyeccion-de-inflacion-y-preve-que-cerrara-el-ano-en-7-1-4518800",
+        "fecha_portada": "",
+        "titulo_fuente": "Emisor actualizó al alza su proyección de inflación y prevé que cerrará el año en 7,1%",
+        "capturado": "2026-11-06T02:38:30-05:00"
+      },
+      {
+        "titulo": "De este modo quedan las deducciones para afiliados a planes de medicina prepagada",
+        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/asi-quedan-las-deducciones-aplicables-para-los-afiliados-a-medicina-prepagada-4518289",
+        "fecha_portada": "06/11/2026",
+        "titulo_fuente": "Así quedan las deducciones aplicables para los afiliados a planes de medicina prepagada",
+        "capturado": "2026-11-06T02:38:30-05:00"
+      },
+      {
+        "titulo": "Modificación con Ley de Rescate Económico equivaldría a 4,73% del Producto Interno Bruto",
+        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/ajuste-fiscal-a-2030-con-el-proyecto-seria-de-4-73-del-pib-4518793",
+        "fecha_portada": "06/11/2026",
+        "titulo_fuente": "Ajuste con Ley de Rescate Económico sería de 4,73% del Producto Interno Bruto",
+        "capturado": "2026-11-06T02:38:30-05:00"
+      },
+      {
+        "titulo": "Cambios al IVA alcanzarán un promedio de $25 billones por año entre 2028 y 2030",
+        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/ajustes-al-iva-sumaran-en-promedio-25-billones-anuales-entre-2028-y-2030-4518845",
+        "fecha_portada": "",
+        "titulo_fuente": "Ajustes al IVA sumarán en promedio $25 billones anuales entre 2028 y 2030",
+        "capturado": "2026-11-06T02:38:30-05:00"
+      },
       {
         "titulo": "La tasa de interés continuó sin cambios ya que la inflación sigue distante de la meta",
         "url": "https://www.larepublica.co/economia/tasa-de-interes-se-mantuvo-inalterada-debido-a-que-la-inflacion-esta-lejos-de-la-meta-4518827",
@@ -381,48 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Uno de cada cinco hogares de Bogotá es unipersonal y 48% tienen jefatura femenina",
         "capturado": "2026-10-28T15:36:59-05:00"
-      },
-      {
-        "titulo": "La plenaria de la Cámara rechazó el proyecto para quitar comisiones de 0,7% a las AFP",
-        "url": "https://www.larepublica.co/economia/plenaria-de-la-camara-tumbo-la-propuesta-de-eliminar-las-comisiones-de-0-7-a-las-afp-4513216",
-        "fecha_portada": "28/10/2026",
-        "titulo_fuente": "Plenaria de la Cámara tumbó la propuesta de eliminar las comisiones de 0,7% a las AFP",
-        "capturado": "2026-10-28T15:36:59-05:00"
-      },
-      {
-        "titulo": "Hacienda respaldó el cobro de 0,7% de las AFP y previno sobre el costo de bajar semanas",
-        "url": "https://www.larepublica.co/economia/hacienda-defendio-comision-de-0-7-de-las-afp-y-alerto-sobre-costo-de-reducir-semanas-4513252",
-        "fecha_portada": "",
-        "titulo_fuente": "Hacienda defendió comisión de 0,7% de las AFP y alertó sobre costo de reducir semanas",
-        "capturado": "2026-10-28T15:36:59-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá avisó que el interés de bonos globales del Gobierno roza 15% en pesos",
-        "url": "https://www.larepublica.co/economia/banco-de-bogota-advirtio-que-tasa-de-bonos-globales-del-gobierno-bordea-15-en-pesos-4513120",
-        "fecha_portada": "",
-        "titulo_fuente": "Banco de Bogotá advirtió que tasa de bonos globales del Gobierno bordea 15% en pesos",
-        "capturado": "2026-10-28T15:36:59-05:00"
-      },
-      {
-        "titulo": "El Gobierno apenas ha captado $1,1 billones de los $2,7 billones que prevé incorporar al PGN",
-        "url": "https://www.larepublica.co/economia/gobierno-solo-ha-recaudado-1-1-billones-de-los-2-7-billones-que-busca-adicionar-al-presupuesto-4512660",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno solo ha recaudado $1,1 billones de los $2,7 billones que busca adicionar al PGN",
-        "capturado": "2026-10-28T10:31:49-05:00"
-      },
-      {
-        "titulo": "Colombia cuenta con una exposición significativa a las inversiones corrosivas y sus riesgos",
-        "url": "https://www.larepublica.co/economia/entrevista-con-carlos-augusto-chacon-director-ejecutivo-del-icp-sobre-las-inversiones-corrosivas-4512643",
-        "fecha_portada": "",
-        "titulo_fuente": "“Colombia tiene una exposición relevante a inversiones corrosivas y a sus riesgos”",
-        "capturado": "2026-10-28T03:46:02-05:00"
-      },
-      {
-        "titulo": "Los multimillonarios globales poseen más del 75% de la riqueza total del planeta",
-        "url": "https://www.larepublica.co/globoeconomia/multimillonarios-del-mundo-concentran-mas-de-75-de-toda-la-riqueza-global-4512531",
-        "fecha_portada": "28/10/2026",
-        "titulo_fuente": "Los multimillonarios del planeta concentran más de 75% del total de la riqueza global",
-        "capturado": "2026-10-28T03:46:02-05:00"
       }
     ],
     "Bolsas": [
