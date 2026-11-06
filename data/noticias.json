@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-06T02:38:30-05:00",
+  "actualizado": "2026-11-06T10:25:39-05:00",
   "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
@@ -427,6 +427,48 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El dólar sube mientras el mercado sigue pendiente de la cifra de empleo en EE. UU.",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-6-de-noviembre-de-2026-4519021",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar cotiza al alza, mientras el mercado sigue atento al dato de empleo de EE.UU.",
+        "capturado": "2026-11-06T10:25:39-05:00"
+      },
+      {
+        "titulo": "El petróleo se dirige a una gran baja semanal posterior a elecciones de medio término en EE. UU.",
+        "url": "https://www.larepublica.co/globoeconomia/el-crudo-se-encamina-a-fuerte-caida-semanal-tras-elecciones-medio-mandato-en-ee-uu-4518972",
+        "fecha_portada": "",
+        "titulo_fuente": "El crudo se encamina a fuerte caída semanal tras elecciones medio mandato en EE.UU.",
+        "capturado": "2026-11-06T10:25:39-05:00"
+      },
+      {
+        "titulo": "Bolsas del mundo caen por temor a que una marea azul termine con el auge de la IA",
+        "url": "https://www.larepublica.co/globoeconomia/las-bolsas-mundiales-caen-por-el-temor-a-que-la-ola-azul-termine-el-auge-de-la-ia-4519070",
+        "fecha_portada": "",
+        "titulo_fuente": "Las bolsas mundiales caen por el temor a que la \"ola azul\" termine el auge de la IA",
+        "capturado": "2026-11-06T10:25:39-05:00"
+      },
+      {
+        "titulo": "EPM retornó al mercado de capitales tras emitir bonos por US$1.000 millones",
+        "url": "https://www.larepublica.co/finanzas/epm-regreso-al-mercado-internacional-de-capitales-con-emision-de-bonos-por-us-1-000-millones-4518978",
+        "fecha_portada": "06/11/2026",
+        "titulo_fuente": "EPM regresó al mercado de capitales con emisión de bonos por US$1.000 millones",
+        "capturado": "2026-11-06T10:25:39-05:00"
+      },
+      {
+        "titulo": "El oro baja y se encamina a su mejor semana en más de dos meses antes de la cifra de empleo de EE. UU.",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-6-de-noviembre-de-2026-4519005",
+        "fecha_portada": "06/11/2026",
+        "titulo_fuente": "Oro baja y se encamina a mejor semana en más de dos meses antes de dato empleo EE.UU.",
+        "capturado": "2026-11-06T10:25:39-05:00"
+      },
+      {
+        "titulo": "El retroceso del bitcoin se desacelera mientras los inversores buscan una recuperación",
+        "url": "https://www.larepublica.co/globoeconomia/la-caida-del-bitcoin-se-modera-a-medida-que-los-inversores-exploran-una-recuperacion-4519059",
+        "fecha_portada": "06/11/2026",
+        "titulo_fuente": "La caída del bitcoin se modera a medida que los inversores exploran una recuperación",
+        "capturado": "2026-11-06T10:25:39-05:00"
+      },
+      {
         "titulo": "El dólar se incrementó $7 luego del descenso en las peticiones de ayuda por desempleo",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-5-de-noviembre-4518099",
         "fecha_portada": "",
@@ -803,48 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Protección abonó $18,1 billones en rendimientos a sus clientes de pensiones",
         "capturado": "2026-10-21T00:02:35-05:00"
-      },
-      {
-        "titulo": "Luego de aprobar el presupuesto la cotización del dólar finalizó $7,27 arriba de la TRM",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-20-de-octubre-4506774",
-        "fecha_portada": "",
-        "titulo_fuente": "El precio del dólar cerró $7,27 por encima de la TRM, tras la aprobación del presupuesto",
-        "capturado": "2026-10-20T16:44:30-05:00"
-      },
-      {
-        "titulo": "Preocupación por el gasto en inteligencia artificial afecta las acciones y el petróleo se eleva",
-        "url": "https://www.larepublica.co/globoeconomia/temor-por-gasto-en-inteligencia-artificial-golpea-acciones-y-el-petroleo-se-dispara-4506882",
-        "fecha_portada": "20/10/2026",
-        "titulo_fuente": "Temor por gasto en inteligencia artificial golpea acciones y el petróleo se dispara",
-        "capturado": "2026-10-20T16:44:30-05:00"
-      },
-      {
-        "titulo": "El valor del oro baja porque el petróleo más caro intensifica temores de inflación",
-        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-20-de-octubre-4506704",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro cae debido a que mayores precios del crudo avivan temores sobre inflación",
-        "capturado": "2026-10-20T08:04:05-05:00"
-      },
-      {
-        "titulo": "Para 2027 NoName planea movilizar alrededor de US$200 millones de capital",
-        "url": "https://www.larepublica.co/finanzas/entrevista-con-miguel-piedrahita-director-de-noname-banca-de-inversion-sobre-los-proyectos-de-la-compania-4505943",
-        "fecha_portada": "",
-        "titulo_fuente": "“NoName están proyectando mover cerca de US$200 millones de capital en 2027”",
-        "capturado": "2026-10-20T02:46:09-05:00"
-      },
-      {
-        "titulo": "El dólar finalizó la sesión en $3.156, con una brecha de $18,3 respecto a la TRM del día",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-19-de-octubre-4505897",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró la jornada en $3.156, con una diferencia de $18,3 frente a la TRM del día",
-        "capturado": "2026-10-19T15:15:49-05:00"
-      },
-      {
-        "titulo": "Findeter realizó una emisión de bonos por $300.000 millones y la demanda alcanzó 1,9 veces lo ofertado",
-        "url": "https://www.larepublica.co/finanzas/findeter-emitio-bonos-por-300-000-millones-y-la-demanda-fue-1-9-veces-el-monto-ofertado-4506213",
-        "fecha_portada": "",
-        "titulo_fuente": "Findeter emitió bonos por $300.000 millones y la demanda fue 1,9 veces el monto ofertado",
-        "capturado": "2026-10-19T15:15:49-05:00"
       }
     ]
   }
