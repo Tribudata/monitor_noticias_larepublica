@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-07T13:21:56-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-07T17:04:51-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Reducción del gasto no lograría el 30% del ajuste fijado en la Ley de Rescate del Gobierno",
+        "url": "https://www.larepublica.co/economia/tributaria-no-cumpliria-ajuste-de-70-en-reduccion-de-gasto-y-30-en-impuestos-4519894",
+        "fecha_portada": "07/11/2026",
+        "titulo_fuente": "Recorte del gasto no alcanzaría 30% del ajuste previsto en la Ley de Rescate del Gobierno",
+        "capturado": "2026-11-07T17:04:51-05:00"
+      },
+      {
+        "titulo": "Fitch Rating confirmó para Medellín la máxima nota nacional AAA(col)",
+        "url": "https://www.larepublica.co/economia/fitch-rating-ratifico-a-medellin-con-la-maxima-calificacion-nacional-aaa-col-4519912",
+        "fecha_portada": "07/11/2026",
+        "titulo_fuente": "Fitch Rating ratificó a Medellín con la máxima calificación nacional AAA(col)",
+        "capturado": "2026-11-07T17:04:51-05:00"
+      },
       {
         "titulo": "Girardota, Betulia y El Retiro encabezaron a los municipios en rendimiento fiscal",
         "url": "https://www.larepublica.co/economia/girardota-betulia-y-el-retiro-fueron-los-municipios-con-mejor-desempeno-fiscal-durante-2025-4519849",
@@ -408,20 +422,6 @@
         "url": "https://www.larepublica.co/economia/estos-son-los-cinco-puntos-claves-que-contiene-la-ley-de-rescate-economico-del-gobierno-4514369",
         "fecha_portada": "",
         "titulo_fuente": "Estos son los cinco puntos claves que contiene la Ley de Rescate Económico del Gobierno",
-        "capturado": "2026-10-29T18:24:40-05:00"
-      },
-      {
-        "titulo": "La Ley de Rescate del Gobierno incorporaría un régimen de estabilidad jurídica para inversiones",
-        "url": "https://www.larepublica.co/economia/ley-de-rescate-del-gobierno-traeria-regimen-de-estabilidad-juridica-para-inversiones-4514249",
-        "fecha_portada": "29/10/2026",
-        "titulo_fuente": "Ley de Rescate del Gobierno traería régimen de estabilidad jurídica para inversiones",
-        "capturado": "2026-10-29T18:24:40-05:00"
-      },
-      {
-        "titulo": "A septiembre, la deuda pública llegó a $1.185 billones, lo que representa el 61,4% del PIB",
-        "url": "https://www.larepublica.co/economia/deuda-publica-a-septiembre-alcanzo-1-181-billones-equivale-a-61-4-del-pib-4514154",
-        "fecha_portada": "",
-        "titulo_fuente": "Deuda pública a septiembre alcanzó $1.185 billones, equivale a 61,4% del PIB",
         "capturado": "2026-10-29T18:24:40-05:00"
       }
     ],
