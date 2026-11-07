@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-06T19:32:01-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-07T01:39:49-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La Ley de Rescate cuenta con seis semanas para su aprobación sin sesiones extraordinarias",
+        "url": "https://www.larepublica.co/economia/ley-de-rescate-tiene-seis-semanas-para-pasar-el-congreso-sin-sesiones-extraordinarias-4519482",
+        "fecha_portada": "07/11/2026",
+        "titulo_fuente": "Ley de Rescate tiene seis semanas para pasar sin sesiones extraordinarias",
+        "capturado": "2026-11-07T01:39:49-05:00"
+      },
+      {
+        "titulo": "El sector financiero prevé que la inflación subirá de 6,29% a 6,38% en este octubre",
+        "url": "https://www.larepublica.co/economia/mercado-financiero-anticipa-que-la-inflacion-repuntara-de-6-29-hasta-6-38-en-octubre-4519489",
+        "fecha_portada": "",
+        "titulo_fuente": "Mercado financiero anticipa que la inflación repuntará de 6,29% hasta 6,38% en este octubre",
+        "capturado": "2026-11-07T01:39:49-05:00"
+      },
+      {
+        "titulo": "Abriremos licitación de entre $12 y $14 billones para modernizar el esquema de aseo",
+        "url": "https://www.larepublica.co/economia/inside-lr-con-armando-ojeda-acosta-director-de-la-uaeps-sobre-el-modelo-de-aseo-en-bogota-4518544",
+        "fecha_portada": "",
+        "titulo_fuente": "“Lanzaremos licitación de entre $12 y $14 billones para actualizar el modelo de aseo”",
+        "capturado": "2026-11-07T01:39:49-05:00"
+      },
       {
         "titulo": "Ungrd diseñó 70 proyectos por $8,68 billones para la recuperación de ocho departamentos",
         "url": "https://www.larepublica.co/economia/ungrd-estructuro-70-proyectos-por-8-68-billones-para-recuperar-ocho-departamentos-4519198",
@@ -402,27 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Utilidades del Emisor a septiembre fueron de $5,97 billones, registran caída de 45%",
         "capturado": "2026-10-29T14:01:38-05:00"
-      },
-      {
-        "titulo": "La Nación vuelve a tomar deuda a niveles próximos al 13% en títulos a corto plazo",
-        "url": "https://www.larepublica.co/economia/la-nacion-se-vuelve-a-endeudar-a-niveles-cercanos-a-13-en-titulos-de-corto-plazo-4514003",
-        "fecha_portada": "29/10/2026",
-        "titulo_fuente": "La Nación se vuelve a endeudar a niveles cercanos a 13% en títulos de corto plazo",
-        "capturado": "2026-10-29T14:01:38-05:00"
-      },
-      {
-        "titulo": "La Reserva Federal mantuvo los tipos de interés en 3,75%-4% debido al creciente temor por la inflación",
-        "url": "https://www.larepublica.co/globoeconomia/la-reserva-federal-dejo-las-tasas-de-interes-en-3-75-4-ante-creciente-temor-inflacionario-4513460",
-        "fecha_portada": "",
-        "titulo_fuente": "La Reserva Federal dejó las tasas de interés en 3,75%-4% ante creciente temor inflacionario",
-        "capturado": "2026-10-29T01:08:43-05:00"
-      },
-      {
-        "titulo": "La agencia Fitch Ratings inaugura sede en Bogotá debido al aumento de la inversión extranjera",
-        "url": "https://www.larepublica.co/economia/agencia-fitch-ratings-abre-nueva-sede-en-bogota-ante-mayor-inversion-extranjera-directa-4512896",
-        "fecha_portada": "29/10/2026",
-        "titulo_fuente": "Agencia Fitch Ratings abre nueva sede en Bogotá ante mayor inversión extranjera",
-        "capturado": "2026-10-29T01:08:43-05:00"
       }
     ],
     "Bolsas": [
