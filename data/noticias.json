@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-07T08:37:16-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-07T13:21:56-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Girardota, Betulia y El Retiro encabezaron a los municipios en rendimiento fiscal",
+        "url": "https://www.larepublica.co/economia/girardota-betulia-y-el-retiro-fueron-los-municipios-con-mejor-desempeno-fiscal-durante-2025-4519849",
+        "fecha_portada": "07/11/2026",
+        "titulo_fuente": "Girardota, Betulia y El Retiro fueron los municipios con mejor desempeño fiscal",
+        "capturado": "2026-11-07T13:21:56-05:00"
+      },
       {
         "titulo": "La Ley de Rescate cuenta con seis semanas para su aprobación sin sesiones extraordinarias",
         "url": "https://www.larepublica.co/economia/ley-de-rescate-tiene-seis-semanas-para-pasar-el-congreso-sin-sesiones-extraordinarias-4519482",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Deuda pública a septiembre alcanzó $1.185 billones, equivale a 61,4% del PIB",
         "capturado": "2026-10-29T18:24:40-05:00"
-      },
-      {
-        "titulo": "Ganancias del Emisor a septiembre llegaron a $5,97 billones, con una baja de 45%",
-        "url": "https://www.larepublica.co/economia/utilidades-del-emisor-a-septiembre-fueron-de-5-97-billones-cayeron-en-45-4513963",
-        "fecha_portada": "",
-        "titulo_fuente": "Utilidades del Emisor a septiembre fueron de $5,97 billones, registran caída de 45%",
-        "capturado": "2026-10-29T14:01:38-05:00"
       }
     ],
     "Bolsas": [
