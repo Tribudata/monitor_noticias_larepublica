@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-07T17:04:51-05:00",
+  "actualizado": "2026-11-07T20:33:58-05:00",
   "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Así transcurrió el primer encuentro entre integrantes del Congreso y el Gobierno sobre la tributaria",
+        "url": "https://www.larepublica.co/economia/asi-fue-la-primera-reunion-entre-miembros-del-congreso-y-gobierno-sobre-la-tributaria-4519991",
+        "fecha_portada": "07/11/2026",
+        "titulo_fuente": "Así fue la primera reunión entre miembros del Congreso y Gobierno sobre la tributaria",
+        "capturado": "2026-11-07T20:33:58-05:00"
+      },
+      {
+        "titulo": "Centro Democrático sugirió cambios a la tributaria y la venta de participación en Ecopetrol",
+        "url": "https://www.larepublica.co/economia/centro-democratico-propuso-ajustes-a-la-tributaria-y-venta-de-participacion-de-ecopetrol-4519947",
+        "fecha_portada": "",
+        "titulo_fuente": "Centro Democrático propuso ajustes a la tributaria y venta de participación de Ecopetrol",
+        "capturado": "2026-11-07T20:33:58-05:00"
+      },
       {
         "titulo": "Reducción del gasto no lograría el 30% del ajuste fijado en la Ley de Rescate del Gobierno",
         "url": "https://www.larepublica.co/economia/tributaria-no-cumpliria-ajuste-de-70-en-reduccion-de-gasto-y-30-en-impuestos-4519894",
@@ -409,20 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Ley de Rescate modificaría regla fiscal y pondría techo al gasto cuando haya más deuda",
         "capturado": "2026-10-30T04:06:43-05:00"
-      },
-      {
-        "titulo": "Tope anual de $32,9 millones para la renta exenta del 25% con Ley de Rescate Económico",
-        "url": "https://www.larepublica.co/economia/renta-exenta-de-25-tendra-un-limite-anual-de-32-millones-con-ley-de-rescate-economico-4514395",
-        "fecha_portada": "",
-        "titulo_fuente": "Renta exenta de 25% tendrá límite anual de $32,9 millones con Ley de Rescate Económico",
-        "capturado": "2026-10-29T21:42:35-05:00"
-      },
-      {
-        "titulo": "Cinco aspectos fundamentales incluidos en la Ley de Rescate Económico del Gobierno",
-        "url": "https://www.larepublica.co/economia/estos-son-los-cinco-puntos-claves-que-contiene-la-ley-de-rescate-economico-del-gobierno-4514369",
-        "fecha_portada": "",
-        "titulo_fuente": "Estos son los cinco puntos claves que contiene la Ley de Rescate Económico del Gobierno",
-        "capturado": "2026-10-29T18:24:40-05:00"
       }
     ],
     "Bolsas": [
