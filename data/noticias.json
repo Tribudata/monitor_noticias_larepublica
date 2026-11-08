@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-07T20:33:58-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-08T03:07:33-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Medellín mantuvo la nota más alta de Fitch Ratings debido a sus resultados fiscales",
+        "url": "https://www.larepublica.co/economia/fitch-ratings-ratifico-a-medellin-con-la-maxima-calificacion-nacional-aaa-col-4519912",
+        "fecha_portada": "07/11/2026",
+        "titulo_fuente": "Medellín conservó la máxima calificación de Fitch Ratings por sus resultados fiscales",
+        "capturado": "2026-11-08T03:07:33-05:00"
+      },
       {
         "titulo": "Así transcurrió el primer encuentro entre integrantes del Congreso y el Gobierno sobre la tributaria",
         "url": "https://www.larepublica.co/economia/asi-fue-la-primera-reunion-entre-miembros-del-congreso-y-gobierno-sobre-la-tributaria-4519991",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/mercado-financiaero-preve-alza-de-25-puntos-en-la-tasa-del-banco-de-la-republica-4514553",
         "fecha_portada": "",
         "titulo_fuente": "El mercado financiero prevé una subida de 25 puntos en las tasas que fija el Banco de la República",
-        "capturado": "2026-10-30T04:06:43-05:00"
-      },
-      {
-        "titulo": "La Ley de Rescate cambiaría la regla fiscal y fijaría un límite al gasto cuando aumente la deuda",
-        "url": "https://www.larepublica.co/economia/ley-de-rescate-modificaria-regla-fiscal-y-pondria-techo-al-gasto-si-la-deuda-supera-63-del-pib-4514413",
-        "fecha_portada": "",
-        "titulo_fuente": "Ley de Rescate modificaría regla fiscal y pondría techo al gasto cuando haya más deuda",
         "capturado": "2026-10-30T04:06:43-05:00"
       }
     ],
