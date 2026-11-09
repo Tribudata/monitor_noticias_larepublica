@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-09T05:27:40-05:00",
+  "actualizado": "2026-11-09T15:54:20-05:00",
   "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
@@ -427,6 +427,27 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El dólar terminó al alza en $3.269,21 ante la expectativa por la inflación de EE.UU.",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar cerró al alza en $3.269,21, en medio de la expectativa por la inflación de EE.UU.",
+        "capturado": "2026-11-09T15:54:20-05:00"
+      },
+      {
+        "titulo": "El Brent cayó a menos de US$100, hasta US$93,7, ante la posición moderada de Trump sobre Irán",
+        "url": "https://www.larepublica.co/globoeconomia/el-crudo-cae-luego-de-que-trump-apunta-a-una-actitud-mas-moderada-respecto-a-iran-4520335",
+        "fecha_portada": "09/11/2026",
+        "titulo_fuente": "Brent cae por debajo de US$100, a US$93,7, ante postura moderada de Trump sobre Irán",
+        "capturado": "2026-11-09T15:54:20-05:00"
+      },
+      {
+        "titulo": "El oro aumentó, mientras la caída de los precios del crudo atenuó los temores inflacionistas",
+        "url": "https://www.larepublica.co/finanzas/oro-sube-mientras-que-la-bajada-de-los-precios-del-crudo-modera-los-temores-inflacionistas-4520336",
+        "fecha_portada": "",
+        "titulo_fuente": "Oro subió, mientras que la bajada de los precios del crudo moderó los temores inflacionistas",
+        "capturado": "2026-11-09T15:54:20-05:00"
+      },
+      {
         "titulo": "El dólar sube mientras el mercado sigue pendiente de la cifra de empleo en EE. UU.",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-6-de-noviembre-de-2026-4519021",
         "fecha_portada": "",
@@ -824,27 +845,6 @@
         "fecha_portada": "21/10/2026",
         "titulo_fuente": "El oro cayó por cuarta sesión consecutiva, con un descenso de 0,1% a US$4.121,27 por onza",
         "capturado": "2026-10-21T14:23:38-05:00"
-      },
-      {
-        "titulo": "Ecopetrol, Grupo Sura y Cibest se posicionaron como las acciones más atractivas en octubre",
-        "url": "https://www.larepublica.co/finanzas/ecopetrol-grupo-sura-y-cibest-se-ubicaron-como-las-acciones-mas-llamativas-en-octubre-4507663",
-        "fecha_portada": "",
-        "titulo_fuente": "Ecopetrol, Grupo Sura y Cibest se ubicaron como las acciones más llamativas en octubre",
-        "capturado": "2026-10-21T14:23:38-05:00"
-      },
-      {
-        "titulo": "JPMorgan prevé que el bitcoin tendrá mayor rendimiento que el S&P 500 a 15 años",
-        "url": "https://www.larepublica.co/globoeconomia/jpmorgan-proyecta-que-el-bitcoin-superara-al-s-p-500-en-rentabilidad-a-15-anos-4507233",
-        "fecha_portada": "21/10/2026",
-        "titulo_fuente": "JPMorgan proyecta que el bitcoin superará al S&P 500 en rentabilidad a los 15 años",
-        "capturado": "2026-10-21T05:20:48-05:00"
-      },
-      {
-        "titulo": "Protección acreditó $18,1 billones en ganancias a sus clientes de pensiones",
-        "url": "https://www.larepublica.co/finanzas/proteccion-abono-18-1-billones-en-rendimientos-a-sus-clientes-de-pensiones-y-cesantias-4506981",
-        "fecha_portada": "",
-        "titulo_fuente": "Protección abonó $18,1 billones en rendimientos a sus clientes de pensiones",
-        "capturado": "2026-10-21T00:02:35-05:00"
       }
     ]
   }
