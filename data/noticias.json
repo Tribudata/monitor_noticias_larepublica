@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-08T21:46:06-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-09T05:27:40-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "En octubre el pollo asado alcanzó los $43.703, un 6,78% más costoso que hace un año",
+        "url": "https://www.larepublica.co/economia/el-pollo-asado-esta-6-78-mas-caro-que-hace-un-ano-y-llego-a-43-703-en-octubre-4519612",
+        "fecha_portada": "09/11/2026",
+        "titulo_fuente": "El pollo asado está 6,78% más caro que hace un año y llegó a $43.703 en octubre",
+        "capturado": "2026-11-09T05:27:40-05:00"
+      },
+      {
+        "titulo": "¿Qué quitar y qué añadir en la reforma tributaria propuesta por el Gobierno De la Espriella?",
+        "url": "https://www.larepublica.co/economia/que-sobra-y-que-poner-en-la-reforma-tributaria-presentada-por-el-gobierno-4520066",
+        "fecha_portada": "",
+        "titulo_fuente": "¿Qué sobra y qué poner en la reforma tributaria presentada por el Gobierno De la Espriella?",
+        "capturado": "2026-11-09T05:27:40-05:00"
+      },
+      {
+        "titulo": "Knot y Hernández figuran como aspirantes a la presidencia del BCE",
+        "url": "https://www.larepublica.co/globoeconomia/knot-y-hernandez-se-perfilan-como-candidatos-para-la-presidencia-del-bce-4519832",
+        "fecha_portada": "09/11/2026",
+        "titulo_fuente": "Knot y Hernández se perfilan como candidatos para la presidencia del BCE",
+        "capturado": "2026-11-09T05:27:40-05:00"
+      },
       {
         "titulo": "Con la Ley de Rescate el valor de los cigarrillos y vapeadores aumentaría hasta 53%",
         "url": "https://www.larepublica.co/economia/el-precio-de-los-cigarrillos-y-vapeadores-subiria-hasta-53-con-la-ley-de-rescate-4520290",
@@ -402,27 +423,6 @@
         "fecha_portada": "30/10/2026",
         "titulo_fuente": "Empresas quedarían exoneradas de aportes al Sena, Icbf y salud por salarios de hasta dos mínimos",
         "capturado": "2026-10-30T11:02:49-05:00"
-      },
-      {
-        "titulo": "Bebidas con edulcorantes captarían alrededor de $1,8 billones en 2028",
-        "url": "https://www.larepublica.co/economia/bebidas-con-edulcorantes-recaudarian-1-8-billones-en-2028-con-ley-de-rescate-4514781",
-        "fecha_portada": "",
-        "titulo_fuente": "Bebidas con edulcorantes recaudarían cerca de $1,8 billones en 2028",
-        "capturado": "2026-10-30T11:02:49-05:00"
-      },
-      {
-        "titulo": "Las recientes normas para controlar el gasto en pauta y publicidad oficial de la Ley de Rescate",
-        "url": "https://www.larepublica.co/economia/las-nuevas-reglas-para-regular-el-gasto-en-pauta-y-publicidad-oficial-de-la-ley-de-rescate-4514773",
-        "fecha_portada": "",
-        "titulo_fuente": "Las nuevas reglas para regular el gasto en pauta y publicidad oficial de la Ley de Rescate",
-        "capturado": "2026-10-30T11:02:49-05:00"
-      },
-      {
-        "titulo": "Aspectos centrales de la Ley de Rescate Económica que busca aprobación en el Congreso",
-        "url": "https://www.larepublica.co/economia/los-puntos-clave-de-la-ley-de-rescate-economica-que-busca-luz-verde-en-el-congreso-4513927",
-        "fecha_portada": "30/10/2026",
-        "titulo_fuente": "Los puntos clave de la Ley de Rescate Económica que busca luz verde en el Congreso",
-        "capturado": "2026-10-30T04:06:43-05:00"
       }
     ],
     "Bolsas": [
