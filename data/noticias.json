@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-08T18:13:24-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-08T21:46:06-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Con la Ley de Rescate el valor de los cigarrillos y vapeadores aumentaría hasta 53%",
+        "url": "https://www.larepublica.co/economia/el-precio-de-los-cigarrillos-y-vapeadores-subiria-hasta-53-con-la-ley-de-rescate-4520290",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio de los cigarrillos y vapeadores subiría hasta 53% con la Ley de Rescate",
+        "capturado": "2026-11-08T21:46:06-05:00"
+      },
       {
         "titulo": "Medellín mantuvo la nota más alta de Fitch Ratings debido a sus resultados fiscales",
         "url": "https://www.larepublica.co/economia/fitch-ratings-ratifico-a-medellin-con-la-maxima-calificacion-nacional-aaa-col-4519912",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/los-puntos-clave-de-la-ley-de-rescate-economica-que-busca-luz-verde-en-el-congreso-4513927",
         "fecha_portada": "30/10/2026",
         "titulo_fuente": "Los puntos clave de la Ley de Rescate Económica que busca luz verde en el Congreso",
-        "capturado": "2026-10-30T04:06:43-05:00"
-      },
-      {
-        "titulo": "El sector financiero anticipa un alza de 25 puntos en las tasas que determina el Banco de la República",
-        "url": "https://www.larepublica.co/economia/mercado-financiaero-preve-alza-de-25-puntos-en-la-tasa-del-banco-de-la-republica-4514553",
-        "fecha_portada": "",
-        "titulo_fuente": "El mercado financiero prevé una subida de 25 puntos en las tasas que fija el Banco de la República",
         "capturado": "2026-10-30T04:06:43-05:00"
       }
     ],
