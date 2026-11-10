@@ -1,9 +1,72 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-10T13:20:02-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-10T18:35:02-05:00",
+  "nuevos_en_esta_corrida": 9,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El PND propone elevar el crecimiento económico al 6% y la inversión al 25% del PIB",
+        "url": "https://www.larepublica.co/economia/pnd-plantea-llevar-el-crecimiento-economico-a-6-anual-y-la-inversion-a-25-del-pib-4521690",
+        "fecha_portada": "",
+        "titulo_fuente": "PND plantea llevar el crecimiento económico a 6% y la inversión a 25% del PIB",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
+      {
+        "titulo": "El Congreso nombró a los primeros ponentes para la reforma tributaria de De la Espriella",
+        "url": "https://www.larepublica.co/economia/congreso-designo-primeros-ponentes-de-la-reforma-tributaria-de-de-la-espriella-4521676",
+        "fecha_portada": "",
+        "titulo_fuente": "Congreso designó primeros ponentes de la reforma tributaria de De la Espriella",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
+      {
+        "titulo": "The Economist analizó los primeros 100 días de De la Espriella entre populismo y ajuste fiscal",
+        "url": "https://www.larepublica.co/economia/entre-el-populismo-y-el-ajuste-fiscal-the-economist-analiza-primeros-dias-de-la-espriella-4521490",
+        "fecha_portada": "10/11/2026",
+        "titulo_fuente": "Entre populismo y ajuste fiscal, The Economist analizó los primeros 100 días De la Espriella",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
+      {
+        "titulo": "Santiago Pardo criticó la Ley de Rescate por su impacto en hogares con menores ingresos",
+        "url": "https://www.larepublica.co/economia/santiago-pardo-cuestiono-la-ley-de-rescate-economico-por-el-impacto-en-hogares-de-menores-ingresos-4521187",
+        "fecha_portada": "",
+        "titulo_fuente": "Santiago Pardo cuestionó la Ley de Rescate por el impacto en hogares de menores ingresos",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
+      {
+        "titulo": "Abelardo de la Espriella declaró la insubsistencia de la directora del Icfes, Elizabeth Blandón",
+        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-declaro-insubsistente-a-elizabeth-blandon-directora-del-icfes-4521481",
+        "fecha_portada": "",
+        "titulo_fuente": "Abelardo de la Espriella declaró insubsistente a Elizabeth Blandón, directora del Icfes",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
+      {
+        "titulo": "Iniciativas de la Milagro Week podrían representar una inversión de US$41.900 millones",
+        "url": "https://www.larepublica.co/economia/colombia-llevara-a-nueva-york-97-proyectos-que-representan-expectativas-de-inversion-por-us-41-900-millones-4521185",
+        "fecha_portada": "10/11/2026",
+        "titulo_fuente": "Proyectos de la Milagro Week podrían representar una inversión de US$41.900 millones",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
+      {
+        "titulo": "El Gobierno Nacional anunció una inversión de $630.000 millones para carreteras de Boyacá",
+        "url": "https://www.larepublica.co/economia/el-gobierno-nacional-anuncio-inversion-por-630-000-millones-para-vias-de-boyaca-en-2027-4521203",
+        "fecha_portada": "10/11/2026",
+        "titulo_fuente": "El Gobierno Nacional anunció inversión por $630.000 millones para vías de Boyacá",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
+      {
+        "titulo": "Luis Augusto Cuenca tomará la dirección de la Superintendencia de Notariado y Registro",
+        "url": "https://www.larepublica.co/economia/luis-augusto-cuenca-asumira-como-director-de-la-superintendencia-de-notariado-y-registro-4521290",
+        "fecha_portada": "",
+        "titulo_fuente": "Luis Augusto Cuenca asumirá como director de la Superintendencia de Notariado y Registro",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
+      {
+        "titulo": "La SAE presentará un portafolio inmobiliario de hasta US$80 millones en la Milagro Week 2026",
+        "url": "https://www.larepublica.co/economia/sae-llevara-el-portafolio-inmobiliario-de-hasta-us-80-millones-a-milagro-week-2026-4521301",
+        "fecha_portada": "",
+        "titulo_fuente": "SAE llevará el portafolio inmobiliario de hasta US$80 millones a Milagro Week 2026",
+        "capturado": "2026-11-10T18:35:02-05:00"
+      },
       {
         "titulo": "El debate del sueldo mínimo para el año entrante se orienta con una inflación anual de 6,30%",
         "url": "https://www.larepublica.co/economia/discusion-del-salario-minimo-para-el-otro-ano-se-perfila-con-6-30-de-inflacion-4520706",
@@ -360,69 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Educación es el sector con mayor asignación en proyecto de Presupuesto de Bogotá",
         "capturado": "2026-11-03T13:29:30-05:00"
-      },
-      {
-        "titulo": "Reforma tributaria, US$5.000 millones al 4% del Fondo Monetario Internacional y reajuste",
-        "url": "https://www.larepublica.co/economia/ajuste-tributaria-y-us-5-000-millones-a-4-del-fondo-monetario-internacional-4516246",
-        "fecha_portada": "03/11/2026",
-        "titulo_fuente": "Tributaria, US$5.000 millones, a 4%, del Fondo Monetario Internacional y ajuste",
-        "capturado": "2026-11-03T06:05:45-05:00"
-      },
-      {
-        "titulo": "El cambio en el IVA impulsaría más la inflación y la pondría por encima de 6,4% el año entrante",
-        "url": "https://www.larepublica.co/economia/el-ajuste-en-el-iva-presionaria-mas-la-inflacion-y-la-llevaria-arriba-de-6-4-el-proximo-ano-4515593",
-        "fecha_portada": "",
-        "titulo_fuente": "El ajuste en el IVA presionaría más la inflación y la llevaría arriba de 6,4% el próximo año",
-        "capturado": "2026-11-03T06:05:45-05:00"
-      },
-      {
-        "titulo": "Cerca de 100 países cobran impuestos por compras en plataformas como Temu y Shein",
-        "url": "https://www.larepublica.co/globoeconomia/casi-100-paises-tienen-impuestos-a-compras-en-plataformas-como-temu-y-shein-4515523",
-        "fecha_portada": "03/11/2026",
-        "titulo_fuente": "Casi 100 países tienen impuestos a compras en plataformas como Temu y Shein",
-        "capturado": "2026-11-03T06:05:45-05:00"
-      },
-      {
-        "titulo": "El 30% de la población más pobre se beneficiaría del esquema EfectIVA de la Ley de Rescate",
-        "url": "https://www.larepublica.co/economia/el-mecanismo-efectiva-de-la-ley-de-rescate-beneficiaria-a-30-de-la-poblacion-mas-pobre-4515993",
-        "fecha_portada": "01/11/2026",
-        "titulo_fuente": "El mecanismo EfectIVA de la Ley de Rescate beneficiaría a 30% de la población más pobre",
-        "capturado": "2026-11-01T15:38:02-05:00"
-      },
-      {
-        "titulo": "Las Naciones Unidas concluyeron su misión política en Somalia tras tres décadas",
-        "url": "https://www.larepublica.co/globoeconomia/las-naciones-unidas-pone-fin-a-su-mision-politica-en-somalia-tras-tres-decadas-4515886",
-        "fecha_portada": "",
-        "titulo_fuente": "Las Naciones Unidas pusieron fin a su misión política en Somalia luego de tres décadas",
-        "capturado": "2026-11-01T04:26:08-05:00"
-      },
-      {
-        "titulo": "Dian y Minhacienda preparan ajustes legales para frenar la evasión y el contrabando",
-        "url": "https://www.larepublica.co/economia/dian-y-minhacienda-alistan-cambios-normativos-para-combatir-la-evasion-y-el-contrabando-4515816",
-        "fecha_portada": "31/10/2026",
-        "titulo_fuente": "Dian y Minhacienda alistan cambios normativos para combatir la evasión y el contrabando",
-        "capturado": "2026-10-31T15:07:00-05:00"
-      },
-      {
-        "titulo": "Rubio y ministro de Asuntos Exteriores de Brasil se encontrarán luego de fricciones electorales",
-        "url": "https://www.larepublica.co/globoeconomia/rubio-y-ministro-de-asuntos-exteriores-de-brasil-se-reuniran-tras-tensiones-electorales-4515847",
-        "fecha_portada": "31/10/2026",
-        "titulo_fuente": "Rubio y ministro de Asuntos Exteriores de Brasil se reunirán tras tensiones electorales",
-        "capturado": "2026-10-31T15:07:00-05:00"
-      },
-      {
-        "titulo": "Artículos que subirán de precio por el cambio al IVA en la Ley de Rescate de De La Espriella",
-        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/estos-son-lo-productos-que-se-encarecen-con-un-ajuste-del-iva-en-la-ley-de-rescate-4514952",
-        "fecha_portada": "",
-        "titulo_fuente": "Estos son lo productos que se encarecen con un ajuste del IVA en la Ley de Rescate de De La Espriella",
-        "capturado": "2026-10-31T06:37:42-05:00"
-      },
-      {
-        "titulo": "El Banco de la República tomó por sorpresa al mercado y dejó sin cambios las tasas",
-        "url": "https://www.larepublica.co/economia/el-banco-de-la-republica-sorprendio-al-mercado-y-mantuvo-las-tasas-quietas-en-12-25-4515408",
-        "fecha_portada": "",
-        "titulo_fuente": "El Banco de la República sorprendió al mercado y mantuvo las tasas quietas",
-        "capturado": "2026-10-31T06:37:42-05:00"
       }
     ],
     "Bolsas": [
