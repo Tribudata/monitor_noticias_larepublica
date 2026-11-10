@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-09T22:00:05-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-10T05:48:52-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El debate del sueldo mínimo para el año entrante se orienta con una inflación anual de 6,30%",
+        "url": "https://www.larepublica.co/economia/discusion-del-salario-minimo-para-el-otro-ano-se-perfila-con-6-30-de-inflacion-4520706",
+        "fecha_portada": "10/11/2026",
+        "titulo_fuente": "La discusión del salario mínimo para el próximo año se perfila con 6,30% en la inflación anual",
+        "capturado": "2026-11-10T05:48:52-05:00"
+      },
+      {
+        "titulo": "El impacto de la visita del Papa León XIV a Sudamérica superará los US$500 millones",
+        "url": "https://www.larepublica.co/globoeconomia/el-efecto-de-la-visita-del-papa-leon-xiv-a-sudamerica-sera-de-us-500-millones-4520861",
+        "fecha_portada": "10/11/2026",
+        "titulo_fuente": "El efecto de la visita del Papa León XIV a Sudamérica será mayor a los US$500 millones",
+        "capturado": "2026-11-10T05:48:52-05:00"
+      },
+      {
+        "titulo": "Gobierno asignó $332.000 millones para 7.385 casas perjudicadas por el sismo",
+        "url": "https://www.larepublica.co/economia/gobierno-destino-332-000-millones-para-7-385-viviendas-afectadas-por-el-terremoto-4520343",
+        "fecha_portada": "09/11/2026",
+        "titulo_fuente": "Gobierno destinó $332.000 millones para 7.385 viviendas afectadas por el terremoto",
+        "capturado": "2026-11-10T05:48:52-05:00"
+      },
       {
         "titulo": "El Dane reportó que el IPC del décimo mes del año alcanzó el 6,30%",
         "url": "https://www.larepublica.co/economia/el-dane-revelo-que-la-inflacion-en-el-decimo-mes-del-ano-llego-hasta-6-30-4520889",
@@ -402,27 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El Banco de la República sorprendió al mercado y mantuvo las tasas quietas",
         "capturado": "2026-10-31T06:37:42-05:00"
-      },
-      {
-        "titulo": "El límite para tributar el impuesto al patrimonio cambiaría de $3.770 a $5.000 millones",
-        "url": "https://www.larepublica.co/economia/el-umbral-para-pagar-el-impuesto-al-patrimonio-pasaria-de-72-000-a-95-500-uvt-4514779",
-        "fecha_portada": "30/10/2026",
-        "titulo_fuente": "El umbral para pagar el impuesto al patrimonio pasaría de $3.770 a $5.000 millones",
-        "capturado": "2026-10-31T06:37:42-05:00"
-      },
-      {
-        "titulo": "Fecoljuegos solicitó evaluar los cambios impositivos para los juegos de azar",
-        "url": "https://www.larepublica.co/economia/fecoljuegos-pidio-revisar-ajustes-tributarios-de-ley-de-rescate-4515150",
-        "fecha_portada": "",
-        "titulo_fuente": "Fecoljuegos pidió revisar ajustes tributarios para juegos de azar",
-        "capturado": "2026-10-31T06:37:42-05:00"
-      },
-      {
-        "titulo": "Junta del Banco de la República dejó sin cambios la tasa de interés en 12,25%",
-        "url": "https://www.larepublica.co/economia/junta-del-banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-en-12-25-4515191",
-        "fecha_portada": "",
-        "titulo_fuente": "Junta del Banco de la República mantuvo inalterada la tasa de interés en 12,25%",
-        "capturado": "2026-10-30T15:54:36-05:00"
       }
     ],
     "Bolsas": [
