@@ -1,6 +1,6 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-10T05:48:52-05:00",
+  "actualizado": "2026-11-10T13:20:02-05:00",
   "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
@@ -427,6 +427,27 @@
     ],
     "Bolsas": [
       {
+        "titulo": "El dólar finalizó al alza en $3.297,33 debido a los datos del IPC de Estados Unidos",
+        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-10-de-noviembre-de-2026-4521147",
+        "fecha_portada": "",
+        "titulo_fuente": "Dólar cerró al alza en $3.297,33 como consecuencia de los datos del IPC de Estados Unidos",
+        "capturado": "2026-11-10T13:20:02-05:00"
+      },
+      {
+        "titulo": "Anthropic busca una valoración de US$1,4 billones en un exitoso debut en bolsa",
+        "url": "https://www.larepublica.co/globoeconomia/anthropic-apunta-a-valoracion-de-us-1-4-billones-en-una-exitosa-salida-a-bolsa-4521289",
+        "fecha_portada": "10/11/2026",
+        "titulo_fuente": "Anthropic apunta a valoración de US$1,4 billones en una exitosa salida a bolsa",
+        "capturado": "2026-11-10T13:20:02-05:00"
+      },
+      {
+        "titulo": "El oro al contado mantiene la tendencia a la baja y cayó 2,4% a US$4.041,10 por onza",
+        "url": "https://www.larepublica.co/finanzas/el-oro-al-contado-amplia-bajas-hoy-martes-y-pierde-2-4-a-us-4-041-10-por-onza-4521409",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro al contado sigue con tendencia bajista y perdió 2,4% a US$4.041,10 por onza",
+        "capturado": "2026-11-10T13:20:02-05:00"
+      },
+      {
         "titulo": "El dólar terminó al alza en $3.269,21 ante la expectativa por la inflación de EE.UU.",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380",
         "fecha_portada": "",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "El oro tocó mínimo de más de dos semanas lastrado por repunte del crudo brent",
         "capturado": "2026-10-22T07:07:58-05:00"
-      },
-      {
-        "titulo": "El dólar finalizó al alza con un precio promedio de $3.191, $27,93 por encima de la TRM",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-21-de-octubre-4507572",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró al alza en un precio promedio de $3.191, $27,93 por encima de la TRM",
-        "capturado": "2026-10-21T14:23:38-05:00"
-      },
-      {
-        "titulo": "Wall Street avanza por optimismo sobre resultados a pesar de la inestabilidad tecnológica",
-        "url": "https://www.larepublica.co/globoeconomia/wall-street-sube-por-optimismo-sobre-resultados-pese-a-volatilidad-tecnologica-4507670",
-        "fecha_portada": "",
-        "titulo_fuente": "Wall Street sube por optimismo sobre resultados pese a volatilidad tecnológica",
-        "capturado": "2026-10-21T14:23:38-05:00"
-      },
-      {
-        "titulo": "El oro retrocedió por cuarta jornada seguida, bajando 0,1% a US$4.121,27 por onza",
-        "url": "https://www.larepublica.co/finanzas/el-oro-cayo-por-cuarta-sesion-consecutiva-con-un-descenso-de-0-1-a-us-4-121-27-por-onza-4507530",
-        "fecha_portada": "21/10/2026",
-        "titulo_fuente": "El oro cayó por cuarta sesión consecutiva, con un descenso de 0,1% a US$4.121,27 por onza",
-        "capturado": "2026-10-21T14:23:38-05:00"
       }
     ]
   }
