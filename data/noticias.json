@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-09T15:54:20-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-09T22:00:05-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Dane reportó que el IPC del décimo mes del año alcanzó el 6,30%",
+        "url": "https://www.larepublica.co/economia/el-dane-revelo-que-la-inflacion-en-el-decimo-mes-del-ano-llego-hasta-6-30-4520889",
+        "fecha_portada": "09/11/2026",
+        "titulo_fuente": "El Dane reveló que el IPC correspondiente al décimo mes del año llegó hasta 6,30%",
+        "capturado": "2026-11-09T22:00:05-05:00"
+      },
+      {
+        "titulo": "Coincidencias y diferencias entre el Gobierno y el Centro Democrático sobre la tributaria",
+        "url": "https://www.larepublica.co/economia/puntos-en-comun-y-desacuerdos-entre-el-gobierno-y-el-centro-democratico-sobre-la-ley-de-rescate-4520469",
+        "fecha_portada": "09/11/2026",
+        "titulo_fuente": "Puntos en común y desacuerdos entre el Gobierno y el Centro Democrático sobre la tributaria",
+        "capturado": "2026-11-09T22:00:05-05:00"
+      },
+      {
+        "titulo": "Colombia estaría gestionando un plan de créditos por US$15.000 millones con el FMI",
+        "url": "https://www.larepublica.co/economia/colombia-estara-negociando-programa-de-prestamos-por-us-15-000-millones-con-el-fmi-4521038",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia estaría negociando programa de préstamos por US$15.000 millones con el FMI",
+        "capturado": "2026-11-09T22:00:05-05:00"
+      },
+      {
+        "titulo": "Contraloría dispuso una revisión urgente a contratos de la DNI por más de $20.783 millones",
+        "url": "https://www.larepublica.co/economia/contraloria-ordeno-revision-prioritaria-de-contratos-de-la-dni-por-mas-de-20-783-millones-4520417",
+        "fecha_portada": "",
+        "titulo_fuente": "Contraloría ordenó revisión urgente de contratos de la DNI por más de $20.783 millones",
+        "capturado": "2026-11-09T22:00:05-05:00"
+      },
       {
         "titulo": "En octubre el pollo asado alcanzó los $43.703, un 6,78% más costoso que hace un año",
         "url": "https://www.larepublica.co/economia/el-pollo-asado-esta-6-78-mas-caro-que-hace-un-ano-y-llego-a-43-703-en-octubre-4519612",
@@ -395,34 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Junta del Banco de la República mantuvo inalterada la tasa de interés en 12,25%",
         "capturado": "2026-10-30T15:54:36-05:00"
-      },
-      {
-        "titulo": "El Gobierno comunicará un proyecto de acueducto para Santa Marta y municipios vecinos",
-        "url": "https://www.larepublica.co/economia/gobierno-anunciara-nuevo-proyecto-de-acueducto-para-santa-marta-y-municipios-aledanos-4515075",
-        "fecha_portada": "30/10/2026",
-        "titulo_fuente": "Gobierno anunciará un proyecto de acueducto para Santa Marta y los municipios aledaños",
-        "capturado": "2026-10-30T15:54:36-05:00"
-      },
-      {
-        "titulo": "Así respondieron congresistas y gremios ante la Ley de rescate",
-        "url": "https://www.larepublica.co/economia/las-reacciones-a-la-ley-de-rescate-presentada-por-el-gobierno-4514789",
-        "fecha_portada": "",
-        "titulo_fuente": "Así han reaccionado congresistas y gremios a la Ley de rescate",
-        "capturado": "2026-10-30T15:54:36-05:00"
-      },
-      {
-        "titulo": "Desde inicios del siglo se han avalado 13 reformas tributarias",
-        "url": "https://www.larepublica.co/economia/en-el-pais-se-han-aprobado-13-reformas-tributarias-desde-inicios-del-siglo-4514768",
-        "fecha_portada": "",
-        "titulo_fuente": "Se han aprobado 13 reformas tributarias desde comienzos del siglo",
-        "capturado": "2026-10-30T11:02:49-05:00"
-      },
-      {
-        "titulo": "Compañías quedarían exentas de pagos a Sena, Icbf y salud para sueldos de hasta dos mínimos",
-        "url": "https://www.larepublica.co/economia/empresas-quedarian-exoneradas-de-aportes-al-sena-icbf-y-salud-por-salarios-de-hasta-dos-minimos-4514782",
-        "fecha_portada": "30/10/2026",
-        "titulo_fuente": "Empresas quedarían exoneradas de aportes al Sena, Icbf y salud por salarios de hasta dos mínimos",
-        "capturado": "2026-10-30T11:02:49-05:00"
       }
     ],
     "Bolsas": [
