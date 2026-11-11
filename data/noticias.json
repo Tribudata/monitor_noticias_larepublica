@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-10T18:35:02-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-10T22:15:32-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Productos y servicios que podrían encarecerse en las semanas iniciales de 2027",
+        "url": "https://www.larepublica.co/economia/bienes-y-servicios-que-podrian-subir-de-precio-durante-las-primeras-semanas-de-2027-4521322",
+        "fecha_portada": "10/11/2026",
+        "titulo_fuente": "Bienes y servicios que podrían subir de precio durante las primeras semanas de 2027",
+        "capturado": "2026-11-10T22:15:32-05:00"
+      },
       {
         "titulo": "El PND propone elevar el crecimiento económico al 6% y la inversión al 25% del PIB",
         "url": "https://www.larepublica.co/economia/pnd-plantea-llevar-el-crecimiento-economico-a-6-anual-y-la-inversion-a-25-del-pib-4521690",
@@ -415,13 +422,6 @@
         "url": "https://www.larepublica.co/economia/chaparral-ha-registrado-mas-de-1-100-sismos-de-mas-de-2-0-grados-en-el-ultimo-mes-4516427",
         "fecha_portada": "03/11/2026",
         "titulo_fuente": "Chaparral ha registrado más de 1.100 sismos de más de 2,0 grados en el último mes",
-        "capturado": "2026-11-03T13:29:30-05:00"
-      },
-      {
-        "titulo": "Educación es el sector con más recursos en el proyecto de Presupuesto de Bogotá",
-        "url": "https://www.larepublica.co/economia/proyecto-de-presupuesto-de-bogota-radicado-por-la-alcaldia-para-2027-4516523",
-        "fecha_portada": "",
-        "titulo_fuente": "Educación es el sector con mayor asignación en proyecto de Presupuesto de Bogotá",
         "capturado": "2026-11-03T13:29:30-05:00"
       }
     ],
