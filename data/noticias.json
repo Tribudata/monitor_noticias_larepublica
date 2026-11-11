@@ -1,9 +1,58 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-11T06:14:55-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-11T13:46:08-05:00",
+  "nuevos_en_esta_corrida": 9,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "El Ejecutivo respaldó el recorte fiscal y alertó por el costo de los intereses de la deuda",
+        "url": "https://www.larepublica.co/economia/gobierno-defendio-ajuste-fiscal-y-advirtio-sobre-el-peso-de-los-intereses-de-la-deuda-4522524",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno defendió ajuste fiscal y advirtió sobre el peso de los intereses de la deuda",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
+      {
+        "titulo": "Anif planteó enajenar ISA y reducir el gasto estatal para sanear las cuentas de la Nación",
+        "url": "https://www.larepublica.co/economia/anif-propuso-vender-isa-y-recortar-el-gasto-publico-para-aliviar-las-finanzas-de-la-nacion-4522410",
+        "fecha_portada": "",
+        "titulo_fuente": "Anif propuso vender ISA y recortar el gasto público para aliviar las finanzas de la Nación",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo gestionará capital extranjero para costear nuevos trazados del Metro de Bogotá",
+        "url": "https://www.larepublica.co/economia/gobierno-buscara-inversion-internacional-para-financiar-nuevas-lineas-del-metro-de-bogota-4522498",
+        "fecha_portada": "11/11/2026",
+        "titulo_fuente": "Gobierno buscará inversión internacional para financiar nuevas líneas del Metro de Bogotá",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
+      {
+        "titulo": "Administración de De la Espriella busca modificar la estratificación y el cobro de servicios públicos",
+        "url": "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-busca-cambiar-los-estratos-y-el-cobro-de-los-servicios-publicos-4522289",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno de De la Espriella busca cambiar los estratos y el cobro de los servicios públicos",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
+      {
+        "titulo": "MinSalud halló eventuales anomalías en $8,4 billones otorgados por contratación directa",
+        "url": "https://www.larepublica.co/economia/minsalud-encontro-posibles-irregularidades-en-8-4-billones-de-contratacion-directa-en-salud-4522414",
+        "fecha_portada": "",
+        "titulo_fuente": "MinSalud encontró posibles irregularidades en $8,4 billones de contratación directa",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
+      {
+        "titulo": "Ecopetrol habría destinado más de US$85 millones a un pozo de gas que resultó improductivo",
+        "url": "https://www.larepublica.co/economia/ecopetrol-habria-invertido-mas-de-us-85-millones-en-un-pozo-de-gas-que-resulto-seco-4522653",
+        "fecha_portada": "11/11/2026",
+        "titulo_fuente": "Ecopetrol habría invertido más de US$85 millones en un pozo de gas que resultó seco",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
+      {
+        "titulo": "Confecoop y el Ejecutivo pretenden potenciar la capacidad productiva de las cooperativas",
+        "url": "https://www.larepublica.co/economia/confecoop-y-gobierno-buscan-fortalecer-la-capacidad-productiva-de-las-cooperativas-4522537",
+        "fecha_portada": "",
+        "titulo_fuente": "Confecoop y Gobierno buscan fortalecer la capacidad productiva de las cooperativas",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
       {
         "titulo": "Aumento del salario mínimo en 12% agregaría 0,8 puntos porcentuales a la inflación",
         "url": "https://www.larepublica.co/economia/alza-del-salario-minimo-de-12-sumaria-0-8-p-p-al-ipc-4522081",
@@ -374,58 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "Viviane Morales fue designada como Consejera Comisionada de Paz del gobierno",
         "capturado": "2026-11-04T13:43:47-05:00"
-      },
-      {
-        "titulo": "Reforma tributaria restaría $969.000 al mes a sueldos de $25 millones",
-        "url": "https://www.larepublica.co/economia/reforma-tributaria-reduciria-en-969-000-mensuales-los-salarios-de-25-millones-4516846",
-        "fecha_portada": "04/11/2026",
-        "titulo_fuente": "Reforma tributaria reduciría en $969.000 mensuales los salarios por $25 millones",
-        "capturado": "2026-11-04T06:18:57-05:00"
-      },
-      {
-        "titulo": "Aranceles, China, IA e Irán son las decisiones en disputa en las midterm de Estados Unidos",
-        "url": "https://www.larepublica.co/globoeconomia/aranceles-china-ia-e-iran-las-decisiones-en-juego-en-las-midterm-de-ee-uu-4517011",
-        "fecha_portada": "",
-        "titulo_fuente": "Aranceles, China, IA e Irán, las decisiones en juego en las 'midterm' de Estados Unidos",
-        "capturado": "2026-11-04T06:18:57-05:00"
-      },
-      {
-        "titulo": "MinHacienda, Miguel Gómez, desmintió haber solicitado hojas de vida a congresistas a cambio de votos",
-        "url": "https://www.larepublica.co/economia/minhacienda-miguel-gomez-nego-que-pidio-hojas-de-vida-a-los-congresistas-por-un-voto-4516733",
-        "fecha_portada": "03/11/2026",
-        "titulo_fuente": "MinHacienda, Miguel Gómez, negó que pidió hojas de vida a los congresistas por votos",
-        "capturado": "2026-11-03T18:33:36-05:00"
-      },
-      {
-        "titulo": "Fenalco planteó modificaciones a la Ley de Rescate que comenzará a debatirse en el Congreso",
-        "url": "https://www.larepublica.co/economia/fenalco-propuso-cambios-en-la-ley-de-rescate-que-se-empezara-a-discutir-en-el-congreso-4517012",
-        "fecha_portada": "03/11/2026",
-        "titulo_fuente": "Fenalco propuso cambios en la Ley de Rescate que se empezará a discutir en el Congreso",
-        "capturado": "2026-11-03T18:33:36-05:00"
-      },
-      {
-        "titulo": "El Gobierno presentó mensaje de urgencia para tramitar la Ley de Rescate Económico",
-        "url": "https://www.larepublica.co/economia/gobierno-radico-mensaje-de-urgencia-para-tramitar-la-ley-de-rescate-economico-4517003",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno radicó mensaje de urgencia para tramitar la Ley de Rescate Económico",
-        "capturado": "2026-11-03T18:33:36-05:00"
-      },
-      {
-        "titulo": "El gobernador de Antioquia planteó un plan de austeridad por $26 billones",
-        "url": "https://www.larepublica.co/economia/gobernador-de-antioquia-propuso-plan-de-austeridad-que-implica-ahorro-por-26-billones-4516791",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobernador de Antioquia propuso plan de austeridad por $26 billones",
-        "capturado": "2026-11-03T18:33:36-05:00"
-      },
-      {
-        "titulo": "Delegación del FMI inicia reuniones mientras el Ejecutivo busca préstamo de US$5.000 millones",
-        "url": "https://www.larepublica.co/economia/mision-del-fmi-inicia-reuniones-mientras-el-gobierno-explora-credito-de-us-5-000-millones-4516695",
-        "fecha_portada": "",
-        "titulo_fuente": "Misión del FMI inicia reuniones mientras el Gobierno explora crédito de US$5.000 millones",
-        "capturado": "2026-11-03T13:29:30-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó a la baja en $3.295,68 con una diferencia de $1,39 respecto a la TRM del día",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-11-de-noviembre-4522342",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró a la baja en $3.295,68 con una diferencia de $1,39 frente a la TRM del día",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
+      {
+        "titulo": "El oro sube luego de una fuerte baja, pero lo frenan los avisos restrictivos de la Fed",
+        "url": "https://www.larepublica.co/finanzas/el-oro-repunta-tras-fuerte-caida-pero-es-lastrado-por-las-senales-restrictivas-de-la-fed-4522558",
+        "fecha_portada": "11/11/2026",
+        "titulo_fuente": "El oro repunta tras fuerte caída, pero es lastrado por las señales restrictivas de la Fed",
+        "capturado": "2026-11-11T13:46:08-05:00"
+      },
       {
         "titulo": "El dólar finalizó al alza en $3.297,33 debido a los datos del IPC de Estados Unidos",
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-10-de-noviembre-de-2026-4521147",
@@ -831,20 +845,6 @@
         "fecha_portada": "22/10/2026",
         "titulo_fuente": "Bolsas caen luego de los resultados de tecnológicas y la subida del barril brent",
         "capturado": "2026-10-22T12:21:35-05:00"
-      },
-      {
-        "titulo": "El dólar se negocia a la baja en $3.186,22, un descenso de $5,25 respecto a la TRM de $3.191,47",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-22-de-octubre-4508460",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cotiza a la baja en $3.186,22, una caída de $5,25 frente a la TRM de $3.191,47",
-        "capturado": "2026-10-22T12:21:35-05:00"
-      },
-      {
-        "titulo": "El oro cayó a su nivel más bajo en más de dos semanas por la subida del crudo brent",
-        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-22-de-octubre-4508399",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro tocó mínimo de más de dos semanas lastrado por repunte del crudo brent",
-        "capturado": "2026-10-22T07:07:58-05:00"
       }
     ]
   }
