@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-10T22:15:32-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-11T06:14:55-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Aumento del salario mínimo en 12% agregaría 0,8 puntos porcentuales a la inflación",
+        "url": "https://www.larepublica.co/economia/alza-del-salario-minimo-de-12-sumaria-0-8-p-p-al-ipc-4522081",
+        "fecha_portada": "",
+        "titulo_fuente": "Alza del salario mínimo de 12% sumaría 0,8 puntos porcentuales a la inflación",
+        "capturado": "2026-11-11T06:14:55-05:00"
+      },
+      {
+        "titulo": "La Unidad de Regulación Financiera evaluará la metodología para calcular la tasa de usura",
+        "url": "https://www.larepublica.co/finanzas/la-urf-revisara-la-metodologia-de-calculo-de-la-usura-en-2027-4521952",
+        "fecha_portada": "11/11/2026",
+        "titulo_fuente": "La Unidad de Regulación Financiera revisará la metodología de cálculo de la tasa de usura",
+        "capturado": "2026-11-11T06:14:55-05:00"
+      },
       {
         "titulo": "Productos y servicios que podrían encarecerse en las semanas iniciales de 2027",
         "url": "https://www.larepublica.co/economia/bienes-y-servicios-que-podrian-subir-de-precio-durante-las-primeras-semanas-de-2027-4521322",
@@ -408,20 +422,6 @@
         "url": "https://www.larepublica.co/economia/mision-del-fmi-inicia-reuniones-mientras-el-gobierno-explora-credito-de-us-5-000-millones-4516695",
         "fecha_portada": "",
         "titulo_fuente": "Misión del FMI inicia reuniones mientras el Gobierno explora crédito de US$5.000 millones",
-        "capturado": "2026-11-03T13:29:30-05:00"
-      },
-      {
-        "titulo": "Aconauto solicitó en carta al MinHacienda reconsiderar el IVA de 19% a vehículos eléctricos",
-        "url": "https://www.larepublica.co/economia/aconauto-insistio-en-una-carta-al-minhacienda-reconsiderar-iva-de-19-a-carros-electricos-4516686",
-        "fecha_portada": "",
-        "titulo_fuente": "Aconauto insistió, en una carta al MinHacienda, reconsiderar IVA de 19% a carros eléctricos",
-        "capturado": "2026-11-03T13:29:30-05:00"
-      },
-      {
-        "titulo": "Chaparral ha contabilizado más de 1.100 temblores superiores a 2,0 grados en el último mes",
-        "url": "https://www.larepublica.co/economia/chaparral-ha-registrado-mas-de-1-100-sismos-de-mas-de-2-0-grados-en-el-ultimo-mes-4516427",
-        "fecha_portada": "03/11/2026",
-        "titulo_fuente": "Chaparral ha registrado más de 1.100 sismos de más de 2,0 grados en el último mes",
         "capturado": "2026-11-03T13:29:30-05:00"
       }
     ],
