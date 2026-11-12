@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-12T03:27:06-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-12T11:56:27-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Consejo Gremial dialogará hoy con el Ministerio de Hacienda sobre la Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/consejo-gremial-se-reunira-hoy-con-minhacienda-para-discutir-la-ley-de-rescate-4523354",
+        "fecha_portada": "",
+        "titulo_fuente": "Consejo Gremial se reunirá hoy con Ministerio de Hacienda para discutir sobre la Ley de Rescate",
+        "capturado": "2026-11-12T11:56:27-05:00"
+      },
+      {
+        "titulo": "El Gobierno pactó incrementar la cifra de ponentes del proyecto de Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/gobierno-acordo-ampliar-el-numero-de-ponentes-del-proyecto-de-ley-de-rescate-4521676",
+        "fecha_portada": "10/11/2026",
+        "titulo_fuente": "Gobierno acordó ampliar el número de ponentes del proyecto de Ley de Rescate",
+        "capturado": "2026-11-12T11:56:27-05:00"
+      },
+      {
+        "titulo": "María Consuelo Araújo habló con Gregory Meeks para restablecer las conversaciones con demócratas",
+        "url": "https://www.larepublica.co/economia/embajadora-de-colombia-se-reunio-con-gregory-meeks-para-recomponer-dialogo-con-democratas-de-ee-uu-4523380",
+        "fecha_portada": "12/11/2026",
+        "titulo_fuente": "María Consuelo Araújo se reunió con Gregory Meeks para recomponer el diálogo con demócratas",
+        "capturado": "2026-11-12T11:56:27-05:00"
+      },
+      {
+        "titulo": "Déficit de empleados en el Metro de Bogotá podría provocar un gasto de US$10 millones",
+        "url": "https://www.larepublica.co/economia/falta-de-personal-en-el-metro-de-bogota-podria-generar-un-gasto-de-us-10-millones-4523174",
+        "fecha_portada": "",
+        "titulo_fuente": "Falta de personal en el Metro de Bogotá podría generar un gasto de US$10 millones",
+        "capturado": "2026-11-12T11:56:27-05:00"
+      },
       {
         "titulo": "Por la Ley de Rescate, el auto eléctrico más vendido del mercado se encarecería $17 millones",
         "url": "https://www.larepublica.co/economia/con-la-ley-de-rescate-el-carro-electrico-mas-vendido-del-mercado-subiria-17-millones-4522353",
@@ -395,37 +423,30 @@
         "fecha_portada": "05/11/2026",
         "titulo_fuente": "Tasa de interés se mantuvo inalterada debido a que la inflación está lejos de la meta",
         "capturado": "2026-11-05T19:59:08-05:00"
-      },
-      {
-        "titulo": "Fedesarrollo apoya la Ley de Rescate y pide acuerdo en el Congreso",
-        "url": "https://www.larepublica.co/economia/fedesarrollo-respalda-la-ley-de-rescate-y-hace-un-llamado-al-consenso-en-el-congreso-4518464",
-        "fecha_portada": "",
-        "titulo_fuente": "Fedesarrollo respalda la Ley de Rescate y hace un llamado al consenso en el Congreso",
-        "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "Las amplias facultades que daría la Ley de Rescate Económico al Confis en el PGN",
-        "url": "https://www.larepublica.co/economia/estos-son-los-superpoderesque-otorgaria-la-ley-de-rescate-economico-al-confis-4518080",
-        "fecha_portada": "05/11/2026",
-        "titulo_fuente": "Estos son los superpoderes que otorgaría la Ley de Rescate Económico al Confis en el PGN",
-        "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "Únicamente la aprobación total de la Ley de Rescate retornaría el superávit primario en 2030",
-        "url": "https://www.larepublica.co/economia/solo-la-aprobacion-completa-de-la-ley-de-rescate-devolveria-el-superavit-primario-en-2030-4518173",
-        "fecha_portada": "05/11/2026",
-        "titulo_fuente": "Solo la aprobación completa de la Ley de Rescate devolvería el superávit primario en 2030",
-        "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "La Contraloría alertó por $10,18 billones que faltan por legalizar en el Minsalud",
-        "url": "https://www.larepublica.co/economia/contraloria-emitio-advertencia-por-10-18-billones-pendientes-por-legalizar-en-el-minsalud-4518142",
-        "fecha_portada": "05/11/2026",
-        "titulo_fuente": "Contraloría emitió advertencia por $10,18 billones pendientes por legalizar en el Minsalud",
-        "capturado": "2026-11-05T15:22:36-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar se negocia en $3.290,41, $6,66 menos que la TRM del día, fijada en $3.297,07",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-12-de-noviembre-4523172",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar se cotiza en $3.290,41, $6,66 por debajo de la TRM del día, que se ubicó en $3.297,07",
+        "capturado": "2026-11-12T11:56:27-05:00"
+      },
+      {
+        "titulo": "S&P 500 y Nasdaq caen tras la renuncia del CEO de Nvidia y el remezón en el sector IA",
+        "url": "https://www.larepublica.co/globoeconomia/acciones-caen-mientras-nvidia-se-hunde-6-8-ante-la-crisis-con-su-ceo-4523162",
+        "fecha_portada": "12/11/2026",
+        "titulo_fuente": "S&P 500 y Nasdaq retroceden tras salida del CEO de Nvidia y sacudida al sector IA",
+        "capturado": "2026-11-12T11:56:27-05:00"
+      },
+      {
+        "titulo": "Bitcoin baja de US$73.000 debido a la crisis de Nvidia que golpea el apetito al riesgo",
+        "url": "https://www.larepublica.co/globoeconomia/bitcoin-cae-abajo-de-us-73-000-por-crisis-de-nvidia-que-afecta-apetito-al-riesgo-4523196",
+        "fecha_portada": "",
+        "titulo_fuente": "Bitcoin cae por debajo de US$73.000 por crisis de Nvidia que afecta apetito al riesgo",
+        "capturado": "2026-11-12T11:56:27-05:00"
+      },
       {
         "titulo": "El dólar finalizó a la baja en $3.295,68 con una diferencia de $1,39 respecto a la TRM del día",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-11-de-noviembre-4522342",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Acción del Grupo Nutresa ha crecido más de 236% desde que Gilinski asumió la presidencia",
         "capturado": "2026-10-23T12:31:32-05:00"
-      },
-      {
-        "titulo": "El descenso de las tecnológicas se atenúa, pero el valor del petróleo restringe el alivio",
-        "url": "https://www.larepublica.co/globoeconomia/la-caida-de-tecnologicas-se-modera-pero-el-precio-del-petroleo-limita-el-alivio-4509638",
-        "fecha_portada": "23/10/2026",
-        "titulo_fuente": "La caída de tecnológicas se modera, pero el precio del petróleo limita el alivio",
-        "capturado": "2026-10-23T12:31:32-05:00"
-      },
-      {
-        "titulo": "El oro está cerca de US$4.000 la onza luego de un bajón marcado en una semana agitada",
-        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-23-de-octubre-4509395",
-        "fecha_portada": "23/10/2026",
-        "titulo_fuente": "El oro ronda US$4.000 la onza tras una fuerte caída en medio de una semana turbulenta",
-        "capturado": "2026-10-23T07:53:24-05:00"
-      },
-      {
-        "titulo": "Mercados descienden tras reportes de las tecnológicas e incremento del barril brent",
-        "url": "https://www.larepublica.co/globoeconomia/las-bolsas-caen-por-resultados-de-tecnologicas-y-la-subida-del-petroleo-4508665",
-        "fecha_portada": "22/10/2026",
-        "titulo_fuente": "Bolsas caen luego de los resultados de tecnológicas y la subida del barril brent",
-        "capturado": "2026-10-22T12:21:35-05:00"
       }
     ]
   }
