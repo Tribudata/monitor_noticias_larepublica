@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-11T20:05:41-05:00",
+  "actualizado": "2026-11-12T03:27:06-05:00",
   "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Por la Ley de Rescate, el auto eléctrico más vendido del mercado se encarecería $17 millones",
+        "url": "https://www.larepublica.co/economia/con-la-ley-de-rescate-el-carro-electrico-mas-vendido-del-mercado-subiria-17-millones-4522353",
+        "fecha_portada": "",
+        "titulo_fuente": "Con la Ley de Rescate, el carro eléctrico más vendido del mercado subiría $17 millones",
+        "capturado": "2026-11-12T03:27:06-05:00"
+      },
+      {
+        "titulo": "El incremento de precios en alimentos tocó su pico en tres años al registrar 7,31% en octubre",
+        "url": "https://www.larepublica.co/economia/la-inflacion-de-alimentos-llego-al-nivel-mas-alto-en-tres-anos-y-alcanzo-7-31-4522810",
+        "fecha_portada": "",
+        "titulo_fuente": "La inflación de alimentos llegó al nivel más alto en tres años y alcanzó 7,31% en octubre",
+        "capturado": "2026-11-12T03:27:06-05:00"
+      },
+      {
+        "titulo": "El Gobierno nacional empieza alistamientos para discutir el salario mínimo",
+        "url": "https://www.larepublica.co/economia/gobierno-nacional-inicia-preparativos-para-la-negociacion-del-salario-minimo-4523105",
+        "fecha_portada": "11/11/2026",
+        "titulo_fuente": "Gobierno nacional inicia preparativos para la negociación del salario mínimo",
+        "capturado": "2026-11-12T03:27:06-05:00"
+      },
+      {
+        "titulo": "Pauta inteligente para gestionar la prima de diciembre entre celebraciones y deudas",
+        "url": "https://www.larepublica.co/finanzas-personales/entre-la-fiesta-y-las-deudas-guia-inteligente-para-administrar-la-prima-de-diciembre-4522802",
+        "fecha_portada": "12/11/2026",
+        "titulo_fuente": "Entre la fiesta y las deudas, guía inteligente para administrar la prima de diciembre",
+        "capturado": "2026-11-12T03:27:06-05:00"
+      },
       {
         "titulo": "Días decisivos para establecer el monto del salario mínimo de 2027",
         "url": "https://www.larepublica.co/economia/las-fechas-clave-para-definir-en-cuanto-se-ubicara-el-salario-minimo-para-2027-4522627",
@@ -395,34 +423,6 @@
         "fecha_portada": "05/11/2026",
         "titulo_fuente": "Contraloría emitió advertencia por $10,18 billones pendientes por legalizar en el Minsalud",
         "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "Colombia es cuarta en América Latina en la gestión de los ahorros pensionales",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-cuarta-en-america-latina-en-administracion-de-ahorros-pensionales-4517908",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia, cuarta en América Latina en la administración de los ahorros pensionales",
-        "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "Grupo técnico del Banco de la República proyecta más inflación y menor avance económico",
-        "url": "https://www.larepublica.co/economia/equipo-tecnico-de-banco-central-de-colombia-ve-mayor-inflacion-y-menor-crecimiento-economico-este-y-el-proximo-ano-4517960",
-        "fecha_portada": "04/11/2026",
-        "titulo_fuente": "Equipo del Banco de la República ve mayor inflación y menor crecimiento económico",
-        "capturado": "2026-11-04T23:59:40-05:00"
-      },
-      {
-        "titulo": "Superó el primer debate el presupuesto de regalías para el bienio 2027-2028",
-        "url": "https://www.larepublica.co/economia/fue-aprobado-en-primer-debate-el-presupuesto-de-regalias-para-el-bienio-2027-2028-4517637",
-        "fecha_portada": "",
-        "titulo_fuente": "Fue aprobado en primer debate el presupuesto de regalías para el bienio 2027-2028",
-        "capturado": "2026-11-04T18:58:56-05:00"
-      },
-      {
-        "titulo": "En primer debate las Comisiones Económicas avalaron la adición al Presupuesto de 2026",
-        "url": "https://www.larepublica.co/economia/comisiones-economicas-aprobaron-en-primer-debate-adicion-el-presupuesto-de-2026-4517651",
-        "fecha_portada": "",
-        "titulo_fuente": "Comisiones Económicas aprobaron en primer debate adición al Presupuesto de 2026",
-        "capturado": "2026-11-04T18:58:56-05:00"
       }
     ],
     "Bolsas": [
