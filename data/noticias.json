@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-11T13:46:08-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-11T20:05:41-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Días decisivos para establecer el monto del salario mínimo de 2027",
+        "url": "https://www.larepublica.co/economia/las-fechas-clave-para-definir-en-cuanto-se-ubicara-el-salario-minimo-para-2027-4522627",
+        "fecha_portada": "",
+        "titulo_fuente": "Las fechas clave para definir en cuánto se ubicará el salario mínimo para 2027",
+        "capturado": "2026-11-11T20:05:41-05:00"
+      },
+      {
+        "titulo": "MinHacienda proyecta que pago de deuda tomaría 45% de ingresos en 2030",
+        "url": "https://www.larepublica.co/economia/el-ministerio-de-hacienda-advierte-que-sin-gasto-publico-la-economia-creceria-apenas-1-4522683",
+        "fecha_portada": "11/11/2026",
+        "titulo_fuente": "MinHacienda estima que el servicio de la deuda absorbería 45% de ingresos en 2030",
+        "capturado": "2026-11-11T20:05:41-05:00"
+      },
+      {
+        "titulo": "Deuda externa equivale al 50% del PIB nacional y llegó a US$254.000 millones en agosto",
+        "url": "https://www.larepublica.co/economia/la-deuda-externa-representa-50-del-pib-nacional-alcanzo-us-254-000-millones-en-agosto-4522792",
+        "fecha_portada": "",
+        "titulo_fuente": "La deuda externa representa 50% del PIB nacional, alcanzó US$254.000 millones en agosto",
+        "capturado": "2026-11-11T20:05:41-05:00"
+      },
+      {
+        "titulo": "Asoblockchain solicita retirar gravamen a criptomonedas en Ley de Financiamiento",
+        "url": "https://www.larepublica.co/finanzas/asoblockchain-pide-eliminar-impuesto-de-5-a-criptomonedas-de-ley-de-financiamiento-4522687",
+        "fecha_portada": "11/11/2026",
+        "titulo_fuente": "Asoblockchain pide eliminar impuesto a criptomonedas de Ley de Financiamiento",
+        "capturado": "2026-11-11T20:05:41-05:00"
+      },
       {
         "titulo": "El Ejecutivo respaldó el recorte fiscal y alertó por el costo de los intereses de la deuda",
         "url": "https://www.larepublica.co/economia/gobierno-defendio-ajuste-fiscal-y-advirtio-sobre-el-peso-de-los-intereses-de-la-deuda-4522524",
@@ -395,34 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Comisiones Económicas aprobaron en primer debate adición al Presupuesto de 2026",
         "capturado": "2026-11-04T18:58:56-05:00"
-      },
-      {
-        "titulo": "Ley de Rescate prevé ahorros por $44,6 billones tras recortes a contratistas y nómina",
-        "url": "https://www.larepublica.co/economia/ley-de-rescate-plantea-ahorros-de-44-6-billones-con-recortes-a-contratistas-y-nomina-4517259",
-        "fecha_portada": "",
-        "titulo_fuente": "Ley de Rescate plantea ahorros de $44,6 billones por los recortes a contratistas y nómina",
-        "capturado": "2026-11-04T13:43:47-05:00"
-      },
-      {
-        "titulo": "De la Espriella posesionó de manera oficial a Alejandro Ordoñez como minInterior",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-posesiono-oficialmente-a-alejandro-ordonez-como-ministro-del-interior-4517558",
-        "fecha_portada": "04/11/2026",
-        "titulo_fuente": "De la Espriella posesionó oficialmente a Alejandro Ordoñez como minInterior",
-        "capturado": "2026-11-04T13:43:47-05:00"
-      },
-      {
-        "titulo": "Emisor hizo su cuarta subasta para la compra de dólares por US$399,8 millones",
-        "url": "https://www.larepublica.co/economia/emisor-lanzo-cuarta-subasta-de-compra-de-dolares-por-us-399-8-millones-4517606",
-        "fecha_portada": "04/11/2026",
-        "titulo_fuente": "Emisor lanzó cuarta subasta de compra de dólares por US$399,8 millones",
-        "capturado": "2026-11-04T13:43:47-05:00"
-      },
-      {
-        "titulo": "Viviane Morales fue nombrada Consejera Comisionada de Paz por el gobierno",
-        "url": "https://www.larepublica.co/economia/viviane-morales-fue-designada-como-consejera-comisionada-de-paz-4517578",
-        "fecha_portada": "",
-        "titulo_fuente": "Viviane Morales fue designada como Consejera Comisionada de Paz del gobierno",
-        "capturado": "2026-11-04T13:43:47-05:00"
       }
     ],
     "Bolsas": [
