@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-13T05:08:45-05:00",
+  "actualizado": "2026-11-13T12:54:29-05:00",
   "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "¿Quién es el empresario Jaime Andrés Uribe Tamayo, hoy gerente del Fondo Milagro?",
+        "url": "https://www.larepublica.co/economia/quien-es-jaime-andres-uribe-tamayo-gerente-del-fondo-milagro-4524050",
+        "fecha_portada": "",
+        "titulo_fuente": "¿Quién es Jaime Andrés Uribe Tamayo, actual gerente del Fondo Milagro y empresario?",
+        "capturado": "2026-11-13T12:54:29-05:00"
+      },
+      {
+        "titulo": "La nómina del Fondo Milagro registraba 27 puestos, 19 con pagos superiores a $33 millones",
+        "url": "https://www.larepublica.co/economia/nomina-del-fondo-milagro-incluia-27-cargos-mas-de-la-mitad-con-pagos-de-mas-30-millones-4524067",
+        "fecha_portada": "",
+        "titulo_fuente": "Nómina del Fondo Milagro incluía 27 cargos, 19 con pagos de más $33 millones",
+        "capturado": "2026-11-13T12:54:29-05:00"
+      },
+      {
+        "titulo": "Colombia ocupa el sexto lugar entre 10 economías de América Latina con mayor riesgo para invertir",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-sexto-pais-con-el-mayor-riesgo-de-inversion-en-america-latina-4524171",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "Colombia es sexta entre 10 economías con el mayor riesgo de inversión en América Latina",
+        "capturado": "2026-11-13T12:54:29-05:00"
+      },
+      {
+        "titulo": "El Icdt expuso propuestas sobre la extensión de la base gravable del IVA",
+        "url": "https://www.larepublica.co/economia/icdt-presento-propuestas-en-relacion-con-la-ampliacion-de-la-base-gravable-del-iva-4524449",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "Icdt presentó propuestas en relación con la ampliación de la base gravable del IVA",
+        "capturado": "2026-11-13T12:54:29-05:00"
+      },
       {
         "titulo": "Las bases macroeconómicas al comienzo del mandato De la Espriella",
         "url": "https://www.larepublica.co/especiales/economia-en-100-dias/los-fundamentales-macroeconomicos-del-inicio-de-gobierno-de-la-espriella-4523807",
@@ -395,37 +423,37 @@
         "fecha_portada": "07/11/2026",
         "titulo_fuente": "Ley de Rescate tiene seis semanas para pasar sin sesiones extraordinarias",
         "capturado": "2026-11-07T01:39:49-05:00"
-      },
-      {
-        "titulo": "El sector financiero prevé que la inflación subirá de 6,29% a 6,38% en este octubre",
-        "url": "https://www.larepublica.co/economia/mercado-financiero-anticipa-que-la-inflacion-repuntara-de-6-29-hasta-6-38-en-octubre-4519489",
-        "fecha_portada": "",
-        "titulo_fuente": "Mercado financiero anticipa que la inflación repuntará de 6,29% hasta 6,38% en este octubre",
-        "capturado": "2026-11-07T01:39:49-05:00"
-      },
-      {
-        "titulo": "Abriremos licitación de entre $12 y $14 billones para modernizar el esquema de aseo",
-        "url": "https://www.larepublica.co/economia/inside-lr-con-armando-ojeda-acosta-director-de-la-uaeps-sobre-el-modelo-de-aseo-en-bogota-4518544",
-        "fecha_portada": "",
-        "titulo_fuente": "“Lanzaremos licitación de entre $12 y $14 billones para actualizar el modelo de aseo”",
-        "capturado": "2026-11-07T01:39:49-05:00"
-      },
-      {
-        "titulo": "Ungrd diseñó 70 proyectos por $8,68 billones para la recuperación de ocho departamentos",
-        "url": "https://www.larepublica.co/economia/ungrd-estructuro-70-proyectos-por-8-68-billones-para-recuperar-ocho-departamentos-4519198",
-        "fecha_portada": "",
-        "titulo_fuente": "Ungrd estructuró 70 proyectos por $8,68 billones para recuperar ocho departamentos",
-        "capturado": "2026-11-06T15:57:45-05:00"
-      },
-      {
-        "titulo": "La Contraloría identificó hallazgos fiscales por $61.273 millones en obras de Aerocafé",
-        "url": "https://www.larepublica.co/economia/contraloria-encontro-hallazgos-fiscales-por-61-273-millones-en-las-obras-de-aerocafe-4519330",
-        "fecha_portada": "06/11/2026",
-        "titulo_fuente": "Contraloría encontró hallazgos fiscales por $61.273 millones en las obras de Aerocafé",
-        "capturado": "2026-11-06T15:57:45-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Aunque la ganancia de Ecopetrol aumentó, su título baja en la Bolsa de Colombia",
+        "url": "https://www.larepublica.co/finanzas/a-pesar-de-crecimiento-de-la-utilidad-de-ecopetrol-su-accion-cae-en-la-bolsa-de-colombia-4524386",
+        "fecha_portada": "",
+        "titulo_fuente": "A pesar de crecimiento de la utilidad de Ecopetrol, su acción cae en la Bolsa de Colombia",
+        "capturado": "2026-11-13T12:54:29-05:00"
+      },
+      {
+        "titulo": "La cotización del dólar sube $11,67 por la apreciación de los bonos del Tesoro de EE.UU.",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-13-de-noviembre-4524070",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del dólar cotiza $11,67 al alza por la revalorización de los bonos del Tesoro de EE.UU.",
+        "capturado": "2026-11-13T12:54:29-05:00"
+      },
+      {
+        "titulo": "Wall Street baja por una ola de ventas en firmas tecnológicas y productoras de chips",
+        "url": "https://www.larepublica.co/globoeconomia/wall-street-cae-por-cuenta-de-oleada-de-ventas-en-fabricantes-de-chips-4524354",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "Wall Street cae ante oleada de ventas en tecnológicas y fabricantes de chips",
+        "capturado": "2026-11-13T12:54:29-05:00"
+      },
+      {
+        "titulo": "El oro subió 0,7%, a US$3.903,19 por onza, luego de pérdidas del 4% en la semana",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-13-de-noviembre-4524049",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "El oro repuntó 0,7%, hasta US$3.903,19 por onza, tras pérdidas semanales de 4%",
+        "capturado": "2026-11-13T12:54:29-05:00"
+      },
       {
         "titulo": "Contamos con US$1 billón en capitalización bursátil de emisores latinoamericanos",
         "url": "https://www.larepublica.co/finanzas/michael-harris-vice-chairman-and-global-head-of-capital-markets-at-the-new-york-stock-exchange-4523335",
@@ -817,34 +845,6 @@
         "fecha_portada": "26/10/2026",
         "titulo_fuente": "Las acciones suben antes de resultados de tecnológicas, mientras que el petróleo cae",
         "capturado": "2026-10-26T14:25:35-05:00"
-      },
-      {
-        "titulo": "El dólar inicia la sesión $10 abajo y pierde fuerza por el descenso del petróleo y los bonos de EE.UU.",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-26-de-octubre-de-2026-4511039",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar abre la jornada $10 a la baja y pierde impulso por caída del petróleo y bonos de EE.UU.",
-        "capturado": "2026-10-26T08:24:42-05:00"
-      },
-      {
-        "titulo": "El oro aumenta por el descenso del crudo, lo que calma algunas inquietudes sobre la inflación",
-        "url": "https://www.larepublica.co/finanzas/el-oro-sube-por-caida-del-petroleo-que-alivia-algunas-preocupaciones-sobre-inflacion-4510918",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro sube por caída del petróleo, que alivia algunas preocupaciones sobre inflación",
-        "capturado": "2026-10-26T08:24:42-05:00"
-      },
-      {
-        "titulo": "Las transacciones de dólares digitales sumaron US$3.500 millones en tres meses",
-        "url": "https://www.larepublica.co/finanzas/los-dolares-digitales-han-registrado-movimientos-por-us-3-500-millones-en-tres-meses-4509705",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Los dólares digitales registraron movimientos por US$3.500 millones en tres meses",
-        "capturado": "2026-10-26T01:28:21-05:00"
-      },
-      {
-        "titulo": "Adelante sus adquisiciones de Navidad usando el valor más bajo que marca el dólar",
-        "url": "https://www.larepublica.co/finanzas/anticipese-a-las-compras-que-hara-en-navidad-aprovechando-el-minimo-que-registra-el-dolar-4510018",
-        "fecha_portada": "",
-        "titulo_fuente": "Anticípese a las compras que hará en Navidad aprovechando el mínimo que registra el dólar",
-        "capturado": "2026-10-24T02:26:00-05:00"
       }
     ]
   }
