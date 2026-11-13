@@ -1,9 +1,58 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-12T21:46:42-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-13T05:08:45-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Las bases macroeconómicas al comienzo del mandato De la Espriella",
+        "url": "https://www.larepublica.co/especiales/economia-en-100-dias/los-fundamentales-macroeconomicos-del-inicio-de-gobierno-de-la-espriella-4523807",
+        "fecha_portada": "",
+        "titulo_fuente": "Los fundamentales macroeconómicos en el inicio del gobierno De la Espriella",
+        "capturado": "2026-11-13T05:08:45-05:00"
+      },
+      {
+        "titulo": "El sueldo mínimo de 2027 se incrementaría entre $150.000 y $670.000, de acuerdo con analistas",
+        "url": "https://www.larepublica.co/economia/cuanto-va-a-subir-el-salario-minimo-para-2027-segun-analistas-y-expertos-4523721",
+        "fecha_portada": "",
+        "titulo_fuente": "El salario mínimo para 2027 podría subir entre $150.000 y $670.000, según expertos",
+        "capturado": "2026-11-13T05:08:45-05:00"
+      },
+      {
+        "titulo": "¿Quién debe asumir los gastos con la Ley de Rescate Fiscal y el alza tributaria?",
+        "url": "https://www.larepublica.co/especiales/economia-en-100-dias/quien-paga-las-cuentas-con-la-ley-de-rescate-fiscal-y-el-aumento-tributario-4523651",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "¿A quién le toca pagar las cuentas con la Ley de Rescate Fiscal y el aumento tributario?",
+        "capturado": "2026-11-13T05:08:45-05:00"
+      },
+      {
+        "titulo": "Los servidores públicos que dejaron su puesto pocas semanas después de ser nombrados",
+        "url": "https://www.larepublica.co/especiales/economia-en-100-dias/los-funcionarios-que-salieron-del-cargo-a-pocas-semanas-del-nombramiento-4524000",
+        "fecha_portada": "",
+        "titulo_fuente": "Los funcionarios que salieron del cargo a pocas semanas de su nombramiento",
+        "capturado": "2026-11-13T05:08:45-05:00"
+      },
+      {
+        "titulo": "La reconstrucción luego del sismo valdría $54 billones y pone a prueba al Gobierno",
+        "url": "https://www.larepublica.co/especiales/economia-en-100-dias/la-reconstruccion-tras-el-terremoto-costaria-54-billones-y-pone-a-prueba-al-gobierno-de-de-la-espriella-4523797",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "Reconstrucción tras terremoto costaría $54 billones y pone a prueba al Gobierno",
+        "capturado": "2026-11-13T05:08:45-05:00"
+      },
+      {
+        "titulo": "El Presupuesto General por decreto alcanza la cifra histórica de $634,9 billones",
+        "url": "https://www.larepublica.co/especiales/economia-en-100-dias/presupuesto-general-via-decreto-y-un-monto-historico-de-634-9-billones-4523970",
+        "fecha_portada": "",
+        "titulo_fuente": "Presupuesto General vía decreto y un monto histórico de $634,9 billones",
+        "capturado": "2026-11-13T05:08:45-05:00"
+      },
+      {
+        "titulo": "El director del DNP confirmó la aprobación de los cimientos del Plan Nacional de Desarrollo",
+        "url": "https://www.larepublica.co/economia/director-del-dnp-confirmo-aprobacion-de-las-bases-del-plan-nacional-de-desarrollo-4523434",
+        "fecha_portada": "12/11/2026",
+        "titulo_fuente": "Director del DNP confirmó aprobación de las bases del Plan Nacional de Desarrollo",
+        "capturado": "2026-11-13T05:08:45-05:00"
+      },
       {
         "titulo": "Consejo Gremial dialogará hoy con el Ministerio de Hacienda sobre la Ley de Rescate",
         "url": "https://www.larepublica.co/economia/consejo-gremial-se-reunira-hoy-con-minhacienda-para-discutir-la-ley-de-rescate-4523354",
@@ -374,58 +423,16 @@
         "fecha_portada": "06/11/2026",
         "titulo_fuente": "Contraloría encontró hallazgos fiscales por $61.273 millones en las obras de Aerocafé",
         "capturado": "2026-11-06T15:57:45-05:00"
-      },
-      {
-        "titulo": "¿Quiénes se favorecerán con el Régimen Único para Generar Estabilidad Empresarial?",
-        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/como-funcionara-el-regimen-unico-para-generar-estabilidad-empresarial-asi-funcionara-4518899",
-        "fecha_portada": "06/11/2026",
-        "titulo_fuente": "¿A quién beneficiará el régimen Régimen Único para Generar Estabilidad Empresarial?",
-        "capturado": "2026-11-06T02:38:30-05:00"
-      },
-      {
-        "titulo": "Tributo al patrimonio iniciaría en montos líquidos de $5.002 millones entre 2027 y 2030",
-        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/el-impuesto-al-patrimonio-partiria-de-valores-liquidos-de-5-002-millones-de-2027-a-2030-4518876",
-        "fecha_portada": "",
-        "titulo_fuente": "El impuesto al patrimonio partiría de valores líquidos de $5.002 millones de 2027 a 2030",
-        "capturado": "2026-11-06T02:38:30-05:00"
-      },
-      {
-        "titulo": "Emisor incrementó su pronóstico de inflación y calcula que terminará el año en 7,1%",
-        "url": "https://www.larepublica.co/economia/emisor-actualizo-al-alza-su-proyeccion-de-inflacion-y-preve-que-cerrara-el-ano-en-7-1-4518800",
-        "fecha_portada": "",
-        "titulo_fuente": "Emisor actualizó al alza su proyección de inflación y prevé que cerrará el año en 7,1%",
-        "capturado": "2026-11-06T02:38:30-05:00"
-      },
-      {
-        "titulo": "De este modo quedan las deducciones para afiliados a planes de medicina prepagada",
-        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/asi-quedan-las-deducciones-aplicables-para-los-afiliados-a-medicina-prepagada-4518289",
-        "fecha_portada": "06/11/2026",
-        "titulo_fuente": "Así quedan las deducciones aplicables para los afiliados a planes de medicina prepagada",
-        "capturado": "2026-11-06T02:38:30-05:00"
-      },
-      {
-        "titulo": "Modificación con Ley de Rescate Económico equivaldría a 4,73% del Producto Interno Bruto",
-        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/ajuste-fiscal-a-2030-con-el-proyecto-seria-de-4-73-del-pib-4518793",
-        "fecha_portada": "06/11/2026",
-        "titulo_fuente": "Ajuste con Ley de Rescate Económico sería de 4,73% del Producto Interno Bruto",
-        "capturado": "2026-11-06T02:38:30-05:00"
-      },
-      {
-        "titulo": "Cambios al IVA alcanzarán un promedio de $25 billones por año entre 2028 y 2030",
-        "url": "https://www.larepublica.co/especiales/la-ley-de-rescate/ajustes-al-iva-sumaran-en-promedio-25-billones-anuales-entre-2028-y-2030-4518845",
-        "fecha_portada": "",
-        "titulo_fuente": "Ajustes al IVA sumarán en promedio $25 billones anuales entre 2028 y 2030",
-        "capturado": "2026-11-06T02:38:30-05:00"
-      },
-      {
-        "titulo": "La tasa de interés continuó sin cambios ya que la inflación sigue distante de la meta",
-        "url": "https://www.larepublica.co/economia/tasa-de-interes-se-mantuvo-inalterada-debido-a-que-la-inflacion-esta-lejos-de-la-meta-4518827",
-        "fecha_portada": "05/11/2026",
-        "titulo_fuente": "Tasa de interés se mantuvo inalterada debido a que la inflación está lejos de la meta",
-        "capturado": "2026-11-05T19:59:08-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Contamos con US$1 billón en capitalización bursátil de emisores latinoamericanos",
+        "url": "https://www.larepublica.co/finanzas/michael-harris-vice-chairman-and-global-head-of-capital-markets-at-the-new-york-stock-exchange-4523335",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "“Tenemos US$1 billón en capitalización bursátil de emisores de Latinoamérica”",
+        "capturado": "2026-11-13T05:08:45-05:00"
+      },
       {
         "titulo": "J.P. Morgan Asset Management introdujo 15 ETF activos en el Mercado Global Colombiano",
         "url": "https://www.larepublica.co/finanzas/j-p-morgan-asset-management-lanzo-15-etf-activos-en-el-mercado-global-colombiano-4523466",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Anticípese a las compras que hará en Navidad aprovechando el mínimo que registra el dólar",
         "capturado": "2026-10-24T02:26:00-05:00"
-      },
-      {
-        "titulo": "El dólar cae $23,09 en su cotización, al tiempo que el petróleo sube",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-octubre-4509419",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar cotiza a la baja, con una caída de $23,09, mientras el petróleo repunta",
-        "capturado": "2026-10-23T12:31:32-05:00"
       }
     ]
   }
