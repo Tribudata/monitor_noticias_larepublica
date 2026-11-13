@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-12T17:29:21-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-12T21:46:42-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,13 @@
     ],
     "Bolsas": [
       {
+        "titulo": "J.P. Morgan Asset Management introdujo 15 ETF activos en el Mercado Global Colombiano",
+        "url": "https://www.larepublica.co/finanzas/j-p-morgan-asset-management-lanzo-15-etf-activos-en-el-mercado-global-colombiano-4523466",
+        "fecha_portada": "",
+        "titulo_fuente": "J.P. Morgan Asset Management lanzó 15 ETF activos en el Mercado Global Colombiano",
+        "capturado": "2026-11-12T21:46:42-05:00"
+      },
+      {
         "titulo": "El dólar se negocia en $3.290,41, $6,66 menos que la TRM del día, fijada en $3.297,07",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-12-de-noviembre-4523172",
         "fecha_portada": "",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-octubre-4509419",
         "fecha_portada": "",
         "titulo_fuente": "Dólar cotiza a la baja, con una caída de $23,09, mientras el petróleo repunta",
-        "capturado": "2026-10-23T12:31:32-05:00"
-      },
-      {
-        "titulo": "El título del Grupo Nutresa se ha elevado más de 236% desde que Gilinski tomó la presidencia",
-        "url": "https://www.larepublica.co/finanzas/accion-de-nutresa-tras-la-compra-de-presto-4509523",
-        "fecha_portada": "",
-        "titulo_fuente": "Acción del Grupo Nutresa ha crecido más de 236% desde que Gilinski asumió la presidencia",
         "capturado": "2026-10-23T12:31:32-05:00"
       }
     ]
