@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-13T12:54:29-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-13T17:56:34-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Jaime Andrés Uribe dimitió a la gerencia del Fondo Milagro luego de controversia por sueldos",
+        "url": "https://www.larepublica.co/economia/jaime-uribe-renuncio-como-gerente-del-fondo-milagro-tras-polemica-por-salarios-4524532",
+        "fecha_portada": "",
+        "titulo_fuente": "Jaime Andrés Uribe renunció como gerente del Fondo Milagro tras polémica por salarios",
+        "capturado": "2026-11-13T17:56:34-05:00"
+      },
+      {
+        "titulo": "El DNP suministró el documento de las Bases del PND 2026-2030 al Consejo Nacional de Planeación",
+        "url": "https://www.larepublica.co/economia/dnp-entrego-el-libro-de-las-bases-del-pnd-2026-2030-al-consejo-nacional-de-planeacion-4524573",
+        "fecha_portada": "",
+        "titulo_fuente": "DNP entregó el libro de las Bases del PND 2026-2030 al Consejo Nacional de Planeación",
+        "capturado": "2026-11-13T17:56:34-05:00"
+      },
+      {
+        "titulo": "Ministerio de Hacienda sostuvo un encuentro con el Banco Mundial para conversar de tributaria",
+        "url": "https://www.larepublica.co/economia/reunion-entre-el-ministerio-de-hacienda-y-banco-mundial-sobre-la-reforma-tributaria-4524524",
+        "fecha_portada": "",
+        "titulo_fuente": "Ministerio de Hacienda se reunió con el Banco Mundial para hablar de tributaria",
+        "capturado": "2026-11-13T17:56:34-05:00"
+      },
       {
         "titulo": "¿Quién es el empresario Jaime Andrés Uribe Tamayo, hoy gerente del Fondo Milagro?",
         "url": "https://www.larepublica.co/economia/quien-es-jaime-andres-uribe-tamayo-gerente-del-fondo-milagro-4524050",
@@ -402,30 +423,16 @@
         "fecha_portada": "07/11/2026",
         "titulo_fuente": "Recorte del gasto no alcanzaría 30% del ajuste previsto en la Ley de Rescate del Gobierno",
         "capturado": "2026-11-07T17:04:51-05:00"
-      },
-      {
-        "titulo": "Fitch Rating confirmó para Medellín la máxima nota nacional AAA(col)",
-        "url": "https://www.larepublica.co/economia/fitch-rating-ratifico-a-medellin-con-la-maxima-calificacion-nacional-aaa-col-4519912",
-        "fecha_portada": "07/11/2026",
-        "titulo_fuente": "Fitch Rating ratificó a Medellín con la máxima calificación nacional AAA(col)",
-        "capturado": "2026-11-07T17:04:51-05:00"
-      },
-      {
-        "titulo": "Girardota, Betulia y El Retiro encabezaron a los municipios en rendimiento fiscal",
-        "url": "https://www.larepublica.co/economia/girardota-betulia-y-el-retiro-fueron-los-municipios-con-mejor-desempeno-fiscal-durante-2025-4519849",
-        "fecha_portada": "07/11/2026",
-        "titulo_fuente": "Girardota, Betulia y El Retiro fueron los municipios con mejor desempeño fiscal",
-        "capturado": "2026-11-07T13:21:56-05:00"
-      },
-      {
-        "titulo": "La Ley de Rescate cuenta con seis semanas para su aprobación sin sesiones extraordinarias",
-        "url": "https://www.larepublica.co/economia/ley-de-rescate-tiene-seis-semanas-para-pasar-el-congreso-sin-sesiones-extraordinarias-4519482",
-        "fecha_portada": "07/11/2026",
-        "titulo_fuente": "Ley de Rescate tiene seis semanas para pasar sin sesiones extraordinarias",
-        "capturado": "2026-11-07T01:39:49-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Bitcoin cae de US$70.000 por menor demanda ante la crisis de las tecnológicas",
+        "url": "https://www.larepublica.co/globoeconomia/bitcoin-baja-barrera-de-us-70-000-con-crisis-tecnologica-reduciendo-demanda-4524445",
+        "fecha_portada": "",
+        "titulo_fuente": "Bitcoin baja de US$70.000 por caída de demanda ante crisis de tecnológicas",
+        "capturado": "2026-11-13T17:56:34-05:00"
+      },
       {
         "titulo": "Aunque la ganancia de Ecopetrol aumentó, su título baja en la Bolsa de Colombia",
         "url": "https://www.larepublica.co/finanzas/a-pesar-de-crecimiento-de-la-utilidad-de-ecopetrol-su-accion-cae-en-la-bolsa-de-colombia-4524386",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/anthropic-solicita-salir-a-bolsa-y-ser-el-primer-laboratorio-de-inteligencia-artificial-cotizado-4511063",
         "fecha_portada": "",
         "titulo_fuente": "Anthropic solicita salir a bolsa y ser el primer laboratorio de inteligencia artificial cotizado",
-        "capturado": "2026-10-26T14:25:35-05:00"
-      },
-      {
-        "titulo": "Las acciones aumentan previo a balances de tecnológicas, al tiempo que el petróleo disminuye",
-        "url": "https://www.larepublica.co/globoeconomia/las-acciones-suben-antes-de-resultados-de-tecnologicas-mientras-que-el-petroleo-cae-4511145",
-        "fecha_portada": "26/10/2026",
-        "titulo_fuente": "Las acciones suben antes de resultados de tecnológicas, mientras que el petróleo cae",
         "capturado": "2026-10-26T14:25:35-05:00"
       }
     ]
