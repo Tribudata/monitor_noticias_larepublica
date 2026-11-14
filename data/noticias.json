@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-13T17:56:34-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-13T21:48:16-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De La Espriella nombra a Luis Felipe Henao como nuevo gerente del Fondo Milagro",
+        "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-designo-a-luis-felipe-henao-como-gerente-del-fondo-milagro-4524924",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "De La Espriella designa a Luis Felipe Henao como el nuevo gerente del Fondo Milagro",
+        "capturado": "2026-11-13T21:48:16-05:00"
+      },
+      {
+        "titulo": "Gobierno inicia mesas de conversación con gremios y parlamentarios para analizar la Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/gobierno-abre-mesas-de-dialogo-con-gremios-y-congresistas-para-discutir-la-ley-de-rescate-4524961",
+        "fecha_portada": "13/11/2026",
+        "titulo_fuente": "Gobierno abre mesas de diálogo con gremios y congresistas para discutir la Ley de Rescate",
+        "capturado": "2026-11-13T21:48:16-05:00"
+      },
       {
         "titulo": "Jaime Andrés Uribe dimitió a la gerencia del Fondo Milagro luego de controversia por sueldos",
         "url": "https://www.larepublica.co/economia/jaime-uribe-renuncio-como-gerente-del-fondo-milagro-tras-polemica-por-salarios-4524532",
@@ -409,20 +423,6 @@
         "fecha_portada": "07/11/2026",
         "titulo_fuente": "Así fue la primera reunión entre miembros del Congreso y Gobierno sobre la tributaria",
         "capturado": "2026-11-07T20:33:58-05:00"
-      },
-      {
-        "titulo": "Centro Democrático sugirió cambios a la tributaria y la venta de participación en Ecopetrol",
-        "url": "https://www.larepublica.co/economia/centro-democratico-propuso-ajustes-a-la-tributaria-y-venta-de-participacion-de-ecopetrol-4519947",
-        "fecha_portada": "",
-        "titulo_fuente": "Centro Democrático propuso ajustes a la tributaria y venta de participación de Ecopetrol",
-        "capturado": "2026-11-07T20:33:58-05:00"
-      },
-      {
-        "titulo": "Reducción del gasto no lograría el 30% del ajuste fijado en la Ley de Rescate del Gobierno",
-        "url": "https://www.larepublica.co/economia/tributaria-no-cumpliria-ajuste-de-70-en-reduccion-de-gasto-y-30-en-impuestos-4519894",
-        "fecha_portada": "07/11/2026",
-        "titulo_fuente": "Recorte del gasto no alcanzaría 30% del ajuste previsto en la Ley de Rescate del Gobierno",
-        "capturado": "2026-11-07T17:04:51-05:00"
       }
     ],
     "Bolsas": [
