@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-13T21:48:16-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-14T04:32:53-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Reconstruir a Pereira tendría un costo cercano a los $13 billones de acuerdo con estimaciones",
+        "url": "https://www.larepublica.co/economia/entrevista-con-mauricio-salazar-alcalde-de-pereira-sobre-el-fondo-milagro-y-los-fondos-para-la-reconstruccion-4524911",
+        "fecha_portada": "14/11/2026",
+        "titulo_fuente": "“La reconstrucción de Pereira puede llegar a costar alrededor de $13 billones, según cálculos”",
+        "capturado": "2026-11-14T04:32:53-05:00"
+      },
+      {
+        "titulo": "De 135 proyectos de la Milagro Week, cinco pretenden atraer el 50% del dinero total estimado",
+        "url": "https://www.larepublica.co/economia/cinco-proyectos-de-la-milagro-week-traerian-50-del-monto-total-4524904",
+        "fecha_portada": "",
+        "titulo_fuente": "Cinco de los 135 proyectos de la ‘Milagro Week’ buscan traer 50% del monto total esperado",
+        "capturado": "2026-11-14T04:32:53-05:00"
+      },
       {
         "titulo": "De La Espriella nombra a Luis Felipe Henao como nuevo gerente del Fondo Milagro",
         "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-designo-a-luis-felipe-henao-como-gerente-del-fondo-milagro-4524924",
@@ -409,23 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "El precio de los cigarrillos y vapeadores subiría hasta 53% con la Ley de Rescate",
         "capturado": "2026-11-08T21:46:06-05:00"
-      },
-      {
-        "titulo": "Medellín mantuvo la nota más alta de Fitch Ratings debido a sus resultados fiscales",
-        "url": "https://www.larepublica.co/economia/fitch-ratings-ratifico-a-medellin-con-la-maxima-calificacion-nacional-aaa-col-4519912",
-        "fecha_portada": "07/11/2026",
-        "titulo_fuente": "Medellín conservó la máxima calificación de Fitch Ratings por sus resultados fiscales",
-        "capturado": "2026-11-08T03:07:33-05:00"
-      },
-      {
-        "titulo": "Así transcurrió el primer encuentro entre integrantes del Congreso y el Gobierno sobre la tributaria",
-        "url": "https://www.larepublica.co/economia/asi-fue-la-primera-reunion-entre-miembros-del-congreso-y-gobierno-sobre-la-tributaria-4519991",
-        "fecha_portada": "07/11/2026",
-        "titulo_fuente": "Así fue la primera reunión entre miembros del Congreso y Gobierno sobre la tributaria",
-        "capturado": "2026-11-07T20:33:58-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Expertos proyectan que el valor del dólar alcance un rango de $3.200 a finales de año",
+        "url": "https://www.larepublica.co/finanzas/analistas-preven-que-el-precio-del-dolar-llegue-a-un-rango-de-3-200-al-cierre-del-ano-4524748",
+        "fecha_portada": "",
+        "titulo_fuente": "Analistas prevén que el precio del dólar llegue a un rango de $3.200 al cierre del año",
+        "capturado": "2026-11-14T04:32:53-05:00"
+      },
       {
         "titulo": "Bitcoin cae de US$70.000 por menor demanda ante la crisis de las tecnológicas",
         "url": "https://www.larepublica.co/globoeconomia/bitcoin-baja-barrera-de-us-70-000-con-crisis-tecnologica-reduciendo-demanda-4524445",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-improbable-victoria-electoral-de-lula-4511106",
         "fecha_portada": "",
         "titulo_fuente": "Los mercados brasileños sufren un desplome tras la improbable victoria electoral de Lula",
-        "capturado": "2026-10-26T14:25:35-05:00"
-      },
-      {
-        "titulo": "Anthropic pide entrar a la bolsa y ser el primer laboratorio de inteligencia artificial en cotizar",
-        "url": "https://www.larepublica.co/globoeconomia/anthropic-solicita-salir-a-bolsa-y-ser-el-primer-laboratorio-de-inteligencia-artificial-cotizado-4511063",
-        "fecha_portada": "",
-        "titulo_fuente": "Anthropic solicita salir a bolsa y ser el primer laboratorio de inteligencia artificial cotizado",
         "capturado": "2026-10-26T14:25:35-05:00"
       }
     ]
