@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-14T11:15:01-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-14T15:48:45-05:00",
+  "nuevos_en_esta_corrida": 3,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Uribe terminó esperanzado en alivios tras cita con el Gobierno sobre tributaria",
+        "url": "https://www.larepublica.co/economia/uribe-y-congresistas-del-centro-democratico-se-reunen-con-restrepo-para-estudiar-la-tributaria-4525205",
+        "fecha_portada": "14/11/2026",
+        "titulo_fuente": "Uribe salió con “ilusión” de alivios tras reunión con el Gobierno sobre tributaria",
+        "capturado": "2026-11-14T15:48:45-05:00"
+      },
+      {
+        "titulo": "El BID autorizó US$450 millones para promover reformas e inversiones en el sector eléctrico",
+        "url": "https://www.larepublica.co/economia/bid-aprueba-us-450-millones-para-impulsar-reformas-e-inversiones-en-el-sector-electrico-4525375",
+        "fecha_portada": "14/11/2026",
+        "titulo_fuente": "BID aprueba US$450 millones para impulsar reformas e inversiones en el sector eléctrico",
+        "capturado": "2026-11-14T15:48:45-05:00"
+      },
+      {
+        "titulo": "La Comisión de Regulación de Agua Potable y Saneamiento Básico presentó el marco tarifario de aseo",
+        "url": "https://www.larepublica.co/economia/nuevo-marco-tarifario-de-aseo-4525362",
+        "fecha_portada": "",
+        "titulo_fuente": "Comisión de Regulación de Agua Potable y Saneamiento Básico expuso marco tarifario de aseo",
+        "capturado": "2026-11-14T15:48:45-05:00"
+      },
       {
         "titulo": "Reconstruir a Pereira tendría un costo cercano a los $13 billones de acuerdo con estimaciones",
         "url": "https://www.larepublica.co/economia/entrevista-con-mauricio-salazar-alcalde-de-pereira-sobre-el-fondo-milagro-y-los-fondos-para-la-reconstruccion-4524911",
@@ -402,27 +423,6 @@
         "fecha_portada": "09/11/2026",
         "titulo_fuente": "El pollo asado está 6,78% más caro que hace un año y llegó a $43.703 en octubre",
         "capturado": "2026-11-09T05:27:40-05:00"
-      },
-      {
-        "titulo": "¿Qué quitar y qué añadir en la reforma tributaria propuesta por el Gobierno De la Espriella?",
-        "url": "https://www.larepublica.co/economia/que-sobra-y-que-poner-en-la-reforma-tributaria-presentada-por-el-gobierno-4520066",
-        "fecha_portada": "",
-        "titulo_fuente": "¿Qué sobra y qué poner en la reforma tributaria presentada por el Gobierno De la Espriella?",
-        "capturado": "2026-11-09T05:27:40-05:00"
-      },
-      {
-        "titulo": "Knot y Hernández figuran como aspirantes a la presidencia del BCE",
-        "url": "https://www.larepublica.co/globoeconomia/knot-y-hernandez-se-perfilan-como-candidatos-para-la-presidencia-del-bce-4519832",
-        "fecha_portada": "09/11/2026",
-        "titulo_fuente": "Knot y Hernández se perfilan como candidatos para la presidencia del BCE",
-        "capturado": "2026-11-09T05:27:40-05:00"
-      },
-      {
-        "titulo": "Con la Ley de Rescate el valor de los cigarrillos y vapeadores aumentaría hasta 53%",
-        "url": "https://www.larepublica.co/economia/el-precio-de-los-cigarrillos-y-vapeadores-subiria-hasta-53-con-la-ley-de-rescate-4520290",
-        "fecha_portada": "",
-        "titulo_fuente": "El precio de los cigarrillos y vapeadores subiría hasta 53% con la Ley de Rescate",
-        "capturado": "2026-11-08T21:46:06-05:00"
       }
     ],
     "Bolsas": [
