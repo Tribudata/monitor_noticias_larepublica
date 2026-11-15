@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-15T14:51:33-05:00",
+  "actualizado": "2026-11-15T18:36:12-05:00",
   "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Comisiones económicas convocan a ponentes de la Ley de Rescate a encuentro en Minhacienda",
+        "url": "https://www.larepublica.co/economia/comisiones-economicas-citan-a-ponentes-de-la-ley-de-rescate-a-reunion-en-minhacienda-4525611",
+        "fecha_portada": "",
+        "titulo_fuente": "Comisiones económicas citan a ponentes de la Ley de Rescate a reunión en Minhacienda",
+        "capturado": "2026-11-15T18:36:12-05:00"
+      },
+      {
+        "titulo": "Estos son los balances que deja la administración de Abelardo de la Espriella en 100 días",
+        "url": "https://www.larepublica.co/economia/estos-son-los-resultados-que-ha-dejado-el-gobierno-de-abelardo-de-la-espriella-en-100-dias-4525649",
+        "fecha_portada": "15/11/2026",
+        "titulo_fuente": "Estos son los resultados que ha dejado el Gobierno de Abelardo de la Espriella en 100 días",
+        "capturado": "2026-11-15T18:36:12-05:00"
+      },
       {
         "titulo": "De la Espriella solicitó el retiro de Jaime Vives de Coljuegos luego de la controversia por su posgrado",
         "url": "https://www.larepublica.co/economia/de-la-espriella-pidio-la-salida-de-vives-de-coljuegos-tras-polemica-por-su-posgrado-4525553",
@@ -408,20 +422,6 @@
         "url": "https://www.larepublica.co/economia/el-dane-revelo-que-la-inflacion-en-el-decimo-mes-del-ano-llego-hasta-6-30-4520889",
         "fecha_portada": "09/11/2026",
         "titulo_fuente": "El Dane reveló que el IPC correspondiente al décimo mes del año llegó hasta 6,30%",
-        "capturado": "2026-11-09T22:00:05-05:00"
-      },
-      {
-        "titulo": "Coincidencias y diferencias entre el Gobierno y el Centro Democrático sobre la tributaria",
-        "url": "https://www.larepublica.co/economia/puntos-en-comun-y-desacuerdos-entre-el-gobierno-y-el-centro-democratico-sobre-la-ley-de-rescate-4520469",
-        "fecha_portada": "09/11/2026",
-        "titulo_fuente": "Puntos en común y desacuerdos entre el Gobierno y el Centro Democrático sobre la tributaria",
-        "capturado": "2026-11-09T22:00:05-05:00"
-      },
-      {
-        "titulo": "Colombia estaría gestionando un plan de créditos por US$15.000 millones con el FMI",
-        "url": "https://www.larepublica.co/economia/colombia-estara-negociando-programa-de-prestamos-por-us-15-000-millones-con-el-fmi-4521038",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia estaría negociando programa de préstamos por US$15.000 millones con el FMI",
         "capturado": "2026-11-09T22:00:05-05:00"
       }
     ],
