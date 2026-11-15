@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-15T09:23:12-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-15T14:51:33-05:00",
+  "nuevos_en_esta_corrida": 2,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De la Espriella solicitó el retiro de Jaime Vives de Coljuegos luego de la controversia por su posgrado",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-pidio-la-salida-de-vives-de-coljuegos-tras-polemica-por-su-posgrado-4525553",
+        "fecha_portada": "",
+        "titulo_fuente": "De la Espriella pidió la salida de Jaime Vives de Coljuegos tras polémica por su posgrado",
+        "capturado": "2026-11-15T14:51:33-05:00"
+      },
       {
         "titulo": "De la Espriella cumple 100 días con una tributaria como su mayor propuesta fiscal",
         "url": "https://www.larepublica.co/economia/de-la-espriella-llega-a-sus-100-dias-con-una-reforma-tributaria-como-principal-apuesta-fiscal-4525484",
@@ -416,16 +423,16 @@
         "fecha_portada": "",
         "titulo_fuente": "Colombia estaría negociando programa de préstamos por US$15.000 millones con el FMI",
         "capturado": "2026-11-09T22:00:05-05:00"
-      },
-      {
-        "titulo": "Contraloría dispuso una revisión urgente a contratos de la DNI por más de $20.783 millones",
-        "url": "https://www.larepublica.co/economia/contraloria-ordeno-revision-prioritaria-de-contratos-de-la-dni-por-mas-de-20-783-millones-4520417",
-        "fecha_portada": "",
-        "titulo_fuente": "Contraloría ordenó revisión urgente de contratos de la DNI por más de $20.783 millones",
-        "capturado": "2026-11-09T22:00:05-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Bitcoin descendió a su punto más bajo en cuatro meses durante una ola de liquidaciones",
+        "url": "https://www.larepublica.co/globoeconomia/bitcoin-cayo-a-su-nivel-mas-bajo-en-cuatro-meses-en-medio-de-una-ola-de-liquidaciones-4525509",
+        "fecha_portada": "",
+        "titulo_fuente": "Bitcoin cayó a su nivel más bajo en cuatro meses en medio de una ola de liquidaciones",
+        "capturado": "2026-11-15T14:51:33-05:00"
+      },
       {
         "titulo": "Expertos proyectan que el valor del dólar alcance un rango de $3.200 a finales de año",
         "url": "https://www.larepublica.co/finanzas/analistas-preven-que-el-precio-del-dolar-llegue-a-un-rango-de-3-200-al-cierre-del-ano-4524748",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Los mercados brasileños sufren un desplome tras la victoria electoral de Lula da Silva",
         "capturado": "2026-10-26T18:11:43-05:00"
-      },
-      {
-        "titulo": "Caída de los mercados en Brasil luego del poco probable triunfo electoral de Lula",
-        "url": "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-improbable-victoria-electoral-de-lula-4511106",
-        "fecha_portada": "",
-        "titulo_fuente": "Los mercados brasileños sufren un desplome tras la improbable victoria electoral de Lula",
-        "capturado": "2026-10-26T14:25:35-05:00"
       }
     ]
   }
