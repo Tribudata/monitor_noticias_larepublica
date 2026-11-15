@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-15T01:54:12-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-15T09:23:12-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De la Espriella cumple 100 días con una tributaria como su mayor propuesta fiscal",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-llega-a-sus-100-dias-con-una-reforma-tributaria-como-principal-apuesta-fiscal-4525484",
+        "fecha_portada": "15/11/2026",
+        "titulo_fuente": "De la Espriella llega a sus 100 días con una tributaria como su principal apuesta fiscal",
+        "capturado": "2026-11-15T09:23:12-05:00"
+      },
       {
         "titulo": "Uribe terminó esperanzado en alivios tras cita con el Gobierno sobre tributaria",
         "url": "https://www.larepublica.co/economia/uribe-y-congresistas-del-centro-democratico-se-reunen-con-restrepo-para-estudiar-la-tributaria-4525205",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Contraloría ordenó revisión urgente de contratos de la DNI por más de $20.783 millones",
         "capturado": "2026-11-09T22:00:05-05:00"
-      },
-      {
-        "titulo": "En octubre el pollo asado alcanzó los $43.703, un 6,78% más costoso que hace un año",
-        "url": "https://www.larepublica.co/economia/el-pollo-asado-esta-6-78-mas-caro-que-hace-un-ano-y-llego-a-43-703-en-octubre-4519612",
-        "fecha_portada": "09/11/2026",
-        "titulo_fuente": "El pollo asado está 6,78% más caro que hace un año y llegó a $43.703 en octubre",
-        "capturado": "2026-11-09T05:27:40-05:00"
       }
     ],
     "Bolsas": [
