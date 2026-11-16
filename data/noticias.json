@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-15T18:36:12-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-15T22:19:45-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De la Espriella rechaza IVA a la canasta familiar y abre la opción de disminuir la tarifa general",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-descarta-iva-a-la-canasta-familiar-y-estudia-bajar-la-tarifa-general-hasta-17-4525692",
+        "fecha_portada": "15/11/2026",
+        "titulo_fuente": "De la Espriella descarta IVA a la canasta familiar y abre la puerta a bajar la tarifa general",
+        "capturado": "2026-11-15T22:19:45-05:00"
+      },
       {
         "titulo": "Comisiones económicas convocan a ponentes de la Ley de Rescate a encuentro en Minhacienda",
         "url": "https://www.larepublica.co/economia/comisiones-economicas-citan-a-ponentes-de-la-ley-de-rescate-a-reunion-en-minhacienda-4525611",
@@ -416,13 +423,6 @@
         "fecha_portada": "09/11/2026",
         "titulo_fuente": "Gobierno destinó $332.000 millones para 7.385 viviendas afectadas por el terremoto",
         "capturado": "2026-11-10T05:48:52-05:00"
-      },
-      {
-        "titulo": "El Dane reportó que el IPC del décimo mes del año alcanzó el 6,30%",
-        "url": "https://www.larepublica.co/economia/el-dane-revelo-que-la-inflacion-en-el-decimo-mes-del-ano-llego-hasta-6-30-4520889",
-        "fecha_portada": "09/11/2026",
-        "titulo_fuente": "El Dane reveló que el IPC correspondiente al décimo mes del año llegó hasta 6,30%",
-        "capturado": "2026-11-09T22:00:05-05:00"
       }
     ],
     "Bolsas": [
