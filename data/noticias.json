@@ -1,9 +1,16 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-16T16:17:54-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-16T23:01:32-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Estados Unidos podría destinar más de US$6.000 millones anuales para lograr el PIB",
+        "url": "https://www.larepublica.co/economia/inversion-de-estados-unidos-en-meta-del-pib-4525982",
+        "fecha_portada": "16/11/2026",
+        "titulo_fuente": "Estados Unidos podría invertir más de US$6.000 millones al año para cumplir PIB",
+        "capturado": "2026-11-16T23:01:32-05:00"
+      },
       {
         "titulo": "¿Cómo se modifica la Ley de Rescate Económico sin las iniciativas de IVA a la canasta familiar?",
         "url": "https://www.larepublica.co/economia/como-cambia-la-ley-de-rescate-economico-sin-la-propuesta-de-iva-a-los-alimentos-4525730",
@@ -416,13 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "SAE llevará el portafolio inmobiliario de hasta US$80 millones a Milagro Week 2026",
         "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "El debate del sueldo mínimo para el año entrante se orienta con una inflación anual de 6,30%",
-        "url": "https://www.larepublica.co/economia/discusion-del-salario-minimo-para-el-otro-ano-se-perfila-con-6-30-de-inflacion-4520706",
-        "fecha_portada": "10/11/2026",
-        "titulo_fuente": "La discusión del salario mínimo para el próximo año se perfila con 6,30% en la inflación anual",
-        "capturado": "2026-11-10T05:48:52-05:00"
       }
     ],
     "Bolsas": [
