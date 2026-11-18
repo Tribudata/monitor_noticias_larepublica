@@ -1,9 +1,72 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-17T22:13:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-18T06:57:56-05:00",
+  "nuevos_en_esta_corrida": 12,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Milagro Week acumula más de US$35.500 millones en anuncios de inversión y crédito",
+        "url": "https://www.larepublica.co/empresas/milagro-week-ya-suma-mas-de-us-35-500-millones-en-anuncios-de-inversion-y-credito-4526773",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "Milagro Week ya suma más de US$35.500 millones en anuncios de inversión y crédito",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "En el tercer trimestre la economía aumentó solo 0,5%, la menor alza del PIB en el año",
+        "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
+        "fecha_portada": "",
+        "titulo_fuente": "La economía apenas creció 0,5% en el tercer trimestre, el menor alza del PIB del año",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "The Economist incluye en la agenda de 2027 los efectos de Irán y la era post-Trump",
+        "url": "https://www.larepublica.co/globoeconomia/repercusiones-de-iran-y-era-post-trump-agenda-de-2027-por-the-economist-4526239",
+        "fecha_portada": "17/11/2026",
+        "titulo_fuente": "Repercusiones de Irán y la era post-Trump, la agenda de 2027 por The Economist",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "Un ajuste fiscal de 4,74% del PIB en 2030 propone la Ley de Rescate Económico",
+        "url": "https://www.larepublica.co/economia/ley-de-rescate-economico-plantea-ajuste-fiscal-de-4-74-del-pib-en-2030-4526885",
+        "fecha_portada": "",
+        "titulo_fuente": "La Ley de Rescate Económico plantea hacer un ajuste fiscal de 4,74% del PIB en 2030",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "Colfondos cumple 35 años administrando $76,2 billones en activos",
+        "url": "https://www.larepublica.co/finanzas/colfondos-llega-a-sus-35-anos-con-76-2-billones-en-activos-administrados-4526512",
+        "fecha_portada": "",
+        "titulo_fuente": "Colfondos llega a sus 35 años con $76,2 billones en activos bajo administración",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "MinHacienda prevé el primer debate de la Ley de Rescate Fiscal para el 1 de diciembre",
+        "url": "https://www.larepublica.co/economia/minhacienda-apunta-a-primer-debate-de-la-tributaria-para-el-1-de-diciembre-4526414",
+        "fecha_portada": "17/11/2026",
+        "titulo_fuente": "MinHacienda apunta a primer debate de la Ley de Rescate Fiscal para el 1 de diciembre",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "La Andi alerta sobre atraso en la inversión y pide promover el crecimiento económico",
+        "url": "https://www.larepublica.co/economia/andi-advierte-rezago-de-la-inversion-y-pide-impulsar-el-crecimiento-economico-4527054",
+        "fecha_portada": "17/11/2026",
+        "titulo_fuente": "Andi advierte rezago de la inversión y pide impulsar el crecimiento económico",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "Banco de Bogotá alerta sobre desaceleración del PIB colombiano y riesgo de estanflación",
+        "url": "https://www.larepublica.co/economia/banco-de-bogota-advierte-desaceleracion-del-pib-colombiano-y-riesgo-de-estanflacion-4526948",
+        "fecha_portada": "",
+        "titulo_fuente": "Banco de Bogotá advierte desaceleración del PIB colombiano y riesgo de estanflación",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "El valor del mínimo pasó de $260.100 a comienzos del milenio a $1,75 millones",
+        "url": "https://www.larepublica.co/economia/lo-que-sube-con-el-aumento-del-minimo-4524226",
+        "fecha_portada": "17/11/2026",
+        "titulo_fuente": "El monto del mínimo pasó de $260.100 en el comienzo del milenio hasta $1,75 millones",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
       {
         "titulo": "Estados Unidos podría destinar más de US$6.000 millones anuales para lograr el PIB",
         "url": "https://www.larepublica.co/economia/inversion-de-estados-unidos-en-meta-del-pib-4525982",
@@ -360,72 +423,30 @@
         "fecha_portada": "10/11/2026",
         "titulo_fuente": "Bienes y servicios que podrían subir de precio durante las primeras semanas de 2027",
         "capturado": "2026-11-10T22:15:32-05:00"
-      },
-      {
-        "titulo": "El PND propone elevar el crecimiento económico al 6% y la inversión al 25% del PIB",
-        "url": "https://www.larepublica.co/economia/pnd-plantea-llevar-el-crecimiento-economico-a-6-anual-y-la-inversion-a-25-del-pib-4521690",
-        "fecha_portada": "",
-        "titulo_fuente": "PND plantea llevar el crecimiento económico a 6% y la inversión a 25% del PIB",
-        "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "El Congreso nombró a los primeros ponentes para la reforma tributaria de De la Espriella",
-        "url": "https://www.larepublica.co/economia/congreso-designo-primeros-ponentes-de-la-reforma-tributaria-de-de-la-espriella-4521676",
-        "fecha_portada": "",
-        "titulo_fuente": "Congreso designó primeros ponentes de la reforma tributaria de De la Espriella",
-        "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "The Economist analizó los primeros 100 días de De la Espriella entre populismo y ajuste fiscal",
-        "url": "https://www.larepublica.co/economia/entre-el-populismo-y-el-ajuste-fiscal-the-economist-analiza-primeros-dias-de-la-espriella-4521490",
-        "fecha_portada": "10/11/2026",
-        "titulo_fuente": "Entre populismo y ajuste fiscal, The Economist analizó los primeros 100 días De la Espriella",
-        "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "Santiago Pardo criticó la Ley de Rescate por su impacto en hogares con menores ingresos",
-        "url": "https://www.larepublica.co/economia/santiago-pardo-cuestiono-la-ley-de-rescate-economico-por-el-impacto-en-hogares-de-menores-ingresos-4521187",
-        "fecha_portada": "",
-        "titulo_fuente": "Santiago Pardo cuestionó la Ley de Rescate por el impacto en hogares de menores ingresos",
-        "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "Abelardo de la Espriella declaró la insubsistencia de la directora del Icfes, Elizabeth Blandón",
-        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-declaro-insubsistente-a-elizabeth-blandon-directora-del-icfes-4521481",
-        "fecha_portada": "",
-        "titulo_fuente": "Abelardo de la Espriella declaró insubsistente a Elizabeth Blandón, directora del Icfes",
-        "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "Iniciativas de la Milagro Week podrían representar una inversión de US$41.900 millones",
-        "url": "https://www.larepublica.co/economia/colombia-llevara-a-nueva-york-97-proyectos-que-representan-expectativas-de-inversion-por-us-41-900-millones-4521185",
-        "fecha_portada": "10/11/2026",
-        "titulo_fuente": "Proyectos de la Milagro Week podrían representar una inversión de US$41.900 millones",
-        "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "El Gobierno Nacional anunció una inversión de $630.000 millones para carreteras de Boyacá",
-        "url": "https://www.larepublica.co/economia/el-gobierno-nacional-anuncio-inversion-por-630-000-millones-para-vias-de-boyaca-en-2027-4521203",
-        "fecha_portada": "10/11/2026",
-        "titulo_fuente": "El Gobierno Nacional anunció inversión por $630.000 millones para vías de Boyacá",
-        "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "Luis Augusto Cuenca tomará la dirección de la Superintendencia de Notariado y Registro",
-        "url": "https://www.larepublica.co/economia/luis-augusto-cuenca-asumira-como-director-de-la-superintendencia-de-notariado-y-registro-4521290",
-        "fecha_portada": "",
-        "titulo_fuente": "Luis Augusto Cuenca asumirá como director de la Superintendencia de Notariado y Registro",
-        "capturado": "2026-11-10T18:35:02-05:00"
-      },
-      {
-        "titulo": "La SAE presentará un portafolio inmobiliario de hasta US$80 millones en la Milagro Week 2026",
-        "url": "https://www.larepublica.co/economia/sae-llevara-el-portafolio-inmobiliario-de-hasta-us-80-millones-a-milagro-week-2026-4521301",
-        "fecha_portada": "",
-        "titulo_fuente": "SAE llevará el portafolio inmobiliario de hasta US$80 millones a Milagro Week 2026",
-        "capturado": "2026-11-10T18:35:02-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El oro bajó de US$3.800 mientras la FED da indicios de incremento en tasas",
+        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-18-de-noviembre-4527115",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "Oro cae por debajo de los US$3.800 mientras la FED da señales de subida en las tasas",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "Tras el real brasileño, el peso colombiano es la segunda divisa más depreciada en el mes",
+        "url": "https://www.larepublica.co/finanzas/peso-colombiano-es-la-segunda-moneda-mas-devaluada-en-el-mes-4526891",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "El peso colombiano es la segunda moneda más devaluada en el mes después del real brasileño",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
+      {
+        "titulo": "Preferencial de Davivienda y Grupo Argos fueron las acciones que más ganaron valor en la jornada",
+        "url": "https://www.larepublica.co/finanzas/preferencial-de-davivienda-y-grupo-argos-las-acciones-mas-valorizadas-de-la-jornada-4526803",
+        "fecha_portada": "",
+        "titulo_fuente": "Preferencial de Davivienda y Grupo Argos, las acciones más valorizadas de la jornada",
+        "capturado": "2026-11-18T06:57:56-05:00"
+      },
       {
         "titulo": "Wall Street baja aguardando las cuentas de Nvidia y el cercano estreno bursátil de Anthropic",
         "url": "https://www.larepublica.co/globoeconomia/wall-street-cae-a-la-espera-de-los-resultados-de-nvidia-y-el-proximo-debut-bursatil-de-anthropic-4525742",
@@ -824,27 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Dólar se cotiza a la baja ante futuras decisiones de política monetaria",
         "capturado": "2026-10-27T09:41:50-05:00"
-      },
-      {
-        "titulo": "El oro baja por la fuerza del dólar mientras operadores aguardan la decisión de la FED",
-        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-fortaleza-del-dolar-mientras-operadores-esperan-decision-de-la-fed-4511885",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro cae por fortaleza del dólar, mientras operadores esperan decisión de la FED",
-        "capturado": "2026-10-27T09:41:50-05:00"
-      },
-      {
-        "titulo": "Lunes crítico para los activos de Brasil luego del triunfo electoral de Lula da Silva",
-        "url": "https://www.larepublica.co/globoeconomia/lunes-negro-para-los-activos-brasilenos-tras-victoria-de-lula-da-silva-4511672",
-        "fecha_portada": "",
-        "titulo_fuente": "Lunes negro para los activos brasileños tras victoria en las elecciones de Lula da Silva",
-        "capturado": "2026-10-27T03:03:11-05:00"
-      },
-      {
-        "titulo": "BID Lab y Fundación Bolívar Davivienda diseñaron el programa AuRA destinado a inversionistas",
-        "url": "https://www.larepublica.co/finanzas/fundacion-bolivar-davivienda-y-bid-lab-crearon-el-programa-aura-para-inversionistas-4511690",
-        "fecha_portada": "",
-        "titulo_fuente": "Fundación Bolívar Davivienda y BID Lab crearon el programa AuRA para inversionistas",
-        "capturado": "2026-10-26T21:10:45-05:00"
       }
     ]
   }
