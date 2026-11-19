@@ -1,9 +1,107 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-18T14:51:05-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-18T20:31:57-05:00",
+  "nuevos_en_esta_corrida": 14,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La Ley de Rescate Económico prevé un ajuste fiscal cercano al 4,7% del PIB para 2030",
+        "url": "https://www.larepublica.co/economia/la-ley-de-rescate-economico-busca-un-ajuste-fiscal-de-4-7-del-pib-para-2030-4527534",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "La Ley de Rescate Económico proyecta un ajuste fiscal en torno a 4,7% del PIB en 2030",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "María Claudia Lacouture se une a los dirigentes gremiales que dejan sus cargos",
+        "url": "https://www.larepublica.co/economia/maria-claudia-lacouture-renuncio-a-la-presidencia-de-amcham-tras-nueve-anos-en-el-cargo-4527611",
+        "fecha_portada": "",
+        "titulo_fuente": "María Claudia Lacouture se suma a la lista de presidentes gremiales que dejan su cargo",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "Se fijó la fecha de arranque de la mesa de negociación sobre el próximo salario mínimo",
+        "url": "https://www.larepublica.co/economia/ya-hay-fecha-para-el-inicio-de-la-mesa-de-concertacion-del-proximo-salario-minimo-para-2027-4527478",
+        "fecha_portada": "",
+        "titulo_fuente": "Ya hay fecha para el inicio de la mesa de concertación del próximo salario mínimo",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "El alza del salario mínimo no tendría que sobrepasar la suma de inflación y productividad",
+        "url": "https://www.larepublica.co/economia/el-incremento-del-minimo-no-deberia-superar-la-suma-de-inflacion-mas-productividad-4527204",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "\"El incremento del mínimo no debería superar la suma de inflación más productividad\"",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "Las compras externas en septiembre aumentaron 33,7%, alcanzando US$8.192 millones",
+        "url": "https://www.larepublica.co/economia/las-importaciones-en-septiembre-crecieron-33-7-con-un-valor-de-us-8-192-millones-4527397",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "Las importaciones en septiembre crecieron 33,7%, con un valor de US$8.192 millones",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "MinHacienda evalúa aplicar IVA a arrendamientos turísticos y establecer sobretasa en la Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/minhacienda-estudia-cobrar-iva-a-alquileres-turisticos-y-crear-sobretasa-en-la-ley-de-rescate-4527157",
+        "fecha_portada": "",
+        "titulo_fuente": "MinHacienda estudia cobrar IVA a alquileres turísticos y crear sobretasa en la Ley de Rescate",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "Nate Morris se proyecta como el nuevo embajador de los Estados Unidos en Colombia",
+        "url": "https://www.larepublica.co/globoeconomia/nate-morris-se-perfila-como-embajador-de-estados-unidos-en-colombia-4527377",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "Nate Morris se perfila como próximo embajador de Estados Unidos en Colombia",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "La FDN destina $248.360 millones a la modernización del corredor de tren La Dorada",
+        "url": "https://www.larepublica.co/economia/fdn-aporta-248-360-millones-para-modernizar-el-corredor-ferreo-la-dorada-chiriguana-4527193",
+        "fecha_portada": "",
+        "titulo_fuente": "FDN aporta $248.360 millones para modernizar el corredor férreo La Dorada",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "MinHacienda establece cambios a Ley de Rescate Económico y la renta empresarial se mantiene en 35%",
+        "url": "https://www.larepublica.co/economia/minhacienda-define-ajustes-a-la-ley-de-rescate-economico-renta-empresarial-seguira-en-35-4527532",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "MinHacienda define ajustes a la Ley de Rescate Económico, renta empresarial seguirá en 35%",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "Pete Hegseth arribó a Colombia para afianzar la cooperación bilateral en seguridad y defensa",
+        "url": "https://www.larepublica.co/economia/pete-hegseth-llego-a-colombia-para-fortalecer-la-cooperacion-en-seguridad-4527799",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "Pete Hegseth llegó a Colombia para fortalecer la cooperación bilateral en defensa y seguridad",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "El Partido Liberal rechazará el IVA para alimentos, cerveza y gaseosas",
+        "url": "https://www.larepublica.co/economia/el-partido-liberal-no-apoyara-el-iva-a-los-alimentos-ni-a-la-cerveza-y-a-la-gaseosa-4527706",
+        "fecha_portada": "",
+        "titulo_fuente": "El Partido Liberal no apoyará el IVA a los alimentos, ni a la cerveza y a la gaseosa",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "El Congreso pacta eliminar el IVA a la medicina prepagada en la reforma tributaria",
+        "url": "https://www.larepublica.co/economia/congreso-acuerda-retirar-el-iva-a-la-medicina-prepagada-de-la-reforma-tributaria-4527307",
+        "fecha_portada": "",
+        "titulo_fuente": "Congreso acuerda retirar el IVA a la medicina prepagada de la reforma tributaria",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "La economía solo aumentó 0,5% en el tercer trimestre, el menor avance del PIB del año",
+        "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-la-menor-crecimiento-del-ano-4526673",
+        "fecha_portada": "",
+        "titulo_fuente": "La economía apenas creció 0,5% en el tercer trimestre, la menor alza del PIB del año",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
+      {
+        "titulo": "Bancos, fintech y el Gobierno se integran en el naciente Consejo Nacional de Pagos",
+        "url": "https://www.larepublica.co/finanzas/bancos-fintech-y-gobierno-se-unen-en-el-nuevo-consejo-nacional-de-pagos-4527588",
+        "fecha_portada": "",
+        "titulo_fuente": "Bancos, fintech y Gobierno se unen en el nuevo Consejo Nacional de Pagos",
+        "capturado": "2026-11-18T20:31:57-05:00"
+      },
       {
         "titulo": "Milagro Week acumula más de US$35.500 millones en anuncios de inversión y crédito",
         "url": "https://www.larepublica.co/empresas/milagro-week-ya-suma-mas-de-us-35-500-millones-en-anuncios-de-inversion-y-credito-4526773",
@@ -325,104 +423,6 @@
         "fecha_portada": "12/11/2026",
         "titulo_fuente": "Entre la fiesta y las deudas, guía inteligente para administrar la prima de diciembre",
         "capturado": "2026-11-12T03:27:06-05:00"
-      },
-      {
-        "titulo": "Días decisivos para establecer el monto del salario mínimo de 2027",
-        "url": "https://www.larepublica.co/economia/las-fechas-clave-para-definir-en-cuanto-se-ubicara-el-salario-minimo-para-2027-4522627",
-        "fecha_portada": "",
-        "titulo_fuente": "Las fechas clave para definir en cuánto se ubicará el salario mínimo para 2027",
-        "capturado": "2026-11-11T20:05:41-05:00"
-      },
-      {
-        "titulo": "MinHacienda proyecta que pago de deuda tomaría 45% de ingresos en 2030",
-        "url": "https://www.larepublica.co/economia/el-ministerio-de-hacienda-advierte-que-sin-gasto-publico-la-economia-creceria-apenas-1-4522683",
-        "fecha_portada": "11/11/2026",
-        "titulo_fuente": "MinHacienda estima que el servicio de la deuda absorbería 45% de ingresos en 2030",
-        "capturado": "2026-11-11T20:05:41-05:00"
-      },
-      {
-        "titulo": "Deuda externa equivale al 50% del PIB nacional y llegó a US$254.000 millones en agosto",
-        "url": "https://www.larepublica.co/economia/la-deuda-externa-representa-50-del-pib-nacional-alcanzo-us-254-000-millones-en-agosto-4522792",
-        "fecha_portada": "",
-        "titulo_fuente": "La deuda externa representa 50% del PIB nacional, alcanzó US$254.000 millones en agosto",
-        "capturado": "2026-11-11T20:05:41-05:00"
-      },
-      {
-        "titulo": "Asoblockchain solicita retirar gravamen a criptomonedas en Ley de Financiamiento",
-        "url": "https://www.larepublica.co/finanzas/asoblockchain-pide-eliminar-impuesto-de-5-a-criptomonedas-de-ley-de-financiamiento-4522687",
-        "fecha_portada": "11/11/2026",
-        "titulo_fuente": "Asoblockchain pide eliminar impuesto a criptomonedas de Ley de Financiamiento",
-        "capturado": "2026-11-11T20:05:41-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo respaldó el recorte fiscal y alertó por el costo de los intereses de la deuda",
-        "url": "https://www.larepublica.co/economia/gobierno-defendio-ajuste-fiscal-y-advirtio-sobre-el-peso-de-los-intereses-de-la-deuda-4522524",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno defendió ajuste fiscal y advirtió sobre el peso de los intereses de la deuda",
-        "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "Anif planteó enajenar ISA y reducir el gasto estatal para sanear las cuentas de la Nación",
-        "url": "https://www.larepublica.co/economia/anif-propuso-vender-isa-y-recortar-el-gasto-publico-para-aliviar-las-finanzas-de-la-nacion-4522410",
-        "fecha_portada": "",
-        "titulo_fuente": "Anif propuso vender ISA y recortar el gasto público para aliviar las finanzas de la Nación",
-        "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo gestionará capital extranjero para costear nuevos trazados del Metro de Bogotá",
-        "url": "https://www.larepublica.co/economia/gobierno-buscara-inversion-internacional-para-financiar-nuevas-lineas-del-metro-de-bogota-4522498",
-        "fecha_portada": "11/11/2026",
-        "titulo_fuente": "Gobierno buscará inversión internacional para financiar nuevas líneas del Metro de Bogotá",
-        "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "Administración de De la Espriella busca modificar la estratificación y el cobro de servicios públicos",
-        "url": "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-busca-cambiar-los-estratos-y-el-cobro-de-los-servicios-publicos-4522289",
-        "fecha_portada": "",
-        "titulo_fuente": "Gobierno de De la Espriella busca cambiar los estratos y el cobro de los servicios públicos",
-        "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "MinSalud halló eventuales anomalías en $8,4 billones otorgados por contratación directa",
-        "url": "https://www.larepublica.co/economia/minsalud-encontro-posibles-irregularidades-en-8-4-billones-de-contratacion-directa-en-salud-4522414",
-        "fecha_portada": "",
-        "titulo_fuente": "MinSalud encontró posibles irregularidades en $8,4 billones de contratación directa",
-        "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "Ecopetrol habría destinado más de US$85 millones a un pozo de gas que resultó improductivo",
-        "url": "https://www.larepublica.co/economia/ecopetrol-habria-invertido-mas-de-us-85-millones-en-un-pozo-de-gas-que-resulto-seco-4522653",
-        "fecha_portada": "11/11/2026",
-        "titulo_fuente": "Ecopetrol habría invertido más de US$85 millones en un pozo de gas que resultó seco",
-        "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "Confecoop y el Ejecutivo pretenden potenciar la capacidad productiva de las cooperativas",
-        "url": "https://www.larepublica.co/economia/confecoop-y-gobierno-buscan-fortalecer-la-capacidad-productiva-de-las-cooperativas-4522537",
-        "fecha_portada": "",
-        "titulo_fuente": "Confecoop y Gobierno buscan fortalecer la capacidad productiva de las cooperativas",
-        "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "Aumento del salario mínimo en 12% agregaría 0,8 puntos porcentuales a la inflación",
-        "url": "https://www.larepublica.co/economia/alza-del-salario-minimo-de-12-sumaria-0-8-p-p-al-ipc-4522081",
-        "fecha_portada": "",
-        "titulo_fuente": "Alza del salario mínimo de 12% sumaría 0,8 puntos porcentuales a la inflación",
-        "capturado": "2026-11-11T06:14:55-05:00"
-      },
-      {
-        "titulo": "La Unidad de Regulación Financiera evaluará la metodología para calcular la tasa de usura",
-        "url": "https://www.larepublica.co/finanzas/la-urf-revisara-la-metodologia-de-calculo-de-la-usura-en-2027-4521952",
-        "fecha_portada": "11/11/2026",
-        "titulo_fuente": "La Unidad de Regulación Financiera revisará la metodología de cálculo de la tasa de usura",
-        "capturado": "2026-11-11T06:14:55-05:00"
-      },
-      {
-        "titulo": "Productos y servicios que podrían encarecerse en las semanas iniciales de 2027",
-        "url": "https://www.larepublica.co/economia/bienes-y-servicios-que-podrian-subir-de-precio-durante-las-primeras-semanas-de-2027-4521322",
-        "fecha_portada": "10/11/2026",
-        "titulo_fuente": "Bienes y servicios que podrían subir de precio durante las primeras semanas de 2027",
-        "capturado": "2026-11-10T22:15:32-05:00"
       }
     ],
     "Bolsas": [
