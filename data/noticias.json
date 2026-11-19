@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-18T20:31:57-05:00",
-  "nuevos_en_esta_corrida": 14,
+  "actualizado": "2026-11-19T04:33:31-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "¿De qué manera se compensará el recaudo proyectado del IVA a la canasta familiar?",
+        "url": "https://www.larepublica.co/economia/como-se-puede-cubrir-el-recaudo-que-se-esperaba-del-iva-a-la-canasta-familiar-4527792",
+        "fecha_portada": "19/11/2026",
+        "titulo_fuente": "¿Cómo se cubre el recaudo que se esperaba recibir del IVA a la canasta familiar?",
+        "capturado": "2026-11-19T04:33:31-05:00"
+      },
+      {
+        "titulo": "Así opera el reintegro del IVA en el mundo y los modelos que podría adoptar Colombia",
+        "url": "https://www.larepublica.co/globoeconomia/asi-funciona-la-devolucion-del-iva-alrededor-del-mundo-4527875",
+        "fecha_portada": "",
+        "titulo_fuente": "Así funciona devolución del IVA en el mundo y los modelos que podría adoptar Colombia",
+        "capturado": "2026-11-19T04:33:31-05:00"
+      },
+      {
+        "titulo": "De la Espriella niega versión de The New York Times sobre presunto rechazo a plan militar de EE. UU.",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-desmiente-a-the-new-york-times-sobre-supuesto-rechazo-a-plan-militar-4528071",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "De la Espriella desmiente a The New York Times sobre supuesto rechazo a plan militar de EE. UU.",
+        "capturado": "2026-11-19T04:33:31-05:00"
+      },
       {
         "titulo": "La Ley de Rescate Económico prevé un ajuste fiscal cercano al 4,7% del PIB para 2030",
         "url": "https://www.larepublica.co/economia/la-ley-de-rescate-economico-busca-un-ajuste-fiscal-de-4-7-del-pib-para-2030-4527534",
@@ -402,30 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "Con la Ley de Rescate, el carro eléctrico más vendido del mercado subiría $17 millones",
         "capturado": "2026-11-12T03:27:06-05:00"
-      },
-      {
-        "titulo": "El incremento de precios en alimentos tocó su pico en tres años al registrar 7,31% en octubre",
-        "url": "https://www.larepublica.co/economia/la-inflacion-de-alimentos-llego-al-nivel-mas-alto-en-tres-anos-y-alcanzo-7-31-4522810",
-        "fecha_portada": "",
-        "titulo_fuente": "La inflación de alimentos llegó al nivel más alto en tres años y alcanzó 7,31% en octubre",
-        "capturado": "2026-11-12T03:27:06-05:00"
-      },
-      {
-        "titulo": "El Gobierno nacional empieza alistamientos para discutir el salario mínimo",
-        "url": "https://www.larepublica.co/economia/gobierno-nacional-inicia-preparativos-para-la-negociacion-del-salario-minimo-4523105",
-        "fecha_portada": "11/11/2026",
-        "titulo_fuente": "Gobierno nacional inicia preparativos para la negociación del salario mínimo",
-        "capturado": "2026-11-12T03:27:06-05:00"
-      },
-      {
-        "titulo": "Pauta inteligente para gestionar la prima de diciembre entre celebraciones y deudas",
-        "url": "https://www.larepublica.co/finanzas-personales/entre-la-fiesta-y-las-deudas-guia-inteligente-para-administrar-la-prima-de-diciembre-4522802",
-        "fecha_portada": "12/11/2026",
-        "titulo_fuente": "Entre la fiesta y las deudas, guía inteligente para administrar la prima de diciembre",
-        "capturado": "2026-11-12T03:27:06-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Enka, Terpel y Bogotá encabezaron los títulos con mayor alza del mercado",
+        "url": "https://www.larepublica.co/finanzas/enka-terpel-y-bogota-las-acciones-mas-valorizadas-del-mercado-4527744",
+        "fecha_portada": "18/11/2026",
+        "titulo_fuente": "Enka, Terpel y Bogotá lideraron como las acciones más valorizadas del mercado",
+        "capturado": "2026-11-19T04:33:31-05:00"
+      },
+      {
+        "titulo": "Binance presenta Pay Later, la primera opción de pago a plazos respaldada con cripto",
+        "url": "https://www.larepublica.co/finanzas/binance-lanza-pay-later-la-primera-linea-de-pago-diferido-respaldada-por-cripto-4527686",
+        "fecha_portada": "",
+        "titulo_fuente": "Binance lanza 'Pay Later', la primera línea de pago diferido respaldada por cripto",
+        "capturado": "2026-11-19T04:33:31-05:00"
+      },
       {
         "titulo": "El oro bajó de US$3.800 mientras la FED da indicios de incremento en tasas",
         "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-18-de-noviembre-4527115",
@@ -831,20 +845,6 @@
         "fecha_portada": "28/10/2026",
         "titulo_fuente": "“Las criptomonedas ya no son inversión, ahora son infraestructura de pagos”",
         "capturado": "2026-10-28T03:46:02-05:00"
-      },
-      {
-        "titulo": "Initium ingresa a Colombia para profesionalizar la compra y venta de stablecoins en el mercado",
-        "url": "https://www.larepublica.co/especiales/un-futuro-innovador-con-cripto/initium-llega-a-profesionalizar-compraventa-de-stablecoins-4512477",
-        "fecha_portada": "",
-        "titulo_fuente": "Initium llega a Colombia para profesionalizar la compraventa de las stablecoins en el mercado",
-        "capturado": "2026-10-28T03:46:02-05:00"
-      },
-      {
-        "titulo": "Dólar pierde valor ante futuras determinaciones de política monetaria",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-27-de-octubre-de-2026-4511869",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar se cotiza a la baja ante futuras decisiones de política monetaria",
-        "capturado": "2026-10-27T09:41:50-05:00"
       }
     ]
   }
