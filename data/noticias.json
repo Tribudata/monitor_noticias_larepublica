@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-19T19:57:09-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-20T02:55:20-05:00",
+  "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De 2021 a 2026, el sueldo mínimo real registró un incremento acumulado del 32%",
+        "url": "https://www.larepublica.co/economia/entre-2021-y-2026-el-salario-minimo-real-tuvo-un-aumento-acumulado-de-32-4528792",
+        "fecha_portada": "",
+        "titulo_fuente": "Entre 2021 y 2026, el salario mínimo real tuvo un aumento acumulado de 32%",
+        "capturado": "2026-11-20T02:55:20-05:00"
+      },
+      {
+        "titulo": "El impuesto sobre la renta que pagan las compañías colombianas es el más elevado de Latinoamérica",
+        "url": "https://www.larepublica.co/globoeconomia/las-empresas-de-colombia-pagan-el-impuesto-de-renta-mas-alto-de-latam-4529084",
+        "fecha_portada": "20/11/2026",
+        "titulo_fuente": "Las empresas de Colombia están pagando el impuesto de renta más alto de América Latina",
+        "capturado": "2026-11-20T02:55:20-05:00"
+      },
+      {
+        "titulo": "Lo que permanece, se debate y se elimina hasta el momento en la Ley de Rescate Económico",
+        "url": "https://www.larepublica.co/economia/que-queda-que-se-discute-y-que-sale-hasta-ahora-de-la-ley-de-rescate-economico-4528829",
+        "fecha_portada": "",
+        "titulo_fuente": "Qué queda, qué se discute y qué sale hasta ahora de la Ley de Rescate Económico",
+        "capturado": "2026-11-20T02:55:20-05:00"
+      },
+      {
+        "titulo": "Elevadas tasas de interés y escaso crecimiento amenazan la sostenibilidad de la deuda pública",
+        "url": "https://www.larepublica.co/economia/altos-intereses-y-bajo-crecimiento-ponen-en-riesgo-la-sostenibilidad-de-la-deuda-publica-4528357",
+        "fecha_portada": "",
+        "titulo_fuente": "Altos intereses y bajo crecimiento ponen en riesgo la sostenibilidad de la deuda pública",
+        "capturado": "2026-11-20T02:55:20-05:00"
+      },
       {
         "titulo": "La variación trimestral del PIB del grupo de países Ocde finalizó en 0,6% a septiembre",
         "url": "https://www.larepublica.co/globoeconomia/variacion-del-pib-trimestral-del-bloque-ocde-cerro-en-0-6-a-septiembre-4528343",
@@ -395,37 +423,23 @@
         "fecha_portada": "13/11/2026",
         "titulo_fuente": "Reconstrucción tras terremoto costaría $54 billones y pone a prueba al Gobierno",
         "capturado": "2026-11-13T05:08:45-05:00"
-      },
-      {
-        "titulo": "El Presupuesto General por decreto alcanza la cifra histórica de $634,9 billones",
-        "url": "https://www.larepublica.co/especiales/economia-en-100-dias/presupuesto-general-via-decreto-y-un-monto-historico-de-634-9-billones-4523970",
-        "fecha_portada": "",
-        "titulo_fuente": "Presupuesto General vía decreto y un monto histórico de $634,9 billones",
-        "capturado": "2026-11-13T05:08:45-05:00"
-      },
-      {
-        "titulo": "El director del DNP confirmó la aprobación de los cimientos del Plan Nacional de Desarrollo",
-        "url": "https://www.larepublica.co/economia/director-del-dnp-confirmo-aprobacion-de-las-bases-del-plan-nacional-de-desarrollo-4523434",
-        "fecha_portada": "12/11/2026",
-        "titulo_fuente": "Director del DNP confirmó aprobación de las bases del Plan Nacional de Desarrollo",
-        "capturado": "2026-11-13T05:08:45-05:00"
-      },
-      {
-        "titulo": "Consejo Gremial dialogará hoy con el Ministerio de Hacienda sobre la Ley de Rescate",
-        "url": "https://www.larepublica.co/economia/consejo-gremial-se-reunira-hoy-con-minhacienda-para-discutir-la-ley-de-rescate-4523354",
-        "fecha_portada": "",
-        "titulo_fuente": "Consejo Gremial se reunirá hoy con Ministerio de Hacienda para discutir sobre la Ley de Rescate",
-        "capturado": "2026-11-12T11:56:27-05:00"
-      },
-      {
-        "titulo": "El Gobierno pactó incrementar la cifra de ponentes del proyecto de Ley de Rescate",
-        "url": "https://www.larepublica.co/economia/gobierno-acordo-ampliar-el-numero-de-ponentes-del-proyecto-de-ley-de-rescate-4521676",
-        "fecha_portada": "10/11/2026",
-        "titulo_fuente": "Gobierno acordó ampliar el número de ponentes del proyecto de Ley de Rescate",
-        "capturado": "2026-11-12T11:56:27-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar se ubicó en $3.415 tras ganar $88 en un día, la mayor alza registrada desde abril de 2025",
+        "url": "https://www.larepublica.co/finanzas/el-dolar-llego-a-3-415-al-subir-88-en-un-dia-el-aumento-mas-alto-desde-abril-de-2025-4528794",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar llegó a $3.415 al subir $88 en un día, el aumento más alto desde abril de 2025",
+        "capturado": "2026-11-20T02:55:20-05:00"
+      },
+      {
+        "titulo": "Para 2027 se proyecta asignar hasta $1,5 billones a préstamos destinados a pensionados",
+        "url": "https://www.larepublica.co/finanzas/entrevista-con-el-presidente-de-ban100-hector-chaves-quien-hablo-del-mercado-y-las-proyecciones-4528819",
+        "fecha_portada": "",
+        "titulo_fuente": "“Para 2027, proyectamos destinar hasta $1,5 billones a créditos para pensionados”",
+        "capturado": "2026-11-20T02:55:20-05:00"
+      },
       {
         "titulo": "El dólar finalizó la sesión con su incremento más alto desde agosto, subiendo $88,14",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-19-de-noviembre-4528163",
@@ -831,20 +845,6 @@
         "fecha_portada": "28/10/2026",
         "titulo_fuente": "El mercado cripto movió US$29.100 millones, gremio propone medidas regulatorias",
         "capturado": "2026-10-28T15:36:59-05:00"
-      },
-      {
-        "titulo": "El dólar sube a $3.154,96, $6,94 por encima de la TRM del día, fijada en $3.148,02",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-28-de-octubre-de-2026-4512776",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar se cotiza al alza en $3.154,96, $6,94 por arriba de la TRM del día, que se fijó en $3.148,02",
-        "capturado": "2026-10-28T10:31:49-05:00"
-      },
-      {
-        "titulo": "La BVC pasa a denominarse Bolsa de Colombia como parte de la integración en Nuam",
-        "url": "https://www.larepublica.co/finanzas/la-bvc-presento-su-nueva-identidad-ahora-se-pasa-a-llamar-bolsa-de-colombia-4512926",
-        "fecha_portada": "28/10/2026",
-        "titulo_fuente": "La BVC ahora se llama Bolsa de Colombia como parte de la integración en Nuam",
-        "capturado": "2026-10-28T10:31:49-05:00"
       }
     ]
   }
