@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-19T13:42:02-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-19T19:57:09-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La variación trimestral del PIB del grupo de países Ocde finalizó en 0,6% a septiembre",
+        "url": "https://www.larepublica.co/globoeconomia/variacion-del-pib-trimestral-del-bloque-ocde-cerro-en-0-6-a-septiembre-4528343",
+        "fecha_portada": "19/11/2026",
+        "titulo_fuente": "Variación del PIB trimestral del bloque de países Ocde cerró en 0,6% hasta septiembre",
+        "capturado": "2026-11-19T19:57:09-05:00"
+      },
+      {
+        "titulo": "Aliadas ratificó que Ignacio Gaitán sustituirá a María Claudia Lacouture",
+        "url": "https://www.larepublica.co/economia/aliadas-confirmo-que-ignacio-gaitan-sera-el-reemplazo-de-maria-claudia-lacouture-4528878",
+        "fecha_portada": "19/11/2026",
+        "titulo_fuente": "Aliadas confirmó que Ignacio Gaitán será el reemplazo de María Claudia Lacouture",
+        "capturado": "2026-11-19T19:57:09-05:00"
+      },
+      {
+        "titulo": "Pete Hegseth fue a Colombia para afianzar la cooperación bilateral en defensa y seguridad",
+        "url": "https://www.asuntoslegales.com.co/actualidad/pete-hegseth-llego-a-colombia-para-fortalecer-la-cooperacion-en-seguridad-4527781",
+        "fecha_portada": "",
+        "titulo_fuente": "Pete Hegseth viajó a Colombia para fortalecer la cooperación bilateral en defensa y seguridad",
+        "capturado": "2026-11-19T19:57:09-05:00"
+      },
       {
         "titulo": "¿De qué manera se compensará el recaudo proyectado del IVA a la canasta familiar?",
         "url": "https://www.larepublica.co/economia/como-se-puede-cubrir-el-recaudo-que-se-esperaba-del-iva-a-la-canasta-familiar-4527792",
@@ -402,30 +423,23 @@
         "fecha_portada": "10/11/2026",
         "titulo_fuente": "Gobierno acordó ampliar el número de ponentes del proyecto de Ley de Rescate",
         "capturado": "2026-11-12T11:56:27-05:00"
-      },
-      {
-        "titulo": "María Consuelo Araújo habló con Gregory Meeks para restablecer las conversaciones con demócratas",
-        "url": "https://www.larepublica.co/economia/embajadora-de-colombia-se-reunio-con-gregory-meeks-para-recomponer-dialogo-con-democratas-de-ee-uu-4523380",
-        "fecha_portada": "12/11/2026",
-        "titulo_fuente": "María Consuelo Araújo se reunió con Gregory Meeks para recomponer el diálogo con demócratas",
-        "capturado": "2026-11-12T11:56:27-05:00"
-      },
-      {
-        "titulo": "Déficit de empleados en el Metro de Bogotá podría provocar un gasto de US$10 millones",
-        "url": "https://www.larepublica.co/economia/falta-de-personal-en-el-metro-de-bogota-podria-generar-un-gasto-de-us-10-millones-4523174",
-        "fecha_portada": "",
-        "titulo_fuente": "Falta de personal en el Metro de Bogotá podría generar un gasto de US$10 millones",
-        "capturado": "2026-11-12T11:56:27-05:00"
-      },
-      {
-        "titulo": "Por la Ley de Rescate, el auto eléctrico más vendido del mercado se encarecería $17 millones",
-        "url": "https://www.larepublica.co/economia/con-la-ley-de-rescate-el-carro-electrico-mas-vendido-del-mercado-subiria-17-millones-4522353",
-        "fecha_portada": "",
-        "titulo_fuente": "Con la Ley de Rescate, el carro eléctrico más vendido del mercado subiría $17 millones",
-        "capturado": "2026-11-12T03:27:06-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó la sesión con su incremento más alto desde agosto, subiendo $88,14",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-19-de-noviembre-4528163",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró la jornada con su subida más fuerte desde agosto, con un aumento de $88,14",
+        "capturado": "2026-11-19T19:57:09-05:00"
+      },
+      {
+        "titulo": "Preferencial de Grupo Argos y BHI registraron las mayores alzas en la Bolsa de Colombia",
+        "url": "https://www.larepublica.co/finanzas/las-acciones-caen-mientras-disminuyen-las-apuestas-por-la-ia-antes-del-debut-de-anthropic-4528477",
+        "fecha_portada": "",
+        "titulo_fuente": "Preferencial de Grupo Argos y BHI fueron las más valorizadas en la Bolsa de Colombia",
+        "capturado": "2026-11-19T19:57:09-05:00"
+      },
       {
         "titulo": "Enka, Terpel y Bogotá encabezaron los títulos con mayor alza del mercado",
         "url": "https://www.larepublica.co/finanzas/enka-terpel-y-bogota-las-acciones-mas-valorizadas-del-mercado-4527744",
@@ -831,20 +845,6 @@
         "fecha_portada": "28/10/2026",
         "titulo_fuente": "La BVC ahora se llama Bolsa de Colombia como parte de la integración en Nuam",
         "capturado": "2026-10-28T10:31:49-05:00"
-      },
-      {
-        "titulo": "El oro baja por el aumento de precios del petróleo antes de la decisión de la Reserva Federal",
-        "url": "https://www.larepublica.co/finanzas/el-oro-cae-por-alza-de-los-precios-del-petroleo-antes-de-decision-de-la-reserva-federal-4512767",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro cae por alza de los precios del petróleo antes de decisión de la Reserva Federal",
-        "capturado": "2026-10-28T10:31:49-05:00"
-      },
-      {
-        "titulo": "Las criptomonedas pasaron de ser una inversión a convertirse en infraestructura de pagos",
-        "url": "https://www.larepublica.co/especiales/un-futuro-innovador-con-cripto/las-criptomonedas-ya-no-son-inversion-se-trata-de-infraestructura-de-pagos-4512503",
-        "fecha_portada": "28/10/2026",
-        "titulo_fuente": "“Las criptomonedas ya no son inversión, ahora son infraestructura de pagos”",
-        "capturado": "2026-10-28T03:46:02-05:00"
       }
     ]
   }
