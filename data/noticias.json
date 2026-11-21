@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-21T06:50:50-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-21T13:18:40-05:00",
+  "nuevos_en_esta_corrida": 5,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Según la Ocde, el PIB nacional aumentará 2,1% en 2027, 0,5% por debajo del año anterior",
+        "url": "https://www.larepublica.co/economia/pib-del-pais-crecera-2-1-el-proximo-ano-0-5-menos-que-el-ano-pasado-segun-la-ocde-4529755",
+        "fecha_portada": "",
+        "titulo_fuente": "PIB del país crecerá 2,1% en 2027, 0,5% menos que el año pasado, según la Ocde",
+        "capturado": "2026-11-21T13:18:40-05:00"
+      },
+      {
+        "titulo": "El valor de minimis procedentes de plataformas como Temu se elevó 500% a partir de 2023",
+        "url": "https://www.larepublica.co/economia/valor-de-los-minimis-desde-plataformas-como-temu-crecio-500-desde-2023-4529736",
+        "fecha_portada": "21/11/2026",
+        "titulo_fuente": "Valor de los minimis desde plataformas como Temu ha crecido 500% desde 2023",
+        "capturado": "2026-11-21T13:18:40-05:00"
+      },
+      {
+        "titulo": "Colombia ocupa la cuarta posición regional con mayor número de personas en pobreza extrema",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-cuarto-pais-de-la-region-con-mas-poblacion-en-pobreza-extrema-4529780",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia es el cuarto país de la región con más población en pobreza extrema",
+        "capturado": "2026-11-21T13:18:40-05:00"
+      },
+      {
+        "titulo": "El salario mínimo se debatirá con previsiones de inflación superiores al 7% al cierre del año",
+        "url": "https://www.larepublica.co/economia/minimo-se-discutira-con-proyecciones-de-inflacion-encima-de-7-a-fin-de-ano-4529762",
+        "fecha_portada": "",
+        "titulo_fuente": "Mínimo se discutirá con proyecciones de inflación encima de 7% a fin de año",
+        "capturado": "2026-11-21T13:18:40-05:00"
+      },
+      {
+        "titulo": "Faltando 10 días para empezar diciembre, los embalses se mantienen en 76,87% de su capacidad",
+        "url": "https://www.larepublica.co/economia/a-10-dias-de-iniciar-la-temporada-seca-los-embalses-estan-en-76-87-de-su-capacidad-4529345",
+        "fecha_portada": "20/11/2026",
+        "titulo_fuente": "A 10 días de iniciar diciembre, los embalses aún están en 76,87% de su capacidad",
+        "capturado": "2026-11-21T13:18:40-05:00"
+      },
       {
         "titulo": "Según previsiones de la Ocde el PIB perderá ritmo y subirá el desempleo para 2027",
         "url": "https://www.larepublica.co/economia/la-ocde-presento-el-informe-de-estudios-economicos-de-la-ocde-colombia-2026-4528958",
@@ -388,41 +423,6 @@
         "fecha_portada": "",
         "titulo_fuente": "DNP entregó el libro de las Bases del PND 2026-2030 al Consejo Nacional de Planeación",
         "capturado": "2026-11-13T17:56:34-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda sostuvo un encuentro con el Banco Mundial para conversar de tributaria",
-        "url": "https://www.larepublica.co/economia/reunion-entre-el-ministerio-de-hacienda-y-banco-mundial-sobre-la-reforma-tributaria-4524524",
-        "fecha_portada": "",
-        "titulo_fuente": "Ministerio de Hacienda se reunió con el Banco Mundial para hablar de tributaria",
-        "capturado": "2026-11-13T17:56:34-05:00"
-      },
-      {
-        "titulo": "¿Quién es el empresario Jaime Andrés Uribe Tamayo, hoy gerente del Fondo Milagro?",
-        "url": "https://www.larepublica.co/economia/quien-es-jaime-andres-uribe-tamayo-gerente-del-fondo-milagro-4524050",
-        "fecha_portada": "",
-        "titulo_fuente": "¿Quién es Jaime Andrés Uribe Tamayo, actual gerente del Fondo Milagro y empresario?",
-        "capturado": "2026-11-13T12:54:29-05:00"
-      },
-      {
-        "titulo": "La nómina del Fondo Milagro registraba 27 puestos, 19 con pagos superiores a $33 millones",
-        "url": "https://www.larepublica.co/economia/nomina-del-fondo-milagro-incluia-27-cargos-mas-de-la-mitad-con-pagos-de-mas-30-millones-4524067",
-        "fecha_portada": "",
-        "titulo_fuente": "Nómina del Fondo Milagro incluía 27 cargos, 19 con pagos de más $33 millones",
-        "capturado": "2026-11-13T12:54:29-05:00"
-      },
-      {
-        "titulo": "Colombia ocupa el sexto lugar entre 10 economías de América Latina con mayor riesgo para invertir",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-sexto-pais-con-el-mayor-riesgo-de-inversion-en-america-latina-4524171",
-        "fecha_portada": "13/11/2026",
-        "titulo_fuente": "Colombia es sexta entre 10 economías con el mayor riesgo de inversión en América Latina",
-        "capturado": "2026-11-13T12:54:29-05:00"
-      },
-      {
-        "titulo": "El Icdt expuso propuestas sobre la extensión de la base gravable del IVA",
-        "url": "https://www.larepublica.co/economia/icdt-presento-propuestas-en-relacion-con-la-ampliacion-de-la-base-gravable-del-iva-4524449",
-        "fecha_portada": "13/11/2026",
-        "titulo_fuente": "Icdt presentó propuestas en relación con la ampliación de la base gravable del IVA",
-        "capturado": "2026-11-13T12:54:29-05:00"
       }
     ],
     "Bolsas": [
