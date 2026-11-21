@@ -1,7 +1,7 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-20T22:34:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-21T06:50:50-05:00",
+  "nuevos_en_esta_corrida": 1,
   "etiquetas": {
     "Hacienda": [
       {
@@ -427,6 +427,13 @@
     ],
     "Bolsas": [
       {
+        "titulo": "Quiénes se benefician y quiénes se perjudican con el dólar cercano a $3.500",
+        "url": "https://www.larepublica.co/finanzas/quienes-ganan-y-quienes-pierden-con-el-dolar-cerca-de-3-500-4529124",
+        "fecha_portada": "",
+        "titulo_fuente": "Quiénes son los que ganan y quiénes pierden con el dólar cerca de $3.500",
+        "capturado": "2026-11-21T06:50:50-05:00"
+      },
+      {
         "titulo": "Grupo Argos informó la enajenación de más de 35 millones de acciones ordinarias de Cementos Argos",
         "url": "https://www.larepublica.co/finanzas/grupo-argos-vendio-mas-de-35-millones-de-acciones-ordinarias-de-cementos-argos-4529626",
         "fecha_portada": "",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/bitcoin-cae-por-debajo-de-los-us-77-000-tras-hackeo-de-binance-que-sacude-el-mundo-cripto-4514818",
         "fecha_portada": "30/10/2026",
         "titulo_fuente": "Bitcoin cae por debajo de los US$77.000 tras hackeo de Binance que sacude a las cripto",
-        "capturado": "2026-10-30T11:02:49-05:00"
-      },
-      {
-        "titulo": "La baja de tecnológicas se acentúa por dudas sobre el gasto en inteligencia artificial",
-        "url": "https://www.larepublica.co/globoeconomia/caida-de-tecnologicas-se-intensifica-por-dudas-sobre-gasto-en-inteligencia-artificial-4515014",
-        "fecha_portada": "",
-        "titulo_fuente": "Caída de tecnológicas se intensifica por dudas sobre gasto en inteligencia artificial",
         "capturado": "2026-10-30T11:02:49-05:00"
       }
     ]
