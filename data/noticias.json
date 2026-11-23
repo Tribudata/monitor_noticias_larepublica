@@ -1,9 +1,58 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-22T23:10:19-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-23T10:01:23-05:00",
+  "nuevos_en_esta_corrida": 11,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "En 2027 Colombia registrará un día festivo cada 19 días considerando que suma 365 días",
+        "url": "https://www.larepublica.co/globoeconomia/colombia-va-a-tener-un-festivo-cada-19-dias-durante-el-proximo-curso-4530334",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia tendrá un festivo cada 19 días en 2027 teniendo en cuenta que tendrá 365 días",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "A octubre la IED sumó 18 meses seguidos sin llegar a US$1.000 millones mensuales",
+        "url": "https://www.larepublica.co/economia/en-octubre-la-ied-completo-18-meses-consecutivos-sin-alcanzar-us-1-000-millones-mensuales-4530674",
+        "fecha_portada": "23/11/2026",
+        "titulo_fuente": "En octubre la IED completó 18 meses consecutivos sin alcanzar US$1.000 millones mensuales",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "IVA a apuestas la disyuntiva está entre obtener recaudo o sostener el negocio",
+        "url": "https://www.larepublica.co/economia/iva-para-apuestas-el-dilema-entre-recaudo-o-mantener-el-negocio-4530411",
+        "fecha_portada": "23/11/2026",
+        "titulo_fuente": "IVA para apuestas, el dilema radica entre recaudar o mantener el negocio",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "Ciudades capitales invirtieron $46,7 billones durante el primer semestre",
+        "url": "https://www.larepublica.co/economia/ciudades-capitales-destinaron-46-7-billones-a-inversion-durante-el-primer-semestre-de-2026-4529707",
+        "fecha_portada": "",
+        "titulo_fuente": "Ciudades capitales destinaron $46,7 billones a inversión en el primer semestre",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "Escasez de lluvias en Cundinamarca sobrepasa registros de El Niño de 1997",
+        "url": "https://www.larepublica.co/economia/deficit-de-lluvias-en-cundinamarca-supera-los-niveles-registrados-durante-el-nino-de-1997-4530753",
+        "fecha_portada": "23/11/2026",
+        "titulo_fuente": "Déficit de lluvias en Cundinamarca supera niveles registrados de El Niño de 1997",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "Gobierno dará auxilios de arrendamiento y vivienda a perjudicados por el terremoto",
+        "url": "https://www.larepublica.co/economia/gobierno-entregara-subsidios-de-arriendo-y-vivienda-a-familias-afectadas-por-el-terremoto-4529787",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno entregará subsidios de arriendo y vivienda a afectados por el terremoto",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "Dirigentes del Valle se congregaron en otra edición de Encontrémonos en las Regiones",
+        "url": "https://www.larepublica.co/ocio/lideres-del-valle-se-reunieron-en-nueva-edicion-de-encontremonos-en-las-regiones-4530435",
+        "fecha_portada": "",
+        "titulo_fuente": "Líderes del Valle se reunieron en nueva edición de Encontrémonos en las Regiones",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
       {
         "titulo": "Ocde propone elevar la edad de jubilación, extender el IVA y quitar subsidios por estratos",
         "url": "https://www.larepublica.co/economia/ocde-plantea-subir-la-edad-de-pension-ampliar-el-iva-y-eliminar-subsidios-por-estratos-4530260",
@@ -374,58 +423,37 @@
         "fecha_portada": "15/11/2026",
         "titulo_fuente": "De la Espriella llega a sus 100 días con una tributaria como su principal apuesta fiscal",
         "capturado": "2026-11-15T09:23:12-05:00"
-      },
-      {
-        "titulo": "Uribe terminó esperanzado en alivios tras cita con el Gobierno sobre tributaria",
-        "url": "https://www.larepublica.co/economia/uribe-y-congresistas-del-centro-democratico-se-reunen-con-restrepo-para-estudiar-la-tributaria-4525205",
-        "fecha_portada": "14/11/2026",
-        "titulo_fuente": "Uribe salió con “ilusión” de alivios tras reunión con el Gobierno sobre tributaria",
-        "capturado": "2026-11-14T15:48:45-05:00"
-      },
-      {
-        "titulo": "El BID autorizó US$450 millones para promover reformas e inversiones en el sector eléctrico",
-        "url": "https://www.larepublica.co/economia/bid-aprueba-us-450-millones-para-impulsar-reformas-e-inversiones-en-el-sector-electrico-4525375",
-        "fecha_portada": "14/11/2026",
-        "titulo_fuente": "BID aprueba US$450 millones para impulsar reformas e inversiones en el sector eléctrico",
-        "capturado": "2026-11-14T15:48:45-05:00"
-      },
-      {
-        "titulo": "La Comisión de Regulación de Agua Potable y Saneamiento Básico presentó el marco tarifario de aseo",
-        "url": "https://www.larepublica.co/economia/nuevo-marco-tarifario-de-aseo-4525362",
-        "fecha_portada": "",
-        "titulo_fuente": "Comisión de Regulación de Agua Potable y Saneamiento Básico expuso marco tarifario de aseo",
-        "capturado": "2026-11-14T15:48:45-05:00"
-      },
-      {
-        "titulo": "Reconstruir a Pereira tendría un costo cercano a los $13 billones de acuerdo con estimaciones",
-        "url": "https://www.larepublica.co/economia/entrevista-con-mauricio-salazar-alcalde-de-pereira-sobre-el-fondo-milagro-y-los-fondos-para-la-reconstruccion-4524911",
-        "fecha_portada": "14/11/2026",
-        "titulo_fuente": "“La reconstrucción de Pereira puede llegar a costar alrededor de $13 billones, según cálculos”",
-        "capturado": "2026-11-14T04:32:53-05:00"
-      },
-      {
-        "titulo": "De 135 proyectos de la Milagro Week, cinco pretenden atraer el 50% del dinero total estimado",
-        "url": "https://www.larepublica.co/economia/cinco-proyectos-de-la-milagro-week-traerian-50-del-monto-total-4524904",
-        "fecha_portada": "",
-        "titulo_fuente": "Cinco de los 135 proyectos de la ‘Milagro Week’ buscan traer 50% del monto total esperado",
-        "capturado": "2026-11-14T04:32:53-05:00"
-      },
-      {
-        "titulo": "De La Espriella nombra a Luis Felipe Henao como nuevo gerente del Fondo Milagro",
-        "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-designo-a-luis-felipe-henao-como-gerente-del-fondo-milagro-4524924",
-        "fecha_portada": "13/11/2026",
-        "titulo_fuente": "De La Espriella designa a Luis Felipe Henao como el nuevo gerente del Fondo Milagro",
-        "capturado": "2026-11-13T21:48:16-05:00"
-      },
-      {
-        "titulo": "Gobierno inicia mesas de conversación con gremios y parlamentarios para analizar la Ley de Rescate",
-        "url": "https://www.larepublica.co/economia/gobierno-abre-mesas-de-dialogo-con-gremios-y-congresistas-para-discutir-la-ley-de-rescate-4524961",
-        "fecha_portada": "13/11/2026",
-        "titulo_fuente": "Gobierno abre mesas de diálogo con gremios y congresistas para discutir la Ley de Rescate",
-        "capturado": "2026-11-13T21:48:16-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "La cotización promedio del dólar subió $68,3 y sobrepasó el límite de los $3.500",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-noviembre-4530545",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio promedio del dólar cotiza $68,3 al alza y superó la barrera de los $3.500",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "El oro repunta por el ingreso de compradores después de la peor semana desde marzo",
+        "url": "https://www.larepublica.co/finanzas/precios-del-oro-23-de-noviembre-de-2026-4530537",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro se recupera gracias a la entrada de compradores tras la peor semana desde marzo",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "La baja de bitcoin a niveles de US$61.000 ahuyenta inversiones en ETF de criptos",
+        "url": "https://www.larepublica.co/globoeconomia/caida-de-bitcoin-a-niveles-de-us-61-000-espanta-inversiones-en-etf-de-criptos-4530692",
+        "fecha_portada": "23/11/2026",
+        "titulo_fuente": "Caída de bitcoin a niveles de US$61.000 espanta inversiones en ETF de criptos",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
+      {
+        "titulo": "Futuros accionarios de EE.UU. suben luego de sugerencias de compra",
+        "url": "https://www.larepublica.co/finanzas/futuros-de-las-acciones-de-ee-uu-repuntan-tras-recomendaciones-de-compra-de-wall-street-4530677",
+        "fecha_portada": "23/11/2026",
+        "titulo_fuente": "Futuros de las acciones de EE.UU. repuntan tras recomendaciones de compra",
+        "capturado": "2026-11-23T10:01:23-05:00"
+      },
       {
         "titulo": "Quiénes se benefician y quiénes se perjudican con el dólar cercano a $3.500",
         "url": "https://www.larepublica.co/finanzas/quienes-ganan-y-quienes-pierden-con-el-dolar-cerca-de-3-500-4529124",
@@ -817,34 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Los mercados mantienen la cautela ante las elecciones de medio término en EE.UU.",
         "capturado": "2026-11-03T13:29:30-05:00"
-      },
-      {
-        "titulo": "El oro bajó por temor a la inflación, con atención centrada en las elecciones de Estados Unidos",
-        "url": "https://www.larepublica.co/finanzas/precio-del-oro-3-de-noviembre-4516418",
-        "fecha_portada": "03/11/2026",
-        "titulo_fuente": "El oro cayó por temores de inflación, con foco en las elecciones en Estados Unidos",
-        "capturado": "2026-11-03T13:29:30-05:00"
-      },
-      {
-        "titulo": "Binance ya restituyó más de 90% de los activos hurtados durante un evento de seguridad",
-        "url": "https://www.larepublica.co/globoeconomia/binance-repone-90-de-los-activos-sustraidos-en-un-incidente-de-seguridad-4515845",
-        "fecha_portada": "",
-        "titulo_fuente": "Binance ya repuso más de 90% de los activos sustraídos en un incidente de seguridad",
-        "capturado": "2026-11-01T04:26:08-05:00"
-      },
-      {
-        "titulo": "La divisa se negocia en $3.174,54, superando por $7,63 la TRM de la jornada de $3.166,91",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-30-de-octubre-4514831",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar se cotiza en $3.174,54, $7,63 por encima de la TRM del día, que se ubicó en $3.166,91",
-        "capturado": "2026-10-30T11:02:49-05:00"
-      },
-      {
-        "titulo": "Bitcoin baja de US$77.000 tras ciberataque a Binance que afecta a las criptomonedas",
-        "url": "https://www.larepublica.co/globoeconomia/bitcoin-cae-por-debajo-de-los-us-77-000-tras-hackeo-de-binance-que-sacude-el-mundo-cripto-4514818",
-        "fecha_portada": "30/10/2026",
-        "titulo_fuente": "Bitcoin cae por debajo de los US$77.000 tras hackeo de Binance que sacude a las cripto",
-        "capturado": "2026-10-30T11:02:49-05:00"
       }
     ]
   }
