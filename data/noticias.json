@@ -1,9 +1,30 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-23T21:24:20-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-24T07:41:34-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "De este modo se costeará el Plan Nacional de Desarrollo de $2.839 billones de 2027 a 2030",
+        "url": "https://www.larepublica.co/economia/asi-se-financiara-el-plan-nacional-de-desarrollo-de-2-839-billones-4531387",
+        "fecha_portada": "",
+        "titulo_fuente": "Así se financiará Plan Nacional de Desarrollo por $2.839 billones entre 2027 y 2030",
+        "capturado": "2026-11-24T07:41:34-05:00"
+      },
+      {
+        "titulo": "Colombia ha avalado 21 reformas tributarias de 1990 a 2022, una cada 18 meses",
+        "url": "https://www.larepublica.co/economia/colombia-ha-aprobado-21-reformas-tributarias-desde-1990-hasta-2022-una-cada-18-meses-4531428",
+        "fecha_portada": "24/11/2026",
+        "titulo_fuente": "Colombia ha aprobado 21 reformas tributarias desde 1990 hasta 2022, una cada 18 meses",
+        "capturado": "2026-11-24T07:41:34-05:00"
+      },
+      {
+        "titulo": "Andi planteó una contribución de las empresas por $48,8 billones para respaldar el ajuste fiscal",
+        "url": "https://www.larepublica.co/economia/andi-propuso-un-aporte-empresarial-de-48-8-billones-para-apoyar-el-ajuste-fiscal-4531587",
+        "fecha_portada": "",
+        "titulo_fuente": "Andi propuso un aporte empresarial de $48,8 billones para apoyar el ajuste fiscal",
+        "capturado": "2026-11-24T07:41:34-05:00"
+      },
       {
         "titulo": "Carf alerta que Ley de Rescate no alcanzaría y dejaría un faltante de $9,6 billones",
         "url": "https://www.larepublica.co/economia/carf-advierte-que-ley-de-rescate-no-seria-suficiente-dejaria-un-faltante-de-9-6-billones-4531489",
@@ -402,30 +423,16 @@
         "fecha_portada": "17/11/2026",
         "titulo_fuente": "Andi advierte rezago de la inversión y pide impulsar el crecimiento económico",
         "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "Banco de Bogotá alerta sobre desaceleración del PIB colombiano y riesgo de estanflación",
-        "url": "https://www.larepublica.co/economia/banco-de-bogota-advierte-desaceleracion-del-pib-colombiano-y-riesgo-de-estanflacion-4526948",
-        "fecha_portada": "",
-        "titulo_fuente": "Banco de Bogotá advierte desaceleración del PIB colombiano y riesgo de estanflación",
-        "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "El valor del mínimo pasó de $260.100 a comienzos del milenio a $1,75 millones",
-        "url": "https://www.larepublica.co/economia/lo-que-sube-con-el-aumento-del-minimo-4524226",
-        "fecha_portada": "17/11/2026",
-        "titulo_fuente": "El monto del mínimo pasó de $260.100 en el comienzo del milenio hasta $1,75 millones",
-        "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "Estados Unidos podría destinar más de US$6.000 millones anuales para lograr el PIB",
-        "url": "https://www.larepublica.co/economia/inversion-de-estados-unidos-en-meta-del-pib-4525982",
-        "fecha_portada": "16/11/2026",
-        "titulo_fuente": "Estados Unidos podría invertir más de US$6.000 millones al año para cumplir PIB",
-        "capturado": "2026-11-16T23:01:32-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Con el dólar a $3.506 viajar a Estados Unidos en Navidad cuesta $1,1 millón menos",
+        "url": "https://www.larepublica.co/finanzas/viajar-a-estados-unidos-esta-1-1-millon-mas-barato-con-el-dolar-cotizando-en-3-506-4531338",
+        "fecha_portada": "",
+        "titulo_fuente": "Viajar a Estados Unidos en Navidad está $1,1 millón más barato con el dólar en $3.506",
+        "capturado": "2026-11-24T07:41:34-05:00"
+      },
       {
         "titulo": "¿Conviene invertir en bolsa luego de sesiones de caídas en el S&P 500?",
         "url": "https://www.larepublica.co/finanzas/es-buen-momento-para-invertir-en-bolsa-tras-siete-jornadas-consecutivas-de-perdidas-en-el-s-p-500-4530828",
@@ -838,13 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Oro sube ante baja del dólar por avances demócratas en elecciones de medio mandato",
         "capturado": "2026-11-04T13:43:47-05:00"
-      },
-      {
-        "titulo": "El dólar subió $54,15 al cierre, pendiente de los resultados de las elecciones en Estados Unidos",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-3-de-noviembre-de-2026-4516451",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró $54,15 al alza, a la espera de los resultados electorales en Estados Unidos",
-        "capturado": "2026-11-03T13:29:30-05:00"
       }
     ]
   }
