@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-24T07:41:34-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-24T17:48:25-05:00",
+  "nuevos_en_esta_corrida": 11,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Ejecutivo dialogó con bancadas de los partidos Liberal y Verde para acordar reforma tributaria",
+        "url": "https://www.larepublica.co/economia/gobierno-se-reunio-con-bancadas-de-los-partidos-verde-y-liberal-para-concertar-tributaria-4532064",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno se reunió con bancadas de los partidos Verde y Liberal para concertar tributaria",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate no cumpliría el objetivo, aunque obtendría un ajuste fiscal sin precedentes",
+        "url": "https://www.larepublica.co/economia/la-ley-de-rescate-no-alcanzaria-la-meta-pero-lograria-un-ajuste-fiscal-sin-precedentes-4531988",
+        "fecha_portada": "24/11/2026",
+        "titulo_fuente": "La Ley de Rescate no alcanzaría la meta, pero lograría un ajuste fiscal “sin precedentes”",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "Partido Conservador propone sobretasa de renta a las 10.000 empresas de mayor tamaño",
+        "url": "https://www.larepublica.co/economia/partido-conservador-plantea-sobretasa-de-renta-a-las-10-000-empresas-mas-grandes-4531775",
+        "fecha_portada": "24/11/2026",
+        "titulo_fuente": "Partido Conservador plantea sobretasa de renta a las 10.000 empresas más grandes",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "Ley de Rescate resultará clave para modificar las proyecciones de inversión",
+        "url": "https://www.larepublica.co/economia/ley-de-rescate-sera-determinante-para-mover-las-expectativas-de-inversion-4531852",
+        "fecha_portada": "24/11/2026",
+        "titulo_fuente": "Ley de Rescate será determinante para mover las expectativas de inversión",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "Ponencia de la Ley de Rescate se presentará el lunes y la discusión comenzará el 1 de diciembre",
+        "url": "https://www.larepublica.co/economia/ponencia-de-la-ley-de-rescate-se-radicara-el-lunes-y-el-debate-iniciara-el-1-de-diciembre-4532208",
+        "fecha_portada": "",
+        "titulo_fuente": "Ponencia de la Ley de Rescate se radicará el lunes y el debate iniciará el 1 de diciembre",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
       {
         "titulo": "De este modo se costeará el Plan Nacional de Desarrollo de $2.839 billones de 2027 a 2030",
         "url": "https://www.larepublica.co/economia/asi-se-financiara-el-plan-nacional-de-desarrollo-de-2-839-billones-4531387",
@@ -388,44 +423,51 @@
         "fecha_portada": "",
         "titulo_fuente": "La economía apenas creció 0,5% en el tercer trimestre, el menor alza del PIB del año",
         "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "The Economist incluye en la agenda de 2027 los efectos de Irán y la era post-Trump",
-        "url": "https://www.larepublica.co/globoeconomia/repercusiones-de-iran-y-era-post-trump-agenda-de-2027-por-the-economist-4526239",
-        "fecha_portada": "17/11/2026",
-        "titulo_fuente": "Repercusiones de Irán y la era post-Trump, la agenda de 2027 por The Economist",
-        "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "Un ajuste fiscal de 4,74% del PIB en 2030 propone la Ley de Rescate Económico",
-        "url": "https://www.larepublica.co/economia/ley-de-rescate-economico-plantea-ajuste-fiscal-de-4-74-del-pib-en-2030-4526885",
-        "fecha_portada": "",
-        "titulo_fuente": "La Ley de Rescate Económico plantea hacer un ajuste fiscal de 4,74% del PIB en 2030",
-        "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "Colfondos cumple 35 años administrando $76,2 billones en activos",
-        "url": "https://www.larepublica.co/finanzas/colfondos-llega-a-sus-35-anos-con-76-2-billones-en-activos-administrados-4526512",
-        "fecha_portada": "",
-        "titulo_fuente": "Colfondos llega a sus 35 años con $76,2 billones en activos bajo administración",
-        "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "MinHacienda prevé el primer debate de la Ley de Rescate Fiscal para el 1 de diciembre",
-        "url": "https://www.larepublica.co/economia/minhacienda-apunta-a-primer-debate-de-la-tributaria-para-el-1-de-diciembre-4526414",
-        "fecha_portada": "17/11/2026",
-        "titulo_fuente": "MinHacienda apunta a primer debate de la Ley de Rescate Fiscal para el 1 de diciembre",
-        "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "La Andi alerta sobre atraso en la inversión y pide promover el crecimiento económico",
-        "url": "https://www.larepublica.co/economia/andi-advierte-rezago-de-la-inversion-y-pide-impulsar-el-crecimiento-economico-4527054",
-        "fecha_portada": "17/11/2026",
-        "titulo_fuente": "Andi advierte rezago de la inversión y pide impulsar el crecimiento económico",
-        "capturado": "2026-11-18T06:57:56-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Así cotiza la compra y venta del dólar en casas de cambio luego del incremento",
+        "url": "https://www.larepublica.co/finanzas/las-casas-de-cambio-venden-el-dolar-en-promedio-58-90-por-debajo-de-la-trm-4532026",
+        "fecha_portada": "24/11/2026",
+        "titulo_fuente": "Así está el precio de compra y venta del dólar en las casas de cambio tras alza",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "El valor del dólar roza los $3.600 tras finalizar $84 sobre la TRM",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-24-de-noviembre-4531599",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del dólar se acerca a la línea de los $3.600 luego de cerrar $84 por encima de la TRM",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "El valor del euro se fija en $3.862,30, ha incrementado $225,34 en una semana, un 6,20% al alza",
+        "url": "https://www.larepublica.co/finanzas/precio-del-euro-el-24-de-noviembre-de-2026-4531928",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del euro se ubica en $3.862,30, ha subido $225,34 en una semana, 6,20% de alza",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "La transacción de dólares en plataformas digitales vale entre $3.590 y hasta $3.677",
+        "url": "https://www.larepublica.co/finanzas/comprar-dolares-por-billeteras-digitales-puede-costar-hasta-3-677-4532054",
+        "fecha_portada": "24/11/2026",
+        "titulo_fuente": "La compra y venta de dólares por plataformas digitales cuesta entre $3.590 y hasta $3.677",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "Mercados asiáticos ganaron hasta 8,99%, mientras Wall Street cayó por tecnológicas",
+        "url": "https://www.larepublica.co/finanzas/las-bolsas-asiaticas-subieron-hasta-8-99-mientras-wall-street-retrocedio-por-tecnologicas-4532072",
+        "fecha_portada": "",
+        "titulo_fuente": "Bolsas asiáticas subieron hasta 8,99%, mientras Wall Street bajó por tecnológicas",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
+      {
+        "titulo": "J.P. Morgan halla opciones de inversión en bonos y activos reales para 2027",
+        "url": "https://www.larepublica.co/finanzas/j-p-morgan-ve-oportunidades-en-bonos-y-activos-reales-para-invertir-en-2027-4531679",
+        "fecha_portada": "",
+        "titulo_fuente": "J.P. Morgan ve oportunidades de inversión en bonos y activos reales para 2027",
+        "capturado": "2026-11-24T17:48:25-05:00"
+      },
       {
         "titulo": "Con el dólar a $3.506 viajar a Estados Unidos en Navidad cuesta $1,1 millón menos",
         "url": "https://www.larepublica.co/finanzas/viajar-a-estados-unidos-esta-1-1-millon-mas-barato-con-el-dolar-cotizando-en-3-506-4531338",
@@ -803,48 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Anthropic sale a bolsa advirtiendo sobre riesgos existenciales de su propia IA",
         "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "Grupo Cibest, Grupo Sura y Banco de Bogotá ofrecerán los dividendos más llamativos",
-        "url": "https://www.larepublica.co/finanzas/grupo-cibest-grupo-sura-y-banco-de-bogota-tendran-los-dividendos-mas-atractivos-4517874",
-        "fecha_portada": "",
-        "titulo_fuente": "Grupo Cibest, Grupo Sura y Banco de Bogotá tendrán los dividendos más atractivos",
-        "capturado": "2026-11-05T07:56:04-05:00"
-      },
-      {
-        "titulo": "El oro registró un pico de dos semanas, mientras el dólar y el crudo descendieron tras comicios",
-        "url": "https://www.larepublica.co/finanzas/precio-del-oro-5-de-noviembre-4518058",
-        "fecha_portada": "05/11/2026",
-        "titulo_fuente": "Oro tocó un máximo de dos semanas, mientras el dólar y el crudo bajaron tras elecciones",
-        "capturado": "2026-11-05T07:56:04-05:00"
-      },
-      {
-        "titulo": "Títulos de Tesla bajan 5% y SpaceX 6,9% luego de la victoria demócrata en las midterm",
-        "url": "https://www.larepublica.co/globoeconomia/las-acciones-de-tesla-caen-5-y-spacex-se-desploma-6-9-antes-de-la-apertura-del-mercado-4517464",
-        "fecha_portada": "",
-        "titulo_fuente": "Acciones de Tesla caen 5% y SpaceX 6,9% tras victoria de demócratas en las 'midterm'",
-        "capturado": "2026-11-04T18:58:56-05:00"
-      },
-      {
-        "titulo": "El dólar finalizó con una reducción de $14,19 luego de las elecciones intermedias de EE.UU.",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-petroleo-hoy-4-de-noviembre-de-2026-4517240",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró con una caída de $14,19 tras las midterm elections de EE.UU.",
-        "capturado": "2026-11-04T13:43:47-05:00"
-      },
-      {
-        "titulo": "La inflación en la zona euro aumentó al 4,0% en octubre, su cifra más alta en tres años",
-        "url": "https://www.larepublica.co/globoeconomia/la-inflacion-de-la-zona-euro-subio-hasta-4-0-en-octubre-su-nivel-mas-alto-en-tres-anos-4517219",
-        "fecha_portada": "",
-        "titulo_fuente": "La inflación de la zona euro subió hasta 4,0% en octubre, su nivel más alto en tres años",
-        "capturado": "2026-11-04T13:43:47-05:00"
-      },
-      {
-        "titulo": "Oro aumenta frente a la baja del dólar por avances demócratas en elecciones intermedias",
-        "url": "https://www.larepublica.co/finanzas/precios-del-oro-hoy-4-de-noviembre-de-2026-4517201",
-        "fecha_portada": "",
-        "titulo_fuente": "Oro sube ante baja del dólar por avances demócratas en elecciones de medio mandato",
-        "capturado": "2026-11-04T13:43:47-05:00"
       }
     ]
   }
