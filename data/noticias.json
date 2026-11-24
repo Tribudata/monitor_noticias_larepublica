@@ -1,9 +1,58 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-23T10:01:23-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-11-23T21:24:20-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Carf alerta que Ley de Rescate no alcanzaría y dejaría un faltante de $9,6 billones",
+        "url": "https://www.larepublica.co/economia/carf-advierte-que-ley-de-rescate-no-seria-suficiente-dejaria-un-faltante-de-9-6-billones-4531489",
+        "fecha_portada": "23/11/2026",
+        "titulo_fuente": "Carf advierte que Ley de Rescate no sería suficiente y dejaría un faltante de $9,6 billones",
+        "capturado": "2026-11-23T21:24:20-05:00"
+      },
+      {
+        "titulo": "Sondeo del Emisor prevé que tasas seguirán inalteradas, cerrando el año en 12,25%",
+        "url": "https://www.larepublica.co/economia/encuesta-del-emisor-anticipa-que-tasa-se-mantendra-quieta-y-cerrara-el-ano-en-12-25-4530829",
+        "fecha_portada": "",
+        "titulo_fuente": "Encuesta del Emisor anticipa que tasas seguirán quietas, cerrando el año en 12,25%",
+        "capturado": "2026-11-23T21:24:20-05:00"
+      },
+      {
+        "titulo": "Congreso iniciará audiencias en Bogotá, Cali y Barranquilla para acordar la tributaria",
+        "url": "https://www.larepublica.co/economia/congreso-abrira-audiencias-en-bogota-cali-y-barranquilla-para-concertar-la-tributaria-4531030",
+        "fecha_portada": "23/11/2026",
+        "titulo_fuente": "Congreso abrirá audiencias en Bogotá, Cali y Barranquilla para concertar la tributaria",
+        "capturado": "2026-11-23T21:24:20-05:00"
+      },
+      {
+        "titulo": "Ministerio de Hacienda avaló adición de casi $20.000 millones al Presupuesto 2026",
+        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-aprobo-adicion-de-casi-20-000-millones-al-presupuesto-de-2026-4530942",
+        "fecha_portada": "",
+        "titulo_fuente": "Ministerio de Hacienda aprobó adición de casi $20.000 millones al Presupuesto 2026",
+        "capturado": "2026-11-23T21:24:20-05:00"
+      },
+      {
+        "titulo": "Secretaría de Hacienda de Bogotá expuso proyecto presupuestal por $42,7 billones",
+        "url": "https://www.larepublica.co/economia/la-secretaria-de-hacienda-de-bogota-presento-proyecto-presupuestal-por-42-7-billones-4531296",
+        "fecha_portada": "23/11/2026",
+        "titulo_fuente": "Secretaría de Hacienda de Bogotá presentó proyecto presupuestal por $42,7 billones",
+        "capturado": "2026-11-23T21:24:20-05:00"
+      },
+      {
+        "titulo": "Índice de Precios de Propiedad Residencial subió 9,23% en el tercer trimestre",
+        "url": "https://www.larepublica.co/economia/iindice-de-precios-de-la-propiedad-residencial-en-bogota-tuvo-una-variacion-de-9-23-en-el-tercer-trimestre-de-este-ano-4531143",
+        "fecha_portada": "",
+        "titulo_fuente": "Índice de Precios de Propiedad Residencial tuvo un alza de 9,23% en el tercer trimestre",
+        "capturado": "2026-11-23T21:24:20-05:00"
+      },
+      {
+        "titulo": "Fondo Milagro reporta la canalización de recursos mediante Fedecafeteros",
+        "url": "https://www.larepublica.co/economia/el-fondo-milagro-anuncia-canalizacion-de-fondos-por-medio-de-fedecafeteros-4531223",
+        "fecha_portada": "",
+        "titulo_fuente": "Fondo Milagro anuncia canalización de fondos por medio de Fedecafeteros",
+        "capturado": "2026-11-23T21:24:20-05:00"
+      },
       {
         "titulo": "En 2027 Colombia registrará un día festivo cada 19 días considerando que suma 365 días",
         "url": "https://www.larepublica.co/globoeconomia/colombia-va-a-tener-un-festivo-cada-19-dias-durante-el-proximo-curso-4530334",
@@ -374,58 +423,16 @@
         "fecha_portada": "16/11/2026",
         "titulo_fuente": "Estados Unidos podría invertir más de US$6.000 millones al año para cumplir PIB",
         "capturado": "2026-11-16T23:01:32-05:00"
-      },
-      {
-        "titulo": "¿Cómo se modifica la Ley de Rescate Económico sin las iniciativas de IVA a la canasta familiar?",
-        "url": "https://www.larepublica.co/economia/como-cambia-la-ley-de-rescate-economico-sin-la-propuesta-de-iva-a-los-alimentos-4525730",
-        "fecha_portada": "16/11/2026",
-        "titulo_fuente": "¿Cómo cambia la Ley de Rescate Económico sin las propuestas de IVA a la canasta familiar?",
-        "capturado": "2026-11-16T16:17:54-05:00"
-      },
-      {
-        "titulo": "Avianca y Grupo Plata revelan inversiones de US$3.340 millones en el transcurso de la Milagro Week",
-        "url": "https://www.larepublica.co/economia/avianca-y-grupo-plata-anuncian-inversiones-por-us-3-340-millones-durante-la-milagro-week-4525895",
-        "fecha_portada": "16/11/2026",
-        "titulo_fuente": "Avianca y Grupo Plata anuncian inversiones por US$3.340 millones durante la Milagro Week",
-        "capturado": "2026-11-16T16:17:54-05:00"
-      },
-      {
-        "titulo": "De la Espriella rechaza IVA a la canasta familiar y abre la opción de disminuir la tarifa general",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-descarta-iva-a-la-canasta-familiar-y-estudia-bajar-la-tarifa-general-hasta-17-4525692",
-        "fecha_portada": "15/11/2026",
-        "titulo_fuente": "De la Espriella descarta IVA a la canasta familiar y abre la puerta a bajar la tarifa general",
-        "capturado": "2026-11-15T22:19:45-05:00"
-      },
-      {
-        "titulo": "Comisiones económicas convocan a ponentes de la Ley de Rescate a encuentro en Minhacienda",
-        "url": "https://www.larepublica.co/economia/comisiones-economicas-citan-a-ponentes-de-la-ley-de-rescate-a-reunion-en-minhacienda-4525611",
-        "fecha_portada": "",
-        "titulo_fuente": "Comisiones económicas citan a ponentes de la Ley de Rescate a reunión en Minhacienda",
-        "capturado": "2026-11-15T18:36:12-05:00"
-      },
-      {
-        "titulo": "Estos son los balances que deja la administración de Abelardo de la Espriella en 100 días",
-        "url": "https://www.larepublica.co/economia/estos-son-los-resultados-que-ha-dejado-el-gobierno-de-abelardo-de-la-espriella-en-100-dias-4525649",
-        "fecha_portada": "15/11/2026",
-        "titulo_fuente": "Estos son los resultados que ha dejado el Gobierno de Abelardo de la Espriella en 100 días",
-        "capturado": "2026-11-15T18:36:12-05:00"
-      },
-      {
-        "titulo": "De la Espriella solicitó el retiro de Jaime Vives de Coljuegos luego de la controversia por su posgrado",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-pidio-la-salida-de-vives-de-coljuegos-tras-polemica-por-su-posgrado-4525553",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella pidió la salida de Jaime Vives de Coljuegos tras polémica por su posgrado",
-        "capturado": "2026-11-15T14:51:33-05:00"
-      },
-      {
-        "titulo": "De la Espriella cumple 100 días con una tributaria como su mayor propuesta fiscal",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-llega-a-sus-100-dias-con-una-reforma-tributaria-como-principal-apuesta-fiscal-4525484",
-        "fecha_portada": "15/11/2026",
-        "titulo_fuente": "De la Espriella llega a sus 100 días con una tributaria como su principal apuesta fiscal",
-        "capturado": "2026-11-15T09:23:12-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "¿Conviene invertir en bolsa luego de sesiones de caídas en el S&P 500?",
+        "url": "https://www.larepublica.co/finanzas/es-buen-momento-para-invertir-en-bolsa-tras-siete-jornadas-consecutivas-de-perdidas-en-el-s-p-500-4530828",
+        "fecha_portada": "",
+        "titulo_fuente": "¿Es buen momento para invertir en bolsa tras jornadas de pérdidas en el S&P 500?",
+        "capturado": "2026-11-23T21:24:20-05:00"
+      },
       {
         "titulo": "La cotización promedio del dólar subió $68,3 y sobrepasó el límite de los $3.500",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-noviembre-4530545",
@@ -837,13 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-3-de-noviembre-de-2026-4516451",
         "fecha_portada": "",
         "titulo_fuente": "El dólar cerró $54,15 al alza, a la espera de los resultados electorales en Estados Unidos",
-        "capturado": "2026-11-03T13:29:30-05:00"
-      },
-      {
-        "titulo": "Los mercados siguen precavidos frente a las elecciones de mitad de término en EE.UU.",
-        "url": "https://www.larepublica.co/globoeconomia/los-mercados-mantienen-la-cautela-ante-las-elecciones-de-medio-termino-en-ee-uu-4516676",
-        "fecha_portada": "",
-        "titulo_fuente": "Los mercados mantienen la cautela ante las elecciones de medio término en EE.UU.",
         "capturado": "2026-11-03T13:29:30-05:00"
       }
     ]
