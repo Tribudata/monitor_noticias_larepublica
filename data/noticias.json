@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-25T00:05:32-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-25T10:49:52-05:00",
+  "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Iniciativa de la Andi para respaldar el ajuste fiscal alcanzará $48,8 billones a 2030",
+        "url": "https://www.larepublica.co/economia/propuesta-de-la-andi-para-apoyar-ajuste-fiscal-sera-de-48-8-billones-hasta-2030-4532488",
+        "fecha_portada": "25/11/2026",
+        "titulo_fuente": "Propuesta de la Andi para apoyar ajuste fiscal será de $48,8 billones hasta 2030",
+        "capturado": "2026-11-25T10:49:52-05:00"
+      },
+      {
+        "titulo": "Gobierno intenta aproximaciones con bancadas para debatir la reforma tributaria",
+        "url": "https://www.larepublica.co/economia/gobierno-en-busca-de-acercamientos-con-las-bancadas-para-discutir-la-reforma-tributaria-4532958",
+        "fecha_portada": "25/11/2026",
+        "titulo_fuente": "Gobierno busca acercamientos con las bancadas para discutir la reforma tributaria",
+        "capturado": "2026-11-25T10:49:52-05:00"
+      },
+      {
+        "titulo": "Asmet Salud cancelará sueldos pendientes a 1.706 empleados a partir de este 25 de noviembre",
+        "url": "https://www.larepublica.co/economia/asmet-salud-pagara-salarios-atrasados-a-1-706-trabajadores-desde-este-25-de-noviembre-4532815",
+        "fecha_portada": "25/11/2026",
+        "titulo_fuente": "Asmet Salud pagará salarios atrasados a 1.706 trabajadores desde este 25 de noviembre",
+        "capturado": "2026-11-25T10:49:52-05:00"
+      },
+      {
+        "titulo": "Senado autorizó adición de $3,8 billones para adultos mayores y afectados",
+        "url": "https://www.larepublica.co/economia/senado-aprobo-adicion-de-3-8-billones-para-adultos-mayores-y-damnificados-4532822",
+        "fecha_portada": "",
+        "titulo_fuente": "Senado aprobó adición de $3,8 billones para adultos mayores y damnificados",
+        "capturado": "2026-11-25T10:49:52-05:00"
+      },
       {
         "titulo": "La Dian obtuvo $3,17 billones mediante el beneficio fiscal para afrontar la emergencia del sismo",
         "url": "https://www.larepublica.co/economia/dian-recaudo-3-17-billones-con-el-alivio-tributario-para-atender-la-crisis-por-el-terremoto-4532491",
@@ -395,37 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "MinHacienda estudia cobrar IVA a alquileres turísticos y crear sobretasa en la Ley de Rescate",
         "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "Nate Morris se proyecta como el nuevo embajador de los Estados Unidos en Colombia",
-        "url": "https://www.larepublica.co/globoeconomia/nate-morris-se-perfila-como-embajador-de-estados-unidos-en-colombia-4527377",
-        "fecha_portada": "18/11/2026",
-        "titulo_fuente": "Nate Morris se perfila como próximo embajador de Estados Unidos en Colombia",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "La FDN destina $248.360 millones a la modernización del corredor de tren La Dorada",
-        "url": "https://www.larepublica.co/economia/fdn-aporta-248-360-millones-para-modernizar-el-corredor-ferreo-la-dorada-chiriguana-4527193",
-        "fecha_portada": "",
-        "titulo_fuente": "FDN aporta $248.360 millones para modernizar el corredor férreo La Dorada",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "MinHacienda establece cambios a Ley de Rescate Económico y la renta empresarial se mantiene en 35%",
-        "url": "https://www.larepublica.co/economia/minhacienda-define-ajustes-a-la-ley-de-rescate-economico-renta-empresarial-seguira-en-35-4527532",
-        "fecha_portada": "18/11/2026",
-        "titulo_fuente": "MinHacienda define ajustes a la Ley de Rescate Económico, renta empresarial seguirá en 35%",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "Pete Hegseth arribó a Colombia para afianzar la cooperación bilateral en seguridad y defensa",
-        "url": "https://www.larepublica.co/economia/pete-hegseth-llego-a-colombia-para-fortalecer-la-cooperacion-en-seguridad-4527799",
-        "fecha_portada": "18/11/2026",
-        "titulo_fuente": "Pete Hegseth llegó a Colombia para fortalecer la cooperación bilateral en defensa y seguridad",
-        "capturado": "2026-11-18T20:31:57-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El valor del dólar se ubica en $3.658 y bordea los $3.700 durante la jornada",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-25-de-noviembre-de-2026-4532861",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del dólar cotiza en $3.658 y se acerca al nivel de $3.700 en el intradía",
+        "capturado": "2026-11-25T10:49:52-05:00"
+      },
+      {
+        "titulo": "El oro pierde fuerza aguardando datos cruciales sobre la inflación en Estados Unidos",
+        "url": "https://www.larepublica.co/finanzas/el-oro-se-debilita-a-la-espera-de-datos-clave-sobre-la-inflacion-en-estados-unidos-4532812",
+        "fecha_portada": "",
+        "titulo_fuente": "El oro se debilita a la espera de datos clave sobre la inflación en Estados Unidos",
+        "capturado": "2026-11-25T10:49:52-05:00"
+      },
       {
         "titulo": "Los 10 motivos que explican la subida de $130 en el dólar durante las últimas dos jornadas",
         "url": "https://www.larepublica.co/finanzas/las-10-razones-que-estan-detras-del-alza-de-130-del-dolar-en-las-ultimas-dos-jornadas-4531562",
@@ -831,20 +845,6 @@
         "fecha_portada": "06/11/2026",
         "titulo_fuente": "La caída del bitcoin se modera a medida que los inversores exploran una recuperación",
         "capturado": "2026-11-06T10:25:39-05:00"
-      },
-      {
-        "titulo": "El dólar se incrementó $7 luego del descenso en las peticiones de ayuda por desempleo",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-5-de-noviembre-4518099",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar subió $7 tras caída en el número de solicitudes de subsidio por desempleo",
-        "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "El Nasdaq baja 5% al tiempo que se intensifica la venta de títulos de productores de chips",
-        "url": "https://www.larepublica.co/globoeconomia/nasdaq-cae-5-mientras-se-agudiza-venta-de-acciones-de-fabricantes-de-chips-4518398",
-        "fecha_portada": "05/11/2026",
-        "titulo_fuente": "Nasdaq cae 5% mientras se agudiza venta de acciones de fabricantes de chips",
-        "capturado": "2026-11-05T15:22:36-05:00"
       }
     ]
   }
