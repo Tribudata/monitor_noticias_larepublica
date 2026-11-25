@@ -1,9 +1,51 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-24T17:48:25-05:00",
-  "nuevos_en_esta_corrida": 11,
+  "actualizado": "2026-11-25T00:05:32-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La Dian obtuvo $3,17 billones mediante el beneficio fiscal para afrontar la emergencia del sismo",
+        "url": "https://www.larepublica.co/economia/dian-recaudo-3-17-billones-con-el-alivio-tributario-para-atender-la-crisis-por-el-terremoto-4532491",
+        "fecha_portada": "",
+        "titulo_fuente": "Dian recaudó $3,17 billones con el alivio tributario para atender la crisis por el terremoto",
+        "capturado": "2026-11-25T00:05:32-05:00"
+      },
+      {
+        "titulo": "Discusión del aumento al presupuesto seguirá este miércoles en Cámara, Senado dio aval",
+        "url": "https://www.larepublica.co/economia/debate-de-adicion-presupuestal-continuara-este-miercoles-en-camara-senado-ya-aprobo-4532567",
+        "fecha_portada": "",
+        "titulo_fuente": "Debate de adición presupuestal continuará este miércoles en Cámara, Senado ya aprobó",
+        "capturado": "2026-11-25T00:05:32-05:00"
+      },
+      {
+        "titulo": "Dinamarca entregará US$4,5 millones para la interconexión entre Colombia y Panamá",
+        "url": "https://www.larepublica.co/economia/dinamarca-realizara-aporte-de-us-4-5-millones-para-la-interconexion-entre-colombia-y-panama-4532681",
+        "fecha_portada": "",
+        "titulo_fuente": "Dinamarca aportará US$4,5 millones para interconexión entre Colombia y Panamá",
+        "capturado": "2026-11-25T00:05:32-05:00"
+      },
+      {
+        "titulo": "El sector financiero estima que la productividad total se ubicó cerca del 1,5%",
+        "url": "https://www.larepublica.co/economia/el-mercado-financiero-proyecta-que-la-productividad-total-estuvo-en-alrededor-de-1-5-4532526",
+        "fecha_portada": "25/11/2026",
+        "titulo_fuente": "El mercado financiero proyecta que la productividad total estuvo en alrededor de 1,5%",
+        "capturado": "2026-11-25T00:05:32-05:00"
+      },
+      {
+        "titulo": "La Ley de Rescate resultará clave para modificar las proyecciones de inversión",
+        "url": "https://www.larepublica.co/economia/ley-de-rescate-sera-determinante-para-mover-las-expectativas-de-inversion-4531558",
+        "fecha_portada": "",
+        "titulo_fuente": "La Ley de Rescate será determinante para mover las expectativas de inversión",
+        "capturado": "2026-11-25T00:05:32-05:00"
+      },
+      {
+        "titulo": "Oleada de disposiciones del gobierno de Sánchez antes de los comicios",
+        "url": "https://www.larepublica.co/globoeconomia/cascada-de-medidas-del-gobierno-de-sanchez-ad-portas-de-las-elecciones-4532452",
+        "fecha_portada": "25/11/2026",
+        "titulo_fuente": "Cascada de medidas del gobierno de Sánchez ad portas de las elecciones",
+        "capturado": "2026-11-25T00:05:32-05:00"
+      },
       {
         "titulo": "Ejecutivo dialogó con bancadas de los partidos Liberal y Verde para acordar reforma tributaria",
         "url": "https://www.larepublica.co/economia/gobierno-se-reunio-con-bancadas-de-los-partidos-verde-y-liberal-para-concertar-tributaria-4532064",
@@ -381,51 +423,23 @@
         "fecha_portada": "18/11/2026",
         "titulo_fuente": "Pete Hegseth llegó a Colombia para fortalecer la cooperación bilateral en defensa y seguridad",
         "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "El Partido Liberal rechazará el IVA para alimentos, cerveza y gaseosas",
-        "url": "https://www.larepublica.co/economia/el-partido-liberal-no-apoyara-el-iva-a-los-alimentos-ni-a-la-cerveza-y-a-la-gaseosa-4527706",
-        "fecha_portada": "",
-        "titulo_fuente": "El Partido Liberal no apoyará el IVA a los alimentos, ni a la cerveza y a la gaseosa",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "El Congreso pacta eliminar el IVA a la medicina prepagada en la reforma tributaria",
-        "url": "https://www.larepublica.co/economia/congreso-acuerda-retirar-el-iva-a-la-medicina-prepagada-de-la-reforma-tributaria-4527307",
-        "fecha_portada": "",
-        "titulo_fuente": "Congreso acuerda retirar el IVA a la medicina prepagada de la reforma tributaria",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "La economía solo aumentó 0,5% en el tercer trimestre, el menor avance del PIB del año",
-        "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-la-menor-crecimiento-del-ano-4526673",
-        "fecha_portada": "",
-        "titulo_fuente": "La economía apenas creció 0,5% en el tercer trimestre, la menor alza del PIB del año",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "Bancos, fintech y el Gobierno se integran en el naciente Consejo Nacional de Pagos",
-        "url": "https://www.larepublica.co/finanzas/bancos-fintech-y-gobierno-se-unen-en-el-nuevo-consejo-nacional-de-pagos-4527588",
-        "fecha_portada": "",
-        "titulo_fuente": "Bancos, fintech y Gobierno se unen en el nuevo Consejo Nacional de Pagos",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "Milagro Week acumula más de US$35.500 millones en anuncios de inversión y crédito",
-        "url": "https://www.larepublica.co/empresas/milagro-week-ya-suma-mas-de-us-35-500-millones-en-anuncios-de-inversion-y-credito-4526773",
-        "fecha_portada": "18/11/2026",
-        "titulo_fuente": "Milagro Week ya suma más de US$35.500 millones en anuncios de inversión y crédito",
-        "capturado": "2026-11-18T06:57:56-05:00"
-      },
-      {
-        "titulo": "En el tercer trimestre la economía aumentó solo 0,5%, la menor alza del PIB en el año",
-        "url": "https://www.larepublica.co/economia/economia-apenas-crecio-0-5-en-tercer-trimestre-el-menor-crecimiento-del-ano-4526673",
-        "fecha_portada": "",
-        "titulo_fuente": "La economía apenas creció 0,5% en el tercer trimestre, el menor alza del PIB del año",
-        "capturado": "2026-11-18T06:57:56-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Los 10 motivos que explican la subida de $130 en el dólar durante las últimas dos jornadas",
+        "url": "https://www.larepublica.co/finanzas/las-10-razones-que-estan-detras-del-alza-de-130-del-dolar-en-las-ultimas-dos-jornadas-4531562",
+        "fecha_portada": "",
+        "titulo_fuente": "Las 10 razones que están detrás del alza de $130 del dólar en las últimas dos jornadas",
+        "capturado": "2026-11-25T00:05:32-05:00"
+      },
+      {
+        "titulo": "Mineros autorizó dividendo extraordinario de US$58,1 millones, correspondiente a US$0,20 por acción",
+        "url": "https://www.larepublica.co/finanzas/mineros-aprobo-dividendo-extraordinario-por-us-58-1-millones-equivale-a-us-0-20-por-accion-4532758",
+        "fecha_portada": "",
+        "titulo_fuente": "Mineros aprobó dividendo extraordinario por US$58,1 millones, equivale a US$0,20 por acción",
+        "capturado": "2026-11-25T00:05:32-05:00"
+      },
       {
         "titulo": "Así cotiza la compra y venta del dólar en casas de cambio luego del incremento",
         "url": "https://www.larepublica.co/finanzas/las-casas-de-cambio-venden-el-dolar-en-promedio-58-90-por-debajo-de-la-trm-4532026",
@@ -830,20 +844,6 @@
         "url": "https://www.larepublica.co/globoeconomia/nasdaq-cae-5-mientras-se-agudiza-venta-de-acciones-de-fabricantes-de-chips-4518398",
         "fecha_portada": "05/11/2026",
         "titulo_fuente": "Nasdaq cae 5% mientras se agudiza venta de acciones de fabricantes de chips",
-        "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "El petróleo sube al tiempo que inversionistas analizan la incertidumbre por la guerra iraní",
-        "url": "https://www.larepublica.co/globoeconomia/el-crudo-sube-mientras-los-inversores-sopesan-incertidumbre-por-guerra-irani-4518056",
-        "fecha_portada": "05/11/2026",
-        "titulo_fuente": "El crudo sube mientras los inversores sopesan incertidumbre por guerra iraní",
-        "capturado": "2026-11-05T15:22:36-05:00"
-      },
-      {
-        "titulo": "Anthropic llega a la bolsa alertando acerca de los riesgos existenciales de su propia IA",
-        "url": "https://www.larepublica.co/globoeconomia/anthropic-sale-a-bolsa-advirtiendo-sobre-riesgos-existenciales-de-su-propia-inteligencia-artificial-4518228",
-        "fecha_portada": "",
-        "titulo_fuente": "Anthropic sale a bolsa advirtiendo sobre riesgos existenciales de su propia IA",
         "capturado": "2026-11-05T15:22:36-05:00"
       }
     ]
