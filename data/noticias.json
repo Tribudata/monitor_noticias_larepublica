@@ -1,9 +1,65 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-25T18:49:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-26T00:35:08-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La negociación del salario mínimo del año entrante iniciará con una productividad de 0,15%",
+        "url": "https://www.larepublica.co/economia/el-salario-minimo-del-proximo-ano-empezara-a-discutirse-con-productividad-de-0-15-4532956",
+        "fecha_portada": "26/11/2026",
+        "titulo_fuente": "El salario mínimo del próximo año empezará a discutirse con productividad de 0,15%",
+        "capturado": "2026-11-26T00:35:08-05:00"
+      },
+      {
+        "titulo": "Por la Ley de Rescate, el riesgo país aumentó 51 puntos y llegó a niveles de hace siete meses",
+        "url": "https://www.larepublica.co/economia/riesgo-pais-subio-51-puntos-a-niveles-de-hace-siete-meses-por-la-ley-de-rescate-4533495",
+        "fecha_portada": "",
+        "titulo_fuente": "Riesgo país subió 51 puntos, a niveles de hace siete meses, por causa de la Ley de Rescate",
+        "capturado": "2026-11-26T00:35:08-05:00"
+      },
+      {
+        "titulo": "La Cámara adoptó el texto del Senado y aprobó el proyecto de adición presupuestal",
+        "url": "https://www.larepublica.co/economia/camara-acogio-el-texto-de-senado-y-aprobo-el-proyecto-de-adicion-presupuestal-4533363",
+        "fecha_portada": "25/11/2026",
+        "titulo_fuente": "Cámara acogió el texto del Senado y aprobó proyecto de adición presupuestal",
+        "capturado": "2026-11-26T00:35:08-05:00"
+      },
+      {
+        "titulo": "Colombia descartó su vinculación al Grupo de los Brics y al Nuevo Banco de Desarrollo",
+        "url": "https://www.larepublica.co/economia/colombia-descarto-ingresar-al-grupo-de-los-brics-y-al-nuevo-banco-de-desarrollo-4533594",
+        "fecha_portada": "",
+        "titulo_fuente": "Colombia descartó ingresar al Grupo de los Brics y al Nuevo Banco de Desarrollo",
+        "capturado": "2026-11-26T00:35:08-05:00"
+      },
+      {
+        "titulo": "El Fondo Milagro asignará 77% de los recursos a los sectores de salud, educación y vivienda",
+        "url": "https://www.larepublica.co/economia/fondo-milagro-destinara-77-de-recursos-a-salud-educacion-y-vivienda-4533522",
+        "fecha_portada": "",
+        "titulo_fuente": "Fondo Milagro destinará 77% de los recursos para los sectores de salud, educación y vivienda",
+        "capturado": "2026-11-26T00:35:08-05:00"
+      },
+      {
+        "titulo": "Pablo Hernández de Cos figura como el próximo presidente del Banco Central Europeo",
+        "url": "https://www.larepublica.co/globoeconomia/de-cos-se-perfila-como-el-proximo-presidente-del-banco-central-europeo-4533496",
+        "fecha_portada": "",
+        "titulo_fuente": "Pablo Hernández de Cos se perfila como el próximo presidente del Banco Central Europeo",
+        "capturado": "2026-11-26T00:35:08-05:00"
+      },
+      {
+        "titulo": "La deuda pública alcanzó $1.200 billones en octubre, equivalente al 62,2% del PIB",
+        "url": "https://www.larepublica.co/economia/deuda-publica-en-octubre-llego-a-1-200-billones-equivale-a-62-2-del-pib-4533199",
+        "fecha_portada": "",
+        "titulo_fuente": "Deuda pública en octubre llegó a $1.200 billones, equivale a 62,2% del PIB",
+        "capturado": "2026-11-26T00:35:08-05:00"
+      },
+      {
+        "titulo": "Nutresa inició cinco de sus ocho proyectos en el Chocó luego del terremoto",
+        "url": "https://www.larepublica.co/empresas/nutresa-puso-en-marcha-cinco-de-sus-ocho-proyectos-en-el-choco-tras-el-terremoto-4533171",
+        "fecha_portada": "25/11/2026",
+        "titulo_fuente": "Nutresa puso en marcha cinco de sus ocho proyectos en el Chocó tras el terremoto",
+        "capturado": "2026-11-26T00:35:08-05:00"
+      },
       {
         "titulo": "Iniciativa de la Andi para respaldar el ajuste fiscal alcanzará $48,8 billones a 2030",
         "url": "https://www.larepublica.co/economia/propuesta-de-la-andi-para-apoyar-ajuste-fiscal-sera-de-48-8-billones-hasta-2030-4532488",
@@ -367,62 +423,6 @@
         "fecha_portada": "19/11/2026",
         "titulo_fuente": "¿Cómo se cubre el recaudo que se esperaba recibir del IVA a la canasta familiar?",
         "capturado": "2026-11-19T04:33:31-05:00"
-      },
-      {
-        "titulo": "Así opera el reintegro del IVA en el mundo y los modelos que podría adoptar Colombia",
-        "url": "https://www.larepublica.co/globoeconomia/asi-funciona-la-devolucion-del-iva-alrededor-del-mundo-4527875",
-        "fecha_portada": "",
-        "titulo_fuente": "Así funciona devolución del IVA en el mundo y los modelos que podría adoptar Colombia",
-        "capturado": "2026-11-19T04:33:31-05:00"
-      },
-      {
-        "titulo": "De la Espriella niega versión de The New York Times sobre presunto rechazo a plan militar de EE. UU.",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-desmiente-a-the-new-york-times-sobre-supuesto-rechazo-a-plan-militar-4528071",
-        "fecha_portada": "18/11/2026",
-        "titulo_fuente": "De la Espriella desmiente a The New York Times sobre supuesto rechazo a plan militar de EE. UU.",
-        "capturado": "2026-11-19T04:33:31-05:00"
-      },
-      {
-        "titulo": "La Ley de Rescate Económico prevé un ajuste fiscal cercano al 4,7% del PIB para 2030",
-        "url": "https://www.larepublica.co/economia/la-ley-de-rescate-economico-busca-un-ajuste-fiscal-de-4-7-del-pib-para-2030-4527534",
-        "fecha_portada": "18/11/2026",
-        "titulo_fuente": "La Ley de Rescate Económico proyecta un ajuste fiscal en torno a 4,7% del PIB en 2030",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "María Claudia Lacouture se une a los dirigentes gremiales que dejan sus cargos",
-        "url": "https://www.larepublica.co/economia/maria-claudia-lacouture-renuncio-a-la-presidencia-de-amcham-tras-nueve-anos-en-el-cargo-4527611",
-        "fecha_portada": "",
-        "titulo_fuente": "María Claudia Lacouture se suma a la lista de presidentes gremiales que dejan su cargo",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "Se fijó la fecha de arranque de la mesa de negociación sobre el próximo salario mínimo",
-        "url": "https://www.larepublica.co/economia/ya-hay-fecha-para-el-inicio-de-la-mesa-de-concertacion-del-proximo-salario-minimo-para-2027-4527478",
-        "fecha_portada": "",
-        "titulo_fuente": "Ya hay fecha para el inicio de la mesa de concertación del próximo salario mínimo",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "El alza del salario mínimo no tendría que sobrepasar la suma de inflación y productividad",
-        "url": "https://www.larepublica.co/economia/el-incremento-del-minimo-no-deberia-superar-la-suma-de-inflacion-mas-productividad-4527204",
-        "fecha_portada": "18/11/2026",
-        "titulo_fuente": "\"El incremento del mínimo no debería superar la suma de inflación más productividad\"",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "Las compras externas en septiembre aumentaron 33,7%, alcanzando US$8.192 millones",
-        "url": "https://www.larepublica.co/economia/las-importaciones-en-septiembre-crecieron-33-7-con-un-valor-de-us-8-192-millones-4527397",
-        "fecha_portada": "18/11/2026",
-        "titulo_fuente": "Las importaciones en septiembre crecieron 33,7%, con un valor de US$8.192 millones",
-        "capturado": "2026-11-18T20:31:57-05:00"
-      },
-      {
-        "titulo": "MinHacienda evalúa aplicar IVA a arrendamientos turísticos y establecer sobretasa en la Ley de Rescate",
-        "url": "https://www.larepublica.co/economia/minhacienda-estudia-cobrar-iva-a-alquileres-turisticos-y-crear-sobretasa-en-la-ley-de-rescate-4527157",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda estudia cobrar IVA a alquileres turísticos y crear sobretasa en la Ley de Rescate",
-        "capturado": "2026-11-18T20:31:57-05:00"
       }
     ],
     "Bolsas": [
