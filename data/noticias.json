@@ -1,9 +1,44 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-27T03:50:09-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-27T13:31:19-05:00",
+  "nuevos_en_esta_corrida": 8,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Listado de proyectos de inversión del Gobierno subió de 13 a 255 propuestas en tres meses",
+        "url": "https://www.larepublica.co/especiales/congreso-nacional-de-infraestructura-2026/banco-de-proyectos-de-inversion-del-gobierno-paso-de-13-a-255-iniciativas-en-tres-meses-4535183",
+        "fecha_portada": "",
+        "titulo_fuente": "Banco de proyectos de inversión del Gobierno pasó de 13 a 255 iniciativas en tres meses",
+        "capturado": "2026-11-27T13:31:19-05:00"
+      },
+      {
+        "titulo": "La Dian propone elevar la UVT a $55.673 para 2027, un incremento de 6,3% respecto a este año",
+        "url": "https://www.larepublica.co/economia/la-dian-plantea-subir-la-uvt-a-55-673-en-2027-un-aumento-de-6-3-frente-a-este-ano-4535269",
+        "fecha_portada": "27/11/2026",
+        "titulo_fuente": "La Dian plantea subir la UVT a $55.673 en 2027, un aumento de 6,3% frente a este año",
+        "capturado": "2026-11-27T13:31:19-05:00"
+      },
+      {
+        "titulo": "Metro de Bogotá funcionará a partir de marzo de 2028 con el 40% del espacio público en obras",
+        "url": "https://www.larepublica.co/economia/metro-de-bogota-comenzara-a-operar-en-marzo-de-2028-con-40-del-espacio-publico-en-obras-4535129",
+        "fecha_portada": "",
+        "titulo_fuente": "Metro de Bogotá operará desde marzo de 2028 con 40% del espacio público en obras",
+        "capturado": "2026-11-27T13:31:19-05:00"
+      },
+      {
+        "titulo": "Restrepo alerta que Colombia podría caer en recesión si se cae la Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/restrepo-advierte-que-colombia-podria-entrar-en-recesion-si-se-hunde-la-ley-de-rescate-4535293",
+        "fecha_portada": "27/11/2026",
+        "titulo_fuente": "Restrepo advierte que Colombia podría entrar en recesión si se hunde la Ley de Rescate",
+        "capturado": "2026-11-27T13:31:19-05:00"
+      },
+      {
+        "titulo": "Ley de rescate económico pondría en peligro a más de 400.000 pequeños negocios",
+        "url": "https://www.larepublica.co/economia/ley-de-rescate-economico-pondria-en-riesgo-a-mas-de-400-000-pequenos-negocios-en-el-pais-4535208",
+        "fecha_portada": "",
+        "titulo_fuente": "Ley de rescate económico pondría en riesgo a más de 400.000 pequeños negocios",
+        "capturado": "2026-11-27T13:31:19-05:00"
+      },
       {
         "titulo": "La cerveza en tiendas de barrio sería cerca de 50% más costosa con la Ley de Rescate",
         "url": "https://www.larepublica.co/economia/la-cerveza-en-las-tiendas-de-barrio-seria-alrededor-de-50-mas-cara-con-la-ley-de-rescate-4534705",
@@ -388,44 +423,30 @@
         "fecha_portada": "",
         "titulo_fuente": "Bancolombia proyectó un crecimiento de 2,4% para la economía colombiana en 2027",
         "capturado": "2026-11-20T17:43:57-05:00"
-      },
-      {
-        "titulo": "De la Espriella sostuvo una reunión con las mesas directivas de las cámaras de comercio",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-se-reunio-con-delegados-en-las-juntas-directivas-de-las-camaras-de-comercio-4529496",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella se reunió con las las juntas directivas de las cámaras de comercio",
-        "capturado": "2026-11-20T17:43:57-05:00"
-      },
-      {
-        "titulo": "De 2021 a 2026, el sueldo mínimo real registró un incremento acumulado del 32%",
-        "url": "https://www.larepublica.co/economia/entre-2021-y-2026-el-salario-minimo-real-tuvo-un-aumento-acumulado-de-32-4528792",
-        "fecha_portada": "",
-        "titulo_fuente": "Entre 2021 y 2026, el salario mínimo real tuvo un aumento acumulado de 32%",
-        "capturado": "2026-11-20T02:55:20-05:00"
-      },
-      {
-        "titulo": "El impuesto sobre la renta que pagan las compañías colombianas es el más elevado de Latinoamérica",
-        "url": "https://www.larepublica.co/globoeconomia/las-empresas-de-colombia-pagan-el-impuesto-de-renta-mas-alto-de-latam-4529084",
-        "fecha_portada": "20/11/2026",
-        "titulo_fuente": "Las empresas de Colombia están pagando el impuesto de renta más alto de América Latina",
-        "capturado": "2026-11-20T02:55:20-05:00"
-      },
-      {
-        "titulo": "Lo que permanece, se debate y se elimina hasta el momento en la Ley de Rescate Económico",
-        "url": "https://www.larepublica.co/economia/que-queda-que-se-discute-y-que-sale-hasta-ahora-de-la-ley-de-rescate-economico-4528829",
-        "fecha_portada": "",
-        "titulo_fuente": "Qué queda, qué se discute y qué sale hasta ahora de la Ley de Rescate Económico",
-        "capturado": "2026-11-20T02:55:20-05:00"
-      },
-      {
-        "titulo": "Elevadas tasas de interés y escaso crecimiento amenazan la sostenibilidad de la deuda pública",
-        "url": "https://www.larepublica.co/economia/altos-intereses-y-bajo-crecimiento-ponen-en-riesgo-la-sostenibilidad-de-la-deuda-publica-4528357",
-        "fecha_portada": "",
-        "titulo_fuente": "Altos intereses y bajo crecimiento ponen en riesgo la sostenibilidad de la deuda pública",
-        "capturado": "2026-11-20T02:55:20-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó en un precio medio de $3.498,33, cayó $132,56 frente a la TRM, $3.630,89",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-27-de-noviembre-de-2026-4535004",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró en un precio promedio de $3.498,33, bajó $132,56 frente a la TRM, $3.630,89",
+        "capturado": "2026-11-27T13:31:19-05:00"
+      },
+      {
+        "titulo": "Wall Street avanza empujada por los títulos de inteligencia artificial",
+        "url": "https://www.larepublica.co/finanzas/wall-street-sube-impulsada-por-las-acciones-de-inteligencia-artificial-4535337",
+        "fecha_portada": "27/11/2026",
+        "titulo_fuente": "Wall Street sube impulsada por las acciones de inteligencia artificial",
+        "capturado": "2026-11-27T13:31:19-05:00"
+      },
+      {
+        "titulo": "El euro se negocia $73,5 abajo en la sesión y marcha hacia su tercer día de descenso",
+        "url": "https://www.larepublica.co/finanzas/el-euro-se-cotiza-73-5-por-debajo-en-la-jornada-y-se-encamina-a-su-tercer-dia-de-caida-4535186",
+        "fecha_portada": "",
+        "titulo_fuente": "El euro se cotiza $73,5 por debajo en la jornada y se encamina a su tercer día de caída",
+        "capturado": "2026-11-27T13:31:19-05:00"
+      },
       {
         "titulo": "La cotización del dólar cayó $119,38 en Next Day debido al festivo de Thanksgiving en Estados Unidos",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-bajo-119-38-en-next-day-por-festivo-de-thanksgiving-en-estados-unidos-4534731",
@@ -824,27 +845,6 @@
         "fecha_portada": "10/11/2026",
         "titulo_fuente": "Anthropic apunta a valoración de US$1,4 billones en una exitosa salida a bolsa",
         "capturado": "2026-11-10T13:20:02-05:00"
-      },
-      {
-        "titulo": "El oro al contado mantiene la tendencia a la baja y cayó 2,4% a US$4.041,10 por onza",
-        "url": "https://www.larepublica.co/finanzas/el-oro-al-contado-amplia-bajas-hoy-martes-y-pierde-2-4-a-us-4-041-10-por-onza-4521409",
-        "fecha_portada": "",
-        "titulo_fuente": "El oro al contado sigue con tendencia bajista y perdió 2,4% a US$4.041,10 por onza",
-        "capturado": "2026-11-10T13:20:02-05:00"
-      },
-      {
-        "titulo": "El dólar terminó al alza en $3.269,21 ante la expectativa por la inflación de EE.UU.",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-9-de-noviembre-de-2026-4520380",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar cerró al alza en $3.269,21, en medio de la expectativa por la inflación de EE.UU.",
-        "capturado": "2026-11-09T15:54:20-05:00"
-      },
-      {
-        "titulo": "El Brent cayó a menos de US$100, hasta US$93,7, ante la posición moderada de Trump sobre Irán",
-        "url": "https://www.larepublica.co/globoeconomia/el-crudo-cae-luego-de-que-trump-apunta-a-una-actitud-mas-moderada-respecto-a-iran-4520335",
-        "fecha_portada": "09/11/2026",
-        "titulo_fuente": "Brent cae por debajo de US$100, a US$93,7, ante postura moderada de Trump sobre Irán",
-        "capturado": "2026-11-09T15:54:20-05:00"
       }
     ]
   }
