@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-26T19:07:06-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-27T03:50:09-05:00",
+  "nuevos_en_esta_corrida": 4,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "La cerveza en tiendas de barrio sería cerca de 50% más costosa con la Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/la-cerveza-en-las-tiendas-de-barrio-seria-alrededor-de-50-mas-cara-con-la-ley-de-rescate-4534705",
+        "fecha_portada": "",
+        "titulo_fuente": "La cerveza en las tiendas de barrio sería alrededor de 50% más cara con la Ley de Rescate",
+        "capturado": "2026-11-27T03:50:09-05:00"
+      },
+      {
+        "titulo": "El Gobierno nacional estableció una mesa para bajar la pobreza hasta 20% en 2030",
+        "url": "https://www.larepublica.co/economia/gobierno-nacional-instalo-mesa-para-reducir-la-pobreza-hasta-20-en-2030-4534778",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno nacional instaló mesa para reducir la pobreza hasta 20% en 2030",
+        "capturado": "2026-11-27T03:50:09-05:00"
+      },
       {
         "titulo": "Sueldo mínimo de 2027 podría concertarse entre empleadores y trabajadores",
         "url": "https://www.larepublica.co/economia/salario-minimo-podria-definirse-por-acuerdo-entre-empresarios-y-trabajadores-4533897",
@@ -409,23 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "Altos intereses y bajo crecimiento ponen en riesgo la sostenibilidad de la deuda pública",
         "capturado": "2026-11-20T02:55:20-05:00"
-      },
-      {
-        "titulo": "La variación trimestral del PIB del grupo de países Ocde finalizó en 0,6% a septiembre",
-        "url": "https://www.larepublica.co/globoeconomia/variacion-del-pib-trimestral-del-bloque-ocde-cerro-en-0-6-a-septiembre-4528343",
-        "fecha_portada": "19/11/2026",
-        "titulo_fuente": "Variación del PIB trimestral del bloque de países Ocde cerró en 0,6% hasta septiembre",
-        "capturado": "2026-11-19T19:57:09-05:00"
-      },
-      {
-        "titulo": "Aliadas ratificó que Ignacio Gaitán sustituirá a María Claudia Lacouture",
-        "url": "https://www.larepublica.co/economia/aliadas-confirmo-que-ignacio-gaitan-sera-el-reemplazo-de-maria-claudia-lacouture-4528878",
-        "fecha_portada": "19/11/2026",
-        "titulo_fuente": "Aliadas confirmó que Ignacio Gaitán será el reemplazo de María Claudia Lacouture",
-        "capturado": "2026-11-19T19:57:09-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "La cotización del dólar cayó $119,38 en Next Day debido al festivo de Thanksgiving en Estados Unidos",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-bajo-119-38-en-next-day-por-festivo-de-thanksgiving-en-estados-unidos-4534731",
+        "fecha_portada": "",
+        "titulo_fuente": "El precio del dólar bajó $119,38 en Next Day por el festivo de Thanksgiving en Estados Unidos",
+        "capturado": "2026-11-27T03:50:09-05:00"
+      },
+      {
+        "titulo": "El dólar terminó la sesión de ayer en $3.630, con una subida de $38,49 respecto a la TRM",
+        "url": "https://www.larepublica.co/finanzas/dolar-cerro-la-jornada-de-ayer-en-3-630-con-aumento-de-38-49-frente-a-la-trm-4533573",
+        "fecha_portada": "26/11/2026",
+        "titulo_fuente": "El dólar cerró la jornada de ayer en $3.630, con un aumento de $38,49 frente a la TRM",
+        "capturado": "2026-11-27T03:50:09-05:00"
+      },
       {
         "titulo": "El dólar finalizó en $3.510,96 tras caer $119 respecto a la TRM de $3.630,89 en Next Day",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-26-de-noviembre-de-2026-4533887",
@@ -831,20 +845,6 @@
         "fecha_portada": "09/11/2026",
         "titulo_fuente": "Brent cae por debajo de US$100, a US$93,7, ante postura moderada de Trump sobre Irán",
         "capturado": "2026-11-09T15:54:20-05:00"
-      },
-      {
-        "titulo": "El oro aumentó, mientras la caída de los precios del crudo atenuó los temores inflacionistas",
-        "url": "https://www.larepublica.co/finanzas/oro-sube-mientras-que-la-bajada-de-los-precios-del-crudo-modera-los-temores-inflacionistas-4520336",
-        "fecha_portada": "",
-        "titulo_fuente": "Oro subió, mientras que la bajada de los precios del crudo moderó los temores inflacionistas",
-        "capturado": "2026-11-09T15:54:20-05:00"
-      },
-      {
-        "titulo": "El dólar sube mientras el mercado sigue pendiente de la cifra de empleo en EE. UU.",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-6-de-noviembre-de-2026-4519021",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar cotiza al alza, mientras el mercado sigue atento al dato de empleo de EE.UU.",
-        "capturado": "2026-11-06T10:25:39-05:00"
       }
     ]
   }
