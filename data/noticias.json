@@ -1,9 +1,23 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-26T10:51:37-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-26T19:07:06-05:00",
+  "nuevos_en_esta_corrida": 7,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Sueldo mínimo de 2027 podría concertarse entre empleadores y trabajadores",
+        "url": "https://www.larepublica.co/economia/salario-minimo-podria-definirse-por-acuerdo-entre-empresarios-y-trabajadores-4533897",
+        "fecha_portada": "",
+        "titulo_fuente": "Salario mínimo de 2027 podría definirse por acuerdo entre empresarios y trabajadores",
+        "capturado": "2026-11-26T19:07:06-05:00"
+      },
+      {
+        "titulo": "Avalar al menos la mitad de la tributaria sería favorable para la evaluación de Fitch",
+        "url": "https://www.larepublica.co/economia/aprobar-al-menos-la-mitad-de-la-tributaria-seria-positivo-para-evaluacion-de-fitch-4534164",
+        "fecha_portada": "",
+        "titulo_fuente": "Aprobar al menos la mitad de la tributaria sería positivo para evaluación de Fitch",
+        "capturado": "2026-11-26T19:07:06-05:00"
+      },
       {
         "titulo": "La negociación del salario mínimo del año entrante iniciará con una productividad de 0,15%",
         "url": "https://www.larepublica.co/economia/el-salario-minimo-del-proximo-ano-empezara-a-discutirse-con-productividad-de-0-15-4532956",
@@ -409,23 +423,44 @@
         "fecha_portada": "19/11/2026",
         "titulo_fuente": "Aliadas confirmó que Ignacio Gaitán será el reemplazo de María Claudia Lacouture",
         "capturado": "2026-11-19T19:57:09-05:00"
-      },
-      {
-        "titulo": "Pete Hegseth fue a Colombia para afianzar la cooperación bilateral en defensa y seguridad",
-        "url": "https://www.asuntoslegales.com.co/actualidad/pete-hegseth-llego-a-colombia-para-fortalecer-la-cooperacion-en-seguridad-4527781",
-        "fecha_portada": "",
-        "titulo_fuente": "Pete Hegseth viajó a Colombia para fortalecer la cooperación bilateral en defensa y seguridad",
-        "capturado": "2026-11-19T19:57:09-05:00"
-      },
-      {
-        "titulo": "¿De qué manera se compensará el recaudo proyectado del IVA a la canasta familiar?",
-        "url": "https://www.larepublica.co/economia/como-se-puede-cubrir-el-recaudo-que-se-esperaba-del-iva-a-la-canasta-familiar-4527792",
-        "fecha_portada": "19/11/2026",
-        "titulo_fuente": "¿Cómo se cubre el recaudo que se esperaba recibir del IVA a la canasta familiar?",
-        "capturado": "2026-11-19T04:33:31-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "El dólar finalizó en $3.510,96 tras caer $119 respecto a la TRM de $3.630,89 en Next Day",
+        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-26-de-noviembre-de-2026-4533887",
+        "fecha_portada": "",
+        "titulo_fuente": "El dólar cerró en $3.510,96, tuvo una caída de $119 frente a la TRM, $3.630,89, en Next Day",
+        "capturado": "2026-11-26T19:07:06-05:00"
+      },
+      {
+        "titulo": "Bitcoin sobrepasa los US$60.000 por el alza de tecnológicas y activos de riesgo",
+        "url": "https://www.larepublica.co/globoeconomia/bitcoin-supera-us-60-000-por-repunte-de-tecnologicas-y-de-activos-de-riesgo-4533835",
+        "fecha_portada": "",
+        "titulo_fuente": "Bitcoin supera US$60.000 por repunte de tecnológicas y de activos de riesgo",
+        "capturado": "2026-11-26T19:07:06-05:00"
+      },
+      {
+        "titulo": "ISA y Mineros figuran entre las acciones que encabezaron las ganancias en la Bolsa de Colombia",
+        "url": "https://www.larepublica.co/finanzas/desempeno-de-las-bolsas-26-de-noviembre-de-2026-4534278",
+        "fecha_portada": "",
+        "titulo_fuente": "ISA y Mineros entre las acciones que lideraron las ganancias de la Bolsa de Colombia",
+        "capturado": "2026-11-26T19:07:06-05:00"
+      },
+      {
+        "titulo": "Mobilize Financial Services captó $162.134 millones destinados a promover créditos de vehículos",
+        "url": "https://www.larepublica.co/finanzas/mobilize-financial-services-obtuvo-162-134-millones-para-impulsar-creditos-de-vehiculos-4534281",
+        "fecha_portada": "",
+        "titulo_fuente": "Mobilize Financial Services obtuvo $162.134 millones para impulsar créditos de vehículos",
+        "capturado": "2026-11-26T19:07:06-05:00"
+      },
+      {
+        "titulo": "Los títulos de Broadcom, Nvidia, Inditex y Nike definirán la agenda bursátil de diciembre",
+        "url": "https://www.larepublica.co/finanzas-personales/broadcom-nvidia-inditex-y-nike-lideran-el-calendario-bursatil-de-diciembre-4533660",
+        "fecha_portada": "",
+        "titulo_fuente": "Acciones de Broadcom, Nvidia, Inditex y Nike marcarán el calendario bursátil de diciembre",
+        "capturado": "2026-11-26T19:07:06-05:00"
+      },
       {
         "titulo": "El valor del dólar se ubica en $3.658 y bordea los $3.700 durante la jornada",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-25-de-noviembre-de-2026-4532861",
@@ -809,41 +844,6 @@
         "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-6-de-noviembre-de-2026-4519021",
         "fecha_portada": "",
         "titulo_fuente": "Dólar cotiza al alza, mientras el mercado sigue atento al dato de empleo de EE.UU.",
-        "capturado": "2026-11-06T10:25:39-05:00"
-      },
-      {
-        "titulo": "El petróleo se dirige a una gran baja semanal posterior a elecciones de medio término en EE. UU.",
-        "url": "https://www.larepublica.co/globoeconomia/el-crudo-se-encamina-a-fuerte-caida-semanal-tras-elecciones-medio-mandato-en-ee-uu-4518972",
-        "fecha_portada": "",
-        "titulo_fuente": "El crudo se encamina a fuerte caída semanal tras elecciones medio mandato en EE.UU.",
-        "capturado": "2026-11-06T10:25:39-05:00"
-      },
-      {
-        "titulo": "Bolsas del mundo caen por temor a que una marea azul termine con el auge de la IA",
-        "url": "https://www.larepublica.co/globoeconomia/las-bolsas-mundiales-caen-por-el-temor-a-que-la-ola-azul-termine-el-auge-de-la-ia-4519070",
-        "fecha_portada": "",
-        "titulo_fuente": "Las bolsas mundiales caen por el temor a que la \"ola azul\" termine el auge de la IA",
-        "capturado": "2026-11-06T10:25:39-05:00"
-      },
-      {
-        "titulo": "EPM retornó al mercado de capitales tras emitir bonos por US$1.000 millones",
-        "url": "https://www.larepublica.co/finanzas/epm-regreso-al-mercado-internacional-de-capitales-con-emision-de-bonos-por-us-1-000-millones-4518978",
-        "fecha_portada": "06/11/2026",
-        "titulo_fuente": "EPM regresó al mercado de capitales con emisión de bonos por US$1.000 millones",
-        "capturado": "2026-11-06T10:25:39-05:00"
-      },
-      {
-        "titulo": "El oro baja y se encamina a su mejor semana en más de dos meses antes de la cifra de empleo de EE. UU.",
-        "url": "https://www.larepublica.co/finanzas/precio-del-oro-hoy-6-de-noviembre-de-2026-4519005",
-        "fecha_portada": "06/11/2026",
-        "titulo_fuente": "Oro baja y se encamina a mejor semana en más de dos meses antes de dato empleo EE.UU.",
-        "capturado": "2026-11-06T10:25:39-05:00"
-      },
-      {
-        "titulo": "El retroceso del bitcoin se desacelera mientras los inversores buscan una recuperación",
-        "url": "https://www.larepublica.co/globoeconomia/la-caida-del-bitcoin-se-modera-a-medida-que-los-inversores-exploran-una-recuperacion-4519059",
-        "fecha_portada": "06/11/2026",
-        "titulo_fuente": "La caída del bitcoin se modera a medida que los inversores exploran una recuperación",
         "capturado": "2026-11-06T10:25:39-05:00"
       }
     ]
