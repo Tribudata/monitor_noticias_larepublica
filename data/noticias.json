@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-27T13:31:19-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-27T20:41:42-05:00",
+  "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Centro Democrático plantea quitar el impuesto al patrimonio dentro de la Ley de Rescate",
+        "url": "https://www.larepublica.co/economia/el-centro-democratico-propone-eliminar-el-impuesto-al-patrimonio-en-ley-de-rescate-4535373",
+        "fecha_portada": "",
+        "titulo_fuente": "Centro Democrático propone eliminar el impuesto al patrimonio en Ley de Rescate",
+        "capturado": "2026-11-27T20:41:42-05:00"
+      },
+      {
+        "titulo": "Prosperidad Social encabezará plan para sacar de la pobreza a 3,6 millones de colombianos",
+        "url": "https://www.larepublica.co/economia/prosperidad-social-liderara-estrategia-para-sacar-a-3-6-millones-de-colombianos-de-la-pobreza-4535353",
+        "fecha_portada": "",
+        "titulo_fuente": "Prosperidad Social liderará estrategia para sacar a 3,6 millones de colombianos de la pobreza",
+        "capturado": "2026-11-27T20:41:42-05:00"
+      },
+      {
+        "titulo": "Aún no existen consensos frente a lo esencial en la Ley de Rescate Económico",
+        "url": "https://www.larepublica.co/economia/todavia-no-hay-acuerdos-sobre-lo-fundamental-en-la-ley-de-rescate-economico-4535462",
+        "fecha_portada": "",
+        "titulo_fuente": "Todavía no hay acuerdos sobre lo fundamental en la Ley de Rescate Económico",
+        "capturado": "2026-11-27T20:41:42-05:00"
+      },
+      {
+        "titulo": "Gobierno comunicó que Alberto Mario Vergara asumirá la presidencia de la Fiduprevisora",
+        "url": "https://www.larepublica.co/finanzas/gobierno-anuncio-que-alberto-mario-vergara-llegara-a-la-presidencia-de-la-fiduprevisora-4535573",
+        "fecha_portada": "",
+        "titulo_fuente": "Gobierno anunció que Alberto Mario Vergara llegará a la presidencia de la Fiduprevisora",
+        "capturado": "2026-11-27T20:41:42-05:00"
+      },
       {
         "titulo": "Listado de proyectos de inversión del Gobierno subió de 13 a 255 propuestas en tres meses",
         "url": "https://www.larepublica.co/especiales/congreso-nacional-de-infraestructura-2026/banco-de-proyectos-de-inversion-del-gobierno-paso-de-13-a-255-iniciativas-en-tres-meses-4535183",
@@ -395,37 +423,23 @@
         "fecha_portada": "20/11/2026",
         "titulo_fuente": "A 10 días de iniciar diciembre, los embalses aún están en 76,87% de su capacidad",
         "capturado": "2026-11-21T13:18:40-05:00"
-      },
-      {
-        "titulo": "Según previsiones de la Ocde el PIB perderá ritmo y subirá el desempleo para 2027",
-        "url": "https://www.larepublica.co/economia/la-ocde-presento-el-informe-de-estudios-economicos-de-la-ocde-colombia-2026-4528958",
-        "fecha_portada": "20/11/2026",
-        "titulo_fuente": "PIB desacelerado y desempleo en aumento para 2027 según previsiones de la Ocde",
-        "capturado": "2026-11-20T17:43:57-05:00"
-      },
-      {
-        "titulo": "MinHacienda emitirá un bono soberano con el fin de promover el mercado de deuda pública",
-        "url": "https://www.larepublica.co/economia/hacienda-lanzara-bono-soberano-tokenizado-para-impulsar-el-mercado-de-deuda-publica-4528498",
-        "fecha_portada": "",
-        "titulo_fuente": "MinHacienda lanzará bono soberano para impulsar el mercado de deuda pública",
-        "capturado": "2026-11-20T17:43:57-05:00"
-      },
-      {
-        "titulo": "De la Espriella exige logros a sus ministros y alertó sobre las elecciones",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-pide-resultados-a-sus-ministros-y-advierte-sobre-las-elecciones-de-2027-y-2030-4529235",
-        "fecha_portada": "",
-        "titulo_fuente": "De la Espriella pide resultados a sus ministros y advirtió sobre las elecciones",
-        "capturado": "2026-11-20T17:43:57-05:00"
-      },
-      {
-        "titulo": "Bancolombia estimó una expansión de 2,4% para la economía de Colombia en 2027",
-        "url": "https://www.larepublica.co/economia/bancolombia-proyecta-un-crecimiento-de-2-4-para-la-economia-colombiana-en-2027-4529539",
-        "fecha_portada": "",
-        "titulo_fuente": "Bancolombia proyectó un crecimiento de 2,4% para la economía colombiana en 2027",
-        "capturado": "2026-11-20T17:43:57-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Parex ingresará a la Bolsa de Colombia y ofrecerá otra opción para invertir en petróleo",
+        "url": "https://www.larepublica.co/finanzas/parex-llegara-a-la-bolsa-de-colombia-y-abrira-nueva-alternativa-de-inversion-en-petroleo-4535416",
+        "fecha_portada": "27/11/2026",
+        "titulo_fuente": "Parex llegará a la Bolsa de Colombia y abrirá nueva alternativa de inversión en petróleo",
+        "capturado": "2026-11-27T20:41:42-05:00"
+      },
+      {
+        "titulo": "El peso colombiano cae casi 10% en noviembre al reducirse el atractivo del carry trade",
+        "url": "https://www.larepublica.co/finanzas/peso-colombiano-pierde-casi-10-en-noviembre-mientras-se-desvanece-atractivo-del-carry-trade-4535417",
+        "fecha_portada": "27/11/2026",
+        "titulo_fuente": "Peso colombiano pierde casi 10% en noviembre mientras se desvanece atractivo del carry trade",
+        "capturado": "2026-11-27T20:41:42-05:00"
+      },
       {
         "titulo": "El dólar finalizó en un precio medio de $3.498,33, cayó $132,56 frente a la TRM, $3.630,89",
         "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-27-de-noviembre-de-2026-4535004",
@@ -831,20 +845,6 @@
         "fecha_portada": "11/11/2026",
         "titulo_fuente": "El oro repunta tras fuerte caída, pero es lastrado por las señales restrictivas de la Fed",
         "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "El dólar finalizó al alza en $3.297,33 debido a los datos del IPC de Estados Unidos",
-        "url": "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-10-de-noviembre-de-2026-4521147",
-        "fecha_portada": "",
-        "titulo_fuente": "Dólar cerró al alza en $3.297,33 como consecuencia de los datos del IPC de Estados Unidos",
-        "capturado": "2026-11-10T13:20:02-05:00"
-      },
-      {
-        "titulo": "Anthropic busca una valoración de US$1,4 billones en un exitoso debut en bolsa",
-        "url": "https://www.larepublica.co/globoeconomia/anthropic-apunta-a-valoracion-de-us-1-4-billones-en-una-exitosa-salida-a-bolsa-4521289",
-        "fecha_portada": "10/11/2026",
-        "titulo_fuente": "Anthropic apunta a valoración de US$1,4 billones en una exitosa salida a bolsa",
-        "capturado": "2026-11-10T13:20:02-05:00"
       }
     ]
   }
