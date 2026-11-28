@@ -1,9 +1,37 @@
 {
   "fuente": "https://www.larepublica.co/",
-  "actualizado": "2026-11-27T20:41:42-05:00",
+  "actualizado": "2026-11-28T04:30:24-05:00",
   "nuevos_en_esta_corrida": 6,
   "etiquetas": {
     "Hacienda": [
+      {
+        "titulo": "Proyectamos duplicar recaudos y afianzar a Aguas de Bogotá como gestor ambiental",
+        "url": "https://www.larepublica.co/economia/esperamos-duplicar-ingresos-y-consolidar-a-aguas-de-bogota-como-un-gestor-ambiental-4535748",
+        "fecha_portada": "",
+        "titulo_fuente": "“Esperamos duplicar ingresos y consolidar a Aguas de Bogotá como un gestor ambiental\"",
+        "capturado": "2026-11-28T04:30:24-05:00"
+      },
+      {
+        "titulo": "El departamento del Atlántico invertirá más de $60 billones en 76 iniciativas para 2050",
+        "url": "https://www.larepublica.co/empresas/el-atlantico-ejecutara-mas-de-60-billones-en-76-proyectos-hacia-2050-4535721",
+        "fecha_portada": "",
+        "titulo_fuente": "El departamento del Atlántico ejecutará más de $60 billones en 76 proyectos hacia 2050",
+        "capturado": "2026-11-28T04:30:24-05:00"
+      },
+      {
+        "titulo": "Estudian la prefactibilidad del Tren de Cercanías del Caribe para promover la movilidad",
+        "url": "https://www.larepublica.co/economia/gobierno-estudia-la-prefactibilidad-del-tren-de-cercanias-del-caribe-para-impulsar-la-movilidad-4535783",
+        "fecha_portada": "28/11/2026",
+        "titulo_fuente": "Prefactibilidad del Tren de Cercanías del Caribe en estudios para impulsar movilidad",
+        "capturado": "2026-11-28T04:30:24-05:00"
+      },
+      {
+        "titulo": "La entrada de remesas llegó a US$11.046 millones al cierre de octubre",
+        "url": "https://www.larepublica.co/economia/los-ingresos-por-remesas-alcanzaron-us-11-046-millones-con-corte-a-octubre-4535912",
+        "fecha_portada": "",
+        "titulo_fuente": "Los ingresos por las remesas alcanzaron US$11.046 millones con corte a octubre",
+        "capturado": "2026-11-28T04:30:24-05:00"
+      },
       {
         "titulo": "Centro Democrático plantea quitar el impuesto al patrimonio dentro de la Ley de Rescate",
         "url": "https://www.larepublica.co/economia/el-centro-democratico-propone-eliminar-el-impuesto-al-patrimonio-en-ley-de-rescate-4535373",
@@ -395,37 +423,23 @@
         "fecha_portada": "",
         "titulo_fuente": "PIB del país crecerá 2,1% en 2027, 0,5% menos que el año pasado, según la Ocde",
         "capturado": "2026-11-21T13:18:40-05:00"
-      },
-      {
-        "titulo": "El valor de minimis procedentes de plataformas como Temu se elevó 500% a partir de 2023",
-        "url": "https://www.larepublica.co/economia/valor-de-los-minimis-desde-plataformas-como-temu-crecio-500-desde-2023-4529736",
-        "fecha_portada": "21/11/2026",
-        "titulo_fuente": "Valor de los minimis desde plataformas como Temu ha crecido 500% desde 2023",
-        "capturado": "2026-11-21T13:18:40-05:00"
-      },
-      {
-        "titulo": "Colombia ocupa la cuarta posición regional con mayor número de personas en pobreza extrema",
-        "url": "https://www.larepublica.co/globoeconomia/colombia-es-el-cuarto-pais-de-la-region-con-mas-poblacion-en-pobreza-extrema-4529780",
-        "fecha_portada": "",
-        "titulo_fuente": "Colombia es el cuarto país de la región con más población en pobreza extrema",
-        "capturado": "2026-11-21T13:18:40-05:00"
-      },
-      {
-        "titulo": "El salario mínimo se debatirá con previsiones de inflación superiores al 7% al cierre del año",
-        "url": "https://www.larepublica.co/economia/minimo-se-discutira-con-proyecciones-de-inflacion-encima-de-7-a-fin-de-ano-4529762",
-        "fecha_portada": "",
-        "titulo_fuente": "Mínimo se discutirá con proyecciones de inflación encima de 7% a fin de año",
-        "capturado": "2026-11-21T13:18:40-05:00"
-      },
-      {
-        "titulo": "Faltando 10 días para empezar diciembre, los embalses se mantienen en 76,87% de su capacidad",
-        "url": "https://www.larepublica.co/economia/a-10-dias-de-iniciar-la-temporada-seca-los-embalses-estan-en-76-87-de-su-capacidad-4529345",
-        "fecha_portada": "20/11/2026",
-        "titulo_fuente": "A 10 días de iniciar diciembre, los embalses aún están en 76,87% de su capacidad",
-        "capturado": "2026-11-21T13:18:40-05:00"
       }
     ],
     "Bolsas": [
+      {
+        "titulo": "Cotización del dólar en $3.498,46 para el Black Weekend; incrementó $36 en la semana",
+        "url": "https://www.larepublica.co/finanzas/el-precio-del-dolar-esta-en-3-498-46-para-el-black-weekend-subio-36-en-la-semana-4535741",
+        "fecha_portada": "28/11/2026",
+        "titulo_fuente": "Precio del dólar en $3.498,46 para el Black Weekend; subió $36 en la semana",
+        "capturado": "2026-11-28T04:30:24-05:00"
+      },
+      {
+        "titulo": "Los títulos preferenciales de Davivienda Group y Corficolombiana encabezaron la bolsa",
+        "url": "https://www.larepublica.co/finanzas/indices-de-wall-street-suben-impulsados-por-acciones-de-la-inteligencia-artificial-4535337",
+        "fecha_portada": "",
+        "titulo_fuente": "Las acciones preferenciales de Davivienda Group y Corficolombiana lideraron en la bolsa",
+        "capturado": "2026-11-28T04:30:24-05:00"
+      },
       {
         "titulo": "Parex ingresará a la Bolsa de Colombia y ofrecerá otra opción para invertir en petróleo",
         "url": "https://www.larepublica.co/finanzas/parex-llegara-a-la-bolsa-de-colombia-y-abrira-nueva-alternativa-de-inversion-en-petroleo-4535416",
@@ -831,20 +845,6 @@
         "fecha_portada": "",
         "titulo_fuente": "Bitcoin cae por debajo de US$73.000 por crisis de Nvidia que afecta apetito al riesgo",
         "capturado": "2026-11-12T11:56:27-05:00"
-      },
-      {
-        "titulo": "El dólar finalizó a la baja en $3.295,68 con una diferencia de $1,39 respecto a la TRM del día",
-        "url": "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-11-de-noviembre-4522342",
-        "fecha_portada": "",
-        "titulo_fuente": "El dólar cerró a la baja en $3.295,68 con una diferencia de $1,39 frente a la TRM del día",
-        "capturado": "2026-11-11T13:46:08-05:00"
-      },
-      {
-        "titulo": "El oro sube luego de una fuerte baja, pero lo frenan los avisos restrictivos de la Fed",
-        "url": "https://www.larepublica.co/finanzas/el-oro-repunta-tras-fuerte-caida-pero-es-lastrado-por-las-senales-restrictivas-de-la-fed-4522558",
-        "fecha_portada": "11/11/2026",
-        "titulo_fuente": "El oro repunta tras fuerte caída, pero es lastrado por las señales restrictivas de la Fed",
-        "capturado": "2026-11-11T13:46:08-05:00"
       }
     ]
   }
